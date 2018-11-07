@@ -1,6 +1,6 @@
 # NASA-Acronyms
 
-This is a simple Chrome Extension that expands NASA acronyms.
+This is a browser add-on that expands over 20,000 NASA acronyms.
 
 Chrome: https://chrome.google.com/webstore/detail/nasa-acronyms/anpbkdhjbebjjkgdbglbcfaenjldbinf
 
