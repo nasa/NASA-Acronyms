@@ -1,0 +1,8082 @@
+[
+  {
+    "abbreviation": "21 CSLC",
+    "expansion": "21st Century Space Launch Complex� (aka. 21 CLC)"
+  },
+  {
+    "abbreviation": "21C",
+    "expansion": "21st Century [Space Launch Complex� (aka. 21 CLC)]"
+  },
+  {
+    "abbreviation": "21CGSP",
+    "expansion": "21st Century Ground Systems Program"
+  },
+  {
+    "abbreviation": "45 OG",
+    "expansion": "45th Space Wing Operations Group"
+  },
+  {
+    "abbreviation": "45 SW",
+    "expansion": "45 Space Wing"
+  },
+  {
+    "abbreviation": "A&A",
+    "expansion": "Advertise and Award"
+  },
+  {
+    "abbreviation": "A&E",
+    "expansion": "Architect and Engineer"
+  },
+  {
+    "abbreviation": "AA",
+    "expansion": "Ascent Abort"
+  },
+  {
+    "abbreviation": "ABFM",
+    "expansion": "Airborne Field Mill Experiment"
+  },
+  {
+    "abbreviation": "ABS",
+    "expansion": "Activity-Based Schedule"
+  },
+  {
+    "abbreviation": "ABS",
+    "expansion": "Air Bearing Pallet System"
+  },
+  {
+    "abbreviation": "AC",
+    "expansion": "Alternating Current"
+  },
+  {
+    "abbreviation": "ACA",
+    "expansion": "Associate Contractor Agreement"
+  },
+  {
+    "abbreviation": "ACAWS",
+    "expansion": "Advanced Caution and Warning System"
+  },
+  {
+    "abbreviation": "ACB",
+    "expansion": "Architecture Control Board"
+  },
+  {
+    "abbreviation": "ACD",
+    "expansion": "Assets Capabilities Document"
+  },
+  {
+    "abbreviation": "ACES",
+    "expansion": "Agency Consolidated End-User Services"
+  },
+  {
+    "abbreviation": "ACF",
+    "expansion": "Access Control Facility"
+  },
+  {
+    "abbreviation": "ACL",
+    "expansion": "Application Control Language"
+  },
+  {
+    "abbreviation": "ACM",
+    "expansion": "Access Control Monitor"
+  },
+  {
+    "abbreviation": "ACO",
+    "expansion": "Architectures and Concept of Operations"
+  },
+  {
+    "abbreviation": "ACS",
+    "expansion": "Automated Control System"
+  },
+  {
+    "abbreviation": "ACS",
+    "expansion": "Attitude Control System"
+  },
+  {
+    "abbreviation": "ACTD",
+    "expansion": "Alternating Current Terminal Distributer"
+  },
+  {
+    "abbreviation": "ACU",
+    "expansion": "Actuator Control Unit"
+  },
+  {
+    "abbreviation": "AD",
+    "expansion": "Anomaly Detection"
+  },
+  {
+    "abbreviation": "ADA",
+    "expansion": "activate data acquistion"
+  },
+  {
+    "abbreviation": "ADAB",
+    "expansion": "As-Designed vs As-Built"
+  },
+  {
+    "abbreviation": "ADD",
+    "expansion": "Architecture Description Document"
+  },
+  {
+    "abbreviation": "ADFS",
+    "expansion": "Active Directory Federation Services"
+  },
+  {
+    "abbreviation": "ADMS",
+    "expansion": "Automated Data Monitoring System"
+  },
+  {
+    "abbreviation": "ADP",
+    "expansion": "Acceptance Data Package"
+  },
+  {
+    "abbreviation": "ADS",
+    "expansion": "Application Development Set"
+  },
+  {
+    "abbreviation": "ADT",
+    "expansion": "Administrative Delay Time"
+  },
+  {
+    "abbreviation": "ADU",
+    "expansion": "Automatic Destruct Unit"
+  },
+  {
+    "abbreviation": "AEC",
+    "expansion": "AFT Exit Cone"
+  },
+  {
+    "abbreviation": "AEHF",
+    "expansion": "Advanced Extremely High Frequency (DoD)"
+  },
+  {
+    "abbreviation": "AES",
+    "expansion": "Advanced Explorations Systems"
+  },
+  {
+    "abbreviation": "AF",
+    "expansion": "Air Force"
+  },
+  {
+    "abbreviation": "AFB",
+    "expansion": "Air Force Base"
+  },
+  {
+    "abbreviation": "AFDS",
+    "expansion": "Air Force Directory Services"
+  },
+  {
+    "abbreviation": "AFnet",
+    "expansion": "Air Force Network"
+  },
+  {
+    "abbreviation": "AFNIC",
+    "expansion": "Air Force Network Integration Center"
+  },
+  {
+    "abbreviation": "AFNW",
+    "expansion": "Available For New Work"
+  },
+  {
+    "abbreviation": "AFRL",
+    "expansion": "Air Force Research Labs"
+  },
+  {
+    "abbreviation": "AFSPC",
+    "expansion": "Air Force Space Command"
+  },
+  {
+    "abbreviation": "AFSS",
+    "expansion": "Autonomous Flight Safety System"
+  },
+  {
+    "abbreviation": "AGSM",
+    "expansion": "Advanced Ground Systems Maintenance Element (EIT)"
+  },
+  {
+    "abbreviation": "AHJ",
+    "expansion": "Authority Having Jurisdiction"
+  },
+  {
+    "abbreviation": "AHU",
+    "expansion": "Air Handling Unit"
+  },
+  {
+    "abbreviation": "AI",
+    "expansion": "Area Integrator"
+  },
+  {
+    "abbreviation": "AI&P",
+    "expansion": "Assembly, Integration, and Production"
+  },
+  {
+    "abbreviation": "AI&T",
+    "expansion": "Assembly Integration and Testing"
+  },
+  {
+    "abbreviation": "AIAA",
+    "expansion": "American Institute of Aeronautics and Astronautics"
+  },
+  {
+    "abbreviation": "AIB",
+    "expansion": "Accident Investigation Board"
+  },
+  {
+    "abbreviation": "AID",
+    "expansion": "Architecture Interface Document"
+  },
+  {
+    "abbreviation": "AIM",
+    "expansion": "Architecture Integration and Management"
+  },
+  {
+    "abbreviation": "Ainh",
+    "expansion": "Inherent Launch Availability"
+  },
+  {
+    "abbreviation": "AIT",
+    "expansion": "Analysis and Integration Team"
+  },
+  {
+    "abbreviation": "AKGA",
+    "expansion": "Alpha-Keto Glutaric Acid"
+  },
+  {
+    "abbreviation": "ALCO",
+    "expansion": "American Locomotive Company"
+  },
+  {
+    "abbreviation": "ALDC",
+    "expansion": "Assistant Launch Director Console"
+  },
+  {
+    "abbreviation": "ALHAT",
+    "expansion": "Autonomous Landing and Hazard Avoidance Technology"
+  },
+  {
+    "abbreviation": "ALS",
+    "expansion": "Automated Launch Sequencer"
+  },
+  {
+    "abbreviation": "AM",
+    "expansion": "Ascent Module"
+  },
+  {
+    "abbreviation": "AMO",
+    "expansion": "Agency Management and Operations"
+  },
+  {
+    "abbreviation": "AMS",
+    "expansion": "Advanced Management Solutions"
+  },
+  {
+    "abbreviation": "ANSI",
+    "expansion": "American National Standards Institute"
+  },
+  {
+    "abbreviation": "AO",
+    "expansion": "Announcement of Opportunities"
+  },
+  {
+    "abbreviation": "Ao",
+    "expansion": "Operational Availability"
+  },
+  {
+    "abbreviation": "AoA",
+    "expansion": "Abort Once Around??"
+  },
+  {
+    "abbreviation": "AoA",
+    "expansion": "Analysis of Alternatives"
+  },
+  {
+    "abbreviation": "AOCP",
+    "expansion": "Architectures and Operations Control Panel"
+  },
+  {
+    "abbreviation": "APG",
+    "expansion": "Agency Priority Goals"
+  },
+  {
+    "abbreviation": "API",
+    "expansion": "Application Programming Interface"
+  },
+  {
+    "abbreviation": "APM",
+    "expansion": "Application Portfolio Management"
+  },
+  {
+    "abbreviation": "APMC",
+    "expansion": "Agency Program Management Council"
+  },
+  {
+    "abbreviation": "APS",
+    "expansion": "Avionics/Power/Software Office"
+  },
+  {
+    "abbreviation": "APT",
+    "expansion": "Auxiliary Pad Terminal"
+  },
+  {
+    "abbreviation": "APU",
+    "expansion": "Auxiliary Power Unit"
+  },
+  {
+    "abbreviation": "ARB",
+    "expansion": "Architectures Review Board"
+  },
+  {
+    "abbreviation": "ARC",
+    "expansion": "Ames Research Center"
+  },
+  {
+    "abbreviation": "ARC",
+    "expansion": "Architecture Refinement Cycle"
+  },
+  {
+    "abbreviation": "ARC",
+    "expansion": "Automated Recording Control"
+  },
+  {
+    "abbreviation": "ARF",
+    "expansion": "Assembly and Refurbishment Facility"
+  },
+  {
+    "abbreviation": "ARFMS",
+    "expansion": "Automated Real-Time Radio Frequency Monitoring System"
+  },
+  {
+    "abbreviation": "ARM",
+    "expansion": "Active Risk Manager"
+  },
+  {
+    "abbreviation": "ARMD",
+    "expansion": "Aeronautics Research Mission Directorate"
+  },
+  {
+    "abbreviation": "ASAP",
+    "expansion": "Agency (Aeronautics) Safety Assessment Panel"
+  },
+  {
+    "abbreviation": "ASCB",
+    "expansion": "Avionics Software Control Board"
+  },
+  {
+    "abbreviation": "ASEU",
+    "expansion": "Aft Skirt Electrical Umbilical"
+  },
+  {
+    "abbreviation": "ASF",
+    "expansion": "Application Services Framework"
+  },
+  {
+    "abbreviation": "ASM",
+    "expansion": "Acquisition Strategy Meeting"
+  },
+  {
+    "abbreviation": "ASME",
+    "expansion": "American Society of Mechanical Engineers"
+  },
+  {
+    "abbreviation": "ASPU",
+    "expansion": "Aft Skirt Pneumatic Umbilical"
+  },
+  {
+    "abbreviation": "ASQ",
+    "expansion": "American Society of Quality"
+  },
+  {
+    "abbreviation": "ASR",
+    "expansion": "Air Surveillance Radar"
+  },
+  {
+    "abbreviation": "ASRS",
+    "expansion": "Automated Support Requirements System"
+  },
+  {
+    "abbreviation": "ASTF",
+    "expansion": "Aft Skirt Test Facility"
+  },
+  {
+    "abbreviation": "ASU",
+    "expansion": "Aft Skirt Umbilical"
+  },
+  {
+    "abbreviation": "ASWT",
+    "expansion": "Application Software Working Team"
+  },
+  {
+    "abbreviation": "ATB",
+    "expansion": "Abort Test Booster"
+  },
+  {
+    "abbreviation": "ATC",
+    "expansion": "Air Traffic Control"
+  },
+  {
+    "abbreviation": "ATCS",
+    "expansion": "Active Thermal Control System"
+  },
+  {
+    "abbreviation": "ATE",
+    "expansion": "Automated Test Equipment"
+  },
+  {
+    "abbreviation": "ATLO",
+    "expansion": "Assembly, Test, and Launch Operations"
+  },
+  {
+    "abbreviation": "ATO",
+    "expansion": "Autorization to Operate"
+  },
+  {
+    "abbreviation": "ATOTS",
+    "expansion": "Advanced Transportable Optical Tracking System"
+  },
+  {
+    "abbreviation": "ATP",
+    "expansion": "Authorization/Authority to Proceed"
+  },
+  {
+    "abbreviation": "ATS",
+    "expansion": "Acoustic Test Stand"
+  },
+  {
+    "abbreviation": "AUATWG",
+    "expansion": "Analysis and Upgrade Assessment Technical Working Group"
+  },
+  {
+    "abbreviation": "AWT",
+    "expansion": "With Respect To"
+  },
+  {
+    "abbreviation": "B/L",
+    "expansion": "Baseline"
+  },
+  {
+    "abbreviation": "BACON",
+    "expansion": "Backwards Activity Chaser of Need"
+  },
+  {
+    "abbreviation": "BAH",
+    "expansion": "Booz Allen Hamilton"
+  },
+  {
+    "abbreviation": "BAIR",
+    "expansion": "Breathing Air"
+  },
+  {
+    "abbreviation": "BCDS",
+    "expansion": "Broadband Communications Distribution System"
+  },
+  {
+    "abbreviation": "BCI",
+    "expansion": "Baseline Configuration Imagery"
+  },
+  {
+    "abbreviation": "BCPDU",
+    "expansion": "Booster Control Power Distribution Unit"
+  },
+  {
+    "abbreviation": "BDA",
+    "expansion": "Blast Danger Area"
+  },
+  {
+    "abbreviation": "BDEALS",
+    "expansion": "Bilateral Data Exchange Agreements, Lists, and Schedules"
+  },
+  {
+    "abbreviation": "BDEALS",
+    "expansion": "Bi-lateral data exchange agreement list and schedules"
+  },
+  {
+    "abbreviation": "BEA",
+    "expansion": "Bilateral Exchange Agreement"
+  },
+  {
+    "abbreviation": "BEO",
+    "expansion": "Beyond Earth Orbit"
+  },
+  {
+    "abbreviation": "BET",
+    "expansion": "Business and Engineering Tool"
+  },
+  {
+    "abbreviation": "BFF",
+    "expansion": "Booster Fabrication Facility"
+  },
+  {
+    "abbreviation": "BHF",
+    "expansion": "BTA Handling Fixture"
+  },
+  {
+    "abbreviation": "BIT",
+    "expansion": "Built-In Test"
+  },
+  {
+    "abbreviation": "BITE",
+    "expansion": "Built In Test Equipment"
+  },
+  {
+    "abbreviation": "BIWG",
+    "expansion": "Budget Integration Working Group"
+  },
+  {
+    "abbreviation": "BMAR",
+    "expansion": "Backlog Maintenance and Repair"
+  },
+  {
+    "abbreviation": "BMRST",
+    "expansion": "Ballistic Missile Range Safety and Tracking"
+  },
+  {
+    "abbreviation": "BMSD",
+    "expansion": "Business Management System Documentation"
+  },
+  {
+    "abbreviation": "BMU",
+    "expansion": "Buss Monitoring Unit"
+  },
+  {
+    "abbreviation": "BOA",
+    "expansion": "Business Objectives Agreement"
+  },
+  {
+    "abbreviation": "BOE",
+    "expansion": "Basis of Estimate"
+  },
+  {
+    "abbreviation": "BPDCU",
+    "expansion": "Booster Power Distribution and Control Unit"
+  },
+  {
+    "abbreviation": "BPIT",
+    "expansion": "Booster Production Integration Team"
+  },
+  {
+    "abbreviation": "BPM",
+    "expansion": "Business Process Modeling"
+  },
+  {
+    "abbreviation": "BPR",
+    "expansion": "Baseline Performance Review"
+  },
+  {
+    "abbreviation": "BPU",
+    "expansion": "Buss Power Unit"
+  },
+  {
+    "abbreviation": "BPW",
+    "expansion": "Budget Planning Wizard"
+  },
+  {
+    "abbreviation": "BRRS",
+    "expansion": "Banana River Repeater Station (aka BRR)"
+  },
+  {
+    "abbreviation": "BSHEALS",
+    "expansion": "Bilateral Software Hardware Exchange Agreements, Lists, and Schedules"
+  },
+  {
+    "abbreviation": "BSM",
+    "expansion": "Booster Separation Motor"
+  },
+  {
+    "abbreviation": "BTA",
+    "expansion": "Boilerplate Test Article"
+  },
+  {
+    "abbreviation": "BU",
+    "expansion": "Battery Unit"
+  },
+  {
+    "abbreviation": "C&C",
+    "expansion": "Command and Control"
+  },
+  {
+    "abbreviation": "C&DH",
+    "expansion": "Command and Data Handling"
+  },
+  {
+    "abbreviation": "C&I",
+    "expansion": "Communications and Imagery"
+  },
+  {
+    "abbreviation": "C&T",
+    "expansion": "Communications and Tracking"
+  },
+  {
+    "abbreviation": "C1D2",
+    "expansion": "Class 1, Division 2"
+  },
+  {
+    "abbreviation": "C2",
+    "expansion": "Command and Control"
+  },
+  {
+    "abbreviation": "C3",
+    "expansion": "Command, Control, and Communications"
+  },
+  {
+    "abbreviation": "C3ES",
+    "expansion": "Custom Command and Control EGSE Subsystem"
+  },
+  {
+    "abbreviation": "C3I",
+    "expansion": "Command, Control, Communication and Information Interoperability"
+  },
+  {
+    "abbreviation": "C3PO",
+    "expansion": "Commercial Crew and Cargo Program Office"
+  },
+  {
+    "abbreviation": "C3R",
+    "expansion": "Command, Control, Communications, and Range (formerly RI&CS)"
+  },
+  {
+    "abbreviation": "CAA",
+    "expansion": "Crew Access Arm"
+  },
+  {
+    "abbreviation": "CAAS",
+    "expansion": "Contract Administration and Audit Services"
+  },
+  {
+    "abbreviation": "CAC",
+    "expansion": "Common Access Card"
+  },
+  {
+    "abbreviation": "CAD",
+    "expansion": "Computer-Aided Design"
+  },
+  {
+    "abbreviation": "CADRe",
+    "expansion": "Cost Analysis Data Requirement"
+  },
+  {
+    "abbreviation": "CAF",
+    "expansion": "Center Architectures Forum"
+  },
+  {
+    "abbreviation": "CAGE",
+    "expansion": "Commercial and Government Entity (database)"
+  },
+  {
+    "abbreviation": "CAIDA",
+    "expansion": "Customer Avionics Interface, Development, and Analysis"
+  },
+  {
+    "abbreviation": "CAIR",
+    "expansion": "Compressed Air"
+  },
+  {
+    "abbreviation": "CAIT",
+    "expansion": "Constellation Action Item Tracking"
+  },
+  {
+    "abbreviation": "CAIWG",
+    "expansion": "Center Architecture Integrated Working Group"
+  },
+  {
+    "abbreviation": "CAM",
+    "expansion": "Control Account Manager � a position @ HQ"
+  },
+  {
+    "abbreviation": "CAP",
+    "expansion": "Corrective Action Plan"
+  },
+  {
+    "abbreviation": "CAPPS",
+    "expansion": "Checkout, Assembly, and Payload Processing Services"
+  },
+  {
+    "abbreviation": "CAPU",
+    "expansion": "Core Auxiliary Power Unit"
+  },
+  {
+    "abbreviation": "CAPUC",
+    "expansion": "Core Auxiliary Power Unit Controller"
+  },
+  {
+    "abbreviation": "CAR",
+    "expansion": "Change Action Request"
+  },
+  {
+    "abbreviation": "CARS",
+    "expansion": "CUI Assessment Repository System"
+  },
+  {
+    "abbreviation": "CAS",
+    "expansion": "Cross-Agency Support"
+  },
+  {
+    "abbreviation": "CAUS",
+    "expansion": "LCC Arms and Umbilicals Engineer"
+  },
+  {
+    "abbreviation": "CB",
+    "expansion": "Control Board"
+  },
+  {
+    "abbreviation": "CBA",
+    "expansion": "Capabilities Based Assessment"
+  },
+  {
+    "abbreviation": "CBIT",
+    "expansion": "Commanded Built-In Test"
+  },
+  {
+    "abbreviation": "CBT",
+    "expansion": "Computer-Based Training"
+  },
+  {
+    "abbreviation": "CC",
+    "expansion": "Command and Control"
+  },
+  {
+    "abbreviation": "CCAFS",
+    "expansion": "Cape Canaveral Air Force Station"
+  },
+  {
+    "abbreviation": "CCB",
+    "expansion": "Configuration Control Board"
+  },
+  {
+    "abbreviation": "CCBD",
+    "expansion": "Configuration Control Board Directives"
+  },
+  {
+    "abbreviation": "CCC",
+    "expansion": "Complex Crew Center"
+  },
+  {
+    "abbreviation": "CCCE",
+    "expansion": "Command, Control, and Communications Element"
+  },
+  {
+    "abbreviation": "CCF",
+    "expansion": "Converter Compressor Facility"
+  },
+  {
+    "abbreviation": "CCM",
+    "expansion": "Communications Control Module"
+  },
+  {
+    "abbreviation": "CCP",
+    "expansion": "Capability/Competency Portfolio ???"
+  },
+  {
+    "abbreviation": "CCP",
+    "expansion": "Commercial Crew Program"
+  },
+  {
+    "abbreviation": "CCR",
+    "expansion": "Crew Consensus Report"
+  },
+  {
+    "abbreviation": "CCRS",
+    "expansion": "Central Command Remoting System"
+  },
+  {
+    "abbreviation": "CCS",
+    "expansion": "Camera Control System"
+  },
+  {
+    "abbreviation": "CCSDS",
+    "expansion": "Consultative Committee for Space Data Systems"
+  },
+  {
+    "abbreviation": "CCSE",
+    "expansion": "Combined Control System Electronics"
+  },
+  {
+    "abbreviation": "CCU",
+    "expansion": "Camera Control Unit"
+  },
+  {
+    "abbreviation": "CD",
+    "expansion": "Center Director"
+  },
+  {
+    "abbreviation": "CD&SC",
+    "expansion": "Communications, Distribution, and Switching Center"
+  },
+  {
+    "abbreviation": "CDDT",
+    "expansion": "Count Down Demonstration Testing"
+  },
+  {
+    "abbreviation": "CDF",
+    "expansion": "Cumulative Distribution Function"
+  },
+  {
+    "abbreviation": "CDG",
+    "expansion": "Countdown Generator"
+  },
+  {
+    "abbreviation": "CDL",
+    "expansion": "Controls Development Lab"
+  },
+  {
+    "abbreviation": "CDM",
+    "expansion": "Configuration and Data Management"
+  },
+  {
+    "abbreviation": "CDP",
+    "expansion": "Continuous Development Process"
+  },
+  {
+    "abbreviation": "CDP",
+    "expansion": "Contractor Data Package"
+  },
+  {
+    "abbreviation": "CDP",
+    "expansion": "Common Data Processor"
+  },
+  {
+    "abbreviation": "CDR",
+    "expansion": "Critical Design Review"
+  },
+  {
+    "abbreviation": "CDR",
+    "expansion": "Configuration Discrepancy Record"
+  },
+  {
+    "abbreviation": "CDT",
+    "expansion": "Countdown Time"
+  },
+  {
+    "abbreviation": "CDT",
+    "expansion": "Countdown Demonstration Test"
+  },
+  {
+    "abbreviation": "CE",
+    "expansion": "Change Evaluation"
+  },
+  {
+    "abbreviation": "CE",
+    "expansion": "Chief Engineer"
+  },
+  {
+    "abbreviation": "CECB",
+    "expansion": "Chief Engineer's Control Board"
+  },
+  {
+    "abbreviation": "CEMP",
+    "expansion": "Comprehensive Emergency Management Plan"
+  },
+  {
+    "abbreviation": "CERB",
+    "expansion": "Chief Engineer Review Board"
+  },
+  {
+    "abbreviation": "CEV",
+    "expansion": "Crew Exploration Vehicle"
+  },
+  {
+    "abbreviation": "CFD",
+    "expansion": "Computational Fluid Dynamics"
+  },
+  {
+    "abbreviation": "CFR",
+    "expansion": "Customer Facility Request"
+  },
+  {
+    "abbreviation": "CFR",
+    "expansion": "Code of Federal Regulations"
+  },
+  {
+    "abbreviation": "CG",
+    "expansion": "Center of Gravity"
+  },
+  {
+    "abbreviation": "CGLS",
+    "expansion": "Common Ground Launch System"
+  },
+  {
+    "abbreviation": "CHNHNHN2",
+    "expansion": "Monomethyl Hydrazine/MMH"
+  },
+  {
+    "abbreviation": "CI",
+    "expansion": "Configuration Item"
+  },
+  {
+    "abbreviation": "CIDL",
+    "expansion": "Configuration Item Data List"
+  },
+  {
+    "abbreviation": "CIF",
+    "expansion": "Central Instrumentation Facility"
+  },
+  {
+    "abbreviation": "CIL",
+    "expansion": "Critical Items List"
+  },
+  {
+    "abbreviation": "Cinetheo",
+    "expansion": "Cinetheodolite"
+  },
+  {
+    "abbreviation": "CIO",
+    "expansion": "Chief Information Officer"
+  },
+  {
+    "abbreviation": "CIPS",
+    "expansion": "Collaborative Integrated Processing Solutions"
+  },
+  {
+    "abbreviation": "CISS",
+    "expansion": "Cutoff Initial Safing Sequence"
+  },
+  {
+    "abbreviation": "CIT",
+    "expansion": "Closeout Integration Team"
+  },
+  {
+    "abbreviation": "CITS",
+    "expansion": "Central Integrated Test System"
+  },
+  {
+    "abbreviation": "CLIN",
+    "expansion": "Contract Line Item Number"
+  },
+  {
+    "abbreviation": "CLO",
+    "expansion": "Crewed Lunar Orbit"
+  },
+  {
+    "abbreviation": "CLSS",
+    "expansion": "Cryogenic Level Sensor System"
+  },
+  {
+    "abbreviation": "CLV",
+    "expansion": "Crew Launch Vehicle"
+  },
+  {
+    "abbreviation": "CM",
+    "expansion": "Crew Module"
+  },
+  {
+    "abbreviation": "CM",
+    "expansion": "Configuration Management"
+  },
+  {
+    "abbreviation": "CM&S",
+    "expansion": "Content Management and Storage"
+  },
+  {
+    "abbreviation": "CM/DM",
+    "expansion": "Configuration Management/Data Management"
+  },
+  {
+    "abbreviation": "CMASS",
+    "expansion": "Crew Module Ammonia Servicing Subsystem"
+  },
+  {
+    "abbreviation": "CMAT",
+    "expansion": "Configuration Management and Action Tracking"
+  },
+  {
+    "abbreviation": "CMB",
+    "expansion": "Crew Module Battery"
+  },
+  {
+    "abbreviation": "CMDS",
+    "expansion": "Configuration Management Data System"
+  },
+  {
+    "abbreviation": "CME",
+    "expansion": "Change Management Express"
+  },
+  {
+    "abbreviation": "CML",
+    "expansion": "Common Model Library"
+  },
+  {
+    "abbreviation": "CMMI",
+    "expansion": "Capability Maturity Model Integration"
+  },
+  {
+    "abbreviation": "CMO",
+    "expansion": "Center Management & Operations"
+  },
+  {
+    "abbreviation": "CMO",
+    "expansion": "Chief Medical Officer"
+  },
+  {
+    "abbreviation": "C-MPSR",
+    "expansion": "Comprehensive - Monthly Program Status Review"
+  },
+  {
+    "abbreviation": "CMR",
+    "expansion": "Center Management Review"
+  },
+  {
+    "abbreviation": "CMS",
+    "expansion": "Content Management System"
+  },
+  {
+    "abbreviation": "CMS",
+    "expansion": "Content Management and Storage"
+  },
+  {
+    "abbreviation": "CMTA",
+    "expansion": "Crew Module Test Article"
+  },
+  {
+    "abbreviation": "CMTF",
+    "expansion": "Crew Module Transportation Fixture"
+  },
+  {
+    "abbreviation": "CMUS",
+    "expansion": "Crew Module Uprighting System"
+  },
+  {
+    "abbreviation": "CMW",
+    "expansion": "Change Management Workflow"
+  },
+  {
+    "abbreviation": "CNRSW",
+    "expansion": "Command Navy Region Southwest"
+  },
+  {
+    "abbreviation": "CNT",
+    "expansion": "Communications, Navigation, and Tracking"
+  },
+  {
+    "abbreviation": "CO",
+    "expansion": "Contracting Officer"
+  },
+  {
+    "abbreviation": "CoF",
+    "expansion": "Construction of Facilities"
+  },
+  {
+    "abbreviation": "COF",
+    "expansion": "Central Operations Facility"
+  },
+  {
+    "abbreviation": "CoFR",
+    "expansion": "Certification of Flight Readiness"
+  },
+  {
+    "abbreviation": "COIL",
+    "expansion": "Current Opportunity and Issue List"
+  },
+  {
+    "abbreviation": "Comm",
+    "expansion": "Communications Systems Element (EIT)"
+  },
+  {
+    "abbreviation": "COMMSAT",
+    "expansion": "Communications Satellite"
+  },
+  {
+    "abbreviation": "ConCERT",
+    "expansion": "Constellation Community Electronic RID Tool"
+  },
+  {
+    "abbreviation": "ConOps",
+    "expansion": "Concept of Operations"
+  },
+  {
+    "abbreviation": "CoP",
+    "expansion": "Community of Practice"
+  },
+  {
+    "abbreviation": "COPV",
+    "expansion": "Composite Overwrapped Pressure Vessel"
+  },
+  {
+    "abbreviation": "COR",
+    "expansion": "Contracting Officer�s Representative"
+  },
+  {
+    "abbreviation": "COTR",
+    "expansion": "Contracting Officer�s Technical Representative"
+  },
+  {
+    "abbreviation": "COTS",
+    "expansion": "Commercial Orbital Transportation Services"
+  },
+  {
+    "abbreviation": "COTS",
+    "expansion": "Commercial-Off-The-Shelf"
+  },
+  {
+    "abbreviation": "CP",
+    "expansion": "Cross-Program"
+  },
+  {
+    "abbreviation": "CP OMS",
+    "expansion": "Cross-Program OMRS Management System"
+  },
+  {
+    "abbreviation": "CPA",
+    "expansion": "Change Partnering Agreement"
+  },
+  {
+    "abbreviation": "CPAF",
+    "expansion": "Cost Plus Award Fee"
+  },
+  {
+    "abbreviation": "CPARS",
+    "expansion": "Contractor Performance Assessment Reporting System"
+  },
+  {
+    "abbreviation": "CPDO",
+    "expansion": "Center Planning and Development Office"
+  },
+  {
+    "abbreviation": "CPE",
+    "expansion": "Change Package Engineer"
+  },
+  {
+    "abbreviation": "CPI",
+    "expansion": "Cross-Program Interdependency"
+  },
+  {
+    "abbreviation": "CPIA",
+    "expansion": "Chemical Propulsion Information Agency"
+  },
+  {
+    "abbreviation": "CPID",
+    "expansion": "Cross-Program Interdependency Database"
+  },
+  {
+    "abbreviation": "CPIT",
+    "expansion": "Cross-Program Integration Team"
+  },
+  {
+    "abbreviation": "CPLIP",
+    "expansion": "Cross-Program Logistics Integration Plan"
+  },
+  {
+    "abbreviation": "CPM",
+    "expansion": "Change Package Manager"
+  },
+  {
+    "abbreviation": "CPP",
+    "expansion": "CoFR Process Plan"
+  },
+  {
+    "abbreviation": "CPS",
+    "expansion": "Cryogenic Propulsion Stage"
+  },
+  {
+    "abbreviation": "cps",
+    "expansion": "changes per second"
+  },
+  {
+    "abbreviation": "CPU",
+    "expansion": "Cabin Purge Unit"
+  },
+  {
+    "abbreviation": "CPU",
+    "expansion": "Central Processing Unit"
+  },
+  {
+    "abbreviation": "CR",
+    "expansion": "Change Request"
+  },
+  {
+    "abbreviation": "CR/D",
+    "expansion": "Change Request/Directive"
+  },
+  {
+    "abbreviation": "CRAFT",
+    "expansion": "CM Recovery Attach Fitting Test"
+  },
+  {
+    "abbreviation": "C-RAST",
+    "expansion": "Constellation-Requirement Assessment Simulation Technique"
+  },
+  {
+    "abbreviation": "CRC",
+    "expansion": "Cyclical Redundancy Checks"
+  },
+  {
+    "abbreviation": "CRCA",
+    "expansion": "Components Refurbishment and Chemical Analysis"
+  },
+  {
+    "abbreviation": "CRD",
+    "expansion": "Command Receiver Decoder"
+  },
+  {
+    "abbreviation": "CRE",
+    "expansion": "Certified Reliability Engineer"
+  },
+  {
+    "abbreviation": "CREAM",
+    "expansion": "Cosmic-Ray Energetics and Mass"
+  },
+  {
+    "abbreviation": "CRF",
+    "expansion": "Canister Rotation Facility"
+  },
+  {
+    "abbreviation": "CRM",
+    "expansion": "Continuous Risk Management"
+  },
+  {
+    "abbreviation": "CRMWG",
+    "expansion": "Center Risk Management Working Group"
+  },
+  {
+    "abbreviation": "CRS",
+    "expansion": "Cargo Resupply Services"
+  },
+  {
+    "abbreviation": "CRS",
+    "expansion": "Command Remoting System"
+  },
+  {
+    "abbreviation": "CRS",
+    "expansion": "Commercial Resupply Services"
+  },
+  {
+    "abbreviation": "CRT",
+    "expansion": "Contingency Retrieval Team"
+  },
+  {
+    "abbreviation": "CRV",
+    "expansion": "Crew Return Vehicle"
+  },
+  {
+    "abbreviation": "CRVC",
+    "expansion": "Communications Requirements Validation Committee"
+  },
+  {
+    "abbreviation": "CRYOP",
+    "expansion": "Cryo Propulsion"
+  },
+  {
+    "abbreviation": "CS",
+    "expansion": "Core Stage"
+  },
+  {
+    "abbreviation": "CS",
+    "expansion": "Civil Servant"
+  },
+  {
+    "abbreviation": "CS",
+    "expansion": "COM System"
+  },
+  {
+    "abbreviation": "CS ETE",
+    "expansion": "Communications System End-to-End"
+  },
+  {
+    "abbreviation": "CSA",
+    "expansion": "Configuration Status Accounting"
+  },
+  {
+    "abbreviation": "CSAS",
+    "expansion": "Communication System Analysis and Studies"
+  },
+  {
+    "abbreviation": "CSC",
+    "expansion": "Custodial Services Contract"
+  },
+  {
+    "abbreviation": "CSC",
+    "expansion": "Central Command System Controller (console)"
+  },
+  {
+    "abbreviation": "CSCI",
+    "expansion": "Computer Software Configuration Item"
+  },
+  {
+    "abbreviation": "CSDR",
+    "expansion": "Cross-Program System Design Review"
+  },
+  {
+    "abbreviation": "CSE",
+    "expansion": "Core Stage Engine"
+  },
+  {
+    "abbreviation": "CSEC",
+    "expansion": "Core Stage Engine Controller"
+  },
+  {
+    "abbreviation": "CSERP",
+    "expansion": "Cx Safety and Engineering Review Board"
+  },
+  {
+    "abbreviation": "CSFSU",
+    "expansion": "Core Stage Forward Skirt Umbilical"
+  },
+  {
+    "abbreviation": "CSI",
+    "expansion": "Cross-Program Systems Integration"
+  },
+  {
+    "abbreviation": "CSIP",
+    "expansion": "Cross-Program Systems Integration Panel"
+  },
+  {
+    "abbreviation": "CSITU",
+    "expansion": "Core Stage Inter-Tank Umbilical"
+  },
+  {
+    "abbreviation": "CSLA",
+    "expansion": "Commercial Space Launch Act"
+  },
+  {
+    "abbreviation": "CSLC",
+    "expansion": "(21st) Century Space Launch Complex"
+  },
+  {
+    "abbreviation": "CSM",
+    "expansion": "Crew and Service Module"
+  },
+  {
+    "abbreviation": "CSM",
+    "expansion": "Common Services and Framework"
+  },
+  {
+    "abbreviation": "CSO",
+    "expansion": "Chief Safety Officer"
+  },
+  {
+    "abbreviation": "CSR",
+    "expansion": "Computer Systems Raytheon"
+  },
+  {
+    "abbreviation": "CT",
+    "expansion": "Crawler-Transporter"
+  },
+  {
+    "abbreviation": "CT",
+    "expansion": "Cost"
+  },
+  {
+    "abbreviation": "CTC",
+    "expansion": "Command and Telemetry Controller"
+  },
+  {
+    "abbreviation": "CTCE",
+    "expansion": "Center Technical Capabilities Elements"
+  },
+  {
+    "abbreviation": "CTD",
+    "expansion": "Contractor Test Conductor"
+  },
+  {
+    "abbreviation": "CTDM",
+    "expansion": "Configuration and Technical Data Management"
+  },
+  {
+    "abbreviation": "CTE",
+    "expansion": "Crawler-Transporter Element (EIT)"
+  },
+  {
+    "abbreviation": "CTMF",
+    "expansion": "Crawler-Transporter Maintenance Facility"
+  },
+  {
+    "abbreviation": "CTN",
+    "expansion": "Communications and Tracking Network"
+  },
+  {
+    "abbreviation": "CTOB",
+    "expansion": "Crew Time on Back"
+  },
+  {
+    "abbreviation": "CTRMES",
+    "expansion": "Command and Telemetry Representation and Metadata Exchange Standard"
+  },
+  {
+    "abbreviation": "CTS",
+    "expansion": "Command Termination System"
+  },
+  {
+    "abbreviation": "CTSC",
+    "expansion": "Constellation Technical Services Contract"
+  },
+  {
+    "abbreviation": "CTSM",
+    "expansion": "Command Termination System Modernization"
+  },
+  {
+    "abbreviation": "CTU",
+    "expansion": "Command Telemetry Unit"
+  },
+  {
+    "abbreviation": "CUI",
+    "expansion": "Controlled Unclassified Information"
+  },
+  {
+    "abbreviation": "CUI",
+    "expansion": "Character-Based User Interface"
+  },
+  {
+    "abbreviation": "CUI",
+    "expansion": "Compact unique Identifier"
+  },
+  {
+    "abbreviation": "CWDM",
+    "expansion": "Coarse Wave Division Multiplexing"
+  },
+  {
+    "abbreviation": "CWWG",
+    "expansion": "Center Warehouse Working Group"
+  },
+  {
+    "abbreviation": "Cx",
+    "expansion": "Constellation"
+  },
+  {
+    "abbreviation": "CxIRMA",
+    "expansion": "Constellation Integrated Risk Management Application"
+  },
+  {
+    "abbreviation": "CxP",
+    "expansion": "Constellation Program"
+  },
+  {
+    "abbreviation": "CY",
+    "expansion": "Calendar Year"
+  },
+  {
+    "abbreviation": "CYGNSS",
+    "expansion": "Cyclone Global Navigation Satellite System"
+  },
+  {
+    "abbreviation": "D&C",
+    "expansion": "Design and Construction"
+  },
+  {
+    "abbreviation": "D2S",
+    "expansion": "Design-to-Sync"
+  },
+  {
+    "abbreviation": "DA",
+    "expansion": "Decision Authority"
+  },
+  {
+    "abbreviation": "DA",
+    "expansion": "Development Activity (typically used when discussing Non-Conformances)"
+  },
+  {
+    "abbreviation": "DAC",
+    "expansion": "Design Analysis Cycle"
+  },
+  {
+    "abbreviation": "DACU",
+    "expansion": "Data Acquisition and Control Unit"
+  },
+  {
+    "abbreviation": "DAR",
+    "expansion": "Data at Rest"
+  },
+  {
+    "abbreviation": "DAR",
+    "expansion": "Data Analysis Report"
+  },
+  {
+    "abbreviation": "DART",
+    "expansion": "Damage Assessment Recovery Team"
+  },
+  {
+    "abbreviation": "DAS",
+    "expansion": "Data Acquisition System"
+  },
+  {
+    "abbreviation": "DAS",
+    "expansion": "Distributed Antenna System"
+  },
+  {
+    "abbreviation": "DAVIS",
+    "expansion": "Data Acquisition and Video Integrated System"
+  },
+  {
+    "abbreviation": "DAVIS",
+    "expansion": "Data Acquisition and Video Integrated System"
+  },
+  {
+    "abbreviation": "db",
+    "expansion": "Database"
+  },
+  {
+    "abbreviation": "db",
+    "expansion": "Decibel"
+  },
+  {
+    "abbreviation": "DB",
+    "expansion": "Design Burst"
+  },
+  {
+    "abbreviation": "DBA",
+    "expansion": "Detonation Booster Assembly"
+  },
+  {
+    "abbreviation": "DC",
+    "expansion": "Direct Current"
+  },
+  {
+    "abbreviation": "DCC",
+    "expansion": "Direct Current Cabinet"
+  },
+  {
+    "abbreviation": "DCF",
+    "expansion": "DEM Configuration File"
+  },
+  {
+    "abbreviation": "DCI",
+    "expansion": "Data Collection Instrument"
+  },
+  {
+    "abbreviation": "DCM",
+    "expansion": "Display Control Module"
+  },
+  {
+    "abbreviation": "DCMA",
+    "expansion": "Defense Contract Management Agency"
+  },
+  {
+    "abbreviation": "DCN",
+    "expansion": "Design Change Notice"
+  },
+  {
+    "abbreviation": "DCR",
+    "expansion": "Design Certification Review"
+  },
+  {
+    "abbreviation": "DCRB",
+    "expansion": "Design Certification Review Board"
+  },
+  {
+    "abbreviation": "DCS",
+    "expansion": "Decisional Coordination Sheet"
+  },
+  {
+    "abbreviation": "DCS",
+    "expansion": "Destination Control Statement"
+  },
+  {
+    "abbreviation": "DD",
+    "expansion": "Developmental Data"
+  },
+  {
+    "abbreviation": "DDE",
+    "expansion": "Desktop Development Environment"
+  },
+  {
+    "abbreviation": "DDMS",
+    "expansion": "Design Data Management System"
+  },
+  {
+    "abbreviation": "DDP",
+    "expansion": "Delivery Discrepancy Panel"
+  },
+  {
+    "abbreviation": "DDR",
+    "expansion": "Document and Data Review"
+  },
+  {
+    "abbreviation": "DDT&E",
+    "expansion": "Design, Development, Test, and Evaluation"
+  },
+  {
+    "abbreviation": "DDU",
+    "expansion": "Design Development Unit"
+  },
+  {
+    "abbreviation": "DDU",
+    "expansion": "Dynamic Demonstration Unit"
+  },
+  {
+    "abbreviation": "DEE",
+    "expansion": "Development External Enclave"
+  },
+  {
+    "abbreviation": "DEM",
+    "expansion": "Demo (Demonstration)"
+  },
+  {
+    "abbreviation": "DEM",
+    "expansion": "Data Exchange Message"
+  },
+  {
+    "abbreviation": "DES",
+    "expansion": "Discrete Event Simulation"
+  },
+  {
+    "abbreviation": "Det3",
+    "expansion": "Detachment 3, 45th Space Wing"
+  },
+  {
+    "abbreviation": "DFI",
+    "expansion": "Developmental Flight Instrumentation"
+  },
+  {
+    "abbreviation": "DFL",
+    "expansion": "Dry Film Lubricant"
+  },
+  {
+    "abbreviation": "DFRC",
+    "expansion": "Dryden Flight Research Center"
+  },
+  {
+    "abbreviation": "DFUM",
+    "expansion": "Division Facility Utilization Manager"
+  },
+  {
+    "abbreviation": "DGA",
+    "expansion": "Designated Governing Authority"
+  },
+  {
+    "abbreviation": "DI-ITT",
+    "expansion": "Data Integration - Integrated Task Team"
+  },
+  {
+    "abbreviation": "DIP",
+    "expansion": "Designated Inspection Point"
+  },
+  {
+    "abbreviation": "DIRT",
+    "expansion": "Dynamic Integrated Rollout Testing"
+  },
+  {
+    "abbreviation": "DISA",
+    "expansion": "Defense Information Systems Agency"
+  },
+  {
+    "abbreviation": "DM",
+    "expansion": "Data Management"
+  },
+  {
+    "abbreviation": "DM",
+    "expansion": "Descent Module"
+  },
+  {
+    "abbreviation": "DMBOK",
+    "expansion": "Data Management Body of Knowledge"
+  },
+  {
+    "abbreviation": "DMS",
+    "expansion": "Database Management System"
+  },
+  {
+    "abbreviation": "DMSMS",
+    "expansion": "Diminishing Manufacturing Sources and Material Shortages"
+  },
+  {
+    "abbreviation": "DOAMS",
+    "expansion": "Distant Object Attitude Measurement System"
+  },
+  {
+    "abbreviation": "DOC",
+    "expansion": "Delta Operations Center"
+  },
+  {
+    "abbreviation": "DoD",
+    "expansion": "Department of Defense"
+  },
+  {
+    "abbreviation": "DoDAF",
+    "expansion": "Department of Defense Architecture Framework"
+  },
+  {
+    "abbreviation": "DoD-H",
+    "expansion": "Department of Defense Houston"
+  },
+  {
+    "abbreviation": "DOL",
+    "expansion": "Day of Launch"
+  },
+  {
+    "abbreviation": "DOLILU",
+    "expansion": "Day of Launch I-Load Updates"
+  },
+  {
+    "abbreviation": "DOORS",
+    "expansion": "Dynamic Object-Oriented Requirements System"
+  },
+  {
+    "abbreviation": "DOT",
+    "expansion": "Department of Transportation"
+  },
+  {
+    "abbreviation": "DOT-SP",
+    "expansion": "Department of Transportation Special Permit"
+  },
+  {
+    "abbreviation": "DP",
+    "expansion": "Decision Package"
+  },
+  {
+    "abbreviation": "DPI",
+    "expansion": "Data Pack Index"
+  },
+  {
+    "abbreviation": "DPM",
+    "expansion": "Deputy Project Manager"
+  },
+  {
+    "abbreviation": "DPMC",
+    "expansion": "Directorate Program Management Council"
+  },
+  {
+    "abbreviation": "DPS",
+    "expansion": "Data Processing System"
+  },
+  {
+    "abbreviation": "DQA",
+    "expansion": "Documentation Quality Assurance"
+  },
+  {
+    "abbreviation": "DR",
+    "expansion": "Decommissioning Review"
+  },
+  {
+    "abbreviation": "DRB",
+    "expansion": "Director's Review Board"
+  },
+  {
+    "abbreviation": "DRD",
+    "expansion": "Data Requirements Description"
+  },
+  {
+    "abbreviation": "DRL",
+    "expansion": "Data Requirements List"
+  },
+  {
+    "abbreviation": "DRM",
+    "expansion": "Design Reference Mission"
+  },
+  {
+    "abbreviation": "DRR",
+    "expansion": "Disposal Readiness Review"
+  },
+  {
+    "abbreviation": "DRT",
+    "expansion": "Dynamic Rollout Test"
+  },
+  {
+    "abbreviation": "DRWP",
+    "expansion": "Doppler Radar Wind Profiler"
+  },
+  {
+    "abbreviation": "DSF",
+    "expansion": "Display Services and Framework"
+  },
+  {
+    "abbreviation": "DSG&T",
+    "expansion": "Deep Space Gateway & Transport"
+  },
+  {
+    "abbreviation": "DSH",
+    "expansion": "Deep Space Habitat"
+  },
+  {
+    "abbreviation": "DSN",
+    "expansion": "Deep Space Network"
+  },
+  {
+    "abbreviation": "DSNE",
+    "expansion": "Design Specification for Natural Environments"
+  },
+  {
+    "abbreviation": "DSOC",
+    "expansion": "Deep Space Operations Center"
+  },
+  {
+    "abbreviation": "DSS",
+    "expansion": "Decision Support System"
+  },
+  {
+    "abbreviation": "DTI",
+    "expansion": "Desk Top Instruction"
+  },
+  {
+    "abbreviation": "DTS",
+    "expansion": "Development Test Site"
+  },
+  {
+    "abbreviation": "DUUS",
+    "expansion": "Dual-Use Upper Stage"
+  },
+  {
+    "abbreviation": "DVaO",
+    "expansion": "Detailed Validation Objective"
+  },
+  {
+    "abbreviation": "DVM",
+    "expansion": "Design Verification Matrix"
+  },
+  {
+    "abbreviation": "DVO",
+    "expansion": "Detailed Verification Objective"
+  },
+  {
+    "abbreviation": "DVTS",
+    "expansion": "Digital Video Transmission System"
+  },
+  {
+    "abbreviation": "DW",
+    "expansion": "Deviation Waiver"
+  },
+  {
+    "abbreviation": "E&I",
+    "expansion": "Engineering and Integration"
+  },
+  {
+    "abbreviation": "E2E",
+    "expansion": "End-to-End"
+  },
+  {
+    "abbreviation": "E2E-C2",
+    "expansion": "End-to-End Command and Control (EIT)"
+  },
+  {
+    "abbreviation": "E2E-C3",
+    "expansion": "End-to-End Command, Control, and Communication"
+  },
+  {
+    "abbreviation": "E2ECC",
+    "expansion": "End-to-End Command and Control"
+  },
+  {
+    "abbreviation": "E3",
+    "expansion": "Electromagnetic Environmental Effects"
+  },
+  {
+    "abbreviation": "EA",
+    "expansion": "Enterprise Architecture"
+  },
+  {
+    "abbreviation": "EA",
+    "expansion": "Enterprise Architect"
+  },
+  {
+    "abbreviation": "EAAU",
+    "expansion": "EUS Aft Adapter Umbilical"
+  },
+  {
+    "abbreviation": "EAR",
+    "expansion": "Element Acceptance Review"
+  },
+  {
+    "abbreviation": "EAR",
+    "expansion": "Export Administration Regulations"
+  },
+  {
+    "abbreviation": "EAST",
+    "expansion": "Enterprise Applications Service Technologies"
+  },
+  {
+    "abbreviation": "ECHI",
+    "expansion": "Early Career Hire Initiative"
+  },
+  {
+    "abbreviation": "ECIF",
+    "expansion": "Exploration Collaborative Industry Forum"
+  },
+  {
+    "abbreviation": "ECLSS",
+    "expansion": "Environmental Control and Life Support System"
+  },
+  {
+    "abbreviation": "ECMS",
+    "expansion": "Enterprise Content Management System"
+  },
+  {
+    "abbreviation": "ECO",
+    "expansion": "Engineering Change Order"
+  },
+  {
+    "abbreviation": "ECO",
+    "expansion": "Export Control Officer"
+  },
+  {
+    "abbreviation": "eCoFR",
+    "expansion": "Electornic Certification of Flight Readiness"
+  },
+  {
+    "abbreviation": "ECP",
+    "expansion": "Element Control Panel"
+  },
+  {
+    "abbreviation": "ECP",
+    "expansion": "Engine Change-out Platform"
+  },
+  {
+    "abbreviation": "ECS",
+    "expansion": "Environmental Control Subsystem"
+  },
+  {
+    "abbreviation": "ED",
+    "expansion": "Engineering Data"
+  },
+  {
+    "abbreviation": "EDB",
+    "expansion": "ESD Daily Board"
+  },
+  {
+    "abbreviation": "EDC",
+    "expansion": "Engineering Document Center"
+  },
+  {
+    "abbreviation": "EDEIT",
+    "expansion": "External Dependency - EIT"
+  },
+  {
+    "abbreviation": "EDL",
+    "expansion": "Engineering Development Laboratory"
+  },
+  {
+    "abbreviation": "EDP",
+    "expansion": "External Dependency - Program"
+  },
+  {
+    "abbreviation": "EDPM",
+    "expansion": "Element Deputy Project Manager"
+  },
+  {
+    "abbreviation": "EDT",
+    "expansion": "Engineering Drawing Tree"
+  },
+  {
+    "abbreviation": "EDU",
+    "expansion": "Engineering Development Unit"
+  },
+  {
+    "abbreviation": "EEE",
+    "expansion": "Electrical, Electronic, and Electromechanical"
+  },
+  {
+    "abbreviation": "EEID",
+    "expansion": "External Enclave Identifier"
+  },
+  {
+    "abbreviation": "EELV",
+    "expansion": "Evolved Expendable Launch Vehicle"
+  },
+  {
+    "abbreviation": "EES",
+    "expansion": "Emergency Egress System"
+  },
+  {
+    "abbreviation": "EFAU",
+    "expansion": "EUS Forward Adapter Umbilical"
+  },
+  {
+    "abbreviation": "EFI",
+    "expansion": "Engineering Flight Instrumentation"
+  },
+  {
+    "abbreviation": "EFT",
+    "expansion": "Early Flight Test"
+  },
+  {
+    "abbreviation": "EFT",
+    "expansion": "Exploration Flight Test"
+  },
+  {
+    "abbreviation": "EFT-1",
+    "expansion": "Exploration Flight Test 1"
+  },
+  {
+    "abbreviation": "EFTS",
+    "expansion": "Enhanced Flight Termination System"
+  },
+  {
+    "abbreviation": "EGLS",
+    "expansion": "Exploration Ground and Launch Services"
+  },
+  {
+    "abbreviation": "EGS",
+    "expansion": "Exploration Ground Systems"
+  },
+  {
+    "abbreviation": "EGSE",
+    "expansion": "Electrical Ground Support Equipment"
+  },
+  {
+    "abbreviation": "EHM",
+    "expansion": "Equipment Health Monitor"
+  },
+  {
+    "abbreviation": "EI",
+    "expansion": "Environmental and Infrastructure"
+  },
+  {
+    "abbreviation": "EIC",
+    "expansion": "End Item Component"
+  },
+  {
+    "abbreviation": "EIE",
+    "expansion": "Environmental and Infrastructure Engineering"
+  },
+  {
+    "abbreviation": "EIRB",
+    "expansion": "Engineering Integrated Review Board"
+  },
+  {
+    "abbreviation": "EIS",
+    "expansion": "Exploration Information System"
+  },
+  {
+    "abbreviation": "EIT",
+    "expansion": "Element Integration Team"
+  },
+  {
+    "abbreviation": "ELC",
+    "expansion": "Express Logistics Carrier"
+  },
+  {
+    "abbreviation": "ELIN",
+    "expansion": "Electrical Installation"
+  },
+  {
+    "abbreviation": "ELSA",
+    "expansion": "Emergency Life Support Apparatus"
+  },
+  {
+    "abbreviation": "ELV",
+    "expansion": "Expendable Launch Vehicle"
+  },
+  {
+    "abbreviation": "ELVIS",
+    "expansion": "Expendable Launch Vehicle Integrated Support"
+  },
+  {
+    "abbreviation": "EM",
+    "expansion": "Electromagnetic"
+  },
+  {
+    "abbreviation": "EM",
+    "expansion": "Exploration Mission"
+  },
+  {
+    "abbreviation": "EM-1",
+    "expansion": "Exploration Mission 1"
+  },
+  {
+    "abbreviation": "EM-2",
+    "expansion": "Exploration Mission 2"
+  },
+  {
+    "abbreviation": "EMC",
+    "expansion": "Electromagnetic Compatibility"
+  },
+  {
+    "abbreviation": "EMC",
+    "expansion": "Emergency Management Coordinator"
+  },
+  {
+    "abbreviation": "EME",
+    "expansion": "Electromagnetic Environment"
+  },
+  {
+    "abbreviation": "EMI",
+    "expansion": "Electromagnetic Interference"
+  },
+  {
+    "abbreviation": "EML",
+    "expansion": "Electromagnetic Lab"
+  },
+  {
+    "abbreviation": "EMR",
+    "expansion": "Element Management Review"
+  },
+  {
+    "abbreviation": "EMS",
+    "expansion": "Emergency Medical Services"
+  },
+  {
+    "abbreviation": "EMSF",
+    "expansion": "Emergency Safing"
+  },
+  {
+    "abbreviation": "EO",
+    "expansion": "Engineering Order"
+  },
+  {
+    "abbreviation": "EOC",
+    "expansion": "Emergency Operations Center"
+  },
+  {
+    "abbreviation": "EOC",
+    "expansion": "Early Operational Capabilities"
+  },
+  {
+    "abbreviation": "EOCY",
+    "expansion": "End of Calendar Year"
+  },
+  {
+    "abbreviation": "EOM",
+    "expansion": "End Of Mission"
+  },
+  {
+    "abbreviation": "EOM",
+    "expansion": "Element Operations Manager"
+  },
+  {
+    "abbreviation": "EOT",
+    "expansion": "Element Orion Testing"
+  },
+  {
+    "abbreviation": "EOTF",
+    "expansion": "Engineering Order To Follow"
+  },
+  {
+    "abbreviation": "EOY",
+    "expansion": "End of Year"
+  },
+  {
+    "abbreviation": "EPACS",
+    "expansion": "Enterprise Physical Access Control System"
+  },
+  {
+    "abbreviation": "EPD",
+    "expansion": "Emergency Procedures Document"
+  },
+  {
+    "abbreviation": "EPF",
+    "expansion": "Eastern Processing Facility"
+  },
+  {
+    "abbreviation": "EPM",
+    "expansion": "Element Project Manager"
+  },
+  {
+    "abbreviation": "EPO",
+    "expansion": "Educational Public Outreach"
+  },
+  {
+    "abbreviation": "EPRD",
+    "expansion": "Electronic Parts Reliability Database"
+  },
+  {
+    "abbreviation": "EPS",
+    "expansion": "Electrical Power System"
+  },
+  {
+    "abbreviation": "EPT",
+    "expansion": "Engineering Process Team"
+  },
+  {
+    "abbreviation": "ER",
+    "expansion": "Eastern Range"
+  },
+  {
+    "abbreviation": "ER DT",
+    "expansion": "Eastern Range Down Time"
+  },
+  {
+    "abbreviation": "ERB",
+    "expansion": "Engineering Review Board"
+  },
+  {
+    "abbreviation": "ERD",
+    "expansion": "Elements Requirements Document"
+  },
+  {
+    "abbreviation": "ERDAS",
+    "expansion": "Eastern Range Dispersion Assessment System"
+  },
+  {
+    "abbreviation": "ERIC",
+    "expansion": "Exploration Requirements for Institutional Capabilities"
+  },
+  {
+    "abbreviation": "ES",
+    "expansion": "Engine Section"
+  },
+  {
+    "abbreviation": "ESA",
+    "expansion": "European Space Agency"
+  },
+  {
+    "abbreviation": "ESC",
+    "expansion": "Engineering Services Contract"
+  },
+  {
+    "abbreviation": "ESC",
+    "expansion": "Engineering Services Contract"
+  },
+  {
+    "abbreviation": "ESD",
+    "expansion": "Exploration Systems Development/Directorate/Division"
+  },
+  {
+    "abbreviation": "ESD",
+    "expansion": "Enterprise Service Desk"
+  },
+  {
+    "abbreviation": "ESD",
+    "expansion": "Electrostatic Discharge"
+  },
+  {
+    "abbreviation": "ESDIS",
+    "expansion": "Earth Science Data and Information System"
+  },
+  {
+    "abbreviation": "ESERB",
+    "expansion": "ESD Safety & Engineering Review Board"
+  },
+  {
+    "abbreviation": "ESG-3",
+    "expansion": "Expeditionary Strike Group 3"
+  },
+  {
+    "abbreviation": "ESI",
+    "expansion": "Exploration Systems Integration"
+  },
+  {
+    "abbreviation": "ESIS",
+    "expansion": "Exploration Systems Integrated Schedule"
+  },
+  {
+    "abbreviation": "ESM",
+    "expansion": "European Service Module"
+  },
+  {
+    "abbreviation": "ESMAP",
+    "expansion": "ESD Safety & Mission Assurance Panel"
+  },
+  {
+    "abbreviation": "ESMD",
+    "expansion": "Exploration Systems Mission Directorate"
+  },
+  {
+    "abbreviation": "ESO",
+    "expansion": "ESDIS Standards Office"
+  },
+  {
+    "abbreviation": "ESP",
+    "expansion": "Engine Service Platform"
+  },
+  {
+    "abbreviation": "ESR",
+    "expansion": "Engineering Support Room"
+  },
+  {
+    "abbreviation": "ESS",
+    "expansion": "Electronic Surveillance System"
+  },
+  {
+    "abbreviation": "ET",
+    "expansion": "External Tank"
+  },
+  {
+    "abbreviation": "ETDP",
+    "expansion": "Exploration Technology Development Program"
+  },
+  {
+    "abbreviation": "ETI",
+    "expansion": "Element Technical Integrator"
+  },
+  {
+    "abbreviation": "ETID",
+    "expansion": "External Test Configuration Identifier"
+  },
+  {
+    "abbreviation": "ETL",
+    "expansion": "Explosive Transfer Line"
+  },
+  {
+    "abbreviation": "ETXS",
+    "expansion": "Ethernet Transmission System"
+  },
+  {
+    "abbreviation": "EUS",
+    "expansion": "Exploration Upper Stage"
+  },
+  {
+    "abbreviation": "EUSAAU",
+    "expansion": "Exploration Upper Stage Aft Adapter Umbilical"
+  },
+  {
+    "abbreviation": "EUSFAU",
+    "expansion": "Exploration Upper Stage Forward Adapter Umbilical"
+  },
+  {
+    "abbreviation": "EUSU",
+    "expansion": "Exploration Upper Stage Umbilical"
+  },
+  {
+    "abbreviation": "EV",
+    "expansion": "Earned Value"
+  },
+  {
+    "abbreviation": "EVA",
+    "expansion": "Extravehicular Activity"
+  },
+  {
+    "abbreviation": "EVI",
+    "expansion": "Engine Vertical Installer"
+  },
+  {
+    "abbreviation": "EVM",
+    "expansion": "Earned Value Management"
+  },
+  {
+    "abbreviation": "EVMS",
+    "expansion": "Earned Value Management System"
+  },
+  {
+    "abbreviation": "EVS",
+    "expansion": "Extended Voice"
+  },
+  {
+    "abbreviation": "EWW",
+    "expansion": "Extended Work Week"
+  },
+  {
+    "abbreviation": "EXORD",
+    "expansion": "Executive Order"
+  },
+  {
+    "abbreviation": "F2F",
+    "expansion": "Face-to-Face"
+  },
+  {
+    "abbreviation": "FA",
+    "expansion": "Functional Analysis"
+  },
+  {
+    "abbreviation": "FAD",
+    "expansion": "Formulation Authorization Document"
+  },
+  {
+    "abbreviation": "FAQ",
+    "expansion": "Frequently Asked Question"
+  },
+  {
+    "abbreviation": "FAR",
+    "expansion": "Federal Acquisition Regulation"
+  },
+  {
+    "abbreviation": "FAST",
+    "expansion": "Final Assembly Test"
+  },
+  {
+    "abbreviation": "FAT",
+    "expansion": "Factory Acceptance Test"
+  },
+  {
+    "abbreviation": "FBAIR",
+    "expansion": "Facility Breathing Air"
+  },
+  {
+    "abbreviation": "FBC",
+    "expansion": "Forward Bay Cover"
+  },
+  {
+    "abbreviation": "FC",
+    "expansion": "Flight Computer"
+  },
+  {
+    "abbreviation": "FCA",
+    "expansion": "Functional Configuration Audit"
+  },
+  {
+    "abbreviation": "FCA",
+    "expansion": "Flow Control Assembly"
+  },
+  {
+    "abbreviation": "FCM",
+    "expansion": "Flight Control Module"
+  },
+  {
+    "abbreviation": "FCOD",
+    "expansion": "Flight Crew Operations Directorate"
+  },
+  {
+    "abbreviation": "FCOG",
+    "expansion": "Flight Computer Operating Group"
+  },
+  {
+    "abbreviation": "FCS",
+    "expansion": "Flight Control Subsystem"
+  },
+  {
+    "abbreviation": "FD",
+    "expansion": "Flame Deflector"
+  },
+  {
+    "abbreviation": "FDIR",
+    "expansion": "Fault Detection, Isolation, and Recovery"
+  },
+  {
+    "abbreviation": "FDMM",
+    "expansion": "Fault Management Design Data"
+  },
+  {
+    "abbreviation": "FDS",
+    "expansion": "Fire Detection System"
+  },
+  {
+    "abbreviation": "FEC",
+    "expansion": "Florida East Coast Railroad"
+  },
+  {
+    "abbreviation": "FEC",
+    "expansion": "Field Engineering Change"
+  },
+  {
+    "abbreviation": "FED",
+    "expansion": "Facilities Engineering Division"
+  },
+  {
+    "abbreviation": "FEIT",
+    "expansion": "Flight Element Integration Test"
+  },
+  {
+    "abbreviation": "FEM",
+    "expansion": "Finite Element Model"
+  },
+  {
+    "abbreviation": "FEU",
+    "expansion": "Flight Equivalent Unit"
+  },
+  {
+    "abbreviation": "FF",
+    "expansion": "Flight Following"
+  },
+  {
+    "abbreviation": "FFP",
+    "expansion": "Firm Fixed Price"
+  },
+  {
+    "abbreviation": "FFSS",
+    "expansion": "Future Flight Safety Strategy"
+  },
+  {
+    "abbreviation": "FGHe",
+    "expansion": "Facility Gaseous Helium"
+  },
+  {
+    "abbreviation": "FGN2",
+    "expansion": "Facility Gaseous Nitrogen"
+  },
+  {
+    "abbreviation": "FIC",
+    "expansion": "Firing Initiator Circuit (see also IFC)"
+  },
+  {
+    "abbreviation": "FID",
+    "expansion": "Functional Interface Document"
+  },
+  {
+    "abbreviation": "FID",
+    "expansion": "Facility Interface Document"
+  },
+  {
+    "abbreviation": "FIE",
+    "expansion": "Flight Integration Engineer"
+  },
+  {
+    "abbreviation": "FIT",
+    "expansion": "Florida Institute of Technology"
+  },
+  {
+    "abbreviation": "FIU",
+    "expansion": "Florida International University"
+  },
+  {
+    "abbreviation": "FJPS",
+    "expansion": "Field Joint Protection System"
+  },
+  {
+    "abbreviation": "FLC",
+    "expansion": "Flexible Launch Complex"
+  },
+  {
+    "abbreviation": "FLDS",
+    "expansion": "Fire Leak Detection Subsystem"
+  },
+  {
+    "abbreviation": "FLM",
+    "expansion": "Flow Manager"
+  },
+  {
+    "abbreviation": "FLR",
+    "expansion": "Florida Launch and Range Complex"
+  },
+  {
+    "abbreviation": "Flt",
+    "expansion": "Flight"
+  },
+  {
+    "abbreviation": "FMB",
+    "expansion": "Facility Management Board"
+  },
+  {
+    "abbreviation": "FMEA",
+    "expansion": "Failure Mode and Effects Analysis"
+  },
+  {
+    "abbreviation": "FN",
+    "expansion": "Find Number"
+  },
+  {
+    "abbreviation": "FOC",
+    "expansion": "Functional Operational Capability"
+  },
+  {
+    "abbreviation": "FOD",
+    "expansion": "Foreign Object Debris"
+  },
+  {
+    "abbreviation": "FOD",
+    "expansion": "Flight Operations Directorate"
+  },
+  {
+    "abbreviation": "FoM",
+    "expansion": "Figure of Merit"
+  },
+  {
+    "abbreviation": "FOTL",
+    "expansion": "Field Ordnance and Test Facility"
+  },
+  {
+    "abbreviation": "FP&D",
+    "expansion": "Facility Planning and Design"
+  },
+  {
+    "abbreviation": "FPB",
+    "expansion": "Flight Planning Board"
+  },
+  {
+    "abbreviation": "FPB",
+    "expansion": "Facility Program Board"
+  },
+  {
+    "abbreviation": "FPC",
+    "expansion": "Fixed Price Contractor"
+  },
+  {
+    "abbreviation": "FR",
+    "expansion": "Firing Room"
+  },
+  {
+    "abbreviation": "FR-1",
+    "expansion": "Firing Room 1"
+  },
+  {
+    "abbreviation": "FR-2",
+    "expansion": "Firing Room 2"
+  },
+  {
+    "abbreviation": "FR-3",
+    "expansion": "Firing Room 3"
+  },
+  {
+    "abbreviation": "FR-4",
+    "expansion": "Firing Room 4"
+  },
+  {
+    "abbreviation": "FRACAS",
+    "expansion": "Failure Reporting, Analysis, and Corrective Action System"
+  },
+  {
+    "abbreviation": "FRCB",
+    "expansion": "Flight Rules Control Board"
+  },
+  {
+    "abbreviation": "FRD",
+    "expansion": "Facility Relationship Drawing"
+  },
+  {
+    "abbreviation": "FRF",
+    "expansion": "Flight Readiness Firing"
+  },
+  {
+    "abbreviation": "FRR",
+    "expansion": "Flight Readiness Review"
+  },
+  {
+    "abbreviation": "FRR",
+    "expansion": "Facility Readiness Review"
+  },
+  {
+    "abbreviation": "FRT",
+    "expansion": "Flight Readiness Test"
+  },
+  {
+    "abbreviation": "FR-X-R",
+    "expansion": "Firing Room �X� Redundant Set"
+  },
+  {
+    "abbreviation": "FS",
+    "expansion": "First Stage"
+  },
+  {
+    "abbreviation": "FS&OI",
+    "expansion": "Flight Systems and Operations Integration"
+  },
+  {
+    "abbreviation": "FSD",
+    "expansion": "Future State Definition"
+  },
+  {
+    "abbreviation": "FSEU",
+    "expansion": "Facility Systems Equipment and Utilities"
+  },
+  {
+    "abbreviation": "FSO",
+    "expansion": "Free Space Optical"
+  },
+  {
+    "abbreviation": "FSP",
+    "expansion": "Fuel Service Panel"
+  },
+  {
+    "abbreviation": "FSS",
+    "expansion": "Flight Safety Systems"
+  },
+  {
+    "abbreviation": "FSS",
+    "expansion": "Fire Suppression System"
+  },
+  {
+    "abbreviation": "FSSWG",
+    "expansion": "Flight Safety Systems Working Group"
+  },
+  {
+    "abbreviation": "FSW",
+    "expansion": "Flight Software"
+  },
+  {
+    "abbreviation": "FT",
+    "expansion": "Flight Test"
+  },
+  {
+    "abbreviation": "ft.",
+    "expansion": "feet"
+  },
+  {
+    "abbreviation": "FTA",
+    "expansion": "Flight Test Article"
+  },
+  {
+    "abbreviation": "FTE",
+    "expansion": "Full Time Equivalent (ex., a civil servant employee)"
+  },
+  {
+    "abbreviation": "FTMO",
+    "expansion": "Flight Test Management Office"
+  },
+  {
+    "abbreviation": "FTMO",
+    "expansion": "Flight Test Management Office"
+  },
+  {
+    "abbreviation": "FTP",
+    "expansion": "File Transfer Protocol"
+  },
+  {
+    "abbreviation": "FTS",
+    "expansion": "Flight Termination System"
+  },
+  {
+    "abbreviation": "FTSR",
+    "expansion": "Flight Termination System Report"
+  },
+  {
+    "abbreviation": "Fwd",
+    "expansion": "Foward"
+  },
+  {
+    "abbreviation": "FY",
+    "expansion": "Fiscal Year"
+  },
+  {
+    "abbreviation": "G2F",
+    "expansion": "Ground to Flight"
+  },
+  {
+    "abbreviation": "GAHLE",
+    "expansion": "GSDO Advanced Hardware LCS Emulator"
+  },
+  {
+    "abbreviation": "GAO",
+    "expansion": "Government Accountability Office"
+  },
+  {
+    "abbreviation": "GCA",
+    "expansion": "Guidance & Control Assembly"
+  },
+  {
+    "abbreviation": "GCAT",
+    "expansion": "Ground Cost Affordability Team"
+  },
+  {
+    "abbreviation": "GCS",
+    "expansion": "Ground Cooling Subsystem"
+  },
+  {
+    "abbreviation": "GCU",
+    "expansion": "Ground and Flight Application Software Team Complexity Unit"
+  },
+  {
+    "abbreviation": "GEEPAT",
+    "expansion": "GSDO Emergency Evacuation Planning and Assessment Team"
+  },
+  {
+    "abbreviation": "GEIT",
+    "expansion": "Ground Element Integration Test"
+  },
+  {
+    "abbreviation": "GFAS",
+    "expansion": "Ground and Flight Application Software"
+  },
+  {
+    "abbreviation": "GFAST",
+    "expansion": "Ground and Flight Application Software Team"
+  },
+  {
+    "abbreviation": "GFE",
+    "expansion": "Government-Furnished Equipment"
+  },
+  {
+    "abbreviation": "GFRC",
+    "expansion": "Goddard Flight Research Center"
+  },
+  {
+    "abbreviation": "GFTS",
+    "expansion": "Ground Functional Test Set"
+  },
+  {
+    "abbreviation": "GFY",
+    "expansion": "Government Fiscal Year"
+  },
+  {
+    "abbreviation": "GH2",
+    "expansion": "Gaseous Hydrogen"
+  },
+  {
+    "abbreviation": "GHe",
+    "expansion": "gaseous helium"
+  },
+  {
+    "abbreviation": "GHIM",
+    "expansion": "Ground Hardware Integration and Management"
+  },
+  {
+    "abbreviation": "GHIT",
+    "expansion": "Ground Hardware Integrated Tasks"
+  },
+  {
+    "abbreviation": "GHITT",
+    "expansion": "Ground Hardware Integration Task Team"
+  },
+  {
+    "abbreviation": "GHMT",
+    "expansion": "Ground Hardware Management Tool"
+  },
+  {
+    "abbreviation": "GIDEP",
+    "expansion": "Government-Industry Data Exchange Program"
+  },
+  {
+    "abbreviation": "GIE",
+    "expansion": "Ground Integration Engineer"
+  },
+  {
+    "abbreviation": "GIS",
+    "expansion": "Geographic Information System"
+  },
+  {
+    "abbreviation": "GIS",
+    "expansion": "Ground Integrated Schematic"
+  },
+  {
+    "abbreviation": "GLS",
+    "expansion": "Ground Launch Sequencer"
+  },
+  {
+    "abbreviation": "GMaCC",
+    "expansion": "Global Monitoring and Control Center"
+  },
+  {
+    "abbreviation": "GMIP",
+    "expansion": "GNU Image Manipulation Program"
+  },
+  {
+    "abbreviation": "GMIP",
+    "expansion": "Government Mandatory Inspection Point"
+  },
+  {
+    "abbreviation": "GMPS",
+    "expansion": "Ground Main Propulsion System"
+  },
+  {
+    "abbreviation": "GN",
+    "expansion": "Ground Network"
+  },
+  {
+    "abbreviation": "GN&C",
+    "expansion": "Guidance, Navigation, and Control"
+  },
+  {
+    "abbreviation": "GN2",
+    "expansion": "gaseous nitrogen"
+  },
+  {
+    "abbreviation": "GNCP",
+    "expansion": "Guidance Navigation Control Propulsion"
+  },
+  {
+    "abbreviation": "GO",
+    "expansion": "Ground Operations"
+  },
+  {
+    "abbreviation": "GO2",
+    "expansion": "gaseous oxygen"
+  },
+  {
+    "abbreviation": "GOAL",
+    "expansion": "Ground Operations And Launch"
+  },
+  {
+    "abbreviation": "GOC",
+    "expansion": "Ground Operations Contract"
+  },
+  {
+    "abbreviation": "GOES-R",
+    "expansion": "Geostationary Operational Environmental Satellite - R-Series Program"
+  },
+  {
+    "abbreviation": "GOLD",
+    "expansion": "Government On-Line Database"
+  },
+  {
+    "abbreviation": "GOM",
+    "expansion": "GSDO Operations Manager"
+  },
+  {
+    "abbreviation": "GOP",
+    "expansion": "Ground Operations Project"
+  },
+  {
+    "abbreviation": "GOPD",
+    "expansion": "Ground Operations Planning Document (obsolete)"
+  },
+  {
+    "abbreviation": "GOPD",
+    "expansion": "Ground Operations Planning Database"
+  },
+  {
+    "abbreviation": "GORA",
+    "expansion": "Ground Operations Risk Assessment"
+  },
+  {
+    "abbreviation": "GORR",
+    "expansion": "GSDO Operational Readiness Review"
+  },
+  {
+    "abbreviation": "GOSE",
+    "expansion": "Ground Operations Support Equipment"
+  },
+  {
+    "abbreviation": "GOTAR",
+    "expansion": "Ground Operations Timeline Analysis Report"
+  },
+  {
+    "abbreviation": "GOX",
+    "expansion": "gaseous oxygen"
+  },
+  {
+    "abbreviation": "GP",
+    "expansion": "Ground Processing"
+  },
+  {
+    "abbreviation": "GPAS",
+    "expansion": "GSDO Program Analysis Schedule"
+  },
+  {
+    "abbreviation": "GPD",
+    "expansion": "Ground Processing Directorate"
+  },
+  {
+    "abbreviation": "GPES",
+    "expansion": "Goal Performance Evaluation System"
+  },
+  {
+    "abbreviation": "gpm",
+    "expansion": "gallons per minute"
+  },
+  {
+    "abbreviation": "GPS",
+    "expansion": "Global Positioning System"
+  },
+  {
+    "abbreviation": "GPTU",
+    "expansion": "General Propellant Tank Unit"
+  },
+  {
+    "abbreviation": "GPU",
+    "expansion": "Ground Processing Unit"
+  },
+  {
+    "abbreviation": "GRC",
+    "expansion": "Glenn Research Center"
+  },
+  {
+    "abbreviation": "GS",
+    "expansion": "Ground Support"
+  },
+  {
+    "abbreviation": "GS",
+    "expansion": "Ground Systems"
+  },
+  {
+    "abbreviation": "GSA",
+    "expansion": "General Services Administration"
+  },
+  {
+    "abbreviation": "GSC",
+    "expansion": "Garvey Spacecraft Corporation"
+  },
+  {
+    "abbreviation": "GSCB",
+    "expansion": "Ground Systems Control Board"
+  },
+  {
+    "abbreviation": "GSDO",
+    "expansion": "Ground Systems Development and Operations"
+  },
+  {
+    "abbreviation": "GSDOP",
+    "expansion": "GSDO Program"
+  },
+  {
+    "abbreviation": "GSE",
+    "expansion": "Ground Support Equipment"
+  },
+  {
+    "abbreviation": "GSEDb",
+    "expansion": "Ground Support Equipment Database"
+  },
+  {
+    "abbreviation": "GSEMA",
+    "expansion": "Ground Support Equipment Management Application"
+  },
+  {
+    "abbreviation": "GSEOPA",
+    "expansion": "Ground Support Equipment Operations Planning Application"
+  },
+  {
+    "abbreviation": "GSEP",
+    "expansion": "Ground Support Equipment Panel"
+  },
+  {
+    "abbreviation": "GSFC",
+    "expansion": "Goddard Space Flight Center"
+  },
+  {
+    "abbreviation": "GSI",
+    "expansion": "Ground Systems Integrator"
+  },
+  {
+    "abbreviation": "GSI",
+    "expansion": "Ground Systems and Implementation"
+  },
+  {
+    "abbreviation": "GSIT",
+    "expansion": "Ground Systems Inter-Tank"
+  },
+  {
+    "abbreviation": "GSLH2",
+    "expansion": "Ground Systems Liquid Hydrogen"
+  },
+  {
+    "abbreviation": "GSLO2",
+    "expansion": "Ground Systems Liquid Oxygen"
+  },
+  {
+    "abbreviation": "GSP",
+    "expansion": "Ground Special Power"
+  },
+  {
+    "abbreviation": "GSPN",
+    "expansion": "Ground Support Pneumatics"
+  },
+  {
+    "abbreviation": "GSPP&D",
+    "expansion": "Ground Systems Program Planning and Development"
+  },
+  {
+    "abbreviation": "GSS",
+    "expansion": "Ground Support System"
+  },
+  {
+    "abbreviation": "GSTC",
+    "expansion": "Ground Systems Test Conductor"
+  },
+  {
+    "abbreviation": "GTA",
+    "expansion": "Ground Test Article"
+  },
+  {
+    "abbreviation": "GTM",
+    "expansion": "Ground Test Monitor"
+  },
+  {
+    "abbreviation": "GUI",
+    "expansion": "Graphical User Interface"
+  },
+  {
+    "abbreviation": "GW",
+    "expansion": "Gateway"
+  },
+  {
+    "abbreviation": "H&A",
+    "expansion": "Handling and Access"
+  },
+  {
+    "abbreviation": "H&S",
+    "expansion": "Health and Status"
+  },
+  {
+    "abbreviation": "H/W",
+    "expansion": "Hardware"
+  },
+  {
+    "abbreviation": "HA",
+    "expansion": "Hazard Analysis"
+  },
+  {
+    "abbreviation": "HAASP",
+    "expansion": "Hydraulic Arms and Accessories Service Pressure"
+  },
+  {
+    "abbreviation": "HAML",
+    "expansion": "Handling and Access Mobile Launcher"
+  },
+  {
+    "abbreviation": "HAZMAT",
+    "expansion": "Hazardous Material"
+  },
+  {
+    "abbreviation": "HB",
+    "expansion": "High Bay"
+  },
+  {
+    "abbreviation": "HB-1",
+    "expansion": "High Bay 1"
+  },
+  {
+    "abbreviation": "HB-2",
+    "expansion": "High Bay 2"
+  },
+  {
+    "abbreviation": "HB-3",
+    "expansion": "High Bay 3"
+  },
+  {
+    "abbreviation": "HB-4",
+    "expansion": "High Bay 4"
+  },
+  {
+    "abbreviation": "HBOI",
+    "expansion": "Hydrogen Burn-Off Igniters"
+  },
+  {
+    "abbreviation": "HCDi",
+    "expansion": "Human-Centered Design Institute"
+  },
+  {
+    "abbreviation": "HCI",
+    "expansion": "Human Computer Interface"
+  },
+  {
+    "abbreviation": "HCU",
+    "expansion": "Hydraulic Control Unit"
+  },
+  {
+    "abbreviation": "HD",
+    "expansion": "High Definition"
+  },
+  {
+    "abbreviation": "HDMI",
+    "expansion": "High-Definition Multimedia Interface"
+  },
+  {
+    "abbreviation": "HEC",
+    "expansion": "Human Exploration Capability"
+  },
+  {
+    "abbreviation": "HEFT",
+    "expansion": "Human Exploration Framework Team"
+  },
+  {
+    "abbreviation": "HEO",
+    "expansion": "High Earth Orbit"
+  },
+  {
+    "abbreviation": "HEO",
+    "expansion": "Human Exploration and Operations"
+  },
+  {
+    "abbreviation": "HEO MD (formerly SOMD and ESMD)",
+    "expansion": "Human Exploration and Operations Mission Directorate"
+  },
+  {
+    "abbreviation": "HEOMD",
+    "expansion": "Human Exploration and Operations Mission Dictorate"
+  },
+  {
+    "abbreviation": "HER",
+    "expansion": "Hardware Extension Remote"
+  },
+  {
+    "abbreviation": "HERSP",
+    "expansion": "Human Exploration Range Safety Panel"
+  },
+  {
+    "abbreviation": "HETA",
+    "expansion": "High Energy Test Area"
+  },
+  {
+    "abbreviation": "HEX",
+    "expansion": "Heat Exchanger"
+  },
+  {
+    "abbreviation": "HFC",
+    "expansion": "Hydro fluorocarbon"
+  },
+  {
+    "abbreviation": "HFE",
+    "expansion": "Human Factors Engineering"
+  },
+  {
+    "abbreviation": "HFEA",
+    "expansion": "Human Factors Engineering Assessment"
+  },
+  {
+    "abbreviation": "HGLDS",
+    "expansion": "Hazardous Gas Leak Detection Subsystem"
+  },
+  {
+    "abbreviation": "HIF",
+    "expansion": "Horizontal Integration Facility"
+  },
+  {
+    "abbreviation": "HIS",
+    "expansion": "Hardware Interface Structure"
+  },
+  {
+    "abbreviation": "HITL",
+    "expansion": "Human In The Loop"
+  },
+  {
+    "abbreviation": "HL&PT",
+    "expansion": "Heavy Lift and Propulsion Technology"
+  },
+  {
+    "abbreviation": "HLO",
+    "expansion": "High Lunar Orbit"
+  },
+  {
+    "abbreviation": "HLOC",
+    "expansion": "High Level Operational Capability"
+  },
+  {
+    "abbreviation": "HLR",
+    "expansion": "Human Lunar Return"
+  },
+  {
+    "abbreviation": "HLV",
+    "expansion": "Heavy Lift Vehicle"
+  },
+  {
+    "abbreviation": "HMF",
+    "expansion": "Hypergolic Maintenance Facility"
+  },
+  {
+    "abbreviation": "HMN",
+    "expansion": "Health Management Network"
+  },
+  {
+    "abbreviation": "HMTA",
+    "expansion": "Health & Medical Technical Authority"
+  },
+  {
+    "abbreviation": "HOSC",
+    "expansion": "Huntsville Operations Support Center"
+  },
+  {
+    "abbreviation": "HOTH",
+    "expansion": "Houston Orion Test Hardware"
+  },
+  {
+    "abbreviation": "HP",
+    "expansion": "High Pressure"
+  },
+  {
+    "abbreviation": "HP",
+    "expansion": "Hewett Packard"
+  },
+  {
+    "abbreviation": "HPG",
+    "expansion": "High Pressure Gas"
+  },
+  {
+    "abbreviation": "HPU",
+    "expansion": "Hydraulic Power Unit"
+  },
+  {
+    "abbreviation": "HPUC",
+    "expansion": "Hydraulic Power Unit Controller"
+  },
+  {
+    "abbreviation": "HQ",
+    "expansion": "Headquarters"
+  },
+  {
+    "abbreviation": "HR",
+    "expansion": "Hazard Report"
+  },
+  {
+    "abbreviation": "HSART",
+    "expansion": "Heritage Systems Assessment and Requirements Traceability"
+  },
+  {
+    "abbreviation": "HSEP",
+    "expansion": "Health Safety Envionmental Procedure"
+  },
+  {
+    "abbreviation": "HSFS",
+    "expansion": "Human Space Flight Support"
+  },
+  {
+    "abbreviation": "HSIR",
+    "expansion": "Human Systems Integration Requirements"
+  },
+  {
+    "abbreviation": "HTHL",
+    "expansion": "Horizontal Takeoff/Horizontal Landing"
+  },
+  {
+    "abbreviation": "HTML",
+    "expansion": "Hyper Text Markup Language"
+  },
+  {
+    "abbreviation": "HVAC",
+    "expansion": "Heating, Ventilation, and Air Conditioning"
+  },
+  {
+    "abbreviation": "HVDS",
+    "expansion": "Hazardous Vapor Detection System"
+  },
+  {
+    "abbreviation": "HVDS",
+    "expansion": "Hazardous Vapor Detection System"
+  },
+  {
+    "abbreviation": "HW",
+    "expansion": "Hardware"
+  },
+  {
+    "abbreviation": "HWCI",
+    "expansion": "Hardware Configuration Item"
+  },
+  {
+    "abbreviation": "HYD",
+    "expansion": "Hydraulic"
+  },
+  {
+    "abbreviation": "Hypers",
+    "expansion": "Hypergolics"
+  },
+  {
+    "abbreviation": "Hz",
+    "expansion": "Hertz"
+  },
+  {
+    "abbreviation": "I/F",
+    "expansion": "Interface"
+  },
+  {
+    "abbreviation": "I3P",
+    "expansion": "IT Infrastructure Integration Program"
+  },
+  {
+    "abbreviation": "IA",
+    "expansion": "Information Architecture"
+  },
+  {
+    "abbreviation": "IA&S",
+    "expansion": "Integrated Avionics and Software"
+  },
+  {
+    "abbreviation": "IAF",
+    "expansion": "Imagery Analysis Facility"
+  },
+  {
+    "abbreviation": "IAR",
+    "expansion": "Incremental ADP Reviews"
+  },
+  {
+    "abbreviation": "IAS",
+    "expansion": "Integrated Avionics Software"
+  },
+  {
+    "abbreviation": "IAS",
+    "expansion": "Information Architecture"
+  },
+  {
+    "abbreviation": "IAT",
+    "expansion": "Independent Assessment Team"
+  },
+  {
+    "abbreviation": "IATF",
+    "expansion": "Integrated Avionics Test Facilities"
+  },
+  {
+    "abbreviation": "IBOT",
+    "expansion": "Integrated Budget Office Tool"
+  },
+  {
+    "abbreviation": "IBT",
+    "expansion": "Internet-Based Training"
+  },
+  {
+    "abbreviation": "IC",
+    "expansion": "Incident Commander"
+  },
+  {
+    "abbreviation": "ICA",
+    "expansion": "Independent Cost Analysis"
+  },
+  {
+    "abbreviation": "ICAN",
+    "expansion": "Integrated Communications and Network"
+  },
+  {
+    "abbreviation": "ICAS",
+    "expansion": "Institutional Computerized Archive System"
+  },
+  {
+    "abbreviation": "ICAT",
+    "expansion": "Integrated Change Assessment Team"
+  },
+  {
+    "abbreviation": "ICAT",
+    "expansion": "INCA Commanding and Telemetry"
+  },
+  {
+    "abbreviation": "ICCA",
+    "expansion": "IPT Critical Capability Assessment"
+  },
+  {
+    "abbreviation": "ICD",
+    "expansion": "Interface Control Document"
+  },
+  {
+    "abbreviation": "ICDMWG",
+    "expansion": "Information Configuration and Data Management Working Group"
+  },
+  {
+    "abbreviation": "ICE",
+    "expansion": "Integrated Collaborative Environment"
+  },
+  {
+    "abbreviation": "ICE",
+    "expansion": "Independent Cost Estimate"
+  },
+  {
+    "abbreviation": "ICE-E",
+    "expansion": "Integrated Collaborative Environment-Enhanced"
+  },
+  {
+    "abbreviation": "ICM",
+    "expansion": "Information and Configuration Management"
+  },
+  {
+    "abbreviation": "ICMC",
+    "expansion": "Integrated Center Management Council"
+  },
+  {
+    "abbreviation": "ICMP",
+    "expansion": "Information and Configuration Management Plan"
+  },
+  {
+    "abbreviation": "ICMP",
+    "expansion": "Internet Control Message Protocol"
+  },
+  {
+    "abbreviation": "ICMWG",
+    "expansion": "Information and Configuration Management Working Group"
+  },
+  {
+    "abbreviation": "ICP",
+    "expansion": "Interface Control Panel"
+  },
+  {
+    "abbreviation": "ICPS",
+    "expansion": "Interim Cryogenic Propulsion Stage"
+  },
+  {
+    "abbreviation": "ICPS",
+    "expansion": "Interim Cryogenic Propulsion Stage"
+  },
+  {
+    "abbreviation": "ICPSU",
+    "expansion": "Interim Cryogenic Propulsion Stage Umbilical"
+  },
+  {
+    "abbreviation": "ICR",
+    "expansion": "IPT Critical Review"
+  },
+  {
+    "abbreviation": "ID",
+    "expansion": "Identifier"
+  },
+  {
+    "abbreviation": "IDA",
+    "expansion": "International Space Station Docking Adaptor"
+  },
+  {
+    "abbreviation": "IDB",
+    "expansion": "Interface Data Book"
+  },
+  {
+    "abbreviation": "IDCR",
+    "expansion": "Instituational Design Certification Review"
+  },
+  {
+    "abbreviation": "IDDD",
+    "expansion": "Integrated Design Definition Document"
+  },
+  {
+    "abbreviation": "IDE",
+    "expansion": "Integrated Development Environment"
+  },
+  {
+    "abbreviation": "IDIQ",
+    "expansion": "Indefinite Delivery Indefinite Quantity"
+  },
+  {
+    "abbreviation": "IDP",
+    "expansion": "Interface detailed product"
+  },
+  {
+    "abbreviation": "IEE",
+    "expansion": "Infrastructure and Environmental Element"
+  },
+  {
+    "abbreviation": "IEEE",
+    "expansion": "Institute of Electrical and Electronics Engineers"
+  },
+  {
+    "abbreviation": "IERB",
+    "expansion": "Integrated Engineering Review Board"
+  },
+  {
+    "abbreviation": "IF",
+    "expansion": "Interface"
+  },
+  {
+    "abbreviation": "IFA",
+    "expansion": "Integrated Functional Analysis"
+  },
+  {
+    "abbreviation": "IFATT",
+    "expansion": "Integrated Functional Analysis Task Team"
+  },
+  {
+    "abbreviation": "IFC",
+    "expansion": "Initiator Firing Circuit (see also FIC)"
+  },
+  {
+    "abbreviation": "IG",
+    "expansion": "Inspector General"
+  },
+  {
+    "abbreviation": "IGCE",
+    "expansion": "Independent Government Cost Estimate"
+  },
+  {
+    "abbreviation": "IHA",
+    "expansion": "Integrated Hazard Analysis"
+  },
+  {
+    "abbreviation": "IHM",
+    "expansion": "Integrated Health Management"
+  },
+  {
+    "abbreviation": "IIA",
+    "expansion": "Institution Infrastructure Analysis"
+  },
+  {
+    "abbreviation": "IID",
+    "expansion": "Independent and Identically Distributed"
+  },
+  {
+    "abbreviation": "iKCMS",
+    "expansion": "Integrated Kennedy Communication Management System"
+  },
+  {
+    "abbreviation": "IL R&R",
+    "expansion": "Integrated Logistics Roles and Responsibilities"
+  },
+  {
+    "abbreviation": "ILA",
+    "expansion": "Integrated Logistics Assessment"
+  },
+  {
+    "abbreviation": "ILCR",
+    "expansion": "Independent Life Cycle Review"
+  },
+  {
+    "abbreviation": "ILOA",
+    "expansion": "Integrated Launch Operations Application"
+  },
+  {
+    "abbreviation": "ILS",
+    "expansion": "Integrated Logistics Support"
+  },
+  {
+    "abbreviation": "ILSP",
+    "expansion": "Integrated Logistics Support Plan"
+  },
+  {
+    "abbreviation": "IM",
+    "expansion": "Information Management"
+  },
+  {
+    "abbreviation": "IMA",
+    "expansion": "Integrated Mission Analysis"
+  },
+  {
+    "abbreviation": "IMA",
+    "expansion": "Integrated Modeling Analysis"
+  },
+  {
+    "abbreviation": "IMACS",
+    "expansion": "Integrated Measurement and Command System"
+  },
+  {
+    "abbreviation": "IMC",
+    "expansion": "Institutional Management Council"
+  },
+  {
+    "abbreviation": "IMCS",
+    "expansion": "Information Management and Communications Support (Contract)"
+  },
+  {
+    "abbreviation": "IMP",
+    "expansion": "Integrated Master Plan"
+  },
+  {
+    "abbreviation": "IMR",
+    "expansion": "IPT Monthly Review"
+  },
+  {
+    "abbreviation": "IMS",
+    "expansion": "Information Management System"
+  },
+  {
+    "abbreviation": "IMS",
+    "expansion": "Integrated Master Schedule"
+  },
+  {
+    "abbreviation": "IMU",
+    "expansion": "Inertial Measurement Unit"
+  },
+  {
+    "abbreviation": "IMWG",
+    "expansion": "Information Management Working Group"
+  },
+  {
+    "abbreviation": "INCA",
+    "expansion": "Inertial Navigation and Control Assembly"
+  },
+  {
+    "abbreviation": "Institutional Design Certification Review",
+    "expansion": "IDCR"
+  },
+  {
+    "abbreviation": "INT",
+    "expansion": "Integration"
+  },
+  {
+    "abbreviation": "Int. Ops.",
+    "expansion": "Integration Operations"
+  },
+  {
+    "abbreviation": "INWORK",
+    "expansion": "Supplier has requirement under review"
+  },
+  {
+    "abbreviation": "IOC",
+    "expansion": "Initial Operational Capability"
+  },
+  {
+    "abbreviation": "IOM",
+    "expansion": "IPT Operations Manager"
+  },
+  {
+    "abbreviation": "IOP",
+    "expansion": "Ignition Overpressure"
+  },
+  {
+    "abbreviation": "IOP/SS",
+    "expansion": "Ignition Overpressure and Sound Suppression"
+  },
+  {
+    "abbreviation": "IOPSS",
+    "expansion": "Ignition Over Pressure and Sound Suppression"
+  },
+  {
+    "abbreviation": "IOZ",
+    "expansion": "Industrial Operational Zone"
+  },
+  {
+    "abbreviation": "IP",
+    "expansion": "Internet Protocol"
+  },
+  {
+    "abbreviation": "IPAO",
+    "expansion": "Independent Program Assessment Office"
+  },
+  {
+    "abbreviation": "IPCA",
+    "expansion": "IPT Preliminary Capability Assessment"
+  },
+  {
+    "abbreviation": "IPCA",
+    "expansion": "Integrated Physical Configuration Audit"
+  },
+  {
+    "abbreviation": "IPCE",
+    "expansion": "Independent Program and Cost Evaluation"
+  },
+  {
+    "abbreviation": "iPIT",
+    "expansion": "Integrated Program Planning and Control Integration Team"
+  },
+  {
+    "abbreviation": "IPL",
+    "expansion": "Indentured Parts List"
+  },
+  {
+    "abbreviation": "IPPD",
+    "expansion": "Integrated Product Process Development"
+  },
+  {
+    "abbreviation": "IPR",
+    "expansion": "In-Process Review"
+  },
+  {
+    "abbreviation": "IPR",
+    "expansion": "IPT Preliminary Review"
+  },
+  {
+    "abbreviation": "IPRA",
+    "expansion": "Integrated Probabilistic Risk Assessment"
+  },
+  {
+    "abbreviation": "IPSC",
+    "expansion": "Interim Protective Services Contract"
+  },
+  {
+    "abbreviation": "IPT",
+    "expansion": "Integrated Product Team"
+  },
+  {
+    "abbreviation": "IR",
+    "expansion": "Infrared"
+  },
+  {
+    "abbreviation": "IR",
+    "expansion": "Integration Review"
+  },
+  {
+    "abbreviation": "IR&TD",
+    "expansion": "Independent Research and Technology Development"
+  },
+  {
+    "abbreviation": "IR3",
+    "expansion": "Interim RMA Requirements Report"
+  },
+  {
+    "abbreviation": "IRAS",
+    "expansion": "Internal Refrigeration System"
+  },
+  {
+    "abbreviation": "IRD",
+    "expansion": "Interface Requirements Document"
+  },
+  {
+    "abbreviation": "IRIG",
+    "expansion": "Inter Range Instrumentation Group"
+  },
+  {
+    "abbreviation": "IRIS",
+    "expansion": "Infrared Instrumentation System"
+  },
+  {
+    "abbreviation": "IRIS",
+    "expansion": "Incident Reporting Information System"
+  },
+  {
+    "abbreviation": "IRN",
+    "expansion": "Iterface Revision Notice"
+  },
+  {
+    "abbreviation": "IRT",
+    "expansion": "Issue Resolution Team"
+  },
+  {
+    "abbreviation": "IRT",
+    "expansion": "Integrated Review Team"
+  },
+  {
+    "abbreviation": "IRT",
+    "expansion": "Interim Response Team"
+  },
+  {
+    "abbreviation": "IRT",
+    "expansion": "Independent Review Team"
+  },
+  {
+    "abbreviation": "IRWG",
+    "expansion": "Integrated Risk Working Group"
+  },
+  {
+    "abbreviation": "ISC",
+    "expansion": "Institutional Services Contract"
+  },
+  {
+    "abbreviation": "ISC",
+    "expansion": "Institutional Support Contractor"
+  },
+  {
+    "abbreviation": "ISC",
+    "expansion": "Ignition/Staging Controller"
+  },
+  {
+    "abbreviation": "ISO",
+    "expansion": "Information Systems Office"
+  },
+  {
+    "abbreviation": "ISP",
+    "expansion": "Information Systems Panel"
+  },
+  {
+    "abbreviation": "ISP",
+    "expansion": "Internet Service Provider"
+  },
+  {
+    "abbreviation": "ISPE",
+    "expansion": "Integrated Spacecraft and Payload Element"
+  },
+  {
+    "abbreviation": "ISR",
+    "expansion": "Information Support Request"
+  },
+  {
+    "abbreviation": "ISS",
+    "expansion": "International Space Station"
+  },
+  {
+    "abbreviation": "ISSI",
+    "expansion": "Information Systems Strategic Initiative"
+  },
+  {
+    "abbreviation": "ISVV",
+    "expansion": "Independent Software Verification & Validation"
+  },
+  {
+    "abbreviation": "ISVV",
+    "expansion": "Integrated Systems Verification & Validation"
+  },
+  {
+    "abbreviation": "ISWG",
+    "expansion": "Integrated Schedule Working Group"
+  },
+  {
+    "abbreviation": "IT",
+    "expansion": "Information Technology"
+  },
+  {
+    "abbreviation": "IT&CO",
+    "expansion": "Integrated Test and Checkout"
+  },
+  {
+    "abbreviation": "ITA",
+    "expansion": "Internal Task Agreement"
+  },
+  {
+    "abbreviation": "ITAR",
+    "expansion": "International Traffic in Arms Regulations"
+  },
+  {
+    "abbreviation": "ITCO",
+    "expansion": "Integrated Test and Check Out"
+  },
+  {
+    "abbreviation": "ITCP",
+    "expansion": "Integrated Test and Checkout Plan"
+  },
+  {
+    "abbreviation": "ITD",
+    "expansion": "Inception to Date"
+  },
+  {
+    "abbreviation": "ITIL",
+    "expansion": "Information Technology Infrastructure Library"
+  },
+  {
+    "abbreviation": "ITL",
+    "expansion": "Integrated Test Lab"
+  },
+  {
+    "abbreviation": "ITR",
+    "expansion": "Integrated Technical Roadmap"
+  },
+  {
+    "abbreviation": "ITRWG",
+    "expansion": "Integrated Technical Roadmap Working Group"
+  },
+  {
+    "abbreviation": "ITSTAR",
+    "expansion": "IT Security Test Authorization Request"
+  },
+  {
+    "abbreviation": "ITT",
+    "expansion": "Integrated Task Team"
+  },
+  {
+    "abbreviation": "ITV&V",
+    "expansion": "Integrated Test Verification and Validation"
+  },
+  {
+    "abbreviation": "ITWG",
+    "expansion": "Integration/Transition Working Group"
+  },
+  {
+    "abbreviation": "IV&V",
+    "expansion": "Independent Verification and Validation"
+  },
+  {
+    "abbreviation": "IVDD",
+    "expansion": "Integrated Vehicle Design Document"
+  },
+  {
+    "abbreviation": "IVF",
+    "expansion": "Integrated Vehicle Fluids"
+  },
+  {
+    "abbreviation": "IVT",
+    "expansion": "Integrated Vehicle Testing"
+  },
+  {
+    "abbreviation": "IVT",
+    "expansion": "Interface Verification Test"
+  },
+  {
+    "abbreviation": "IWC",
+    "expansion": "Integrated Work Center"
+  },
+  {
+    "abbreviation": "JARSS",
+    "expansion": "Joint Advanced Range Safety System"
+  },
+  {
+    "abbreviation": "JAXA",
+    "expansion": "Japenese Aerospace Exploration Agency"
+  },
+  {
+    "abbreviation": "JCL",
+    "expansion": "Joint Confidence Level"
+  },
+  {
+    "abbreviation": "JDMTA",
+    "expansion": "Jonathan Dickinson Missile Tracking Annex"
+  },
+  {
+    "abbreviation": "JEL",
+    "expansion": "Jacking, Equalization, and Leveling"
+  },
+  {
+    "abbreviation": "JETI",
+    "expansion": "Joint Engineering Team for Imagery"
+  },
+  {
+    "abbreviation": "JICB",
+    "expansion": "Joint Integration Control Board"
+  },
+  {
+    "abbreviation": "JIS",
+    "expansion": "Joint Integrated Simulations"
+  },
+  {
+    "abbreviation": "JISWG",
+    "expansion": "JIS Working Group"
+  },
+  {
+    "abbreviation": "JITT",
+    "expansion": "Joint Integrated Task Team"
+  },
+  {
+    "abbreviation": "JIV",
+    "expansion": "Joint Interface Verification - Requirements that need to be verified by both programs"
+  },
+  {
+    "abbreviation": "JLTT",
+    "expansion": "Joint Loads Task Team"
+  },
+  {
+    "abbreviation": "JOP",
+    "expansion": "Joint Operating Procedure"
+  },
+  {
+    "abbreviation": "JPCB",
+    "expansion": "Joint Program Control Board"
+  },
+  {
+    "abbreviation": "jpcb",
+    "expansion": "Extensible Markup Language [XML] Telemetric and Command Exchange"
+  },
+  {
+    "abbreviation": "JPG",
+    "expansion": "Joint Policy Group"
+  },
+  {
+    "abbreviation": "JPL",
+    "expansion": "Jet Propulsion Lab"
+  },
+  {
+    "abbreviation": "JPSS-1",
+    "expansion": "Joint Polar Satellite System"
+  },
+  {
+    "abbreviation": "JSC",
+    "expansion": "Johnson Space Center"
+  },
+  {
+    "abbreviation": "JSOG",
+    "expansion": "Jacobs Space Operations Group"
+  },
+  {
+    "abbreviation": "JU",
+    "expansion": "Joint Use"
+  },
+  {
+    "abbreviation": "KACC",
+    "expansion": "Kennedy Associate Contractor Council"
+  },
+  {
+    "abbreviation": "KAITS",
+    "expansion": "Kennedy Action Item Tracking System"
+  },
+  {
+    "abbreviation": "KATS",
+    "expansion": "Kennedy Action Tracking System"
+  },
+  {
+    "abbreviation": "KBR",
+    "expansion": "Knowledge-Based Risks"
+  },
+  {
+    "abbreviation": "KCA",
+    "expansion": "Kennedy Customer Agreement"
+  },
+  {
+    "abbreviation": "KCCS",
+    "expansion": "Kennedy Complex Control System"
+  },
+  {
+    "abbreviation": "KCMC",
+    "expansion": "Kennedy Center Management Council"
+  },
+  {
+    "abbreviation": "KDDMS",
+    "expansion": "Kennedy Design Data Management System"
+  },
+  {
+    "abbreviation": "KDL",
+    "expansion": "Known Disconnect List"
+  },
+  {
+    "abbreviation": "KDP",
+    "expansion": "Kennedy Documented Procedures"
+  },
+  {
+    "abbreviation": "KDP",
+    "expansion": "Key Decision Point"
+  },
+  {
+    "abbreviation": "KEA",
+    "expansion": "Kennedy Engineering Academy"
+  },
+  {
+    "abbreviation": "KEDS",
+    "expansion": "KSC Engineering Documentation System"
+  },
+  {
+    "abbreviation": "KGCS",
+    "expansion": "Kennedy Ground Control Subsystem"
+  },
+  {
+    "abbreviation": "KIAC",
+    "expansion": "Kennedy Infrastructure, Applications and Communications"
+  },
+  {
+    "abbreviation": "KICS",
+    "expansion": "Kennedy Integrated Control Schedule"
+  },
+  {
+    "abbreviation": "KID",
+    "expansion": "KSC Integrated Database"
+  },
+  {
+    "abbreviation": "KIIF",
+    "expansion": "Kennedy Institutional Imagery Facility"
+  },
+  {
+    "abbreviation": "KIIS",
+    "expansion": "Kennedy Integrated Imagery System"
+  },
+  {
+    "abbreviation": "KISS",
+    "expansion": "Kennedy Institutional Support Services"
+  },
+  {
+    "abbreviation": "KITS",
+    "expansion": "Kennedy Integrated Transmission System"
+  },
+  {
+    "abbreviation": "KLCC",
+    "expansion": "KSC Lab Consolidation Committee"
+  },
+  {
+    "abbreviation": "KLXS",
+    "expansion": "Kennedy LX Support"
+  },
+  {
+    "abbreviation": "km",
+    "expansion": "Kilometers"
+  },
+  {
+    "abbreviation": "KM",
+    "expansion": "Knowledge Management"
+  },
+  {
+    "abbreviation": "KNDP",
+    "expansion": "Kennedy NASA Documented Procedure"
+  },
+  {
+    "abbreviation": "KNET",
+    "expansion": "Kennedy NETwork"
+  },
+  {
+    "abbreviation": "KNPD",
+    "expansion": "Kennedy NASA Policy Directive"
+  },
+  {
+    "abbreviation": "KNPR",
+    "expansion": "Kennedy NASA Procedural Requirements"
+  },
+  {
+    "abbreviation": "KO",
+    "expansion": "Kick-Off"
+  },
+  {
+    "abbreviation": "KOATS",
+    "expansion": "Kennedy Online Application Tracking System"
+  },
+  {
+    "abbreviation": "KPLSS",
+    "expansion": "KSC Propellants and Life Support Services"
+  },
+  {
+    "abbreviation": "KPLSS",
+    "expansion": "Kennedy Propellant and Life Support Services"
+  },
+  {
+    "abbreviation": "KPP",
+    "expansion": "Key Performance Parameters"
+  },
+  {
+    "abbreviation": "KPR",
+    "expansion": "Key Project Reviews"
+  },
+  {
+    "abbreviation": "KPRD",
+    "expansion": "KSC Program Requirements Document"
+  },
+  {
+    "abbreviation": "KPSC",
+    "expansion": "Kennedy Protective Services Contract"
+  },
+  {
+    "abbreviation": "KSC",
+    "expansion": "Kennedy Space Center"
+  },
+  {
+    "abbreviation": "KSCNF",
+    "expansion": "Kennedy Space Center News Facility"
+  },
+  {
+    "abbreviation": "KSCRD",
+    "expansion": "KSC System Receipt Desk"
+  },
+  {
+    "abbreviation": "KSCTV",
+    "expansion": "Kennedy Space Center Television Network"
+  },
+  {
+    "abbreviation": "KSMC",
+    "expansion": "Kennedy Strategic Management Council"
+  },
+  {
+    "abbreviation": "KSPUG",
+    "expansion": "Kennedy SharePoint Users Group"
+  },
+  {
+    "abbreviation": "KTI",
+    "expansion": "Kennedy Technical Instruction"
+  },
+  {
+    "abbreviation": "KTM",
+    "expansion": "Kineto Tracker Mount"
+  },
+  {
+    "abbreviation": "KTPS",
+    "expansion": "Kennedy Telemetry Processing System"
+  },
+  {
+    "abbreviation": "KTS",
+    "expansion": "Kennedy Tracking Station"
+  },
+  {
+    "abbreviation": "KUS",
+    "expansion": "Kennedy Uplink Station"
+  },
+  {
+    "abbreviation": "L&R",
+    "expansion": "Landing and Recovery"
+  },
+  {
+    "abbreviation": "L/R",
+    "expansion": "Left/Right"
+  },
+  {
+    "abbreviation": "L/V",
+    "expansion": "Launch Vehicle"
+  },
+  {
+    "abbreviation": "LACB",
+    "expansion": "Landing Aids Control Building"
+  },
+  {
+    "abbreviation": "LACC",
+    "expansion": "Launch ACCessories"
+  },
+  {
+    "abbreviation": "LACC",
+    "expansion": "Launch ACCessories"
+  },
+  {
+    "abbreviation": "LaRC",
+    "expansion": "Langley Research Center"
+  },
+  {
+    "abbreviation": "LAS",
+    "expansion": "Launch Abort System"
+  },
+  {
+    "abbreviation": "LASF",
+    "expansion": "Launch Abort System Facility"
+  },
+  {
+    "abbreviation": "LAVA",
+    "expansion": "Lunar Advanced Volatile Analysis"
+  },
+  {
+    "abbreviation": "lb./lbs.",
+    "expansion": "pound/pounds"
+  },
+  {
+    "abbreviation": "LC",
+    "expansion": "Launch Complex"
+  },
+  {
+    "abbreviation": "LC",
+    "expansion": "Lucent Connector"
+  },
+  {
+    "abbreviation": "LCC",
+    "expansion": "Launch Commit Criteria"
+  },
+  {
+    "abbreviation": "LCC",
+    "expansion": "Launch Control Center"
+  },
+  {
+    "abbreviation": "LCCP",
+    "expansion": "Launch Control Center Development"
+  },
+  {
+    "abbreviation": "LCD",
+    "expansion": "Launch Countdown"
+  },
+  {
+    "abbreviation": "LCD",
+    "expansion": "Local Control Distributor"
+  },
+  {
+    "abbreviation": "LCIC",
+    "expansion": "Launch Countdown Integrated Commodity"
+  },
+  {
+    "abbreviation": "LCN",
+    "expansion": "Launch Commit Criteria (LCC) Change Notice"
+  },
+  {
+    "abbreviation": "LCR",
+    "expansion": "Life Cycle Review"
+  },
+  {
+    "abbreviation": "LCRSP",
+    "expansion": "Launch Constellation Range Safety Panel"
+  },
+  {
+    "abbreviation": "LCS",
+    "expansion": "Launch Control System"
+  },
+  {
+    "abbreviation": "LCSA",
+    "expansion": "Launch Control System Architecture"
+  },
+  {
+    "abbreviation": "LD",
+    "expansion": "Launch Director"
+  },
+  {
+    "abbreviation": "LDA",
+    "expansion": "Launch Danger Area"
+  },
+  {
+    "abbreviation": "LDAR",
+    "expansion": "Lightening Detection and Ranging System"
+  },
+  {
+    "abbreviation": "LDE",
+    "expansion": "Lead Design Engineer"
+  },
+  {
+    "abbreviation": "LDR",
+    "expansion": "Low Data Rate"
+  },
+  {
+    "abbreviation": "LDS",
+    "expansion": "LCS Development Set"
+  },
+  {
+    "abbreviation": "LEED",
+    "expansion": "Leadership in Energy and Environmental Design"
+  },
+  {
+    "abbreviation": "LEO",
+    "expansion": "Low Earth Orbit"
+  },
+  {
+    "abbreviation": "LEO",
+    "expansion": "Liquid Engines Office"
+  },
+  {
+    "abbreviation": "LES",
+    "expansion": "Launch Equipment Shop"
+  },
+  {
+    "abbreviation": "LET",
+    "expansion": "Launch Enterprise Transformation"
+  },
+  {
+    "abbreviation": "LETF",
+    "expansion": "Launch Equipment Test Facility"
+  },
+  {
+    "abbreviation": "LETFE",
+    "expansion": "Launch Equipment Test Facility EIT"
+  },
+  {
+    "abbreviation": "LH",
+    "expansion": "Left Hand"
+  },
+  {
+    "abbreviation": "LH2",
+    "expansion": "liquid hydrogen"
+  },
+  {
+    "abbreviation": "LI-ITT",
+    "expansion": "Launch Integration-Integration Task Team"
+  },
+  {
+    "abbreviation": "LIS",
+    "expansion": "Launch Imagery System"
+  },
+  {
+    "abbreviation": "LISC",
+    "expansion": "Launch and Test Range System (LTRS) Integrated Support Contract (LISC)"
+  },
+  {
+    "abbreviation": "LISC",
+    "expansion": "Launch and Test Range System (LTRS) Integrated Support Contract (LISC)"
+  },
+  {
+    "abbreviation": "LIT",
+    "expansion": "Logistics Integration Team"
+  },
+  {
+    "abbreviation": "LLAMA",
+    "expansion": "Line Load Attenuation Mechanism Assembly"
+  },
+  {
+    "abbreviation": "LLCC",
+    "expansion": "Lightning Launch Commit Criteria"
+  },
+  {
+    "abbreviation": "LLIL",
+    "expansion": "Long Lead Items List"
+  },
+  {
+    "abbreviation": "LLIL",
+    "expansion": "Limited Life Items List"
+  },
+  {
+    "abbreviation": "LLPO",
+    "expansion": "Lunar Lander Project Office"
+  },
+  {
+    "abbreviation": "LM",
+    "expansion": "Lockheed Martin"
+  },
+  {
+    "abbreviation": "LMF",
+    "expansion": "Lunar Manufacturing Facility"
+  },
+  {
+    "abbreviation": "LMI",
+    "expansion": "Logistics Management Information"
+  },
+  {
+    "abbreviation": "LMS",
+    "expansion": "Learning Management System"
+  },
+  {
+    "abbreviation": "LMS",
+    "expansion": "LCC Management System"
+  },
+  {
+    "abbreviation": "LN2",
+    "expansion": "liquid nitrogen"
+  },
+  {
+    "abbreviation": "LO2",
+    "expansion": "liquid oxygen"
+  },
+  {
+    "abbreviation": "LOE",
+    "expansion": "Level of Effort"
+  },
+  {
+    "abbreviation": "LOLI",
+    "expansion": "Limited Operational Life Items"
+  },
+  {
+    "abbreviation": "LORA",
+    "expansion": "Level of Repair Analysis"
+  },
+  {
+    "abbreviation": "LOSC",
+    "expansion": "Launch Operations Support Contract"
+  },
+  {
+    "abbreviation": "LOX",
+    "expansion": "liquid oxygen"
+  },
+  {
+    "abbreviation": "LPE",
+    "expansion": "Launch Pad Element"
+  },
+  {
+    "abbreviation": "LPF",
+    "expansion": "LAS Processing Facility"
+  },
+  {
+    "abbreviation": "LPLWS",
+    "expansion": "Launch Pad Lightning Warning System"
+  },
+  {
+    "abbreviation": "LPS",
+    "expansion": "Launch Processing System"
+  },
+  {
+    "abbreviation": "LPS",
+    "expansion": "Lightning Protection System"
+  },
+  {
+    "abbreviation": "LRB",
+    "expansion": "Liquid Rocket Booster"
+  },
+  {
+    "abbreviation": "LRD",
+    "expansion": "Limited Rights Data"
+  },
+  {
+    "abbreviation": "LRE",
+    "expansion": "Landing and Recovery Element"
+  },
+  {
+    "abbreviation": "LRRG",
+    "expansion": "Spacelift Range Group"
+  },
+  {
+    "abbreviation": "LRS",
+    "expansion": "Launch Release System"
+  },
+  {
+    "abbreviation": "LRSW",
+    "expansion": "Launch and Range Systems Wing"
+  },
+  {
+    "abbreviation": "LRU",
+    "expansion": "Line-Replaceable Unit"
+  },
+  {
+    "abbreviation": "LRWG",
+    "expansion": "Landing and Recovery Working Group"
+  },
+  {
+    "abbreviation": "LSA",
+    "expansion": "Lifecycle Support Analysis"
+  },
+  {
+    "abbreviation": "LSA",
+    "expansion": "Logistics Support Analysis"
+  },
+  {
+    "abbreviation": "LSAIB",
+    "expansion": "Launch Site Assembly & Integration Baseline"
+  },
+  {
+    "abbreviation": "LSAP",
+    "expansion": "Logistics Support Analysis Plan"
+  },
+  {
+    "abbreviation": "LSAR",
+    "expansion": "Logistics Support Analysis Record"
+  },
+  {
+    "abbreviation": "LSIE",
+    "expansion": "Launch Site Integration Engineer"
+  },
+  {
+    "abbreviation": "LSIM",
+    "expansion": "Launch Site Integration Manager"
+  },
+  {
+    "abbreviation": "LSIR",
+    "expansion": "Launch Site Integration Review"
+  },
+  {
+    "abbreviation": "LSIT",
+    "expansion": "Launch Site Integrated Testing"
+  },
+  {
+    "abbreviation": "LSITCO",
+    "expansion": "Launch Site Integrated Test and Checkout"
+  },
+  {
+    "abbreviation": "LSP",
+    "expansion": "Launch Services Program"
+  },
+  {
+    "abbreviation": "LSPRT",
+    "expansion": "Launch Site Process Review Team"
+  },
+  {
+    "abbreviation": "LSS",
+    "expansion": "Liquid Sensor System"
+  },
+  {
+    "abbreviation": "LSSP",
+    "expansion": "Launch Site Support Plan"
+  },
+  {
+    "abbreviation": "LSSRD",
+    "expansion": "Launch Site Support and Requirements Document"
+  },
+  {
+    "abbreviation": "LTAS",
+    "expansion": "Launch Trajectory Acquisition System"
+  },
+  {
+    "abbreviation": "LTR",
+    "expansion": "Launch and Test Range"
+  },
+  {
+    "abbreviation": "LTRS",
+    "expansion": "Launch, Test, and Range System"
+  },
+  {
+    "abbreviation": "LTT",
+    "expansion": "Launch Team Training"
+  },
+  {
+    "abbreviation": "LV",
+    "expansion": "Launch Vehicle"
+  },
+  {
+    "abbreviation": "LVOPE",
+    "expansion": "Launch Vehicle Offline Processing Element"
+  },
+  {
+    "abbreviation": "LVR",
+    "expansion": "Live Video Recording"
+  },
+  {
+    "abbreviation": "LVSA",
+    "expansion": "Launch Vehicle/Stage Adapter"
+  },
+  {
+    "abbreviation": "LVTC",
+    "expansion": "Launch Vehicle Test Conductor"
+  },
+  {
+    "abbreviation": "LWOP",
+    "expansion": "Leave Without Pay"
+  },
+  {
+    "abbreviation": "LX",
+    "expansion": "KSC LX Organization"
+  },
+  {
+    "abbreviation": "M&S",
+    "expansion": "Models and Simulations"
+  },
+  {
+    "abbreviation": "MACL",
+    "expansion": "Master Assets and Capabilities List"
+  },
+  {
+    "abbreviation": "MAF",
+    "expansion": "Michoud Assembly Facility"
+  },
+  {
+    "abbreviation": "MAP",
+    "expansion": "Material and Process"
+  },
+  {
+    "abbreviation": "MARAD",
+    "expansion": "Maritime Administration"
+  },
+  {
+    "abbreviation": "MARSS",
+    "expansion": "Meteorological and Range Safety Systems"
+  },
+  {
+    "abbreviation": "MARSS",
+    "expansion": "Meteorological and Atmospheric Real-time Safety Support"
+  },
+  {
+    "abbreviation": "MATA",
+    "expansion": "Motor Adapter Truss Assembly"
+  },
+  {
+    "abbreviation": "MBSE",
+    "expansion": "Model-Based Systems Engineering"
+  },
+  {
+    "abbreviation": "MBUU",
+    "expansion": "Mid Body Umbilical Unit"
+  },
+  {
+    "abbreviation": "MCC",
+    "expansion": "Mission Control Center"
+  },
+  {
+    "abbreviation": "MCE",
+    "expansion": "Maximum Credible Event"
+  },
+  {
+    "abbreviation": "MCO",
+    "expansion": "Master Console Operator"
+  },
+  {
+    "abbreviation": "MCR",
+    "expansion": "Mission Concept Review"
+  },
+  {
+    "abbreviation": "MCR",
+    "expansion": "Master Change Request/Record ? Mission Concept Review"
+  },
+  {
+    "abbreviation": "MCR",
+    "expansion": "Milestone Change Request"
+  },
+  {
+    "abbreviation": "MCR",
+    "expansion": "Mid-Course Radar"
+  },
+  {
+    "abbreviation": "MD",
+    "expansion": "Management Directive"
+  },
+  {
+    "abbreviation": "MD",
+    "expansion": "Mission Directorate"
+  },
+  {
+    "abbreviation": "MDA",
+    "expansion": "Missile Defense Agency"
+  },
+  {
+    "abbreviation": "MDA",
+    "expansion": "Manufacturing Demonstration Article"
+  },
+  {
+    "abbreviation": "MDAU",
+    "expansion": "Master Data Acquisition Unit"
+  },
+  {
+    "abbreviation": "MDD",
+    "expansion": "Mate/Demate Device"
+  },
+  {
+    "abbreviation": "MDI",
+    "expansion": "Mission Dependency Index"
+  },
+  {
+    "abbreviation": "MDR",
+    "expansion": "Mission Definition Review"
+  },
+  {
+    "abbreviation": "MDR",
+    "expansion": "Medium Data Rate"
+  },
+  {
+    "abbreviation": "MDS",
+    "expansion": "Mail Delivery Services"
+  },
+  {
+    "abbreviation": "ME",
+    "expansion": "Main Engine"
+  },
+  {
+    "abbreviation": "Mech",
+    "expansion": "Mechanical"
+  },
+  {
+    "abbreviation": "MEI",
+    "expansion": "Millennium Engineering and Integration"
+  },
+  {
+    "abbreviation": "MEIT",
+    "expansion": "Multi-Element Integrated Test"
+  },
+  {
+    "abbreviation": "MER",
+    "expansion": "Mission Evaluation Room"
+  },
+  {
+    "abbreviation": "MESC",
+    "expansion": "Medical and Environmental Services Contract"
+  },
+  {
+    "abbreviation": "MEVV",
+    "expansion": "Multi Element Verification & Validation"
+  },
+  {
+    "abbreviation": "MEVV",
+    "expansion": "Multi-Element Verification and Validation"
+  },
+  {
+    "abbreviation": "MFCO",
+    "expansion": "Mission Flight Control Officer (console)"
+  },
+  {
+    "abbreviation": "MFD",
+    "expansion": "Main Flame Deflector"
+  },
+  {
+    "abbreviation": "MFF",
+    "expansion": "Multi-Function Facility"
+  },
+  {
+    "abbreviation": "MFL",
+    "expansion": "Master Facilities List"
+  },
+  {
+    "abbreviation": "MFV",
+    "expansion": "Main Fuel Valve"
+  },
+  {
+    "abbreviation": "MGSE",
+    "expansion": "Mechanical Ground Systems Equipment"
+  },
+  {
+    "abbreviation": "MHz",
+    "expansion": "Megahertz"
+  },
+  {
+    "abbreviation": "MIDDS",
+    "expansion": "Meteorological Interactive Data Display System"
+  },
+  {
+    "abbreviation": "MIF",
+    "expansion": "Management Integration Forum"
+  },
+  {
+    "abbreviation": "MIGOR",
+    "expansion": "Mobile Intercept Ground Optical Recording System"
+  },
+  {
+    "abbreviation": "Mil",
+    "expansion": "Military"
+  },
+  {
+    "abbreviation": "MIL",
+    "expansion": "Master Interface List"
+  },
+  {
+    "abbreviation": "MILA",
+    "expansion": "Merritt Island Launch Annex"
+  },
+  {
+    "abbreviation": "MILCON",
+    "expansion": "Military Construction"
+  },
+  {
+    "abbreviation": "MIM",
+    "expansion": "Mission Integration Manager"
+  },
+  {
+    "abbreviation": "MIP",
+    "expansion": "Mandatory Inspection Point"
+  },
+  {
+    "abbreviation": "MIR",
+    "expansion": "Mission Integration Review"
+  },
+  {
+    "abbreviation": "MIT",
+    "expansion": "Massachusetts Institute of Technology"
+  },
+  {
+    "abbreviation": "ML",
+    "expansion": "Mobile Launcher"
+  },
+  {
+    "abbreviation": "ML-1",
+    "expansion": "Mobile Launcher 1"
+  },
+  {
+    "abbreviation": "MLB",
+    "expansion": "Mobile Launch Base"
+  },
+  {
+    "abbreviation": "MLE",
+    "expansion": "Mobile Launch Element"
+  },
+  {
+    "abbreviation": "MLHA",
+    "expansion": "Mobile Launcher Handling and Access"
+  },
+  {
+    "abbreviation": "MLP",
+    "expansion": "Mobile Launch Platform"
+  },
+  {
+    "abbreviation": "MLS",
+    "expansion": "Mobile Launch Structure"
+  },
+  {
+    "abbreviation": "MLT",
+    "expansion": "Mobile Launch Tower"
+  },
+  {
+    "abbreviation": "MMC",
+    "expansion": "Maximum Mean Condition"
+  },
+  {
+    "abbreviation": "MMH",
+    "expansion": "Monomethylhydrazine"
+  },
+  {
+    "abbreviation": "MMT",
+    "expansion": "Mission Management Team"
+  },
+  {
+    "abbreviation": "MOA",
+    "expansion": "Memorandum of Agreement"
+  },
+  {
+    "abbreviation": "MOC",
+    "expansion": "Mission Operations Center"
+  },
+  {
+    "abbreviation": "MOC",
+    "expansion": "Morrell Operations Center"
+  },
+  {
+    "abbreviation": "MOD",
+    "expansion": "Mission Operations Directorate"
+  },
+  {
+    "abbreviation": "MOP",
+    "expansion": "Measure of Performance"
+  },
+  {
+    "abbreviation": "MOR",
+    "expansion": "Mission Operations Review"
+  },
+  {
+    "abbreviation": "MOR",
+    "expansion": "Monthly Operations Review"
+  },
+  {
+    "abbreviation": "MOR",
+    "expansion": "Monthly Operations Review"
+  },
+  {
+    "abbreviation": "MOTR",
+    "expansion": "Multiple-Object Tracking Radar"
+  },
+  {
+    "abbreviation": "MOU",
+    "expansion": "Memorandum of Understanding"
+  },
+  {
+    "abbreviation": "MOVE",
+    "expansion": "Mission Operational Voice Enhancement"
+  },
+  {
+    "abbreviation": "MPCB",
+    "expansion": "MPCV Program Control Board"
+  },
+  {
+    "abbreviation": "MPCP",
+    "expansion": "Mishap Preparedness and Contingency Plan"
+  },
+  {
+    "abbreviation": "MPCV",
+    "expansion": "Multi-Purpose Crew Vehicle"
+  },
+  {
+    "abbreviation": "MPDI",
+    "expansion": "Mobile Laucher Physical Data Interface"
+  },
+  {
+    "abbreviation": "MPLM",
+    "expansion": "Multi-Purpose Logistics Module"
+  },
+  {
+    "abbreviation": "MPPF",
+    "expansion": "Multi-Payload Processing Facility"
+  },
+  {
+    "abbreviation": "MPPU",
+    "expansion": "Mini Portable Purge Unit"
+  },
+  {
+    "abbreviation": "MPR",
+    "expansion": "Military (inter-departmental) Project Request"
+  },
+  {
+    "abbreviation": "MPR",
+    "expansion": "Monthly Program Review"
+  },
+  {
+    "abbreviation": "MPS",
+    "expansion": "Main Propulsion System"
+  },
+  {
+    "abbreviation": "MPSF",
+    "expansion": "Multi-Purpose Storage Facility"
+  },
+  {
+    "abbreviation": "MPSR",
+    "expansion": "Monthly Program Status Review"
+  },
+  {
+    "abbreviation": "MR",
+    "expansion": "Material Review"
+  },
+  {
+    "abbreviation": "MRAP",
+    "expansion": "Mine Resistant Ambush Protected"
+  },
+  {
+    "abbreviation": "MRB",
+    "expansion": "Management Review Board"
+  },
+  {
+    "abbreviation": "MRB",
+    "expansion": "Material Review Board"
+  },
+  {
+    "abbreviation": "MRL",
+    "expansion": "Mandatory Reviewer Listing"
+  },
+  {
+    "abbreviation": "MRR",
+    "expansion": "Mission Readiness Review"
+  },
+  {
+    "abbreviation": "MRTU",
+    "expansion": "Master Remote Telemetry Unit"
+  },
+  {
+    "abbreviation": "MS",
+    "expansion": "Mission Systems"
+  },
+  {
+    "abbreviation": "MSA",
+    "expansion": "MPCV/Stage Adapter"
+  },
+  {
+    "abbreviation": "MSC",
+    "expansion": "Mission Support Council (Agency)"
+  },
+  {
+    "abbreviation": "MSC",
+    "expansion": "Military Sealift Command"
+  },
+  {
+    "abbreviation": "MSC",
+    "expansion": "Material Service Center"
+  },
+  {
+    "abbreviation": "MSDS",
+    "expansion": "Material Safety Data Sheet"
+  },
+  {
+    "abbreviation": "MSFC",
+    "expansion": "Marshall Space Flight Center"
+  },
+  {
+    "abbreviation": "MSIR",
+    "expansion": "Mission Support Integration Review"
+  },
+  {
+    "abbreviation": "MSL",
+    "expansion": "Mars Science Laboratory"
+  },
+  {
+    "abbreviation": "MSL",
+    "expansion": "Master Subsystem List"
+  },
+  {
+    "abbreviation": "MSLDS",
+    "expansion": "Mass Spectrometer Leak Detector System"
+  },
+  {
+    "abbreviation": "MSR",
+    "expansion": "Monthly Schedules Review"
+  },
+  {
+    "abbreviation": "MSRB",
+    "expansion": "Mission-Specific Requirements Baseline"
+  },
+  {
+    "abbreviation": "MSRD",
+    "expansion": "Mission Systems Requirements Document"
+  },
+  {
+    "abbreviation": "MTA",
+    "expansion": "Maintenance Task Analysis"
+  },
+  {
+    "abbreviation": "MTBF",
+    "expansion": "Mean Time Between Failures"
+  },
+  {
+    "abbreviation": "MTO",
+    "expansion": "Maintenance Task Outline"
+  },
+  {
+    "abbreviation": "MTTR",
+    "expansion": "Mean Time To Repair"
+  },
+  {
+    "abbreviation": "MUSS",
+    "expansion": "Multi-User Support Systems"
+  },
+  {
+    "abbreviation": "MVVP",
+    "expansion": "Master Verification and Validation Plan"
+  },
+  {
+    "abbreviation": "MVVPDb",
+    "expansion": "Master Verification and Validation Planning Database"
+  },
+  {
+    "abbreviation": "N/A",
+    "expansion": "Not Applicable"
+  },
+  {
+    "abbreviation": "N2H4",
+    "expansion": "hydrazine"
+  },
+  {
+    "abbreviation": "N2H4",
+    "expansion": "Hydrazine"
+  },
+  {
+    "abbreviation": "N2O4",
+    "expansion": "dinitrogen tetroxide"
+  },
+  {
+    "abbreviation": "N2O4",
+    "expansion": "Nitrogen Tetroxide"
+  },
+  {
+    "abbreviation": "NAMS",
+    "expansion": "NASA Access Management System"
+  },
+  {
+    "abbreviation": "NARA",
+    "expansion": "National Archive and Records Administration"
+  },
+  {
+    "abbreviation": "NASA",
+    "expansion": "National Aeronautics and Space Administration"
+  },
+  {
+    "abbreviation": "NBL",
+    "expansion": "Neutral Buoyancy Laboratory"
+  },
+  {
+    "abbreviation": "NBSD",
+    "expansion": "Naval Base San Diego"
+  },
+  {
+    "abbreviation": "NC",
+    "expansion": "Non-Conformance"
+  },
+  {
+    "abbreviation": "NDA",
+    "expansion": "Non-Disclosure Agreement"
+  },
+  {
+    "abbreviation": "NDAF",
+    "expansion": "NASA Data Architecture Framework"
+  },
+  {
+    "abbreviation": "NDC",
+    "expansion": "NASA Data Center"
+  },
+  {
+    "abbreviation": "NDE",
+    "expansion": "Non-Destructive Evaluation"
+  },
+  {
+    "abbreviation": "NDR",
+    "expansion": "NASA Diagnostic Radar"
+  },
+  {
+    "abbreviation": "NE",
+    "expansion": "KSC Engineering Directorate"
+  },
+  {
+    "abbreviation": "NEA",
+    "expansion": "Near-Earth Asteroid"
+  },
+  {
+    "abbreviation": "NEMO",
+    "expansion": "NASA Emergency Management Officer"
+  },
+  {
+    "abbreviation": "NEN",
+    "expansion": "Near Earth Network"
+  },
+  {
+    "abbreviation": "NEN",
+    "expansion": "NASA Engineering Network"
+  },
+  {
+    "abbreviation": "NEPA",
+    "expansion": "National Environmental Policy Act"
+  },
+  {
+    "abbreviation": "NFPA",
+    "expansion": "National Fire Protection Agency"
+  },
+  {
+    "abbreviation": "NFS",
+    "expansion": "NASA FAR Supplement"
+  },
+  {
+    "abbreviation": "NGO",
+    "expansion": "Needs, Goals, Objectives"
+  },
+  {
+    "abbreviation": "NGTB",
+    "expansion": "North Gate Terminal Building"
+  },
+  {
+    "abbreviation": "NH3",
+    "expansion": "ammonia"
+  },
+  {
+    "abbreviation": "NIB",
+    "expansion": "Non-Interference Basis"
+  },
+  {
+    "abbreviation": "NIC",
+    "expansion": "Network Integration Center"
+  },
+  {
+    "abbreviation": "NICS",
+    "expansion": "NASA Integrated Communications Services"
+  },
+  {
+    "abbreviation": "NID",
+    "expansion": "NASA Interim Directive"
+  },
+  {
+    "abbreviation": "NIPR",
+    "expansion": "NASA Interagency Purchase Request"
+  },
+  {
+    "abbreviation": "NISN",
+    "expansion": "NASA Integrated Services Network"
+  },
+  {
+    "abbreviation": "NLDN",
+    "expansion": "National Lightning Detection Network"
+  },
+  {
+    "abbreviation": "NMA",
+    "expansion": "National Management Association"
+  },
+  {
+    "abbreviation": "NMIS",
+    "expansion": "NASA Mishap Information System"
+  },
+  {
+    "abbreviation": "NOA",
+    "expansion": "Notice of Availability"
+  },
+  {
+    "abbreviation": "NOA",
+    "expansion": "New Obligation Authority"
+  },
+  {
+    "abbreviation": "NOACK",
+    "expansion": "No Acknowledgement"
+  },
+  {
+    "abbreviation": "NOCMT",
+    "expansion": "Requirements have not been committed"
+  },
+  {
+    "abbreviation": "NODIS",
+    "expansion": "NASA Online Directives Information System"
+  },
+  {
+    "abbreviation": "NORS",
+    "expansion": "Nitrogen/Oxygen Recharge System"
+  },
+  {
+    "abbreviation": "NOWLCO",
+    "expansion": "Support requirement cannot be met"
+  },
+  {
+    "abbreviation": "NPD",
+    "expansion": "NASA Policy Directive"
+  },
+  {
+    "abbreviation": "NPI",
+    "expansion": "Number of Parts Installed"
+  },
+  {
+    "abbreviation": "NPR",
+    "expansion": "NASA Procedural Requirements"
+  },
+  {
+    "abbreviation": "NPRD",
+    "expansion": "Network Program Requirements Document"
+  },
+  {
+    "abbreviation": "N-PROP",
+    "expansion": "NASA Property Management Database"
+  },
+  {
+    "abbreviation": "NRA",
+    "expansion": "NASA Research Announcements"
+  },
+  {
+    "abbreviation": "NRD",
+    "expansion": "NASA Recovery Director"
+  },
+  {
+    "abbreviation": "NROL",
+    "expansion": "National Reconnaissance Office Launch"
+  },
+  {
+    "abbreviation": "NRRS",
+    "expansion": "NASA Records Retention Schedule"
+  },
+  {
+    "abbreviation": "NS",
+    "expansion": "Naval Station"
+  },
+  {
+    "abbreviation": "NSA",
+    "expansion": "National Security Agency"
+  },
+  {
+    "abbreviation": "NSI",
+    "expansion": "NASA Standard Initiator"
+  },
+  {
+    "abbreviation": "NSLD",
+    "expansion": "NASA Shuttle Logistics Depot"
+  },
+  {
+    "abbreviation": "NSRS",
+    "expansion": "NASA Safety Reporting System"
+  },
+  {
+    "abbreviation": "NSSC",
+    "expansion": "NASA Shared Services Center"
+  },
+  {
+    "abbreviation": "NSSD",
+    "expansion": "NASA Spacecraft Services Depot"
+  },
+  {
+    "abbreviation": "NSWC",
+    "expansion": "Naval Surface Warfare Center"
+  },
+  {
+    "abbreviation": "NTC",
+    "expansion": "NASA Technical Categories (Capabilities) ???"
+  },
+  {
+    "abbreviation": "NTD",
+    "expansion": "NASA Test Director"
+  },
+  {
+    "abbreviation": "NTP",
+    "expansion": "Notice to Proceed"
+  },
+  {
+    "abbreviation": "NTSB",
+    "expansion": "National Transportation Safety Board"
+  },
+  {
+    "abbreviation": "O&C",
+    "expansion": "Operations and Checkout"
+  },
+  {
+    "abbreviation": "O&M",
+    "expansion": "Operations and Maintenance"
+  },
+  {
+    "abbreviation": "O2",
+    "expansion": "Oxygen"
+  },
+  {
+    "abbreviation": "OA",
+    "expansion": "Operating Agreement"
+  },
+  {
+    "abbreviation": "OATK",
+    "expansion": "Orbital Alliant Techsystems"
+  },
+  {
+    "abbreviation": "OB",
+    "expansion": "Obligation"
+  },
+  {
+    "abbreviation": "OBE",
+    "expansion": "Overcome By Events"
+  },
+  {
+    "abbreviation": "OBS",
+    "expansion": "Organizational Breakdown Structure"
+  },
+  {
+    "abbreviation": "OCD",
+    "expansion": "Operations Concept Document"
+  },
+  {
+    "abbreviation": "OCE",
+    "expansion": "Office of the Chief Engineer"
+  },
+  {
+    "abbreviation": "OCFO",
+    "expansion": "Office of the Chief Financial Officer"
+  },
+  {
+    "abbreviation": "OCI",
+    "expansion": "Organizational Conflict of Interest"
+  },
+  {
+    "abbreviation": "OCP",
+    "expansion": "Operations Control Panel"
+  },
+  {
+    "abbreviation": "OCT",
+    "expansion": "Office of Chief Technologist"
+  },
+  {
+    "abbreviation": "OCU",
+    "expansion": "Ordnance Control Unit"
+  },
+  {
+    "abbreviation": "OD",
+    "expansion": "Operational Data"
+  },
+  {
+    "abbreviation": "ODC",
+    "expansion": "Other Direct Costs"
+  },
+  {
+    "abbreviation": "ODC",
+    "expansion": "Overhead Direct Charge"
+  },
+  {
+    "abbreviation": "ODMS",
+    "expansion": "Oxygen Deficiency Monitoring System"
+  },
+  {
+    "abbreviation": "ODN",
+    "expansion": "On-Board Data Network"
+  },
+  {
+    "abbreviation": "ODT",
+    "expansion": "Organizational Development Team"
+  },
+  {
+    "abbreviation": "OE",
+    "expansion": "Operational Engineer"
+  },
+  {
+    "abbreviation": "OEE",
+    "expansion": "Operational External Enclave"
+  },
+  {
+    "abbreviation": "OEM",
+    "expansion": "Operations Element Manager"
+  },
+  {
+    "abbreviation": "OEM",
+    "expansion": "Original Equipment Manufacturer"
+  },
+  {
+    "abbreviation": "OERB",
+    "expansion": "Operations Engineering Review Board"
+  },
+  {
+    "abbreviation": "OFI",
+    "expansion": "Operational Flight Instrumentation"
+  },
+  {
+    "abbreviation": "OFT",
+    "expansion": "Orbital Flight Test"
+  },
+  {
+    "abbreviation": "OFT-1",
+    "expansion": "Orion Flight Test-1"
+  },
+  {
+    "abbreviation": "OGIR",
+    "expansion": "Orion Ground Integration Resource"
+  },
+  {
+    "abbreviation": "OHCM",
+    "expansion": "Office of Human Capital Management"
+  },
+  {
+    "abbreviation": "OI",
+    "expansion": "Operational Imagery"
+  },
+  {
+    "abbreviation": "OICB",
+    "expansion": "Orion Integration Control Board"
+  },
+  {
+    "abbreviation": "OICB",
+    "expansion": "Orion Integration Control Board"
+  },
+  {
+    "abbreviation": "OIG",
+    "expansion": "Office of the Inspector General"
+  },
+  {
+    "abbreviation": "OIS",
+    "expansion": "Operational Intercommunications System"
+  },
+  {
+    "abbreviation": "OIS-D",
+    "expansion": "Operational Intercommunications System-Digital"
+  },
+  {
+    "abbreviation": "OIS-M",
+    "expansion": "Operational Intercommunications System-Mission Operational Voice Enhancement"
+  },
+  {
+    "abbreviation": "OJT",
+    "expansion": "On the Job Training"
+  },
+  {
+    "abbreviation": "OLM",
+    "expansion": "Orion Lockheed Martin"
+  },
+  {
+    "abbreviation": "OMB",
+    "expansion": "Office of Management and Budget"
+  },
+  {
+    "abbreviation": "OMCR",
+    "expansion": "Operations and Maintenance Controlled Requirement"
+  },
+  {
+    "abbreviation": "OME",
+    "expansion": "Orion Main Engine"
+  },
+  {
+    "abbreviation": "OMEU",
+    "expansion": "Operations, Maintenance, Engineering, and User"
+  },
+  {
+    "abbreviation": "OMI",
+    "expansion": "Operational Maintenance Instruction"
+  },
+  {
+    "abbreviation": "OML",
+    "expansion": "Outer Mold Line"
+  },
+  {
+    "abbreviation": "OMRS",
+    "expansion": "Operations and Maintenance Requirements and Specifications"
+  },
+  {
+    "abbreviation": "OMRSD",
+    "expansion": "Operations and Maintenance Requirements and Specifications Document"
+  },
+  {
+    "abbreviation": "OMRSP",
+    "expansion": "Operational Maintenance Requirements & Specifications Panel"
+  },
+  {
+    "abbreviation": "OMS",
+    "expansion": "OMRS Management System"
+  },
+  {
+    "abbreviation": "OMS",
+    "expansion": "Orbital Maneuvering Subsystem"
+  },
+  {
+    "abbreviation": "OOTB",
+    "expansion": "Out of the Box"
+  },
+  {
+    "abbreviation": "OOTB",
+    "expansion": "Out of Tolerance"
+  },
+  {
+    "abbreviation": "OP",
+    "expansion": "Office of Procurement"
+  },
+  {
+    "abbreviation": "OPA",
+    "expansion": "Operations Planning Application"
+  },
+  {
+    "abbreviation": "OPA",
+    "expansion": "Office of Public Affairs"
+  },
+  {
+    "abbreviation": "OPE",
+    "expansion": "Operations Project Engineer"
+  },
+  {
+    "abbreviation": "OPF",
+    "expansion": "Orbiter Processing Facility"
+  },
+  {
+    "abbreviation": "OPI",
+    "expansion": "Offline Processing and Infrastructure"
+  },
+  {
+    "abbreviation": "OPII",
+    "expansion": "Office of Program and Institutional Integration"
+  },
+  {
+    "abbreviation": "OPO",
+    "expansion": "Orion Production Operations"
+  },
+  {
+    "abbreviation": "OPO",
+    "expansion": "Orion Production Office"
+  },
+  {
+    "abbreviation": "OPO",
+    "expansion": "On Pad Operation"
+  },
+  {
+    "abbreviation": "OPP",
+    "expansion": "Overpressure Protection Panel"
+  },
+  {
+    "abbreviation": "OPPR",
+    "expansion": "Operations Processing Project Review"
+  },
+  {
+    "abbreviation": "OPR",
+    "expansion": "Office of Primary Responsibility"
+  },
+  {
+    "abbreviation": "Ops",
+    "expansion": "Operations"
+  },
+  {
+    "abbreviation": "ORCA",
+    "expansion": "Orion Recovery Cradle Assembly"
+  },
+  {
+    "abbreviation": "ORCA",
+    "expansion": "Orion Recovery Cradle Assembly"
+  },
+  {
+    "abbreviation": "ORD",
+    "expansion": "Operations Requirement Document"
+  },
+  {
+    "abbreviation": "ORD",
+    "expansion": "Operational Readiness Date"
+  },
+  {
+    "abbreviation": "ORR",
+    "expansion": "Operational Readiness Review"
+  },
+  {
+    "abbreviation": "ORU",
+    "expansion": "Orbital Replacement Unit"
+  },
+  {
+    "abbreviation": "OSA",
+    "expansion": "Orion Spacecraft Adapter (ie: MSA)"
+  },
+  {
+    "abbreviation": "OSC",
+    "expansion": "Orbital Sciences Corporation"
+  },
+  {
+    "abbreviation": "OSC",
+    "expansion": "Operations Support Console"
+  },
+  {
+    "abbreviation": "OSD",
+    "expansion": "Office of the Secretary of Defense"
+  },
+  {
+    "abbreviation": "OSD",
+    "expansion": "Operational Surveillance and Distribution"
+  },
+  {
+    "abbreviation": "OSE",
+    "expansion": "Operations Support Element"
+  },
+  {
+    "abbreviation": "OSF",
+    "expansion": "Ordnance Storage Facility"
+  },
+  {
+    "abbreviation": "OSHA",
+    "expansion": "Occupational Safety and Health Administration"
+  },
+  {
+    "abbreviation": "OSI",
+    "expansion": "Operational Surveillance Imagery"
+  },
+  {
+    "abbreviation": "OSID",
+    "expansion": "Operating System Identifier"
+  },
+  {
+    "abbreviation": "OSMA",
+    "expansion": "Office of Safety and Mission Assurance"
+  },
+  {
+    "abbreviation": "OSMS",
+    "expansion": "On-Site Manufacturing Support"
+  },
+  {
+    "abbreviation": "OSMU",
+    "expansion": "Orion Service Module Umbilical"
+  },
+  {
+    "abbreviation": "OSWIG",
+    "expansion": "Orion-SLS Working Integration Group"
+  },
+  {
+    "abbreviation": "OT",
+    "expansion": "Operational Technology"
+  },
+  {
+    "abbreviation": "OTC",
+    "expansion": "Orion Test Conductor"
+  },
+  {
+    "abbreviation": "OTN",
+    "expansion": "Optical Transport Network"
+  },
+  {
+    "abbreviation": "OTN",
+    "expansion": "Optical Transport Network"
+  },
+  {
+    "abbreviation": "OTP",
+    "expansion": "Orion Transportation Pallet"
+  },
+  {
+    "abbreviation": "OTRR",
+    "expansion": "Operational Test Readiness Reviews"
+  },
+  {
+    "abbreviation": "OTTO",
+    "expansion": "Operational Tracking Tool"
+  },
+  {
+    "abbreviation": "OTV",
+    "expansion": "Operational Television"
+  },
+  {
+    "abbreviation": "OWG",
+    "expansion": "Operations Working Group"
+  },
+  {
+    "abbreviation": "OWG",
+    "expansion": "Operators Working Group"
+  },
+  {
+    "abbreviation": "P&D",
+    "expansion": "Planning and Definition"
+  },
+  {
+    "abbreviation": "P2P",
+    "expansion": "Program-to-Program"
+  },
+  {
+    "abbreviation": "PA",
+    "expansion": "Program Architectures"
+  },
+  {
+    "abbreviation": "PAA",
+    "expansion": "Program Analysis & Alignment"
+  },
+  {
+    "abbreviation": "PAD",
+    "expansion": "Launch Pad (aka. Pad)"
+  },
+  {
+    "abbreviation": "PAD",
+    "expansion": "Project Authorization Document"
+  },
+  {
+    "abbreviation": "PAD",
+    "expansion": "Program Agreements Document"
+  },
+  {
+    "abbreviation": "PADD",
+    "expansion": "Photo Acquisition and Disposition Document"
+  },
+  {
+    "abbreviation": "PAF",
+    "expansion": "Payload Attach Fitting"
+  },
+  {
+    "abbreviation": "PAFB",
+    "expansion": "Patrick Air Force Base"
+  },
+  {
+    "abbreviation": "PAG",
+    "expansion": "Programmatic Analysis Group"
+  },
+  {
+    "abbreviation": "PAIG",
+    "expansion": "Programmatic and Institutional Guidance"
+  },
+  {
+    "abbreviation": "PALSGO",
+    "expansion": "Cross-Program Processes and Agreements for Launch Site Ground Operations"
+  },
+  {
+    "abbreviation": "PAO",
+    "expansion": "Public Affairs Office"
+  },
+  {
+    "abbreviation": "PAR",
+    "expansion": "Program Assessment Request"
+  },
+  {
+    "abbreviation": "PARR",
+    "expansion": "Pre-Acquisition Readiness Review"
+  },
+  {
+    "abbreviation": "PAS",
+    "expansion": "Payload Accommodation Subsystem"
+  },
+  {
+    "abbreviation": "PAS",
+    "expansion": "Payload Accommodation Subsystem"
+  },
+  {
+    "abbreviation": "PAWS",
+    "expansion": "Paging and Area Warning System"
+  },
+  {
+    "abbreviation": "PBIT",
+    "expansion": "Power On Built-in Test"
+  },
+  {
+    "abbreviation": "PBR",
+    "expansion": "President's Budget Request"
+  },
+  {
+    "abbreviation": "PBS",
+    "expansion": "Product Breakdown Structure"
+  },
+  {
+    "abbreviation": "PC",
+    "expansion": "Probability of Casualty"
+  },
+  {
+    "abbreviation": "PC",
+    "expansion": "Personal Computer"
+  },
+  {
+    "abbreviation": "PC",
+    "expansion": "Purchase Card"
+  },
+  {
+    "abbreviation": "PC",
+    "expansion": "Printed Circuit"
+  },
+  {
+    "abbreviation": "PCA",
+    "expansion": "Physical Configuration Audit"
+  },
+  {
+    "abbreviation": "PCA",
+    "expansion": "Program Commitment Agreement"
+  },
+  {
+    "abbreviation": "PCA",
+    "expansion": "Paging Control Assembly"
+  },
+  {
+    "abbreviation": "PCB",
+    "expansion": "Program Control Board"
+  },
+  {
+    "abbreviation": "PCB",
+    "expansion": "Project Control Board"
+  },
+  {
+    "abbreviation": "PCE",
+    "expansion": "Probabilistic Cost Estimate"
+  },
+  {
+    "abbreviation": "PCMU",
+    "expansion": "Pressure, Control, and Monitoring Unit"
+  },
+  {
+    "abbreviation": "PCN",
+    "expansion": "Project Control Number"
+  },
+  {
+    "abbreviation": "PCO",
+    "expansion": "Program Control Office"
+  },
+  {
+    "abbreviation": "PCP",
+    "expansion": "Project Control Panel"
+  },
+  {
+    "abbreviation": "PCU",
+    "expansion": "Power Control Unit"
+  },
+  {
+    "abbreviation": "PDCU",
+    "expansion": "Power Distribution and Control Unit"
+  },
+  {
+    "abbreviation": "PDF",
+    "expansion": "Program Development Framework"
+  },
+  {
+    "abbreviation": "PDF",
+    "expansion": "Portable Document Format"
+  },
+  {
+    "abbreviation": "PDLM",
+    "expansion": "Product Data and Lifecycle Management"
+  },
+  {
+    "abbreviation": "PDM",
+    "expansion": "Program Decision Memorandum"
+  },
+  {
+    "abbreviation": "PDM",
+    "expansion": "Product Data Management"
+  },
+  {
+    "abbreviation": "PDO",
+    "expansion": "Property Disposal Office/Officer"
+  },
+  {
+    "abbreviation": "PDR",
+    "expansion": "Program Decision Review"
+  },
+  {
+    "abbreviation": "PDR",
+    "expansion": "Preliminary Design Review"
+  },
+  {
+    "abbreviation": "PDS",
+    "expansion": "Product Data Sheets"
+  },
+  {
+    "abbreviation": "PDS",
+    "expansion": "Project Data Sheet"
+  },
+  {
+    "abbreviation": "PDU",
+    "expansion": "Power Distribution Unit"
+  },
+  {
+    "abbreviation": "PE",
+    "expansion": "Probability of Event"
+  },
+  {
+    "abbreviation": "PEC",
+    "expansion": "Pyrotechnic Event Controller"
+  },
+  {
+    "abbreviation": "PEDR",
+    "expansion": "Preliminary Element Design Review"
+  },
+  {
+    "abbreviation": "PFC",
+    "expansion": "Precision Fabrication and Cleaning"
+  },
+  {
+    "abbreviation": "PHS&T",
+    "expansion": "Packaging, Handling, Shipping, and Transportation"
+  },
+  {
+    "abbreviation": "PHSF",
+    "expansion": "Payload Hazardous Servicing Facility"
+  },
+  {
+    "abbreviation": "PI",
+    "expansion": "Program Integration"
+  },
+  {
+    "abbreviation": "PID",
+    "expansion": "Probability Impact Diagram"
+  },
+  {
+    "abbreviation": "PIL",
+    "expansion": "Product Impact List"
+  },
+  {
+    "abbreviation": "PIMS",
+    "expansion": "Project Information Management System"
+  },
+  {
+    "abbreviation": "PIP",
+    "expansion": "Payload Integration Plan"
+  },
+  {
+    "abbreviation": "PITT",
+    "expansion": "Program Integrated Task Team"
+  },
+  {
+    "abbreviation": "PIV",
+    "expansion": "Personal Identity Verification"
+  },
+  {
+    "abbreviation": "PJ",
+    "expansion": "Parachute Jumper"
+  },
+  {
+    "abbreviation": "PKI",
+    "expansion": "Public Key Infrastructure"
+  },
+  {
+    "abbreviation": "PL",
+    "expansion": "Product Line"
+  },
+  {
+    "abbreviation": "PL",
+    "expansion": "Prerequisite Logic"
+  },
+  {
+    "abbreviation": "PL",
+    "expansion": "Parts List"
+  },
+  {
+    "abbreviation": "PLANORD",
+    "expansion": "Planning Order"
+  },
+  {
+    "abbreviation": "PLC",
+    "expansion": "Programmable Logic Controller"
+  },
+  {
+    "abbreviation": "PLF",
+    "expansion": "Payload Fairing"
+  },
+  {
+    "abbreviation": "PLM",
+    "expansion": "Product Lifecycle Management"
+  },
+  {
+    "abbreviation": "PLN",
+    "expansion": "Plan"
+  },
+  {
+    "abbreviation": "PM",
+    "expansion": "Program Manager"
+  },
+  {
+    "abbreviation": "PM",
+    "expansion": "Project Management"
+  },
+  {
+    "abbreviation": "PM",
+    "expansion": "Program Management"
+  },
+  {
+    "abbreviation": "PMAP",
+    "expansion": "Performance Management Action Plan"
+  },
+  {
+    "abbreviation": "PMC",
+    "expansion": "Program Management Council (Agency)"
+  },
+  {
+    "abbreviation": "PMN",
+    "expansion": "Program Model Number"
+  },
+  {
+    "abbreviation": "PMO",
+    "expansion": "Program Management Office"
+  },
+  {
+    "abbreviation": "PMR",
+    "expansion": "Program Managers Recommend"
+  },
+  {
+    "abbreviation": "PMR",
+    "expansion": "Program Management Review"
+  },
+  {
+    "abbreviation": "PMR",
+    "expansion": "Project Management Review"
+  },
+  {
+    "abbreviation": "PMR",
+    "expansion": "Project Monthly Review"
+  },
+  {
+    "abbreviation": "PMR",
+    "expansion": "Program Monthly Review"
+  },
+  {
+    "abbreviation": "PMT",
+    "expansion": "Performance Measurement Technique"
+  },
+  {
+    "abbreviation": "PMT",
+    "expansion": "Performance Management Team"
+  },
+  {
+    "abbreviation": "PNCR",
+    "expansion": "Product Non-conformance Reporting System"
+  },
+  {
+    "abbreviation": "POAM",
+    "expansion": "Plan of Action and Milestone"
+  },
+  {
+    "abbreviation": "POC",
+    "expansion": "Point of Contact"
+  },
+  {
+    "abbreviation": "POCR",
+    "expansion": "Production Operations CAM Review"
+  },
+  {
+    "abbreviation": "POCS",
+    "expansion": "Photo Optic Control System"
+  },
+  {
+    "abbreviation": "PoD",
+    "expansion": "Point of Departure (aka. POD)"
+  },
+  {
+    "abbreviation": "POIWG",
+    "expansion": "Production Operations Integrated Working Group"
+  },
+  {
+    "abbreviation": "POMPL",
+    "expansion": "Power on Master Poll List"
+  },
+  {
+    "abbreviation": "PoP",
+    "expansion": "Period of Performance"
+  },
+  {
+    "abbreviation": "PoR",
+    "expansion": "Program of Record"
+  },
+  {
+    "abbreviation": "PORT",
+    "expansion": "Post-Landing Orion Recovery Test"
+  },
+  {
+    "abbreviation": "PP&C",
+    "expansion": "Program Planning and Control"
+  },
+  {
+    "abbreviation": "PPBE",
+    "expansion": "Planning, Programming, Budgeting, and Execution"
+  },
+  {
+    "abbreviation": "PPE",
+    "expansion": "Personal Protective Equipment"
+  },
+  {
+    "abbreviation": "PPE",
+    "expansion": "Prop Power Element"
+  },
+  {
+    "abbreviation": "PPL",
+    "expansion": "Primary Payload"
+  },
+  {
+    "abbreviation": "PPlan",
+    "expansion": "Programming Plan (currently AFSC Programming Plan 10-01)"
+  },
+  {
+    "abbreviation": "PPSC",
+    "expansion": "Preliminary Program Support Checkpoint"
+  },
+  {
+    "abbreviation": "PR",
+    "expansion": "Purchase Request"
+  },
+  {
+    "abbreviation": "PRA",
+    "expansion": "Probabilistic Risk Assessment (model)"
+  },
+  {
+    "abbreviation": "PRACA",
+    "expansion": "Problem Reporting and Corrective Action"
+  },
+  {
+    "abbreviation": "PRB",
+    "expansion": "Program Review Board"
+  },
+  {
+    "abbreviation": "PRCU",
+    "expansion": "Payload Rack Checkout Unit"
+  },
+  {
+    "abbreviation": "PRD",
+    "expansion": "Program Requirements Document"
+  },
+  {
+    "abbreviation": "PRF",
+    "expansion": "Parachute Refurbishment Facility"
+  },
+  {
+    "abbreviation": "PRG",
+    "expansion": "(for T&R) Program and Resource Guidance"
+  },
+  {
+    "abbreviation": "PRO",
+    "expansion": "Procedure"
+  },
+  {
+    "abbreviation": "PRR",
+    "expansion": "Program Risk Review"
+  },
+  {
+    "abbreviation": "PRR",
+    "expansion": "Production Readiness Review"
+  },
+  {
+    "abbreviation": "PRT",
+    "expansion": "Program Review Team"
+  },
+  {
+    "abbreviation": "PRT",
+    "expansion": "Problem Resolution Team"
+  },
+  {
+    "abbreviation": "PSCC",
+    "expansion": "Protective Services Communications Center"
+  },
+  {
+    "abbreviation": "PSE",
+    "expansion": "Probabilistic Schedule Estimate"
+  },
+  {
+    "abbreviation": "PSET",
+    "expansion": "Program Specific Engineering Test"
+  },
+  {
+    "abbreviation": "psf",
+    "expansion": "Ibs./ft2 (pounds per square foot)"
+  },
+  {
+    "abbreviation": "PSI",
+    "expansion": "Programmatic and Strategic Integration"
+  },
+  {
+    "abbreviation": "PSM",
+    "expansion": "Procurement Strategy Meeting"
+  },
+  {
+    "abbreviation": "PSM",
+    "expansion": "Process Safety Management"
+  },
+  {
+    "abbreviation": "PSMT",
+    "expansion": "Partial Stack Modal Test"
+  },
+  {
+    "abbreviation": "PSMWG",
+    "expansion": "Procurement and Supply-chain Management Working Group"
+  },
+  {
+    "abbreviation": "PSP",
+    "expansion": "Program Strategic Planning"
+  },
+  {
+    "abbreviation": "PSR",
+    "expansion": "Program Schedule Review"
+  },
+  {
+    "abbreviation": "PSRD",
+    "expansion": "Program Support Requirements Document"
+  },
+  {
+    "abbreviation": "PSRP",
+    "expansion": "Payload Safety Review Panel"
+  },
+  {
+    "abbreviation": "PSS",
+    "expansion": "Payload Separation System"
+  },
+  {
+    "abbreviation": "PST",
+    "expansion": "Product Support Team"
+  },
+  {
+    "abbreviation": "PT",
+    "expansion": "Project Team"
+  },
+  {
+    "abbreviation": "PTCR",
+    "expansion": "Pad Terminal Connection Room"
+  },
+  {
+    "abbreviation": "PTE",
+    "expansion": "Property Transition Express"
+  },
+  {
+    "abbreviation": "PTI",
+    "expansion": "Product Technical Integrator"
+  },
+  {
+    "abbreviation": "PTI",
+    "expansion": "Program Technical Integration"
+  },
+  {
+    "abbreviation": "PTM",
+    "expansion": "Product Tailoring Matrix"
+  },
+  {
+    "abbreviation": "PTR",
+    "expansion": "Periodic Technical Review"
+  },
+  {
+    "abbreviation": "PTS",
+    "expansion": "Power Transfer Switch"
+  },
+  {
+    "abbreviation": "PV/S",
+    "expansion": "Pressure Vessel/System"
+  },
+  {
+    "abbreviation": "PVS",
+    "expansion": "Pressure Vessel System"
+  },
+  {
+    "abbreviation": "PWS",
+    "expansion": "Performance Work Statement"
+  },
+  {
+    "abbreviation": "PWS",
+    "expansion": "Portal Workstation"
+  },
+  {
+    "abbreviation": "Pyro",
+    "expansion": "Pyrotechnics"
+  },
+  {
+    "abbreviation": "QA",
+    "expansion": "Quality Assurance"
+  },
+  {
+    "abbreviation": "QASP",
+    "expansion": "Quality Assurance Surveillance Plan"
+  },
+  {
+    "abbreviation": "QAUS",
+    "expansion": "ML Arms and Umbilicals Engineer"
+  },
+  {
+    "abbreviation": "QD",
+    "expansion": "Quality Designee"
+  },
+  {
+    "abbreviation": "QD",
+    "expansion": "Quick Disconnect"
+  },
+  {
+    "abbreviation": "QD",
+    "expansion": "Quantity-Distance"
+  },
+  {
+    "abbreviation": "QEI",
+    "expansion": "Quality Elevator Inspector"
+  },
+  {
+    "abbreviation": "QLB",
+    "expansion": "Quicklook Book"
+  },
+  {
+    "abbreviation": "QMS",
+    "expansion": "Quality Management System"
+  },
+  {
+    "abbreviation": "QMTG",
+    "expansion": "ML Technician"
+  },
+  {
+    "abbreviation": "QPPR",
+    "expansion": "Quarterly Program Progress Review"
+  },
+  {
+    "abbreviation": "QPRD",
+    "expansion": "Quality Planning Requirements Document"
+  },
+  {
+    "abbreviation": "QPSR",
+    "expansion": "Quarterly Program Status Review"
+  },
+  {
+    "abbreviation": "QRA",
+    "expansion": "Quantitative Risk Assessment"
+  },
+  {
+    "abbreviation": "QRA",
+    "expansion": "Quantitative Risk Analysis"
+  },
+  {
+    "abbreviation": "QRG",
+    "expansion": "Quick Reference Guide"
+  },
+  {
+    "abbreviation": "QSR",
+    "expansion": "Quarterly Subcontractor Review"
+  },
+  {
+    "abbreviation": "R&D",
+    "expansion": "Research and Development"
+  },
+  {
+    "abbreviation": "R&M",
+    "expansion": "Reliability and Maintainability"
+  },
+  {
+    "abbreviation": "R&R",
+    "expansion": "Record and Retrieval"
+  },
+  {
+    "abbreviation": "R&R",
+    "expansion": "Requirement and Response"
+  },
+  {
+    "abbreviation": "R2D2",
+    "expansion": "Recording and Retrieval of Distributed Data"
+  },
+  {
+    "abbreviation": "R2S",
+    "expansion": "Remote Resource Subsystem"
+  },
+  {
+    "abbreviation": "RABBIT",
+    "expansion": "Recursive Analysis By Backwards IMS Tracing"
+  },
+  {
+    "abbreviation": "RAC",
+    "expansion": "Requirements Analysis Cycle"
+  },
+  {
+    "abbreviation": "RADAR",
+    "expansion": "RAdio Detection And Ranging"
+  },
+  {
+    "abbreviation": "RAIB",
+    "expansion": "Remote Air Intake Building"
+  },
+  {
+    "abbreviation": "RAMS",
+    "expansion": "Reliability and Maintainability Symposium"
+  },
+  {
+    "abbreviation": "RAS",
+    "expansion": "RI&CS Architecture Study"
+  },
+  {
+    "abbreviation": "RBCC",
+    "expansion": "Rocket-Based Combined Cycle"
+  },
+  {
+    "abbreviation": "RBD",
+    "expansion": "Reliability Block Diagram"
+  },
+  {
+    "abbreviation": "RBS",
+    "expansion": "Reusable Booster System"
+  },
+  {
+    "abbreviation": "RBS",
+    "expansion": "Requirements Breakdown Structure"
+  },
+  {
+    "abbreviation": "RCC",
+    "expansion": "Reinforced Carbon Carbon"
+  },
+  {
+    "abbreviation": "RCDP",
+    "expansion": "Records Capture and Disposition Plan"
+  },
+  {
+    "abbreviation": "RCN",
+    "expansion": "Requirement Change Notice"
+  },
+  {
+    "abbreviation": "RCR",
+    "expansion": "Requirements Closure Review"
+  },
+  {
+    "abbreviation": "RCS",
+    "expansion": "Reaction Control System"
+  },
+  {
+    "abbreviation": "RD",
+    "expansion": "Receipt Desk"
+  },
+  {
+    "abbreviation": "RDAU",
+    "expansion": "Remote Data Acquisition Unit"
+  },
+  {
+    "abbreviation": "RDF",
+    "expansion": "RID Disposition Team"
+  },
+  {
+    "abbreviation": "RDP",
+    "expansion": "Remote Desktop Protocol"
+  },
+  {
+    "abbreviation": "RDT",
+    "expansion": "RID Disposition Team"
+  },
+  {
+    "abbreviation": "RE",
+    "expansion": "Radiated Emission"
+  },
+  {
+    "abbreviation": "REA",
+    "expansion": "Request for Equitable Adjustment"
+  },
+  {
+    "abbreviation": "REEB",
+    "expansion": "Resource Environment for Enhanced Budgeting"
+  },
+  {
+    "abbreviation": "ReMP",
+    "expansion": "Requirements Management Plan"
+  },
+  {
+    "abbreviation": "REMP",
+    "expansion": "Requirements Engineering Management Plan"
+  },
+  {
+    "abbreviation": "RES",
+    "expansion": "Risk-based Explosive Safe-siting toolset"
+  },
+  {
+    "abbreviation": "RESOLVE",
+    "expansion": "Regolith and Environment Science and Oxygen and Lunar Volatile Extraction"
+  },
+  {
+    "abbreviation": "RF",
+    "expansion": "Radio Frequency"
+  },
+  {
+    "abbreviation": "RFA",
+    "expansion": "Request for Action"
+  },
+  {
+    "abbreviation": "RFAWG",
+    "expansion": "Requirements and Functional Analysis Working Group"
+  },
+  {
+    "abbreviation": "RFI",
+    "expansion": "Request for Information"
+  },
+  {
+    "abbreviation": "RFP",
+    "expansion": "Request For Proposal/Procurement"
+  },
+  {
+    "abbreviation": "RFR",
+    "expansion": "Request for Relief"
+  },
+  {
+    "abbreviation": "RFTS",
+    "expansion": "Radio Frequency and Telemetry Station"
+  },
+  {
+    "abbreviation": "RGA",
+    "expansion": "Rate Gyro Assembly"
+  },
+  {
+    "abbreviation": "RGWG",
+    "expansion": "Range Ground Working Group"
+  },
+  {
+    "abbreviation": "RH",
+    "expansion": "Right Hand"
+  },
+  {
+    "abbreviation": "RHIB",
+    "expansion": "Rigid-Hulled Inflatable Boat"
+  },
+  {
+    "abbreviation": "RI&CS",
+    "expansion": "Range Interface and Control Systems (aka. RICS)"
+  },
+  {
+    "abbreviation": "RID",
+    "expansion": "Review Item Discrepancy"
+  },
+  {
+    "abbreviation": "RIDM",
+    "expansion": "Risk Informed Decision Making"
+  },
+  {
+    "abbreviation": "RINU",
+    "expansion": "Redundant Inertial Navigation Unit"
+  },
+  {
+    "abbreviation": "RIO",
+    "expansion": "Remote Input Output"
+  },
+  {
+    "abbreviation": "RISA",
+    "expansion": "Rapid Interactive Structural Analysis"
+  },
+  {
+    "abbreviation": "RISA",
+    "expansion": "Rapid Interactive Structural Analysis"
+  },
+  {
+    "abbreviation": "RM",
+    "expansion": "Risk Management"
+  },
+  {
+    "abbreviation": "RMA",
+    "expansion": "Reliability, Maintainability, Availability"
+  },
+  {
+    "abbreviation": "RMO",
+    "expansion": "Risk Management Officer"
+  },
+  {
+    "abbreviation": "RMP",
+    "expansion": "Risk Management Plan"
+  },
+  {
+    "abbreviation": "RMS",
+    "expansion": "Requirements Management System"
+  },
+  {
+    "abbreviation": "RMS",
+    "expansion": "Root Mean Square"
+  },
+  {
+    "abbreviation": "ROA",
+    "expansion": "Research Opportunity Announcement"
+  },
+  {
+    "abbreviation": "ROA",
+    "expansion": "Responsible Organization Agreement"
+  },
+  {
+    "abbreviation": "ROAM",
+    "expansion": "Requirements for Operations and Maintenance"
+  },
+  {
+    "abbreviation": "ROI",
+    "expansion": "Return on Investment"
+  },
+  {
+    "abbreviation": "ROM",
+    "expansion": "Rough Order of Magnitude"
+  },
+  {
+    "abbreviation": "ROM",
+    "expansion": "Recovery Operations Manager"
+  },
+  {
+    "abbreviation": "ROSES",
+    "expansion": "Research Opportunities in Space and Earth Sciences"
+  },
+  {
+    "abbreviation": "RP-1",
+    "expansion": "Rocket Propellant 1"
+  },
+  {
+    "abbreviation": "RPC",
+    "expansion": "Remote Power Controller"
+  },
+  {
+    "abbreviation": "RPS",
+    "expansion": "Record and Playback System"
+  },
+  {
+    "abbreviation": "RPSF",
+    "expansion": "Rotation Processing and Surge Facility"
+  },
+  {
+    "abbreviation": "RRAP",
+    "expansion": "RMA Requirements Allocation Plan"
+  },
+  {
+    "abbreviation": "RRAT",
+    "expansion": "Roles and Responsibilities Action Team"
+  },
+  {
+    "abbreviation": "RRP",
+    "expansion": "Risk Review Panel"
+  },
+  {
+    "abbreviation": "RS",
+    "expansion": "Radiated Susceptibility"
+  },
+  {
+    "abbreviation": "RS&H",
+    "expansion": "Reynolds, Smith and Hills"
+  },
+  {
+    "abbreviation": "RSAR",
+    "expansion": "Reliability and Safety Assessment Report"
+  },
+  {
+    "abbreviation": "RSCS",
+    "expansion": "Range Safety Checkout Subsystem"
+  },
+  {
+    "abbreviation": "RSE",
+    "expansion": "Range Systems Element (EIT)"
+  },
+  {
+    "abbreviation": "RSLP",
+    "expansion": "Rocket Systems Launch Program"
+  },
+  {
+    "abbreviation": "RSLV",
+    "expansion": "Radially-Segmented Launch Vehicle"
+  },
+  {
+    "abbreviation": "RSPL",
+    "expansion": "Recommended Spare Parts List"
+  },
+  {
+    "abbreviation": "RSRB",
+    "expansion": "Reusable Solid Rocket Booster"
+  },
+  {
+    "abbreviation": "RSRM",
+    "expansion": "Reusable Solid Rocket Motor"
+  },
+  {
+    "abbreviation": "RSRMV",
+    "expansion": "Reusable Solid Rocket Motor V"
+  },
+  {
+    "abbreviation": "RSS",
+    "expansion": "Range Safety System"
+  },
+  {
+    "abbreviation": "RT",
+    "expansion": "Real-Time"
+  },
+  {
+    "abbreviation": "RT",
+    "expansion": "Remote Terminal"
+  },
+  {
+    "abbreviation": "RTA",
+    "expansion": "Recharge Tank Assembly"
+  },
+  {
+    "abbreviation": "RTB",
+    "expansion": "Removable Terminal Block"
+  },
+  {
+    "abbreviation": "RTI",
+    "expansion": "Real Time Innovations"
+  },
+  {
+    "abbreviation": "RTM",
+    "expansion": "Requirements Traceability Matrix"
+  },
+  {
+    "abbreviation": "RTQ",
+    "expansion": "Response to Queries"
+  },
+  {
+    "abbreviation": "RTSR",
+    "expansion": "Range Tracking System Report"
+  },
+  {
+    "abbreviation": "S&A",
+    "expansion": "Safe and Arm"
+  },
+  {
+    "abbreviation": "S&H",
+    "expansion": "Safety and Health"
+  },
+  {
+    "abbreviation": "S&MA",
+    "expansion": "Safety and Mission Assurance"
+  },
+  {
+    "abbreviation": "S&TE",
+    "expansion": "Support and Test Equipment"
+  },
+  {
+    "abbreviation": "S/C",
+    "expansion": "Spacecraft"
+  },
+  {
+    "abbreviation": "SA",
+    "expansion": "KSC Safety & Mission Assurance Directorate"
+  },
+  {
+    "abbreviation": "SA",
+    "expansion": "Spacecraft Adapter"
+  },
+  {
+    "abbreviation": "SA",
+    "expansion": "Supportability Analysis"
+  },
+  {
+    "abbreviation": "SAA",
+    "expansion": "Space Act Agreement"
+  },
+  {
+    "abbreviation": "SAA",
+    "expansion": "Systems Assurance Analysis"
+  },
+  {
+    "abbreviation": "SADE",
+    "expansion": "Solar Array Drive Electronics"
+  },
+  {
+    "abbreviation": "SADM",
+    "expansion": "Solar Array Drive Mechanisms"
+  },
+  {
+    "abbreviation": "SAEF",
+    "expansion": "Spacecraft Assembly and Encapsulation Facility"
+  },
+  {
+    "abbreviation": "SAFAR",
+    "expansion": "Safety Assessment Report"
+  },
+  {
+    "abbreviation": "SAGE",
+    "expansion": "Senior Advisory Group Exchange"
+  },
+  {
+    "abbreviation": "SAGE",
+    "expansion": "Stratospheric Aerosol and Gas Experiment"
+  },
+  {
+    "abbreviation": "SAIC",
+    "expansion": "Science Applications International Corporation"
+  },
+  {
+    "abbreviation": "SAMP",
+    "expansion": "Site Activation Management Panel Charter"
+  },
+  {
+    "abbreviation": "SAN",
+    "expansion": "Storage Area Network"
+  },
+  {
+    "abbreviation": "SAP",
+    "expansion": "System Application and Products"
+  },
+  {
+    "abbreviation": "SAP",
+    "expansion": "Software Assurance Plan"
+  },
+  {
+    "abbreviation": "SAR",
+    "expansion": "System Acceptance Review"
+  },
+  {
+    "abbreviation": "SATERN",
+    "expansion": "System for Administration, Training, and Educational Resources for NASA"
+  },
+  {
+    "abbreviation": "SATOCM",
+    "expansion": "Software Avionics Test Orchestration and Command and Messaging"
+  },
+  {
+    "abbreviation": "SB",
+    "expansion": "Small Business"
+  },
+  {
+    "abbreviation": "SBP",
+    "expansion": "Small Business Plan"
+  },
+  {
+    "abbreviation": "SBU",
+    "expansion": "Sensitive But Unclassified"
+  },
+  {
+    "abbreviation": "SCA",
+    "expansion": "System Component Authorization"
+  },
+  {
+    "abbreviation": "SCaN",
+    "expansion": "Space Communications and Navigation"
+  },
+  {
+    "abbreviation": "SCAP",
+    "expansion": "Strategic Capabilities Assets Program"
+  },
+  {
+    "abbreviation": "SCAPE",
+    "expansion": "Self-Contained Atmospheric Protective Ensemble"
+  },
+  {
+    "abbreviation": "SCB",
+    "expansion": "Software Control Board"
+  },
+  {
+    "abbreviation": "SCCS",
+    "expansion": "Spaceport Command and Control System"
+  },
+  {
+    "abbreviation": "SCFM",
+    "expansion": "Standard Cubic Feet Per Minute"
+  },
+  {
+    "abbreviation": "SCI",
+    "expansion": "Special Consideration Item"
+  },
+  {
+    "abbreviation": "SCID",
+    "expansion": "System Configuration Identifier"
+  },
+  {
+    "abbreviation": "SCR",
+    "expansion": "System Concept Review"
+  },
+  {
+    "abbreviation": "SCR",
+    "expansion": "Schedule Change Request"
+  },
+  {
+    "abbreviation": "SCR",
+    "expansion": "System Change Request"
+  },
+  {
+    "abbreviation": "SCV",
+    "expansion": "Small Class Vehicle"
+  },
+  {
+    "abbreviation": "SCVE",
+    "expansion": "Small Class Vehicle Element"
+  },
+  {
+    "abbreviation": "SD",
+    "expansion": "System Documentation"
+  },
+  {
+    "abbreviation": "SDAS",
+    "expansion": "Sensor Data Acquisition System"
+  },
+  {
+    "abbreviation": "SDD",
+    "expansion": "System Design Document"
+  },
+  {
+    "abbreviation": "SDP",
+    "expansion": "Software Development Plan"
+  },
+  {
+    "abbreviation": "SDR",
+    "expansion": "Systems Definition Review"
+  },
+  {
+    "abbreviation": "SDRP",
+    "expansion": "Streamline Design Review Process"
+  },
+  {
+    "abbreviation": "SDTS",
+    "expansion": "Serial Data Telemetry System"
+  },
+  {
+    "abbreviation": "SE",
+    "expansion": "Support Equipment"
+  },
+  {
+    "abbreviation": "SE&I",
+    "expansion": "Systems Engineering and Integration"
+  },
+  {
+    "abbreviation": "SECB",
+    "expansion": "System Engineering Control Board"
+  },
+  {
+    "abbreviation": "SEED",
+    "expansion": "Systems Engineering Exchange and Development"
+  },
+  {
+    "abbreviation": "SEI&O",
+    "expansion": "Systems Engineering, Integration, Operations and Maintenance"
+  },
+  {
+    "abbreviation": "SEMCO",
+    "expansion": "Systems Engineering and Management Company"
+  },
+  {
+    "abbreviation": "SEMP",
+    "expansion": "Systems Engineering Management Plan"
+  },
+  {
+    "abbreviation": "SEP",
+    "expansion": "Solar Electric Propulsion"
+  },
+  {
+    "abbreviation": "SERB",
+    "expansion": "SLS Engineering Review Board"
+  },
+  {
+    "abbreviation": "SES",
+    "expansion": "Senior Executive Service"
+  },
+  {
+    "abbreviation": "SESC",
+    "expansion": "SLS Engineering Support Center"
+  },
+  {
+    "abbreviation": "SETI",
+    "expansion": "Systems Electronic Tie-In"
+  },
+  {
+    "abbreviation": "SEV",
+    "expansion": "Space Exploration Vehicle"
+  },
+  {
+    "abbreviation": "SFD",
+    "expansion": "SLS Flame Deflector"
+  },
+  {
+    "abbreviation": "SFD",
+    "expansion": "Side Flame Deflector"
+  },
+  {
+    "abbreviation": "SHA2",
+    "expansion": "Secure Hash Algorithm"
+  },
+  {
+    "abbreviation": "SHADE",
+    "expansion": "SLS High-Fidelity Advanced Digital Emulator (SHADE)"
+  },
+  {
+    "abbreviation": "SHEA",
+    "expansion": "Safety, Health, Environmental, and Area Access"
+  },
+  {
+    "abbreviation": "SI",
+    "expansion": "Spaceport Integration and Services"
+  },
+  {
+    "abbreviation": "SI&T",
+    "expansion": "Systems Integration and Test"
+  },
+  {
+    "abbreviation": "SID",
+    "expansion": "Standard Interface Document"
+  },
+  {
+    "abbreviation": "SIG",
+    "expansion": "Systems Integration Group"
+  },
+  {
+    "abbreviation": "SII",
+    "expansion": "Strategic Institutional Investment"
+  },
+  {
+    "abbreviation": "SIL",
+    "expansion": "Systems Integration Lab"
+  },
+  {
+    "abbreviation": "SIM",
+    "expansion": "Simulator"
+  },
+  {
+    "abbreviation": "SIMS",
+    "expansion": "Spaceport Information Management System"
+  },
+  {
+    "abbreviation": "SIP",
+    "expansion": "Systems Integration Plan"
+  },
+  {
+    "abbreviation": "SIP",
+    "expansion": "Special Inspection Point"
+  },
+  {
+    "abbreviation": "SIP&A",
+    "expansion": "System Integration, Planning, and Analysis"
+  },
+  {
+    "abbreviation": "SIPOC",
+    "expansion": "Supplier Input Process Output Customer"
+  },
+  {
+    "abbreviation": "SIR",
+    "expansion": "System Integration Review"
+  },
+  {
+    "abbreviation": "SIWG",
+    "expansion": "Software Integration Working Group"
+  },
+  {
+    "abbreviation": "SL",
+    "expansion": "Senior Level - Referring to a Government Rank"
+  },
+  {
+    "abbreviation": "SLDB",
+    "expansion": "Separately Loadable Data Base"
+  },
+  {
+    "abbreviation": "SLF",
+    "expansion": "Shuttle Landing Facility"
+  },
+  {
+    "abbreviation": "SLIMER",
+    "expansion": "Schedule Line Item Macro Extractor from Risk Data"
+  },
+  {
+    "abbreviation": "SLS",
+    "expansion": "Space Launch System"
+  },
+  {
+    "abbreviation": "SLSL",
+    "expansion": "Space Life Science Lab"
+  },
+  {
+    "abbreviation": "SLSP",
+    "expansion": "SLS Program"
+  },
+  {
+    "abbreviation": "SM",
+    "expansion": "Service Module"
+  },
+  {
+    "abbreviation": "SMA",
+    "expansion": "Safety and Mission Assurance"
+  },
+  {
+    "abbreviation": "SMART",
+    "expansion": "Specific, Measurable, Achievable, Results-focused, Time-bound"
+  },
+  {
+    "abbreviation": "SMART",
+    "expansion": "Safety and Mission Assurance Record Tracking"
+  },
+  {
+    "abbreviation": "SMASS",
+    "expansion": "Safety and Mission Assurance Support Services"
+  },
+  {
+    "abbreviation": "SMC",
+    "expansion": "Strategic Management Council (Agency)"
+  },
+  {
+    "abbreviation": "SMC",
+    "expansion": "Space and Missile (Systems) Center"
+  },
+  {
+    "abbreviation": "SMC",
+    "expansion": "System Monitoring and Control"
+  },
+  {
+    "abbreviation": "SMD",
+    "expansion": "Science Mission Directorate"
+  },
+  {
+    "abbreviation": "SME",
+    "expansion": "Subject Matter Expert"
+  },
+  {
+    "abbreviation": "SMRF",
+    "expansion": "SOA Model Review Forum"
+  },
+  {
+    "abbreviation": "SMRT",
+    "expansion": "Shuttle Management Resources Transition (Obsolete)"
+  },
+  {
+    "abbreviation": "SMRT",
+    "expansion": "Subsystem Management Review Team"
+  },
+  {
+    "abbreviation": "SMSR",
+    "expansion": "Safety and Mission Success Review"
+  },
+  {
+    "abbreviation": "SN",
+    "expansion": "Space Network"
+  },
+  {
+    "abbreviation": "SOA",
+    "expansion": "Supportability, Operability, Affordability"
+  },
+  {
+    "abbreviation": "SOC",
+    "expansion": "State of Charge"
+  },
+  {
+    "abbreviation": "SOC",
+    "expansion": "Security Operations Center"
+  },
+  {
+    "abbreviation": "SOCRRATES",
+    "expansion": "(SOC) � Software Only CEV Risk Reduction, Analysis, and Test Engineering Simulator"
+  },
+  {
+    "abbreviation": "SOMD",
+    "expansion": "Space Operations Mission Directorate"
+  },
+  {
+    "abbreviation": "SONIC",
+    "expansion": "Super Omniscient Nifty IMS Comparator"
+  },
+  {
+    "abbreviation": "SOO",
+    "expansion": "Spacecraft Offline Operations"
+  },
+  {
+    "abbreviation": "SOP",
+    "expansion": "Spacecraft Offline Processing"
+  },
+  {
+    "abbreviation": "SOP",
+    "expansion": "Standard Operating Procedure"
+  },
+  {
+    "abbreviation": "SOPE",
+    "expansion": "Spacecraft Offline Processing Element"
+  },
+  {
+    "abbreviation": "SoR",
+    "expansion": "Statement of Readiness"
+  },
+  {
+    "abbreviation": "SOW",
+    "expansion": "Statement of Work"
+  },
+  {
+    "abbreviation": "SPE",
+    "expansion": "Spacecraft Processing Element"
+  },
+  {
+    "abbreviation": "SPI",
+    "expansion": "Strategy and Programmatic Integration"
+  },
+  {
+    "abbreviation": "SPIE",
+    "expansion": "Spacecraft/Payload Integration and Evolution"
+  },
+  {
+    "abbreviation": "SPIO",
+    "expansion": "Spacecraft and Payload Integration Office"
+  },
+  {
+    "abbreviation": "SPL",
+    "expansion": "Simulated Propellant Loading"
+  },
+  {
+    "abbreviation": "SPL",
+    "expansion": "Secondary Payload"
+  },
+  {
+    "abbreviation": "SPM",
+    "expansion": "Senior Project Manager"
+  },
+  {
+    "abbreviation": "SPMT",
+    "expansion": "Self Propelled Module Transport"
+  },
+  {
+    "abbreviation": "SPOC",
+    "expansion": "Space Program Operations Contract"
+  },
+  {
+    "abbreviation": "SR&QA",
+    "expansion": "Safety, Reliability, and Quality Assurance"
+  },
+  {
+    "abbreviation": "SRA",
+    "expansion": "Schedule Risk Analysis"
+  },
+  {
+    "abbreviation": "SRA",
+    "expansion": "Schedule Risk Analysis"
+  },
+  {
+    "abbreviation": "SRB",
+    "expansion": "Solid Rocket Booster"
+  },
+  {
+    "abbreviation": "SRB",
+    "expansion": "Standing Review Board"
+  },
+  {
+    "abbreviation": "SRD",
+    "expansion": "Systems Requirements Document"
+  },
+  {
+    "abbreviation": "SRDS",
+    "expansion": "Software Requirements and Design Specification"
+  },
+  {
+    "abbreviation": "SRLP",
+    "expansion": "Small Rocket Launch Program"
+  },
+  {
+    "abbreviation": "SRM",
+    "expansion": "Solid Rocket Motor"
+  },
+  {
+    "abbreviation": "SRR",
+    "expansion": "System Requirements Review"
+  },
+  {
+    "abbreviation": "SRRE",
+    "expansion": "Spacecraft Recovery and Retrieval Element"
+  },
+  {
+    "abbreviation": "SRS",
+    "expansion": "Support Requirements System"
+  },
+  {
+    "abbreviation": "SRS",
+    "expansion": "Software Requirements Specification"
+  },
+  {
+    "abbreviation": "SRT",
+    "expansion": "Stationary Recovery Test"
+  },
+  {
+    "abbreviation": "SRT",
+    "expansion": "Step Response Test"
+  },
+  {
+    "abbreviation": "SRU",
+    "expansion": "Shop Replaceable Unit"
+  },
+  {
+    "abbreviation": "SS",
+    "expansion": "Sound Suppression"
+  },
+  {
+    "abbreviation": "SS",
+    "expansion": "Subsystem"
+  },
+  {
+    "abbreviation": "SSA",
+    "expansion": "Safety System Analysis"
+  },
+  {
+    "abbreviation": "SSAR",
+    "expansion": "System Safety Assessment Report"
+  },
+  {
+    "abbreviation": "SSC",
+    "expansion": "Stennis Space Center"
+  },
+  {
+    "abbreviation": "SSH",
+    "expansion": "Secure Shell"
+  },
+  {
+    "abbreviation": "SSP",
+    "expansion": "Space Shuttle Program"
+  },
+  {
+    "abbreviation": "SSP",
+    "expansion": "System Security Plan"
+  },
+  {
+    "abbreviation": "SSPF",
+    "expansion": "Space Station Processing Facility"
+  },
+  {
+    "abbreviation": "SSRD",
+    "expansion": "Subsystem Requirements Document"
+  },
+  {
+    "abbreviation": "SSRS",
+    "expansion": "SQL Server Reporting Services"
+  },
+  {
+    "abbreviation": "SSRWG",
+    "expansion": "System Safety and Reliability Working Group"
+  },
+  {
+    "abbreviation": "STA",
+    "expansion": "Structural Test Article"
+  },
+  {
+    "abbreviation": "STAAD",
+    "expansion": "Structural Analysis and Design"
+  },
+  {
+    "abbreviation": "STAX",
+    "expansion": "Secure Technology Application Execution"
+  },
+  {
+    "abbreviation": "STD",
+    "expansion": "Standard"
+  },
+  {
+    "abbreviation": "StE",
+    "expansion": "Stakeholder Expectation"
+  },
+  {
+    "abbreviation": "STICM",
+    "expansion": "System Test Integration and Coordination Meeting"
+  },
+  {
+    "abbreviation": "STIM",
+    "expansion": "Step Impulse"
+  },
+  {
+    "abbreviation": "STMD",
+    "expansion": "Science Technology Mission Directorate"
+  },
+  {
+    "abbreviation": "STQR",
+    "expansion": "Stakeholder Request"
+  },
+  {
+    "abbreviation": "STRR",
+    "expansion": "Software Test Readiness Review"
+  },
+  {
+    "abbreviation": "SW",
+    "expansion": "Software (a.k.a. S/W)"
+  },
+  {
+    "abbreviation": "SW",
+    "expansion": "Space Wing"
+  },
+  {
+    "abbreviation": "SWORDS",
+    "expansion": "Soldiers-Warfighter Operationally Responsive Deployer for Space"
+  },
+  {
+    "abbreviation": "SWOT",
+    "expansion": "Strengths, Weaknesses, Opportunities, and Threats"
+  },
+  {
+    "abbreviation": "T&CD",
+    "expansion": "Timing and Countdown"
+  },
+  {
+    "abbreviation": "T&O",
+    "expansion": "Threats and Opportunities"
+  },
+  {
+    "abbreviation": "T&R",
+    "expansion": "Transition and Retirement"
+  },
+  {
+    "abbreviation": "T&V",
+    "expansion": "Test and Verification"
+  },
+  {
+    "abbreviation": "TAA",
+    "expansion": "Traveling Access Arm"
+  },
+  {
+    "abbreviation": "TAA",
+    "expansion": "Temporary Area Access"
+  },
+  {
+    "abbreviation": "TAA",
+    "expansion": "Technical Assistance Agreement"
+  },
+  {
+    "abbreviation": "TAC",
+    "expansion": "TVC Actuator Controller"
+  },
+  {
+    "abbreviation": "TAR",
+    "expansion": "Tape Archive Files"
+  },
+  {
+    "abbreviation": "TARDIS",
+    "expansion": "Technical Analysis Risk-informed Development Integration Schedule"
+  },
+  {
+    "abbreviation": "TAWS",
+    "expansion": "Tornado Area Warning System"
+  },
+  {
+    "abbreviation": "TB",
+    "expansion": "Technical Baseline"
+  },
+  {
+    "abbreviation": "TBA",
+    "expansion": "To Be Accomplished"
+  },
+  {
+    "abbreviation": "TBCC",
+    "expansion": "Turbine-Based Combined Cycle"
+  },
+  {
+    "abbreviation": "TBD",
+    "expansion": "To Be Determined"
+  },
+  {
+    "abbreviation": "TBR",
+    "expansion": "To Be Resolved"
+  },
+  {
+    "abbreviation": "TBX",
+    "expansion": "To Be Exchanged"
+  },
+  {
+    "abbreviation": "TC",
+    "expansion": "Test Conductor"
+  },
+  {
+    "abbreviation": "TCA",
+    "expansion": "Technical Change Assessment"
+  },
+  {
+    "abbreviation": "TCATS",
+    "expansion": "Transportable Command and Telemetry Systems"
+  },
+  {
+    "abbreviation": "TCDT",
+    "expansion": "Terminal Count Down Test"
+  },
+  {
+    "abbreviation": "TCF",
+    "expansion": "Transporter-Canister Facility"
+  },
+  {
+    "abbreviation": "TCF",
+    "expansion": "Technical Capabilities/Facilities"
+  },
+  {
+    "abbreviation": "TCID",
+    "expansion": "Test Case IDentifier"
+  },
+  {
+    "abbreviation": "TCID",
+    "expansion": "Test Configuration Identifier"
+  },
+  {
+    "abbreviation": "TCM",
+    "expansion": "Technical Coordination Meeting"
+  },
+  {
+    "abbreviation": "TCR",
+    "expansion": "TOSC Change Request"
+  },
+  {
+    "abbreviation": "TCRS",
+    "expansion": "Training and Certificatin Record System"
+  },
+  {
+    "abbreviation": "TCS",
+    "expansion": "Thermal Control Subsystem"
+  },
+  {
+    "abbreviation": "TD",
+    "expansion": "Technical Data"
+  },
+  {
+    "abbreviation": "TD",
+    "expansion": "Test Director"
+  },
+  {
+    "abbreviation": "TD",
+    "expansion": "Task Directive"
+  },
+  {
+    "abbreviation": "TDRSS",
+    "expansion": "Tracking and Data Relay Satellite System"
+  },
+  {
+    "abbreviation": "TDS",
+    "expansion": "Task Description Sheet"
+  },
+  {
+    "abbreviation": "TDT",
+    "expansion": "Task Development Team"
+  },
+  {
+    "abbreviation": "TDTOSC",
+    "expansion": "TechDoc TOSC"
+  },
+  {
+    "abbreviation": "TE",
+    "expansion": "Transporter Erector"
+  },
+  {
+    "abbreviation": "TEI",
+    "expansion": "Trans Earth Injection"
+  },
+  {
+    "abbreviation": "TEL-4",
+    "expansion": "TELemetry Processing Facility #4"
+  },
+  {
+    "abbreviation": "TEL-IV",
+    "expansion": "TELemetry Processing Facility #4"
+  },
+  {
+    "abbreviation": "THSS",
+    "expansion": "TVC Hydraulic Servicing Subsystem"
+  },
+  {
+    "abbreviation": "TI",
+    "expansion": "Technical Integrators"
+  },
+  {
+    "abbreviation": "TIG",
+    "expansion": "Transition Integration Group"
+  },
+  {
+    "abbreviation": "TIM",
+    "expansion": "Technical Interchange/Integration Meeting"
+  },
+  {
+    "abbreviation": "TIM",
+    "expansion": "Technical Issue Memorandum"
+  },
+  {
+    "abbreviation": "TIPS",
+    "expansion": "TOSC Integrated Processing Solutions"
+  },
+  {
+    "abbreviation": "TLCC",
+    "expansion": "Test and Launch Control Center"
+  },
+  {
+    "abbreviation": "TM",
+    "expansion": "Technical Management"
+  },
+  {
+    "abbreviation": "TMIG",
+    "expansion": "Telemetered Metric Inertial Guidance"
+  },
+  {
+    "abbreviation": "TML",
+    "expansion": "Telescoping Man Lifts"
+  },
+  {
+    "abbreviation": "TMP",
+    "expansion": "Transition Management Plan"
+  },
+  {
+    "abbreviation": "TO",
+    "expansion": "Take Off"
+  },
+  {
+    "abbreviation": "TO",
+    "expansion": "Task Order"
+  },
+  {
+    "abbreviation": "TOC",
+    "expansion": "Transmission Operations Center"
+  },
+  {
+    "abbreviation": "ToR",
+    "expansion": "Terms of Reference"
+  },
+  {
+    "abbreviation": "TOR",
+    "expansion": "Test Objective Report"
+  },
+  {
+    "abbreviation": "TOSC",
+    "expansion": "Test and Operations Support Contract"
+  },
+  {
+    "abbreviation": "TOSS",
+    "expansion": "Test Objective Summary Sheet"
+  },
+  {
+    "abbreviation": "TPF",
+    "expansion": "Tile Production Facility"
+  },
+  {
+    "abbreviation": "TPLP",
+    "expansion": "Tri-Program Logistics Panel"
+  },
+  {
+    "abbreviation": "TPM",
+    "expansion": "Technical Performance Measure"
+  },
+  {
+    "abbreviation": "TPM",
+    "expansion": "Technical Performance Metric"
+  },
+  {
+    "abbreviation": "TPR",
+    "expansion": "Top Program Risks"
+  },
+  {
+    "abbreviation": "TProjR",
+    "expansion": "Top Project Risks"
+  },
+  {
+    "abbreviation": "TPS",
+    "expansion": "Thermal Protection System"
+  },
+  {
+    "abbreviation": "TPSF",
+    "expansion": "Thermal Protection Systems Facility"
+  },
+  {
+    "abbreviation": "TRA",
+    "expansion": "Traction Roller Assembly"
+  },
+  {
+    "abbreviation": "TRD",
+    "expansion": "Test Readiness Document"
+  },
+  {
+    "abbreviation": "TRL",
+    "expansion": "Technical Readiness Level"
+  },
+  {
+    "abbreviation": "TRL",
+    "expansion": "Technology Readiness Level"
+  },
+  {
+    "abbreviation": "TRM",
+    "expansion": "Technical Resource Manager"
+  },
+  {
+    "abbreviation": "TRR",
+    "expansion": "Test Readiness Review"
+  },
+  {
+    "abbreviation": "TRS",
+    "expansion": "Thrust Reaction Structure"
+  },
+  {
+    "abbreviation": "TSDF",
+    "expansion": "Treatment, Storage, and Disposal Facility"
+  },
+  {
+    "abbreviation": "TSI",
+    "expansion": "Total System Integrator"
+  },
+  {
+    "abbreviation": "TSM",
+    "expansion": "Tail Service Mast"
+  },
+  {
+    "abbreviation": "TSMU",
+    "expansion": "Tail Service Mast Umbilical"
+  },
+  {
+    "abbreviation": "TSPI",
+    "expansion": "Time Space Positional Information"
+  },
+  {
+    "abbreviation": "TSR",
+    "expansion": "Top Sub-organizational Risk"
+  },
+  {
+    "abbreviation": "TTA",
+    "expansion": "Technical Task Agreement"
+  },
+  {
+    "abbreviation": "TTL",
+    "expansion": "Task Team Lead"
+  },
+  {
+    "abbreviation": "TTSS",
+    "expansion": "Technical Training Scheduling System"
+  },
+  {
+    "abbreviation": "TVC",
+    "expansion": "Thrust Vector Control"
+  },
+  {
+    "abbreviation": "TVPM",
+    "expansion": "Transport Vehicle Purge Monitoring"
+  },
+  {
+    "abbreviation": "TWG",
+    "expansion": "Transition Working Group"
+  },
+  {
+    "abbreviation": "TX",
+    "expansion": "Transmitter/Transmission"
+  },
+  {
+    "abbreviation": "U/R",
+    "expansion": "Under Review"
+  },
+  {
+    "abbreviation": "UA",
+    "expansion": "Unexplained Anomaly"
+  },
+  {
+    "abbreviation": "UA",
+    "expansion": "Utility Annex"
+  },
+  {
+    "abbreviation": "UAS",
+    "expansion": "Unmanned Aircraft System"
+  },
+  {
+    "abbreviation": "UAV",
+    "expansion": "Unmanned Aerial Vehicle"
+  },
+  {
+    "abbreviation": "UCS",
+    "expansion": "Universal Camera Site"
+  },
+  {
+    "abbreviation": "UCTS",
+    "expansion": "Universal Cooling Transporter System"
+  },
+  {
+    "abbreviation": "UDS",
+    "expansion": "Universal Documentation System"
+  },
+  {
+    "abbreviation": "UFE",
+    "expansion": "Unallocated Future Expense"
+  },
+  {
+    "abbreviation": "UHF",
+    "expansion": "Ultra-High Frequency"
+  },
+  {
+    "abbreviation": "UI",
+    "expansion": "User Interface"
+  },
+  {
+    "abbreviation": "ULA",
+    "expansion": "United Launch Alliance"
+  },
+  {
+    "abbreviation": "ULF",
+    "expansion": "Utilization Logistics Flight"
+  },
+  {
+    "abbreviation": "ULF",
+    "expansion": "Uncrewed Lunar Flyby"
+  },
+  {
+    "abbreviation": "UP",
+    "expansion": "Unified Power"
+  },
+  {
+    "abbreviation": "UPS",
+    "expansion": "Uninterruptible Power Supply"
+  },
+  {
+    "abbreviation": "UPSS",
+    "expansion": "Universal Propellant Servicing System"
+  },
+  {
+    "abbreviation": "URRT",
+    "expansion": "Umbilical Release and Retract Test"
+  },
+  {
+    "abbreviation": "URT",
+    "expansion": "Underway Recovery Test"
+  },
+  {
+    "abbreviation": "URT",
+    "expansion": "Underway Recovery Test"
+  },
+  {
+    "abbreviation": "US",
+    "expansion": "United States"
+  },
+  {
+    "abbreviation": "USA",
+    "expansion": "United Space Alliance"
+  },
+  {
+    "abbreviation": "USA",
+    "expansion": "Universal Stage Adapter"
+  },
+  {
+    "abbreviation": "USAF",
+    "expansion": "United States Air Force"
+  },
+  {
+    "abbreviation": "USN",
+    "expansion": "United States Navy"
+  },
+  {
+    "abbreviation": "USTDC",
+    "expansion": "University-affiliate SpacePort Technology Development Contract"
+  },
+  {
+    "abbreviation": "UWG",
+    "expansion": "Umbilicals Working Group"
+  },
+  {
+    "abbreviation": "V&SI",
+    "expansion": "Vehicle and Spacecraft Integration"
+  },
+  {
+    "abbreviation": "V&V",
+    "expansion": "Verification and Validation"
+  },
+  {
+    "abbreviation": "V/m",
+    "expansion": "volts per meter"
+  },
+  {
+    "abbreviation": "VAA",
+    "expansion": "Vehicle Access Arm"
+  },
+  {
+    "abbreviation": "VAB",
+    "expansion": "Vehicle Assembly Building"
+  },
+  {
+    "abbreviation": "VABE",
+    "expansion": "Vehicle Assembly Building Element (EIT)"
+  },
+  {
+    "abbreviation": "VABR",
+    "expansion": "Vehicle Assembly Building Repeater"
+  },
+  {
+    "abbreviation": "VAC",
+    "expansion": "Volts Alternating Current"
+  },
+  {
+    "abbreviation": "VaCR",
+    "expansion": "Validation Completion Report"
+  },
+  {
+    "abbreviation": "VaCRM",
+    "expansion": "Validation Cross-Reference Matrix"
+  },
+  {
+    "abbreviation": "VAFB",
+    "expansion": "Vandenberg Air Force Base"
+  },
+  {
+    "abbreviation": "VAHIR",
+    "expansion": "Volume Averaged Height Integrated Radar"
+  },
+  {
+    "abbreviation": "VBA",
+    "expansion": "Visual Basic for Application"
+  },
+  {
+    "abbreviation": "VCF",
+    "expansion": "Vapor Containment Facility"
+  },
+  {
+    "abbreviation": "VCI",
+    "expansion": "violation consequence index"
+  },
+  {
+    "abbreviation": "VCN",
+    "expansion": "Verification Closure Notice"
+  },
+  {
+    "abbreviation": "VDC",
+    "expansion": "Volts Direct Current"
+  },
+  {
+    "abbreviation": "VDD",
+    "expansion": "Version Description Document"
+  },
+  {
+    "abbreviation": "VDS",
+    "expansion": "Vehicle Damper System"
+  },
+  {
+    "abbreviation": "VeL",
+    "expansion": "Verification Lead"
+  },
+  {
+    "abbreviation": "VeP",
+    "expansion": "Verification Plan"
+  },
+  {
+    "abbreviation": "VFD",
+    "expansion": "Variable Frequency Drives"
+  },
+  {
+    "abbreviation": "VHF",
+    "expansion": "Very High Frequency"
+  },
+  {
+    "abbreviation": "VIC",
+    "expansion": "Video Interchange Conference"
+  },
+  {
+    "abbreviation": "VICB",
+    "expansion": "Vehicle Integration Control Board"
+  },
+  {
+    "abbreviation": "VIE",
+    "expansion": "Vertical Integration Element"
+  },
+  {
+    "abbreviation": "VIE",
+    "expansion": "Vehicle Interface Element"
+  },
+  {
+    "abbreviation": "VIL",
+    "expansion": "Vehicle Integration and Launch"
+  },
+  {
+    "abbreviation": "VLD",
+    "expansion": "Vertical Lift Doors"
+  },
+  {
+    "abbreviation": "VLN",
+    "expansion": "Verification Logic Network"
+  },
+  {
+    "abbreviation": "VMC",
+    "expansion": "Vehicle Management Computer"
+  },
+  {
+    "abbreviation": "VMS",
+    "expansion": "Vehicle Motion Simulator"
+  },
+  {
+    "abbreviation": "VOIP",
+    "expansion": "Voice Over Internet Protocol"
+  },
+  {
+    "abbreviation": "VPN",
+    "expansion": "Virtual Private Network"
+  },
+  {
+    "abbreviation": "VPU",
+    "expansion": "Vision Processing Unit"
+  },
+  {
+    "abbreviation": "VS",
+    "expansion": "Vehicle Stabilizer"
+  },
+  {
+    "abbreviation": "VSDS",
+    "expansion": "Vehicle Stabilization and Damping Subsystem"
+  },
+  {
+    "abbreviation": "VSM",
+    "expansion": "Value Stream Mapping"
+  },
+  {
+    "abbreviation": "VSP",
+    "expansion": "Vehicle Support Post"
+  },
+  {
+    "abbreviation": "VSR",
+    "expansion": "Verification and Validation Status Review"
+  },
+  {
+    "abbreviation": "VSS",
+    "expansion": "Vehicle Stabilizer Subsystem"
+  },
+  {
+    "abbreviation": "VTF",
+    "expansion": "Vertical Transportation Fixture"
+  },
+  {
+    "abbreviation": "VTM",
+    "expansion": "Vertical Transportation Fixture"
+  },
+  {
+    "abbreviation": "VTVL",
+    "expansion": "Vertical Takeoff/ Vertical Landing"
+  },
+  {
+    "abbreviation": "VV&A",
+    "expansion": "Verification, Validation, and Accreditation"
+  },
+  {
+    "abbreviation": "VVPT",
+    "expansion": "Verification and Validation Planning Tool"
+  },
+  {
+    "abbreviation": "VVST",
+    "expansion": "Verification and Validation Steering Team"
+  },
+  {
+    "abbreviation": "WAC",
+    "expansion": "Work Authorization Control"
+  },
+  {
+    "abbreviation": "WAD",
+    "expansion": "Work Authorization Document"
+  },
+  {
+    "abbreviation": "WAR",
+    "expansion": "Weekly Activity Report"
+  },
+  {
+    "abbreviation": "WBS",
+    "expansion": "Work Breakdown Structure"
+  },
+  {
+    "abbreviation": "WCS",
+    "expansion": "Work Control System"
+  },
+  {
+    "abbreviation": "WDR",
+    "expansion": "Wet Dress Rehearsal"
+  },
+  {
+    "abbreviation": "WG",
+    "expansion": "Working Group"
+  },
+  {
+    "abbreviation": "Wilco",
+    "expansion": "Will Comply"
+  },
+  {
+    "abbreviation": "WINDS",
+    "expansion": "Weather Information Network Display System"
+  },
+  {
+    "abbreviation": "wip",
+    "expansion": "work in place"
+  },
+  {
+    "abbreviation": "WRKS",
+    "expansion": "Work Station"
+  },
+  {
+    "abbreviation": "WRT",
+    "expansion": "With Regards To"
+  },
+  {
+    "abbreviation": "WS",
+    "expansion": "White Sands"
+  },
+  {
+    "abbreviation": "WSC",
+    "expansion": "White Sands Complex"
+  },
+  {
+    "abbreviation": "WSERSRB",
+    "expansion": "Weapon System Explosives Safety Review Board"
+  },
+  {
+    "abbreviation": "WUC",
+    "expansion": "Work Unit Code"
+  },
+  {
+    "abbreviation": "WWW",
+    "expansion": "World Wide Web"
+  },
+  {
+    "abbreviation": "Wx",
+    "expansion": "Weather"
+  },
+  {
+    "abbreviation": "WYE",
+    "expansion": "Work Year Estimate"
+  },
+  {
+    "abbreviation": "WYE",
+    "expansion": "Work Year Equivalent"
+  },
+  {
+    "abbreviation": "XCS",
+    "expansion": "Extensible Columns Subsystem"
+  },
+  {
+    "abbreviation": "Xe",
+    "expansion": "Xenon"
+  },
+  {
+    "abbreviation": "XFCA",
+    "expansion": "Cross Functional Closure Assessment"
+  },
+  {
+    "abbreviation": "XML",
+    "expansion": "Extensible Markup Language"
+  },
+  {
+    "abbreviation": "XPRAT",
+    "expansion": "Cross Program Probabilistic Risk Assessment Team"
+  },
+  {
+    "abbreviation": "XSD",
+    "expansion": "XML Schema Definition"
+  },
+  {
+    "abbreviation": "YODA",
+    "expansion": "Your Organizational Dashboard Application"
+  }
+]

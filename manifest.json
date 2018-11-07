@@ -1,0 +1,34 @@
+{
+  "manifest_version": 2,
+  "name": "NASA Acronyms",
+  "description": "Select a NASA acronym to expand it.",
+  "version": "1.5",
+
+  "browser_action": {
+    "default_icon": "nasa-logo.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "exclude_matches": ["*://*.nasaacronyms.com/*"],
+      "js": [
+        "jquery-3.3.1.min.js",
+        "jquery.qtip-3.0.3.min.js",
+        "script.js"
+      ],
+      "css": ["jquery.qtip-3.0.3.min.css"]
+    }
+  ],
+
+  "permissions": [
+    "activeTab",
+    "https://raw.githubusercontent.com/maliska/NASA-Acronyms/master"
+  ],
+
+  "icons": {
+    "16": "nasa-logo16.png",
+    "48": "nasa-logo48.png",
+    "128": "nasa-logo128.png"
+  }
+}
