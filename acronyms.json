@@ -808,6 +808,10 @@
     "expansion": "Advanced CNS Architectures and System Technologies"
   }, 
   {
+    "abbreviation": "ACAT", 
+    "expansion": "Adverse Condition Awareness Tool"
+  }, 
+  {
     "abbreviation": "ACB", 
     "expansion": "Atmospheric Composition Branch"
   }, 
@@ -2796,6 +2800,10 @@
     "expansion": "Artificial Gravity"
   }, 
   {
+    "abbreviation": "AGA", 
+    "expansion": "Association of Government Accountants"
+  }, 
+  {
     "abbreviation": "AGARD", 
     "expansion": "Advisory Group for Aerospace Research and Development"
   }, 
@@ -4662,6 +4670,10 @@
   {
     "abbreviation": "AP", 
     "expansion": "Automated Procedure"
+  }, 
+  {
+    "abbreviation": "AP", 
+    "expansion": "Applications Program"
   }, 
   {
     "abbreviation": "AP", 
@@ -6622,6 +6634,10 @@
   {
     "abbreviation": "AT", 
     "expansion": "Abort Trigger"
+  }, 
+  {
+    "abbreviation": "AT", 
+    "expansion": "Aerosol and Temperature"
   }, 
   {
     "abbreviation": "AT", 
@@ -11461,6 +11477,10 @@
   }, 
   {
     "abbreviation": "CC", 
+    "expansion": "Centennial Challenges"
+  }, 
+  {
+    "abbreviation": "CC", 
     "expansion": "Configuration Code"
   }, 
   {
@@ -13204,6 +13224,10 @@
     "expansion": "Computer Emergency Response Team/Coordination Center"
   }, 
   {
+    "abbreviation": "CERTAIN", 
+    "expansion": "City Environment for Range Testing of Autonomous Integrated Navigation"
+  }, 
+  {
     "abbreviation": "CERV", 
     "expansion": "Crew Emergency Return Vehicle"
   }, 
@@ -13690,6 +13714,10 @@
   {
     "abbreviation": "CGSE", 
     "expansion": "Common Gas Supply Equipment"
+  }, 
+  {
+    "abbreviation": "CGT", 
+    "expansion": "Compact Gas Turbine"
   }, 
   {
     "abbreviation": "CH", 
@@ -17540,6 +17568,10 @@
     "expansion": "Clouds, and Radiative Swath, Binary"
   }, 
   {
+    "abbreviation": "CRSF", 
+    "expansion": "Cyclotron Resonant Scattering Feature"
+  }, 
+  {
     "abbreviation": "CRSFD", 
     "expansion": "Crossfeed"
   }, 
@@ -18602,6 +18634,10 @@
   {
     "abbreviation": "CTE", 
     "expansion": "Charge Transfer Efficiency"
+  }, 
+  {
+    "abbreviation": "CTE", 
+    "expansion": "Composite Technology for Exploration"
   }, 
   {
     "abbreviation": "CTE", 
@@ -23693,6 +23729,10 @@
   }, 
   {
     "abbreviation": "DST", 
+    "expansion": "Decision Support Tool"
+  }, 
+  {
+    "abbreviation": "DST", 
     "expansion": "Dynamic Skills Trainer"
   }, 
   {
@@ -24058,6 +24098,10 @@
   {
     "abbreviation": "DustTrak", 
     "expansion": "DustTrak Aerosol Monitor"
+  }, 
+  {
+    "abbreviation": "DUT", 
+    "expansion": "Device Under Test"
   }, 
   {
     "abbreviation": "DV", 
@@ -32868,6 +32912,10 @@
     "expansion": "Fail Operational/Fail Safe"
   }, 
   {
+    "abbreviation": "FOA", 
+    "expansion": "Forward Optical Assembly"
+  }, 
+  {
     "abbreviation": "FOB", 
     "expansion": "Free on Board"
   }, 
@@ -34961,7 +35009,7 @@
   }, 
   {
     "abbreviation": "GC", 
-    "expansion": "Gas Chromatograph"
+    "expansion": "Gas Chromatography"
   }, 
   {
     "abbreviation": "GC", 
@@ -36028,6 +36076,10 @@
     "expansion": "Global Land Information System"
   }, 
   {
+    "abbreviation": "GLISTS", 
+    "expansion": "Goddard Library and Information Services Technical Support"
+  }, 
+  {
     "abbreviation": "GLL", 
     "expansion": "Galileo"
   }, 
@@ -36646,6 +36698,10 @@
   {
     "abbreviation": "GP-MCE", 
     "expansion": "General Purpose Managed Cloud Environment"
+  }, 
+  {
+    "abbreviation": "GPA", 
+    "expansion": "Ground Processing Algorithm"
   }, 
   {
     "abbreviation": "GPA", 
@@ -38729,6 +38785,10 @@
   }, 
   {
     "abbreviation": "HEO", 
+    "expansion": "Highly Elliptical Orbit"
+  }, 
+  {
+    "abbreviation": "HEO", 
     "expansion": "Human Exploration and Operations"
   }, 
   {
@@ -38810,6 +38870,10 @@
   {
     "abbreviation": "HETGS", 
     "expansion": "High-Energy Transmission Grating Spectrometer"
+  }, 
+  {
+    "abbreviation": "HEU", 
+    "expansion": "Highly Enriched Uranium"
   }, 
   {
     "abbreviation": "HEX", 
@@ -40550,6 +40614,10 @@
   {
     "abbreviation": "HTBL", 
     "expansion": "Heater Blocked Status"
+  }, 
+  {
+    "abbreviation": "HTCC", 
+    "expansion": "High Temperature Co-fired Ceramic"
   }, 
   {
     "abbreviation": "hTCM", 
@@ -43436,6 +43504,10 @@
     "expansion": "In-Line Heavy Lift"
   }, 
   {
+    "abbreviation": "ILI", 
+    "expansion": "Institute for Local Innovation"
+  }, 
+  {
     "abbreviation": "ILIDS", 
     "expansion": "International Low Impact Docking System"
   }, 
@@ -44550,6 +44622,10 @@
   {
     "abbreviation": "IOA", 
     "expansion": "Integrated Operations Architect"
+  }, 
+  {
+    "abbreviation": "IOA", 
+    "expansion": "Imaging Optics Assembly"
   }, 
   {
     "abbreviation": "IOA", 
@@ -48816,6 +48892,10 @@
     "expansion": "Kilopascals Differential"
   }, 
   {
+    "abbreviation": "KPLO", 
+    "expansion": "Korea Pathfinder Lunar Orbiter"
+  }, 
+  {
     "abbreviation": "KPP", 
     "expansion": "Key Performance Parameters"
   }, 
@@ -49282,6 +49362,10 @@
   {
     "abbreviation": "LAB", 
     "expansion": "Local Area Bus"
+  }, 
+  {
+    "abbreviation": "LAB", 
+    "expansion": "Laboratory for Agnostic Biosignatures"
   }, 
   {
     "abbreviation": "LABR", 
@@ -50786,6 +50870,10 @@
   {
     "abbreviation": "LF", 
     "expansion": "Linear Fit"
+  }, 
+  {
+    "abbreviation": "LF", 
+    "expansion": "Luminosity Function"
   }, 
   {
     "abbreviation": "LF", 
@@ -54056,6 +54144,10 @@
     "expansion": "Machine-Readable Cataloging"
   }, 
   {
+    "abbreviation": "MARE", 
+    "expansion": "Matroshka AstroRad Radiation Experiment"
+  }, 
+  {
     "abbreviation": "MARES", 
     "expansion": "Moon Age and Regolith Explorer"
   }, 
@@ -56280,6 +56372,10 @@
     "expansion": "Miscellaneous Graphics Command Error"
   }, 
   {
+    "abbreviation": "MGH", 
+    "expansion": "Massachusetts General Hospital"
+  }, 
+  {
     "abbreviation": "MGM", 
     "expansion": "Mechanics of Granular Materials"
   }, 
@@ -57258,6 +57354,10 @@
   {
     "abbreviation": "MLML", 
     "expansion": "Moss Landing Marine Laboratory"
+  }, 
+  {
+    "abbreviation": "MLO", 
+    "expansion": "Mauna Loa Observatory"
   }, 
   {
     "abbreviation": "MLO", 
@@ -64942,6 +65042,10 @@
   {
     "abbreviation": "NY", 
     "expansion": "New York"
+  }, 
+  {
+    "abbreviation": "NYC", 
+    "expansion": "New York City"
   }, 
   {
     "abbreviation": "NYSE", 
@@ -73436,6 +73540,10 @@
     "expansion": "Project Orion Environment Test Tolerance and Margin"
   }, 
   {
+    "abbreviation": "PoF", 
+    "expansion": "Physics of Failure"
+  }, 
+  {
     "abbreviation": "POGO", 
     "expansion": "Prevention of Coupled Structure Propulsion Instability"
   }, 
@@ -73906,6 +74014,10 @@
   {
     "abbreviation": "PPDB", 
     "expansion": "Payload Power Distribution Box"
+  }, 
+  {
+    "abbreviation": "PPE", 
+    "expansion": "Power and Propulsion Element"
   }, 
   {
     "abbreviation": "PPE", 
@@ -76872,6 +76984,10 @@
     "expansion": "Queen's University Experiment in Liquid Diffusion"
   }, 
   {
+    "abbreviation": "QueSST", 
+    "expansion": "Quiet SuperSonic Technology"
+  }, 
+  {
     "abbreviation": "QUEST", 
     "expansion": "Quarterly Utilization, Evaluation, and Summary Template"
   }, 
@@ -77434,6 +77550,10 @@
   {
     "abbreviation": "RAMPAT", 
     "expansion": "Reliability and Maintainability Prediction and Notification Tool"
+  }, 
+  {
+    "abbreviation": "RAMPT", 
+    "expansion": "Rapid Analysis and Manufacturing Propulsion Technology"
   }, 
   {
     "abbreviation": "RAMS", 
@@ -80953,6 +81073,10 @@
   }, 
   {
     "abbreviation": "RSO", 
+    "expansion": "Resident Space Object"
+  }, 
+  {
+    "abbreviation": "RSO", 
     "expansion": "Range Safety Officer"
   }, 
   {
@@ -81222,6 +81346,10 @@
   {
     "abbreviation": "RTC", 
     "expansion": "Resilience Technical Council"
+  }, 
+  {
+    "abbreviation": "RTC", 
+    "expansion": "Ramp Traffic Console"
   }, 
   {
     "abbreviation": "RTC", 
@@ -81566,6 +81694,10 @@
   {
     "abbreviation": "RTS/D", 
     "expansion": "Remote Triaxial Sensor Drawer"
+  }, 
+  {
+    "abbreviation": "RTSM", 
+    "expansion": "Real Time Safety Monitoring"
   }, 
   {
     "abbreviation": "RTSO", 
@@ -82354,6 +82486,10 @@
   {
     "abbreviation": "SAC", 
     "expansion": "Standard Active Container"
+  }, 
+  {
+    "abbreviation": "SAC", 
+    "expansion": "Super-lightweight Aerospace Composite"
   }, 
   {
     "abbreviation": "SAC", 
@@ -88597,6 +88733,10 @@
   }, 
   {
     "abbreviation": "SOI", 
+    "expansion": "Statement of Intent"
+  }, 
+  {
+    "abbreviation": "SOI", 
     "expansion": "Silicon on Insulator"
   }, 
   {
@@ -92524,6 +92664,10 @@
     "expansion": "Space Transportation Reimbursable Cost System"
   }, 
   {
+    "abbreviation": "STRI", 
+    "expansion": "Space Technology Research Institute"
+  }, 
+  {
     "abbreviation": "STRK", 
     "expansion": "Star Tracker"
   }, 
@@ -94952,6 +95096,10 @@
     "expansion": "Thermoelectric"
   }, 
   {
+    "abbreviation": "TE", 
+    "expansion": "Trailing Edges"
+  }, 
+  {
     "abbreviation": "TEA", 
     "expansion": "Torque Equilibrium Attitude"
   }, 
@@ -96134,6 +96282,10 @@
   {
     "abbreviation": "TMA", 
     "expansion": "Thermomechanical Analysis"
+  }, 
+  {
+    "abbreviation": "TMA", 
+    "expansion": "Three Mirror Anastigmat"
   }, 
   {
     "abbreviation": "TMAS", 
@@ -98822,6 +98974,10 @@
   {
     "abbreviation": "UHB", 
     "expansion": "Ultra High Bypass"
+  }, 
+  {
+    "abbreviation": "UHD", 
+    "expansion": "Ultra High Definition"
   }, 
   {
     "abbreviation": "UHF", 
