@@ -1169,6 +1169,10 @@
   }, 
   {
     "abbreviation": "ACM", 
+    "expansion": "Atmospheric Chemistry Model"
+  }, 
+  {
+    "abbreviation": "ACM", 
     "expansion": "Adaptive Coding and Modulation"
   }, 
   {
@@ -6301,6 +6305,10 @@
   }, 
   {
     "abbreviation": "ASL", 
+    "expansion": "Autonomous Systems Laboratory"
+  }, 
+  {
+    "abbreviation": "ASL", 
     "expansion": "Above Sea Level"
   }, 
   {
@@ -7846,6 +7854,10 @@
   {
     "abbreviation": "BBA", 
     "expansion": "Baseplate Ballast Assembly"
+  }, 
+  {
+    "abbreviation": "BBA", 
+    "expansion": "Building Block Approach"
   }, 
   {
     "abbreviation": "BBB", 
@@ -11716,6 +11728,10 @@
     "expansion": "Commercial Crew Development"
   }, 
   {
+    "abbreviation": "CCDO", 
+    "expansion": "cFS Command and Data Dictionary"
+  }, 
+  {
     "abbreviation": "CCDS", 
     "expansion": "Consultative Committee on Space Data Systems"
   }, 
@@ -12542,6 +12558,10 @@
   {
     "abbreviation": "CDM", 
     "expansion": "Cloud Dark Matter"
+  }, 
+  {
+    "abbreviation": "CDM", 
+    "expansion": "Conjunction Data Message"
   }, 
   {
     "abbreviation": "CDM", 
@@ -14794,6 +14814,10 @@
   {
     "abbreviation": "CLPA", 
     "expansion": "Camera Light PTU Assembly"
+  }, 
+  {
+    "abbreviation": "CLPS", 
+    "expansion": "Commercial Lunar Payload Services"
   }, 
   {
     "abbreviation": "CLR", 
@@ -17252,6 +17276,10 @@
     "expansion": "Component Refurbishment and Chemical Analysis facility"
   }, 
   {
+    "abbreviation": "CRCC", 
+    "expansion": "Cyber Robotics Coding Competition"
+  }, 
+  {
     "abbreviation": "CRCM", 
     "expansion": "Combined Radiometric Correction Model"
   }, 
@@ -18549,6 +18577,10 @@
   }, 
   {
     "abbreviation": "CTA", 
+    "expansion": "Compact Telescoping Array"
+  }, 
+  {
+    "abbreviation": "CTA", 
     "expansion": "Component Test Article"
   }, 
   {
@@ -18834,6 +18866,10 @@
   {
     "abbreviation": "CTS", 
     "expansion": "Clear To Send"
+  }, 
+  {
+    "abbreviation": "CTSA", 
+    "expansion": "Compact Telescoping Surface Array"
   }, 
   {
     "abbreviation": "CTSD", 
@@ -19798,6 +19834,10 @@
   {
     "abbreviation": "DAP", 
     "expansion": "Digital Astronaut Project"
+  }, 
+  {
+    "abbreviation": "DAP", 
+    "expansion": "Data Access Protocol"
   }, 
   {
     "abbreviation": "DAP", 
@@ -21462,6 +21502,10 @@
   {
     "abbreviation": "DHHS", 
     "expansion": "Department of Health and Human Services"
+  }, 
+  {
+    "abbreviation": "DHMR", 
+    "expansion": "Dry Heat Microbial Reduction"
   }, 
   {
     "abbreviation": "DHR", 
@@ -23508,6 +23552,10 @@
     "expansion": "Designated Systems Inspector"
   }, 
   {
+    "abbreviation": "DSIG", 
+    "expansion": "Data Science and Informatics Group"
+  }, 
+  {
     "abbreviation": "DSIL", 
     "expansion": "Distributed System Integration Laboratory"
   }, 
@@ -24426,6 +24474,10 @@
   {
     "abbreviation": "EA", 
     "expansion": "Enterprise Architecture"
+  }, 
+  {
+    "abbreviation": "EA", 
+    "expansion": "Electrified Aircraft"
   }, 
   {
     "abbreviation": "EAA", 
@@ -29680,6 +29732,10 @@
     "expansion": "EOSDIS Test System Facility"
   }, 
   {
+    "abbreviation": "ETSS", 
+    "expansion": "Engineering and Technical Support Services"
+  }, 
+  {
     "abbreviation": "ETTI", 
     "expansion": "Environmental Test Thoroughness Index"
   }, 
@@ -29754,6 +29810,10 @@
   {
     "abbreviation": "EUG", 
     "expansion": "European Union of Geoscience"
+  }, 
+  {
+    "abbreviation": "EUI", 
+    "expansion": "Earthdata User Interface"
   }, 
   {
     "abbreviation": "EuMetSat", 
@@ -36774,6 +36834,10 @@
   {
     "abbreviation": "GPI", 
     "expansion": "Global Precipitation Index"
+  }, 
+  {
+    "abbreviation": "GPI", 
+    "expansion": "Genesis Potential Index"
   }, 
   {
     "abbreviation": "GPIB", 
@@ -45476,6 +45540,10 @@
     "expansion": "Information Quality Cluster"
   }, 
   {
+    "abbreviation": "IQI", 
+    "expansion": "Image Quality Indicator"
+  }, 
+  {
     "abbreviation": "IQSD", 
     "expansion": "Integrated Quality Support Database"
   }, 
@@ -52856,6 +52924,10 @@
     "expansion": "Land Surface Model"
   }, 
   {
+    "abbreviation": "LSM", 
+    "expansion": "Lunar Surface Magnetometer"
+  }, 
+  {
     "abbreviation": "LSMA", 
     "expansion": "Lead Safety and Mission Assurance"
   }, 
@@ -55878,6 +55950,10 @@
   {
     "abbreviation": "MEM", 
     "expansion": "Meteoroid and Exposure Module"
+  }, 
+  {
+    "abbreviation": "MEM", 
+    "expansion": "Meteoroid Engineering Model"
   }, 
   {
     "abbreviation": "MEME", 
@@ -61061,6 +61137,10 @@
   }, 
   {
     "abbreviation": "N", 
+    "expansion": "Nitrogen"
+  }, 
+  {
+    "abbreviation": "N", 
     "expansion": "Node"
   }, 
   {
@@ -61386,6 +61466,10 @@
   {
     "abbreviation": "NAND", 
     "expansion": "Not And"
+  }, 
+  {
+    "abbreviation": "NAO", 
+    "expansion": "North Atlantic Oscillation"
   }, 
   {
     "abbreviation": "NaOH", 
@@ -63609,10 +63693,6 @@
   }, 
   {
     "abbreviation": "NOA", 
-    "expansion": "North Atlantic Oscillation"
-  }, 
-  {
-    "abbreviation": "NOA", 
     "expansion": "New Obligational Authority"
   }, 
   {
@@ -65326,6 +65406,10 @@
   {
     "abbreviation": "OATS", 
     "expansion": "Optical Alignment Transfer System"
+  }, 
+  {
+    "abbreviation": "OB", 
+    "expansion": "Ocean Biochemistry"
   }, 
   {
     "abbreviation": "OBAD", 
@@ -67245,6 +67329,10 @@
   }, 
   {
     "abbreviation": "OPC", 
+    "expansion": "Oligodendrocyte Progenitor Cell"
+  }, 
+  {
+    "abbreviation": "OPC", 
     "expansion": "Optical Particle Counter"
   }, 
   {
@@ -67258,10 +67346,6 @@
   {
     "abbreviation": "Opcode", 
     "expansion": "Operation Code"
-  }, 
-  {
-    "abbreviation": "OPCU", 
-    "expansion": "Orbital Power Convert Unit"
   }, 
   {
     "abbreviation": "OPCU", 
@@ -67894,6 +67978,10 @@
   {
     "abbreviation": "OSE", 
     "expansion": "Orbital Support Equipment"
+  }, 
+  {
+    "abbreviation": "OSE", 
+    "expansion": "Observing System Experiment"
   }, 
   {
     "abbreviation": "OSEAS", 
@@ -70250,6 +70338,10 @@
   {
     "abbreviation": "PD", 
     "expansion": "Planetary Defense"
+  }, 
+  {
+    "abbreviation": "PD", 
+    "expansion": "Propagation Delay"
   }, 
   {
     "abbreviation": "PD", 
@@ -73268,6 +73360,10 @@
     "expansion": "Part Number"
   }, 
   {
+    "abbreviation": "PNA", 
+    "expansion": "Pacific North American"
+  }, 
+  {
     "abbreviation": "PNAR", 
     "expansion": "Pre- Non-Advocacy Review"
   }, 
@@ -73366,6 +73462,10 @@
   {
     "abbreviation": "PNVL", 
     "expansion": "Probability of No Vehicle Loss"
+  }, 
+  {
+    "abbreviation": "PO", 
+    "expansion": "Pulse Overlay"
   }, 
   {
     "abbreviation": "PO", 
@@ -74234,10 +74334,6 @@
   {
     "abbreviation": "PPS", 
     "expansion": "Primary Power System"
-  }, 
-  {
-    "abbreviation": "PPs", 
-    "expansion": "Payload Planning/Pointing System"
   }, 
   {
     "abbreviation": "PPS", 
@@ -80588,16 +80684,16 @@
     "expansion": "Research Program Office"
   }, 
   {
+    "abbreviation": "RPO", 
+    "expansion": "Rendezvous and Proximity Operations"
+  }, 
+  {
     "abbreviation": "RPOC", 
     "expansion": "Rendezvous, Prox-ops, and Capture"
   }, 
   {
     "abbreviation": "RPOD", 
     "expansion": "Rendezvous, Proximity Operations, and Docking"
-  }, 
-  {
-    "abbreviation": "RPOD", 
-    "expansion": "Rendevouz, Proximity, Operations, and Docking"
   }, 
   {
     "abbreviation": "RPOD", 
@@ -91432,6 +91528,10 @@
     "expansion": "Shuttle/Station Monthly Integration Review"
   }, 
   {
+    "abbreviation": "SSMIS", 
+    "expansion": "Special Sensor Microwave Imager Sounder"
+  }, 
+  {
     "abbreviation": "SSMMU", 
     "expansion": "Solid State Mass Memory Unit"
   }, 
@@ -93216,6 +93316,10 @@
     "expansion": "Software Assurance"
   }, 
   {
+    "abbreviation": "SWA", 
+    "expansion": "Southern West Africa"
+  }, 
+  {
     "abbreviation": "SWAB", 
     "expansion": "Surface, Water, and Air Biocharacterization"
   }, 
@@ -93450,6 +93554,10 @@
   {
     "abbreviation": "SWS", 
     "expansion": "Shortwave Spectroradiometer"
+  }, 
+  {
+    "abbreviation": "SWS", 
+    "expansion": "Surface Water Storage"
   }, 
   {
     "abbreviation": "SWSI", 
@@ -94210,6 +94318,10 @@
   {
     "abbreviation": "TB", 
     "expansion": "Terabyte"
+  }, 
+  {
+    "abbreviation": "TB", 
+    "expansion": "Terrestrial Biosphere"
   }, 
   {
     "abbreviation": "TB", 
@@ -97304,6 +97416,10 @@
     "expansion": "Test of Reaction and Adaptation Capability"
   }, 
   {
+    "abbreviation": "TRACC", 
+    "expansion": "Taxi Routing for Aircraft: Creation and Controlling"
+  }, 
+  {
     "abbreviation": "TRACE", 
     "expansion": "Transitional Region and Coronal Explorer"
   }, 
@@ -99262,6 +99378,10 @@
   {
     "abbreviation": "UMUC", 
     "expansion": "University of Maryland University College"
+  }, 
+  {
+    "abbreviation": "UMWM", 
+    "expansion": "University of Miami Wave Model"
   }, 
   {
     "abbreviation": "UN", 
@@ -103924,6 +104044,10 @@
     "expansion": "White Sands Parachute Test Vehicle"
   }, 
   {
+    "abbreviation": "WSN", 
+    "expansion": "Wireless Sensor Networks"
+  }, 
+  {
     "abbreviation": "WSO", 
     "expansion": "Wallops Scheduling Office"
   }, 
@@ -104110,6 +104234,10 @@
   {
     "abbreviation": "WVURC", 
     "expansion": "West Virginia University Research Corporation"
+  }, 
+  {
+    "abbreviation": "WW", 
+    "expansion": "Weight Watchers"
   }, 
   {
     "abbreviation": "WW", 
