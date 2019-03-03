@@ -6,7 +6,7 @@ var myMap = {};
 $.getJSON('https://raw.githubusercontent.com/maliska/NASA-Acronyms/master/acronyms.json', function getAcronymsJson(data) {
     for(var i = 0; i < data.length; i++) {
         var abbrev = data[i]['abbreviation'].toLowerCase();
-        if(myMap[abbrev] === undefined)
+        if(!myMap[abbrev])
             myMap[abbrev] = new Array();
         myMap[abbrev].push(data[i]);
     }
@@ -21,7 +21,7 @@ $(function renderTooltip() {
             if(selection.rangeCount > 0) // invoke when text is selected
             {
                 inner = selection.anchorNode.innerHTML;
-                if(inner !== undefined) // check if selection is in an input tag
+                if(inner) // check if selection is in an input tag
                 {
                     if(inner.includes("input") || inner.includes("textarea")) // verify selection is in an input tag
                     {
@@ -41,14 +41,14 @@ $(function renderTooltip() {
             }
             var selText = selection.toString().trim().toLowerCase().replace(/\./g,'');
             var meanings;
-            if(myMap[selText] !== undefined) {
+            if(myMap[selText]) {
                 var meanings = new Array();
                 for(var i = 0; i < myMap[selText].length; i++) {
                     meanings.push(myMap[selText][i]['expansion']);
                 }
             }
             $("#nasa_tooltip").remove();
-            if(selText.length > 1 && meanings !== undefined) {
+            if(selText.length > 1 && meanings) {
                 var div = document.createElement('div');
                 div.style.position = 'fixed';
                 div.style.left = x + 'px';
