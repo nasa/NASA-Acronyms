@@ -14,7 +14,7 @@ $.getJSON('https://raw.githubusercontent.com/maliska/NASA-Acronyms/master/acrony
 
 // places meaning(s) below selected acronym in a qtip tooltip
 $(function renderTooltip() {
-    $("body").mouseup(function mouseUp(event) {
+    $('body').mouseup(function mouseUp(event) {
         setTimeout(function setTimeout() {
             var inner, range, rect, x, y, h, w;
             var selection = window.getSelection();
@@ -23,7 +23,7 @@ $(function renderTooltip() {
                 inner = selection.anchorNode.innerHTML;
                 if(inner) // check if selection is in an input tag
                 {
-                    if(inner.includes("input") || inner.includes("textarea")) // verify selection is in an input tag
+                    if(inner.includes('input') || inner.includes('textarea')) // verify selection is in an input tag
                     {
                         x = event.clientX;
                         y = event.clientY + 10; // place qtip slightly below the mouse
@@ -47,7 +47,7 @@ $(function renderTooltip() {
                     meanings.push(myMap[selText][i]['expansion']);
                 }
             }
-            $("#nasa_tooltip").remove();
+            $('#nasa_tooltip').remove();
             if(selText.length > 1 && meanings) {
                 var div = document.createElement('div');
                 div.style.position = 'fixed';
@@ -55,8 +55,8 @@ $(function renderTooltip() {
                 div.style.top = y + 'px';
                 div.style.height = h + 'px';
                 div.style.width = w + 'px';
-                var meaning = "";
-                for(var i = 0; i < meanings.length; i++) meaning += "\u2022  " + meanings[i] + "<br>";
+                var meaning = '';
+                for(var i = 0; i < meanings.length; i++) meaning += '\u2022  ' + meanings[i] + '<br>';
                 meaning = meaning.trim();
                 div.setAttribute('title', meaning);
                 div.setAttribute('id', 'nasa_tooltip');
