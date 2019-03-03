@@ -1,9 +1,9 @@
-//Joel Malissa & Logan Stafman
+// Joel Malissa & Logan Stafman
 
-//maps from acronym to meaning
+// maps from acronym to meaning
 var myMap = {};
 
-$.getJSON('https://raw.githubusercontent.com/maliska/NASA-Acronyms/master/acronyms.json', function(data) {
+$.getJSON('https://raw.githubusercontent.com/maliska/NASA-Acronyms/master/acronyms.json', function getAcronymsJson(data) {
     for(var i = 0; i < data.length; i++) {
         var abbrev = data[i]['abbreviation'].toLowerCase();
         if(myMap[abbrev] === undefined)
@@ -13,9 +13,9 @@ $.getJSON('https://raw.githubusercontent.com/maliska/NASA-Acronyms/master/acrony
 });
 
 // places meaning(s) below selected acronym in a qtip tooltip
-$(function() {
-    $("body").mouseup(function(event) {
-        setTimeout(function() {
+$(function renderTooltip() {
+    $("body").mouseup(function mouseUp(event) {
+        setTimeout(function setTimeout() {
             var inner, range, rect, x, y, h, w;
             var selection = window.getSelection();
             if(selection.rangeCount > 0) // invoke when text is selected
