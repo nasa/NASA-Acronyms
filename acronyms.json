@@ -1468,6 +1468,10 @@
     "expansion": "Analytical Containment Transfer Tool"
   }, 
   {
+    "abbreviation": "ACT2", 
+    "expansion": "Accelerating Collaboration and Technologies to Architect a Cultural Transformation"
+  }, 
+  {
     "abbreviation": "ACTD", 
     "expansion": "Advanced Concept Technology Demonstration"
   }, 
@@ -25489,7 +25493,7 @@
   }, 
   {
     "abbreviation": "EDF", 
-    "expansion": "Electronic/Engineering Design/Development Fixture"
+    "expansion": "Electronic Design Fixture"
   }, 
   {
     "abbreviation": "EDF", 
@@ -25506,6 +25510,18 @@
   {
     "abbreviation": "EDF", 
     "expansion": "ECS Development Facility"
+  }, 
+  {
+    "abbreviation": "EDF", 
+    "expansion": "Engineering Design Fixture"
+  }, 
+  {
+    "abbreviation": "EDF", 
+    "expansion": "Engineering Development Fixture"
+  }, 
+  {
+    "abbreviation": "EDF", 
+    "expansion": "Electronic Development Fixture"
   }, 
   {
     "abbreviation": "EDFE", 
@@ -37106,6 +37122,10 @@
   {
     "abbreviation": "GRAS", 
     "expansion": "Generally Recognized As Safe"
+  }, 
+  {
+    "abbreviation": "GRASP", 
+    "expansion": "Ground Risk Assessment Service Provider"
   }, 
   {
     "abbreviation": "GRASS", 
@@ -59606,6 +59626,10 @@
   {
     "abbreviation": "MSA", 
     "expansion": "Mass Spectrometer Assembly"
+  }, 
+  {
+    "abbreviation": "MSA", 
+    "expansion": "Metropolitan Statistical Area"
   }, 
   {
     "abbreviation": "MSAD", 
@@ -85026,6 +85050,10 @@
   {
     "abbreviation": "SDSMP", 
     "expansion": "Space Data Standards Management Plan"
+  }, 
+  {
+    "abbreviation": "SDSP", 
+    "expansion": "Supplemental Data Service Provider"
   }, 
   {
     "abbreviation": "SDSR", 
