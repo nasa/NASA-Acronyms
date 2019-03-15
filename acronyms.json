@@ -23792,6 +23792,10 @@
     "expansion": "Daylight Savings Time"
   }, 
   {
+    "abbreviation": "DST", 
+    "expansion": "Deep Space Transport"
+  }, 
+  {
     "abbreviation": "DSTD", 
     "expansion": "Data Systems Technology Division"
   }, 
@@ -25570,10 +25574,6 @@
   {
     "abbreviation": "EDL", 
     "expansion": "Engineering Data Library"
-  }, 
-  {
-    "abbreviation": "EDL", 
-    "expansion": "Entry Decent and Landing"
   }, 
   {
     "abbreviation": "EDL", 
@@ -34460,6 +34460,10 @@
     "expansion": "Federal Travel Regulations"
   }, 
   {
+    "abbreviation": "FTRC", 
+    "expansion": "Fractional Thermal Runaway Calorimetry"
+  }, 
+  {
     "abbreviation": "FTRIP", 
     "expansion": "Facilities Training Requirements Integration Panel"
   }, 
@@ -35534,6 +35538,10 @@
   {
     "abbreviation": "GEDI", 
     "expansion": "Global Ecosystem Dynamics Investigation"
+  }, 
+  {
+    "abbreviation": "GEE", 
+    "expansion": "Google Earth Engine"
   }, 
   {
     "abbreviation": "GEER", 
@@ -50724,6 +50732,10 @@
     "expansion": "Langley Emerging and Advancing Professionals"
   }, 
   {
+    "abbreviation": "LEAPS", 
+    "expansion": "Layered and Extensible Aircraft Performance System"
+  }, 
+  {
     "abbreviation": "LEARN", 
     "expansion": "Leading Edge Aeronautics Research for NASA"
   }, 
@@ -53330,6 +53342,10 @@
   {
     "abbreviation": "LUI", 
     "expansion": "Local User Interface"
+  }, 
+  {
+    "abbreviation": "LULC", 
+    "expansion": "Land Use Land Cover"
   }, 
   {
     "abbreviation": "LUNA", 
@@ -58240,6 +58256,10 @@
     "expansion": "Model Transfer"
   }, 
   {
+    "abbreviation": "MODU", 
+    "expansion": "Mobile Offshore Drilling Unit"
+  }, 
+  {
     "abbreviation": "MOE", 
     "expansion": "Measurement Of Effectiveness"
   }, 
@@ -62538,6 +62558,10 @@
   {
     "abbreviation": "NESDIS", 
     "expansion": "National Environmental Satellite, Data, and Information Service"
+  }, 
+  {
+    "abbreviation": "NESOSIM", 
+    "expansion": "NASA Eulerian Snow on Sea Ice Model"
   }, 
   {
     "abbreviation": "NESP", 
@@ -80144,6 +80168,10 @@
     "expansion": "Remote"
   }, 
   {
+    "abbreviation": "RMTC", 
+    "expansion": "Ramp Manager Traffic Console"
+  }, 
+  {
     "abbreviation": "RMU", 
     "expansion": "Radio Management Unit"
   }, 
@@ -85642,6 +85670,10 @@
   {
     "abbreviation": "SELF", 
     "expansion": "Solar Electric Light Fund"
+  }, 
+  {
+    "abbreviation": "SELFI", 
+    "expansion": "Submillimeter Enceladus Life Fundamentals Instrument"
   }, 
   {
     "abbreviation": "SELP", 
