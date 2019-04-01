@@ -6944,6 +6944,10 @@
     "expansion": "Advanced Technology Microwave Sounder"
   }, 
   {
+    "abbreviation": "ATN", 
+    "expansion": "Aeronautical Telecommunication Network"
+  }, 
+  {
     "abbreviation": "ATO", 
     "expansion": "Abort To Orbit"
   }, 
@@ -11432,6 +11436,10 @@
     "expansion": "Commercial Biomedical Testing Module"
   }, 
   {
+    "abbreviation": "CBV", 
+    "expansion": "Contrending Basis Vectors"
+  }, 
+  {
     "abbreviation": "CC", 
     "expansion": "Constant Current"
   }, 
@@ -11550,6 +11558,10 @@
   {
     "abbreviation": "CCAA", 
     "expansion": "Common Cabin Air Assembly"
+  }, 
+  {
+    "abbreviation": "CCAA", 
+    "expansion": "Cognitive Communications for Aerospace Applications"
   }, 
   {
     "abbreviation": "CCAFS", 
@@ -12886,6 +12898,10 @@
   {
     "abbreviation": "CE", 
     "expansion": "Co-Elliptic"
+  }, 
+  {
+    "abbreviation": "CE", 
+    "expansion": "Cognitive Engine"
   }, 
   {
     "abbreviation": "CE&IS", 
@@ -15213,6 +15229,10 @@
   }, 
   {
     "abbreviation": "CMIS", 
+    "expansion": "Compact Mid-Wave Imaging System"
+  }, 
+  {
+    "abbreviation": "CMIS", 
     "expansion": "Conical-scanning Microwave Imager/Sounder"
   }, 
   {
@@ -17340,6 +17360,10 @@
     "expansion": "Cosmic Radiation Effect"
   }, 
   {
+    "abbreviation": "CRE", 
+    "expansion": "Cloud Radiative Effect"
+  }, 
+  {
     "abbreviation": "CREAM", 
     "expansion": "Cosmic Radiation Effects and Activation Monitor"
   }, 
@@ -17510,6 +17534,10 @@
   {
     "abbreviation": "CRM", 
     "expansion": "Crew Resource Management"
+  }, 
+  {
+    "abbreviation": "CRM", 
+    "expansion": "Customer Relationship Manager"
   }, 
   {
     "abbreviation": "CRMO", 
@@ -24161,6 +24189,10 @@
   }, 
   {
     "abbreviation": "DV", 
+    "expansion": "Data Validation"
+  }, 
+  {
+    "abbreviation": "DV", 
     "expansion": "Data Verification"
   }, 
   {
@@ -24206,6 +24238,10 @@
   {
     "abbreviation": "DVI", 
     "expansion": "Digital Video Interface"
+  }, 
+  {
+    "abbreviation": "DVI", 
+    "expansion": "Difference Vegetation Index"
   }, 
   {
     "abbreviation": "DVICE", 
@@ -24858,6 +24894,10 @@
   {
     "abbreviation": "EC", 
     "expansion": "European Community"
+  }, 
+  {
+    "abbreviation": "EC", 
+    "expansion": "Eddy Covariance"
   }, 
   {
     "abbreviation": "EC", 
@@ -28377,6 +28417,10 @@
   }, 
   {
     "abbreviation": "ER", 
+    "expansion": "Extinction Ratio"
+  }, 
+  {
+    "abbreviation": "ER", 
     "expansion": "Express Rack"
   }, 
   {
@@ -29248,6 +29292,10 @@
     "expansion": "Enterprise Service Request System"
   }, 
   {
+    "abbreviation": "ESRS", 
+    "expansion": "Earth Science and Remote Sensing"
+  }, 
+  {
     "abbreviation": "ESRT", 
     "expansion": "Exploration Systems Research and Technology"
   }, 
@@ -29978,6 +30026,10 @@
   {
     "abbreviation": "EVE", 
     "expansion": "Exploration Visualization Environment"
+  }, 
+  {
+    "abbreviation": "EVE", 
+    "expansion": "Enceladus Vent Explorer"
   }, 
   {
     "abbreviation": "EVES", 
@@ -31564,12 +31616,16 @@
     "expansion": "Frequency Domain Reflectometry"
   }, 
   {
+    "abbreviation": "FDR", 
+    "expansion": "Fusion Driven Rocket"
+  }, 
+  {
     "abbreviation": "FDRD", 
     "expansion": "Flight Definition and Requirements Directive"
   }, 
   {
     "abbreviation": "FDRD", 
-    "expansion": "Flight Definition Requirements Document/Directive"
+    "expansion": "Flight Definition Requirements Document"
   }, 
   {
     "abbreviation": "FDS", 
@@ -31938,6 +31994,10 @@
   {
     "abbreviation": "FFHD", 
     "expansion": "First Flight Hardware Delivery"
+  }, 
+  {
+    "abbreviation": "FFI", 
+    "expansion": "Full Frame Image"
   }, 
   {
     "abbreviation": "FFLA", 
@@ -36298,6 +36358,10 @@
   {
     "abbreviation": "GMC", 
     "expansion": "Generalized Method of Cells"
+  }, 
+  {
+    "abbreviation": "GMC", 
+    "expansion": "Goddard Miniature Coronagraph"
   }, 
   {
     "abbreviation": "GMEM", 
@@ -41004,6 +41068,10 @@
     "expansion": "Hardware Quality Assurance"
   }, 
   {
+    "abbreviation": "HWU", 
+    "expansion": "Heriot Watt University"
+  }, 
+  {
     "abbreviation": "HX", 
     "expansion": "Heat Exchanger"
   }, 
@@ -43750,6 +43818,10 @@
   {
     "abbreviation": "ILW", 
     "expansion": "Integrated Liquid Water"
+  }, 
+  {
+    "abbreviation": "IM", 
+    "expansion": "Impact Melt"
   }, 
   {
     "abbreviation": "IM", 
@@ -47944,6 +48016,10 @@
     "expansion": "Joint Housing Unit"
   }, 
   {
+    "abbreviation": "JHUAPL", 
+    "expansion": "Johns Hopkins University Applied Physics Laboratory"
+  }, 
+  {
     "abbreviation": "JI", 
     "expansion": "Jet Interaction"
   }, 
@@ -51046,6 +51122,10 @@
   {
     "abbreviation": "LGF", 
     "expansion": "Low Gradient Furnace"
+  }, 
+  {
+    "abbreviation": "LGN", 
+    "expansion": "Lunar Geophysical Network"
   }, 
   {
     "abbreviation": "LGPS", 
@@ -57728,6 +57808,10 @@
     "expansion": "Microgravity Measurement Equipment"
   }, 
   {
+    "abbreviation": "MMEI", 
+    "expansion": "Micromultilayer Multifunctional Electrical Insulation"
+  }, 
+  {
     "abbreviation": "MMEL", 
     "expansion": "Master Minimum Equipment List"
   }, 
@@ -57846,6 +57930,10 @@
   {
     "abbreviation": "MMRTG", 
     "expansion": "Multimission Radioisotope Thermoelectric Generators"
+  }, 
+  {
+    "abbreviation": "MMS", 
+    "expansion": "Mojave Mars Simulant"
   }, 
   {
     "abbreviation": "MMS", 
@@ -58726,6 +58814,10 @@
   {
     "abbreviation": "MPA", 
     "expansion": "Mapping of Mission Planning and Analysis"
+  }, 
+  {
+    "abbreviation": "MPA", 
+    "expansion": "Medium Power Amplifier"
   }, 
   {
     "abbreviation": "MPAC", 
@@ -61060,6 +61152,10 @@
     "expansion": "Manufacturing Work Instruction"
   }, 
   {
+    "abbreviation": "MWIR", 
+    "expansion": "Mid-Wave Infrared"
+  }, 
+  {
     "abbreviation": "MWIS", 
     "expansion": "Micro Wireless Instrument System"
   }, 
@@ -62688,6 +62784,10 @@
     "expansion": "Nanofarad"
   }, 
   {
+    "abbreviation": "NFAC", 
+    "expansion": "National Full-scale Aerodynamics Complex"
+  }, 
+  {
     "abbreviation": "NFAF", 
     "expansion": "NASA Family Assistance Fund"
   }, 
@@ -63342,6 +63442,10 @@
   {
     "abbreviation": "NJ", 
     "expansion": "New Jersey"
+  }, 
+  {
+    "abbreviation": "NJFCP", 
+    "expansion": "National Jet Fuels Combustion Program"
   }, 
   {
     "abbreviation": "NJRI", 
@@ -67352,6 +67456,10 @@
     "expansion": "On-line Patron Catalog"
   }, 
   {
+    "abbreviation": "OPAL", 
+    "expansion": "Outer Planet Atmospheres Legacy"
+  }, 
+  {
     "abbreviation": "OPALS", 
     "expansion": "Optical PAyload for Lasercomm Science"
   }, 
@@ -70824,6 +70932,10 @@
     "expansion": "Program Definition and Requirements Document"
   }, 
   {
+    "abbreviation": "PDRMIP", 
+    "expansion": "Precipitation Driver Response Model Intercomparison Project"
+  }, 
+  {
     "abbreviation": "PDRP", 
     "expansion": "Payload Display Review Panel"
   }, 
@@ -71162,6 +71274,10 @@
   {
     "abbreviation": "PEM", 
     "expansion": "Plastic Encapsulated Microcircuit"
+  }, 
+  {
+    "abbreviation": "PEM", 
+    "expansion": "Proton Exchange Membrane"
   }, 
   {
     "abbreviation": "PEM-W", 
@@ -74844,6 +74960,10 @@
     "expansion": "Program for Information Storage and Management"
   }, 
   {
+    "abbreviation": "PRISM", 
+    "expansion": "Phobos/Deimos Regolith Ion Sample Mission"
+  }, 
+  {
     "abbreviation": "PrISMS", 
     "expansion": "Program Information Systems Mission Services"
   }, 
@@ -75361,6 +75481,10 @@
   }, 
   {
     "abbreviation": "PSDS", 
+    "expansion": "Planetary Science Decadal Survey"
+  }, 
+  {
+    "abbreviation": "PSDS", 
     "expansion": "Product Safety Data Sheet"
   }, 
   {
@@ -75422,6 +75546,10 @@
   {
     "abbreviation": "PSFS", 
     "expansion": "Payload Safety Flight Status Charts"
+  }, 
+  {
+    "abbreviation": "PSG", 
+    "expansion": "Planetary Spectrum Generator"
   }, 
   {
     "abbreviation": "PSHS", 
@@ -80942,6 +81070,10 @@
   {
     "abbreviation": "RRSW", 
     "expansion": "Rapid Response Space Works"
+  }, 
+  {
+    "abbreviation": "RRT", 
+    "expansion": "Rapidly-Exploring Random Tree"
   }, 
   {
     "abbreviation": "RRT", 
@@ -87820,6 +87952,10 @@
     "expansion": "Soil Moisture"
   }, 
   {
+    "abbreviation": "SM", 
+    "expansion": "Surface Module"
+  }, 
+  {
     "abbreviation": "SM&C", 
     "expansion": "Station Management and Control"
   }, 
@@ -88630,6 +88766,10 @@
   {
     "abbreviation": "SO", 
     "expansion": "SSRMS Officer"
+  }, 
+  {
+    "abbreviation": "SO", 
+    "expansion": "Solid Oxide"
   }, 
   {
     "abbreviation": "SOA", 
@@ -92676,6 +92816,10 @@
     "expansion": "Science Traceability Matrix"
   }, 
   {
+    "abbreviation": "STM", 
+    "expansion": "Space Traffice Management"
+  }, 
+  {
     "abbreviation": "STMD", 
     "expansion": "Space Technology Mission Directorate"
   }, 
@@ -94222,6 +94366,10 @@
   {
     "abbreviation": "TAP", 
     "expansion": "Tracking Acquisition Processor"
+  }, 
+  {
+    "abbreviation": "TAP", 
+    "expansion": "Targeted Attack Protection"
   }, 
   {
     "abbreviation": "TAP", 
@@ -98264,6 +98412,10 @@
     "expansion": "Time to Restore"
   }, 
   {
+    "abbreviation": "TTR", 
+    "expansion": "Tiltrotor Test Rig"
+  }, 
+  {
     "abbreviation": "TTRT", 
     "expansion": "Target Token Rotation Time"
   }, 
@@ -98694,6 +98846,10 @@
   {
     "abbreviation": "UA", 
     "expansion": "Unmanned Aircraft"
+  }, 
+  {
+    "abbreviation": "UA", 
+    "expansion": "Unauthorized Application"
   }, 
   {
     "abbreviation": "UAB", 
@@ -101480,6 +101636,10 @@
     "expansion": "Virgin Islands"
   }, 
   {
+    "abbreviation": "VIA", 
+    "expansion": "Vortex Identification Algorithm"
+  }, 
+  {
     "abbreviation": "VIACS", 
     "expansion": "Vulnerability, Impacts, Adaptation, and Climate Services"
   }, 
@@ -102420,6 +102580,10 @@
     "expansion": "Verification Requirement Owner"
   }, 
   {
+    "abbreviation": "VRR", 
+    "expansion": "Vera Rubin Ridge"
+  }, 
+  {
     "abbreviation": "VRS", 
     "expansion": "Vacuum Resource System"
   }, 
@@ -102958,6 +103122,10 @@
   {
     "abbreviation": "WAC", 
     "expansion": "WRC Advisory Committee"
+  }, 
+  {
+    "abbreviation": "WACR", 
+    "expansion": "Wideband Autonomous Cognitive Radio"
   }, 
   {
     "abbreviation": "WAD", 
