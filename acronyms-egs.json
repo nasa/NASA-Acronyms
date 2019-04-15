@@ -1,11 +1,11 @@
 [
   {
     "abbreviation": "21 CSLC",
-    "expansion": "21st Century Space Launch Complex� (aka. 21 CLC)"
+    "expansion": "21st Century Space Launch Complex  (aka. 21 CLC)"
   },
   {
     "abbreviation": "21C",
-    "expansion": "21st Century [Space Launch Complex� (aka. 21 CLC)]"
+    "expansion": "21st Century [Space Launch Complex  (aka. 21 CLC)]"
   },
   {
     "abbreviation": "21CGSP",
@@ -85,11 +85,11 @@
   },
   {
     "abbreviation": "ACS",
-    "expansion": "Automated Control System"
+    "expansion": "Attitude Control System"
   },
   {
     "abbreviation": "ACS",
-    "expansion": "Attitude Control System"
+    "expansion": "Automated Control System"
   },
   {
     "abbreviation": "ACTD",
@@ -102,6 +102,10 @@
   {
     "abbreviation": "AD",
     "expansion": "Anomaly Detection"
+  },
+  {
+    "abbreviation": "AD",
+    "expansion": "Application Development"
   },
   {
     "abbreviation": "ADA",
@@ -320,6 +324,10 @@
     "expansion": "Auxiliary Power Unit"
   },
   {
+    "abbreviation": "AR",
+    "expansion": "Aerojet-Rocketdyne"
+  },
+  {
     "abbreviation": "ARB",
     "expansion": "Architectures Review Board"
   },
@@ -352,6 +360,10 @@
     "expansion": "Aeronautics Research Mission Directorate"
   },
   {
+    "abbreviation": "ARTEMIS",
+    "expansion": "Advanced Real Time Environment for Modeling Integration and Simulation"
+  },
+  {
     "abbreviation": "ASAP",
     "expansion": "Agency (Aeronautics) Safety Assessment Panel"
   },
@@ -374,6 +386,10 @@
   {
     "abbreviation": "ASME",
     "expansion": "American Society of Mechanical Engineers"
+  },
+  {
+    "abbreviation": "ASP",
+    "expansion": "Astronaut Support Person"
   },
   {
     "abbreviation": "ASPU",
@@ -481,11 +497,11 @@
   },
   {
     "abbreviation": "BDEALS",
-    "expansion": "Bilateral Data Exchange Agreements, Lists, and Schedules"
+    "expansion": "Bi-lateral data exchange agreement list and schedules"
   },
   {
     "abbreviation": "BDEALS",
-    "expansion": "Bi-lateral data exchange agreement list and schedules"
+    "expansion": "Bilateral Data Exchange Agreements, Lists, and Schedules"
   },
   {
     "abbreviation": "BEA",
@@ -505,7 +521,7 @@
   },
   {
     "abbreviation": "BHF",
-    "expansion": "BTA Handling Fixture"
+    "expansion": "Boiler Test Article Handling Fixture"
   },
   {
     "abbreviation": "BIT",
@@ -522,6 +538,10 @@
   {
     "abbreviation": "BMAR",
     "expansion": "Backlog Maintenance and Repair"
+  },
+  {
+    "abbreviation": "BMIT",
+    "expansion": "Business Management Integration Team"
   },
   {
     "abbreviation": "BMRST",
@@ -581,6 +601,10 @@
   },
   {
     "abbreviation": "BTA",
+    "expansion": "Boat Tail"
+  },
+  {
+    "abbreviation": "BTA",
     "expansion": "Boilerplate Test Article"
   },
   {
@@ -626,6 +650,10 @@
   {
     "abbreviation": "C3PO",
     "expansion": "Commercial Crew and Cargo Program Office"
+  },
+  {
+    "abbreviation": "C3PW",
+    "expansion": "Contractor Third Party Work"
   },
   {
     "abbreviation": "C3R",
@@ -821,6 +849,10 @@
   },
   {
     "abbreviation": "CDP",
+    "expansion": "Common Data Processor"
+  },
+  {
+    "abbreviation": "CDP",
     "expansion": "Continuous Development Process"
   },
   {
@@ -828,24 +860,20 @@
     "expansion": "Contractor Data Package"
   },
   {
-    "abbreviation": "CDP",
-    "expansion": "Common Data Processor"
+    "abbreviation": "CDR",
+    "expansion": "Configuration Discrepancy Record"
   },
   {
     "abbreviation": "CDR",
     "expansion": "Critical Design Review"
   },
   {
-    "abbreviation": "CDR",
-    "expansion": "Configuration Discrepancy Record"
+    "abbreviation": "CDT",
+    "expansion": "Countdown Demonstration Test"
   },
   {
     "abbreviation": "CDT",
     "expansion": "Countdown Time"
-  },
-  {
-    "abbreviation": "CDT",
-    "expansion": "Countdown Demonstration Test"
   },
   {
     "abbreviation": "CE",
@@ -864,6 +892,10 @@
     "expansion": "Comprehensive Emergency Management Plan"
   },
   {
+    "abbreviation": "CER",
+    "expansion": "Chief Engineer Review"
+  },
+  {
     "abbreviation": "CERB",
     "expansion": "Chief Engineer Review Board"
   },
@@ -877,11 +909,11 @@
   },
   {
     "abbreviation": "CFR",
-    "expansion": "Customer Facility Request"
+    "expansion": "Code of Federal Regulations"
   },
   {
     "abbreviation": "CFR",
-    "expansion": "Code of Federal Regulations"
+    "expansion": "Customer Facility Request"
   },
   {
     "abbreviation": "CG",
@@ -890,6 +922,10 @@
   {
     "abbreviation": "CGLS",
     "expansion": "Common Ground Launch System"
+  },
+  {
+    "abbreviation": "CGT",
+    "expansion": "Compressed Gas Trailer"
   },
   {
     "abbreviation": "CHNHNHN2",
@@ -948,16 +984,20 @@
     "expansion": "Cryogenic Level Sensor System"
   },
   {
+    "abbreviation": "CLT",
+    "expansion": "Contianer Load Trailer"
+  },
+  {
     "abbreviation": "CLV",
     "expansion": "Crew Launch Vehicle"
   },
   {
     "abbreviation": "CM",
-    "expansion": "Crew Module"
+    "expansion": "Configuration Management"
   },
   {
     "abbreviation": "CM",
-    "expansion": "Configuration Management"
+    "expansion": "Crew Module"
   },
   {
     "abbreviation": "CM&S",
@@ -966,6 +1006,14 @@
   {
     "abbreviation": "CM/DM",
     "expansion": "Configuration Management/Data Management"
+  },
+  {
+    "abbreviation": "CMA",
+    "expansion": "Crew Module Adapter"
+  },
+  {
+    "abbreviation": "CMA",
+    "expansion": "Crew Module Adapter"
   },
   {
     "abbreviation": "CMASS",
@@ -1013,11 +1061,15 @@
   },
   {
     "abbreviation": "CMS",
-    "expansion": "Content Management System"
+    "expansion": "Content Management and Storage"
   },
   {
     "abbreviation": "CMS",
-    "expansion": "Content Management and Storage"
+    "expansion": "Content Management System"
+  },
+  {
+    "abbreviation": "CMST",
+    "expansion": "Change Management Support Tool"
   },
   {
     "abbreviation": "CMTA",
@@ -1048,12 +1100,12 @@
     "expansion": "Contracting Officer"
   },
   {
-    "abbreviation": "CoF",
-    "expansion": "Construction of Facilities"
-  },
-  {
     "abbreviation": "COF",
     "expansion": "Central Operations Facility"
+  },
+  {
+    "abbreviation": "CoF",
+    "expansion": "Construction of Facilities"
   },
   {
     "abbreviation": "CoFR",
@@ -1160,12 +1212,12 @@
     "expansion": "CoFR Process Plan"
   },
   {
-    "abbreviation": "CPS",
-    "expansion": "Cryogenic Propulsion Stage"
-  },
-  {
     "abbreviation": "cps",
     "expansion": "changes per second"
+  },
+  {
+    "abbreviation": "CPS",
+    "expansion": "Cryogenic Propulsion Stage"
   },
   {
     "abbreviation": "CPU",
@@ -1253,15 +1305,15 @@
   },
   {
     "abbreviation": "CS",
-    "expansion": "Core Stage"
-  },
-  {
-    "abbreviation": "CS",
     "expansion": "Civil Servant"
   },
   {
     "abbreviation": "CS",
     "expansion": "COM System"
+  },
+  {
+    "abbreviation": "CS",
+    "expansion": "Core Stage"
   },
   {
     "abbreviation": "CS ETE",
@@ -1277,11 +1329,11 @@
   },
   {
     "abbreviation": "CSC",
-    "expansion": "Custodial Services Contract"
+    "expansion": "Central Command System Controller (console)"
   },
   {
     "abbreviation": "CSC",
-    "expansion": "Central Command System Controller (console)"
+    "expansion": "Custodial Services Contract"
   },
   {
     "abbreviation": "CSCI",
@@ -1329,11 +1381,11 @@
   },
   {
     "abbreviation": "CSM",
-    "expansion": "Crew and Service Module"
+    "expansion": "Common Services and Framework"
   },
   {
     "abbreviation": "CSM",
-    "expansion": "Common Services and Framework"
+    "expansion": "Crew and Service Module"
   },
   {
     "abbreviation": "CSO",
@@ -1344,12 +1396,16 @@
     "expansion": "Computer Systems Raytheon"
   },
   {
-    "abbreviation": "CT",
-    "expansion": "Crawler-Transporter"
+    "abbreviation": "CSR",
+    "expansion": "Crew Module Separation Ring"
   },
   {
     "abbreviation": "CT",
     "expansion": "Cost"
+  },
+  {
+    "abbreviation": "CT",
+    "expansion": "Crawler-Transporter"
   },
   {
     "abbreviation": "CTC",
@@ -1389,6 +1445,10 @@
   },
   {
     "abbreviation": "CTS",
+    "expansion": "Call to Stations"
+  },
+  {
+    "abbreviation": "CTS",
     "expansion": "Command Termination System"
   },
   {
@@ -1405,15 +1465,15 @@
   },
   {
     "abbreviation": "CUI",
-    "expansion": "Controlled Unclassified Information"
-  },
-  {
-    "abbreviation": "CUI",
     "expansion": "Character-Based User Interface"
   },
   {
     "abbreviation": "CUI",
     "expansion": "Compact unique Identifier"
+  },
+  {
+    "abbreviation": "CUI",
+    "expansion": "Controlled Unclassified Information"
   },
   {
     "abbreviation": "CWDM",
@@ -1469,11 +1529,11 @@
   },
   {
     "abbreviation": "DAR",
-    "expansion": "Data at Rest"
+    "expansion": "Data Analysis Report"
   },
   {
     "abbreviation": "DAR",
-    "expansion": "Data Analysis Report"
+    "expansion": "Data at Rest"
   },
   {
     "abbreviation": "DART",
@@ -1593,11 +1653,11 @@
   },
   {
     "abbreviation": "DEM",
-    "expansion": "Demo (Demonstration)"
+    "expansion": "Data Exchange Message"
   },
   {
     "abbreviation": "DEM",
-    "expansion": "Data Exchange Message"
+    "expansion": "Demo (Demonstration)"
   },
   {
     "abbreviation": "DES",
@@ -1686,6 +1746,10 @@
   {
     "abbreviation": "DOL",
     "expansion": "Day of Launch"
+  },
+  {
+    "abbreviation": "DOLIAHT",
+    "expansion": "Day of Launch I-Load Update Integrated Ad Hoc Team"
   },
   {
     "abbreviation": "DOLILU",
@@ -1845,11 +1909,11 @@
   },
   {
     "abbreviation": "EA",
-    "expansion": "Enterprise Architecture"
+    "expansion": "Enterprise Architect"
   },
   {
     "abbreviation": "EA",
-    "expansion": "Enterprise Architect"
+    "expansion": "Enterprise Architecture"
   },
   {
     "abbreviation": "EAAU",
@@ -2097,11 +2161,11 @@
   },
   {
     "abbreviation": "EOC",
-    "expansion": "Emergency Operations Center"
+    "expansion": "Early Operational Capabilities"
   },
   {
     "abbreviation": "EOC",
-    "expansion": "Early Operational Capabilities"
+    "expansion": "Emergency Operations Center"
   },
   {
     "abbreviation": "EOCY",
@@ -2109,11 +2173,11 @@
   },
   {
     "abbreviation": "EOM",
-    "expansion": "End Of Mission"
+    "expansion": "Element Operations Manager"
   },
   {
     "abbreviation": "EOM",
-    "expansion": "Element Operations Manager"
+    "expansion": "End Of Mission"
   },
   {
     "abbreviation": "EOT",
@@ -2184,6 +2248,10 @@
     "expansion": "Exploration Requirements for Institutional Capabilities"
   },
   {
+    "abbreviation": "ERT",
+    "expansion": "Exploration Research and Technology"
+  },
+  {
     "abbreviation": "ES",
     "expansion": "Engine Section"
   },
@@ -2201,7 +2269,7 @@
   },
   {
     "abbreviation": "ESD",
-    "expansion": "Exploration Systems Development/Directorate/Division"
+    "expansion": "Electrostatic Discharge"
   },
   {
     "abbreviation": "ESD",
@@ -2209,7 +2277,7 @@
   },
   {
     "abbreviation": "ESD",
-    "expansion": "Electrostatic Discharge"
+    "expansion": "Exploration Systems Development/Directorate/Division"
   },
   {
     "abbreviation": "ESDIS",
@@ -2252,6 +2320,10 @@
     "expansion": "Engine Service Platform"
   },
   {
+    "abbreviation": "ESPRIT",
+    "expansion": "European System Providing Refueling Infrastructure and Telecommunications"
+  },
+  {
     "abbreviation": "ESR",
     "expansion": "Engineering Support Room"
   },
@@ -2262,6 +2334,10 @@
   {
     "abbreviation": "ET",
     "expansion": "External Tank"
+  },
+  {
+    "abbreviation": "ETC",
+    "expansion": "Estimate To Completion"
   },
   {
     "abbreviation": "ETDP",
@@ -2278,6 +2354,10 @@
   {
     "abbreviation": "ETL",
     "expansion": "Explosive Transfer Line"
+  },
+  {
+    "abbreviation": "ETM",
+    "expansion": "Element Technical Manager"
   },
   {
     "abbreviation": "ETXS",
@@ -2321,7 +2401,7 @@
   },
   {
     "abbreviation": "EVS",
-    "expansion": "Extended Voice"
+    "expansion": "Extended Voice System"
   },
   {
     "abbreviation": "EWW",
@@ -2373,11 +2453,11 @@
   },
   {
     "abbreviation": "FCA",
-    "expansion": "Functional Configuration Audit"
+    "expansion": "Flow Control Assembly"
   },
   {
     "abbreviation": "FCA",
-    "expansion": "Flow Control Assembly"
+    "expansion": "Functional Configuration Audit"
   },
   {
     "abbreviation": "FCM",
@@ -2413,11 +2493,11 @@
   },
   {
     "abbreviation": "FEC",
-    "expansion": "Florida East Coast Railroad"
+    "expansion": "Field Engineering Change"
   },
   {
     "abbreviation": "FEC",
-    "expansion": "Field Engineering Change"
+    "expansion": "Florida East Coast Railroad"
   },
   {
     "abbreviation": "FED",
@@ -2461,11 +2541,11 @@
   },
   {
     "abbreviation": "FID",
-    "expansion": "Functional Interface Document"
+    "expansion": "Facility Interface Document"
   },
   {
     "abbreviation": "FID",
-    "expansion": "Facility Interface Document"
+    "expansion": "Functional Interface Document"
   },
   {
     "abbreviation": "FIE",
@@ -2521,11 +2601,11 @@
   },
   {
     "abbreviation": "FOD",
-    "expansion": "Foreign Object Debris"
+    "expansion": "Flight Operations Directorate"
   },
   {
     "abbreviation": "FOD",
-    "expansion": "Flight Operations Directorate"
+    "expansion": "Foreign Object Debris"
   },
   {
     "abbreviation": "FoM",
@@ -2541,11 +2621,11 @@
   },
   {
     "abbreviation": "FPB",
-    "expansion": "Flight Planning Board"
+    "expansion": "Facility Program Board"
   },
   {
     "abbreviation": "FPB",
-    "expansion": "Facility Program Board"
+    "expansion": "Flight Planning Board"
   },
   {
     "abbreviation": "FPC",
@@ -2589,11 +2669,11 @@
   },
   {
     "abbreviation": "FRR",
-    "expansion": "Flight Readiness Review"
+    "expansion": "Facility Readiness Review"
   },
   {
     "abbreviation": "FRR",
-    "expansion": "Facility Readiness Review"
+    "expansion": "Flight Readiness Review"
   },
   {
     "abbreviation": "FRT",
@@ -2628,12 +2708,16 @@
     "expansion": "Fuel Service Panel"
   },
   {
-    "abbreviation": "FSS",
-    "expansion": "Flight Safety Systems"
+    "abbreviation": "FSR",
+    "expansion": "Formulation Sync Review"
   },
   {
     "abbreviation": "FSS",
     "expansion": "Fire Suppression System"
+  },
+  {
+    "abbreviation": "FSS",
+    "expansion": "Flight Safety Systems"
   },
   {
     "abbreviation": "FSSWG",
@@ -2857,11 +2941,11 @@
   },
   {
     "abbreviation": "GOPD",
-    "expansion": "Ground Operations Planning Document (obsolete)"
+    "expansion": "Ground Operations Planning Database"
   },
   {
     "abbreviation": "GOPD",
-    "expansion": "Ground Operations Planning Database"
+    "expansion": "Ground Operations Planning Document (obsolete)"
   },
   {
     "abbreviation": "GORA",
@@ -2916,8 +3000,16 @@
     "expansion": "Ground Processing Unit"
   },
   {
+    "abbreviation": "GR&A",
+    "expansion": "Ground Rules and Assumptions"
+  },
+  {
     "abbreviation": "GRC",
     "expansion": "Glenn Research Center"
+  },
+  {
+    "abbreviation": "GRUBBS",
+    "expansion": "Ground Recorder Utility core BaseBand System"
   },
   {
     "abbreviation": "GS",
@@ -2973,11 +3065,11 @@
   },
   {
     "abbreviation": "GSI",
-    "expansion": "Ground Systems Integrator"
+    "expansion": "Ground Systems and Implementation"
   },
   {
     "abbreviation": "GSI",
-    "expansion": "Ground Systems and Implementation"
+    "expansion": "Ground Systems Integrator"
   },
   {
     "abbreviation": "GSIT",
@@ -3028,6 +3120,10 @@
     "expansion": "Gateway"
   },
   {
+    "abbreviation": "GW",
+    "expansion": "Gateway"
+  },
+  {
     "abbreviation": "H&A",
     "expansion": "Handling and Access"
   },
@@ -3046,6 +3142,10 @@
   {
     "abbreviation": "HAASP",
     "expansion": "Hydraulic Arms and Accessories Service Pressure"
+  },
+  {
+    "abbreviation": "HALR",
+    "expansion": "Handling and Access Landing and Recovery"
   },
   {
     "abbreviation": "HAML",
@@ -3156,6 +3256,10 @@
     "expansion": "Hazardous Gas Leak Detection Subsystem"
   },
   {
+    "abbreviation": "HGLDS",
+    "expansion": "Hazardous Gas Leak Detection System"
+  },
+  {
     "abbreviation": "HIF",
     "expansion": "Horizontal Integration Facility"
   },
@@ -3209,11 +3313,11 @@
   },
   {
     "abbreviation": "HP",
-    "expansion": "High Pressure"
+    "expansion": "Hewett Packard"
   },
   {
     "abbreviation": "HP",
-    "expansion": "Hewett Packard"
+    "expansion": "High Pressure"
   },
   {
     "abbreviation": "HPG",
@@ -3317,11 +3421,11 @@
   },
   {
     "abbreviation": "IAS",
-    "expansion": "Integrated Avionics Software"
+    "expansion": "Information Architecture"
   },
   {
     "abbreviation": "IAS",
-    "expansion": "Information Architecture"
+    "expansion": "Integrated Avionics Software"
   },
   {
     "abbreviation": "IAT",
@@ -3357,11 +3461,11 @@
   },
   {
     "abbreviation": "ICAT",
-    "expansion": "Integrated Change Assessment Team"
+    "expansion": "INCA Commanding and Telemetry"
   },
   {
     "abbreviation": "ICAT",
-    "expansion": "INCA Commanding and Telemetry"
+    "expansion": "Integrated Change Assessment Team"
   },
   {
     "abbreviation": "ICCA",
@@ -3377,11 +3481,11 @@
   },
   {
     "abbreviation": "ICE",
-    "expansion": "Integrated Collaborative Environment"
+    "expansion": "Independent Cost Estimate"
   },
   {
     "abbreviation": "ICE",
-    "expansion": "Independent Cost Estimate"
+    "expansion": "Integrated Collaborative Environment"
   },
   {
     "abbreviation": "ICE-E",
@@ -3441,7 +3545,7 @@
   },
   {
     "abbreviation": "IDCR",
-    "expansion": "Instituational Design Certification Review"
+    "expansion": "Institutional Design Certification Review"
   },
   {
     "abbreviation": "IDDD",
@@ -3454,6 +3558,10 @@
   {
     "abbreviation": "IDIQ",
     "expansion": "Indefinite Delivery Indefinite Quantity"
+  },
+  {
+    "abbreviation": "IDM",
+    "expansion": "Interim Directive Memo"
   },
   {
     "abbreviation": "IDP",
@@ -3641,11 +3749,11 @@
   },
   {
     "abbreviation": "IPCA",
-    "expansion": "IPT Preliminary Capability Assessment"
+    "expansion": "Integrated Physical Configuration Audit"
   },
   {
     "abbreviation": "IPCA",
-    "expansion": "Integrated Physical Configuration Audit"
+    "expansion": "IPT Preliminary Capability Assessment"
   },
   {
     "abbreviation": "IPCE",
@@ -3713,11 +3821,11 @@
   },
   {
     "abbreviation": "IRIS",
-    "expansion": "Infrared Instrumentation System"
+    "expansion": "Incident Reporting Information System"
   },
   {
     "abbreviation": "IRIS",
-    "expansion": "Incident Reporting Information System"
+    "expansion": "Infrared Instrumentation System"
   },
   {
     "abbreviation": "IRN",
@@ -3725,7 +3833,7 @@
   },
   {
     "abbreviation": "IRT",
-    "expansion": "Issue Resolution Team"
+    "expansion": "Independent Review Team"
   },
   {
     "abbreviation": "IRT",
@@ -3737,11 +3845,15 @@
   },
   {
     "abbreviation": "IRT",
-    "expansion": "Independent Review Team"
+    "expansion": "Issue Resolution Team"
   },
   {
     "abbreviation": "IRWG",
     "expansion": "Integrated Risk Working Group"
+  },
+  {
+    "abbreviation": "ISC",
+    "expansion": "Ignition/Staging Controller"
   },
   {
     "abbreviation": "ISC",
@@ -3750,10 +3862,6 @@
   {
     "abbreviation": "ISC",
     "expansion": "Institutional Support Contractor"
-  },
-  {
-    "abbreviation": "ISC",
-    "expansion": "Ignition/Staging Controller"
   },
   {
     "abbreviation": "ISO",
@@ -3932,12 +4040,12 @@
     "expansion": "Joint Operating Procedure"
   },
   {
-    "abbreviation": "JPCB",
-    "expansion": "Joint Program Control Board"
-  },
-  {
     "abbreviation": "jpcb",
     "expansion": "Extensible Markup Language [XML] Telemetric and Command Exchange"
+  },
+  {
+    "abbreviation": "JPCB",
+    "expansion": "Joint Program Control Board"
   },
   {
     "abbreviation": "JPG",
@@ -4089,11 +4197,11 @@
   },
   {
     "abbreviation": "KPLSS",
-    "expansion": "KSC Propellants and Life Support Services"
+    "expansion": "Kennedy Propellant and Life Support Services"
   },
   {
     "abbreviation": "KPLSS",
-    "expansion": "Kennedy Propellant and Life Support Services"
+    "expansion": "KSC Propellants and Life Support Services"
   },
   {
     "abbreviation": "KPP",
@@ -4260,6 +4368,10 @@
     "expansion": "Launch Danger Area"
   },
   {
+    "abbreviation": "LDAC",
+    "expansion": "Localized Data Acquisition and Control"
+  },
+  {
     "abbreviation": "LDAR",
     "expansion": "Lightening Detection and Ranging System"
   },
@@ -4281,11 +4393,11 @@
   },
   {
     "abbreviation": "LEO",
-    "expansion": "Low Earth Orbit"
+    "expansion": "Liquid Engines Office"
   },
   {
     "abbreviation": "LEO",
-    "expansion": "Liquid Engines Office"
+    "expansion": "Low Earth Orbit"
   },
   {
     "abbreviation": "LES",
@@ -4310,6 +4422,10 @@
   {
     "abbreviation": "LH2",
     "expansion": "liquid hydrogen"
+  },
+  {
+    "abbreviation": "LiDAR",
+    "expansion": "Light Detection and Ranging"
   },
   {
     "abbreviation": "LI-ITT",
@@ -4341,11 +4457,11 @@
   },
   {
     "abbreviation": "LLIL",
-    "expansion": "Long Lead Items List"
+    "expansion": "Limited Life Items List"
   },
   {
     "abbreviation": "LLIL",
-    "expansion": "Limited Life Items List"
+    "expansion": "Long Lead Items List"
   },
   {
     "abbreviation": "LLPO",
@@ -4365,11 +4481,11 @@
   },
   {
     "abbreviation": "LMS",
-    "expansion": "Learning Management System"
+    "expansion": "LCC Management System"
   },
   {
     "abbreviation": "LMS",
-    "expansion": "LCC Management System"
+    "expansion": "Learning Management System"
   },
   {
     "abbreviation": "LN2",
@@ -4398,6 +4514,10 @@
   {
     "abbreviation": "LOX",
     "expansion": "liquid oxygen"
+  },
+  {
+    "abbreviation": "LPD",
+    "expansion": "Landing Platform Dock"
   },
   {
     "abbreviation": "LPE",
@@ -4577,11 +4697,11 @@
   },
   {
     "abbreviation": "MARSS",
-    "expansion": "Meteorological and Range Safety Systems"
+    "expansion": "Meteorological and Atmospheric Real-time Safety Support"
   },
   {
     "abbreviation": "MARSS",
-    "expansion": "Meteorological and Atmospheric Real-time Safety Support"
+    "expansion": "Meteorological and Range Safety Systems"
   },
   {
     "abbreviation": "MATA",
@@ -4609,11 +4729,11 @@
   },
   {
     "abbreviation": "MCR",
-    "expansion": "Mission Concept Review"
+    "expansion": "Master Change Request/Record ? Mission Concept Review"
   },
   {
     "abbreviation": "MCR",
-    "expansion": "Master Change Request/Record ? Mission Concept Review"
+    "expansion": "Mid-Course Radar"
   },
   {
     "abbreviation": "MCR",
@@ -4621,7 +4741,7 @@
   },
   {
     "abbreviation": "MCR",
-    "expansion": "Mid-Course Radar"
+    "expansion": "Mission Concept Review"
   },
   {
     "abbreviation": "MD",
@@ -4633,11 +4753,11 @@
   },
   {
     "abbreviation": "MDA",
-    "expansion": "Missile Defense Agency"
+    "expansion": "Manufacturing Demonstration Article"
   },
   {
     "abbreviation": "MDA",
-    "expansion": "Manufacturing Demonstration Article"
+    "expansion": "Missile Defense Agency"
   },
   {
     "abbreviation": "MDAU",
@@ -4653,11 +4773,11 @@
   },
   {
     "abbreviation": "MDR",
-    "expansion": "Mission Definition Review"
+    "expansion": "Medium Data Rate"
   },
   {
     "abbreviation": "MDR",
-    "expansion": "Medium Data Rate"
+    "expansion": "Mission Definition Review"
   },
   {
     "abbreviation": "MDS",
@@ -4736,12 +4856,12 @@
     "expansion": "Mobile Intercept Ground Optical Recording System"
   },
   {
-    "abbreviation": "Mil",
-    "expansion": "Military"
-  },
-  {
     "abbreviation": "MIL",
     "expansion": "Master Interface List"
+  },
+  {
+    "abbreviation": "Mil",
+    "expansion": "Military"
   },
   {
     "abbreviation": "MILA",
@@ -4758,6 +4878,10 @@
   {
     "abbreviation": "MIP",
     "expansion": "Mandatory Inspection Point"
+  },
+  {
+    "abbreviation": "MIPR",
+    "expansion": "Military Interdepartmental Purchase Request"
   },
   {
     "abbreviation": "MIR",
@@ -4896,6 +5020,10 @@
     "expansion": "Main Propulsion System"
   },
   {
+    "abbreviation": "MPS",
+    "expansion": "Manifest Planning Sync"
+  },
+  {
     "abbreviation": "MPSF",
     "expansion": "Multi-Purpose Storage Facility"
   },
@@ -4941,7 +5069,7 @@
   },
   {
     "abbreviation": "MSC",
-    "expansion": "Mission Support Council (Agency)"
+    "expansion": "Material Service Center"
   },
   {
     "abbreviation": "MSC",
@@ -4949,7 +5077,11 @@
   },
   {
     "abbreviation": "MSC",
-    "expansion": "Material Service Center"
+    "expansion": "Mission Support Council (Agency)"
+  },
+  {
+    "abbreviation": "MSCP",
+    "expansion": "Modeling and Simulation Control Panel"
   },
   {
     "abbreviation": "MSDS",
@@ -5093,11 +5225,11 @@
   },
   {
     "abbreviation": "NEN",
-    "expansion": "Near Earth Network"
+    "expansion": "NASA Engineering Network"
   },
   {
     "abbreviation": "NEN",
-    "expansion": "NASA Engineering Network"
+    "expansion": "Near Earth Network"
   },
   {
     "abbreviation": "NEPA",
@@ -5110,6 +5242,10 @@
   {
     "abbreviation": "NFS",
     "expansion": "NASA FAR Supplement"
+  },
+  {
+    "abbreviation": "NG",
+    "expansion": "Northrop Grumman"
   },
   {
     "abbreviation": "NGO",
@@ -5161,11 +5297,11 @@
   },
   {
     "abbreviation": "NOA",
-    "expansion": "Notice of Availability"
+    "expansion": "New Obligation Authority"
   },
   {
     "abbreviation": "NOA",
-    "expansion": "New Obligation Authority"
+    "expansion": "Notice of Availability"
   },
   {
     "abbreviation": "NOACK",
@@ -5178,6 +5314,10 @@
   {
     "abbreviation": "NODIS",
     "expansion": "NASA Online Directives Information System"
+  },
+  {
+    "abbreviation": "NOM",
+    "expansion": "NASA Operations Manager"
   },
   {
     "abbreviation": "NORS",
@@ -5489,11 +5629,11 @@
   },
   {
     "abbreviation": "OPA",
-    "expansion": "Operations Planning Application"
+    "expansion": "Office of Public Affairs"
   },
   {
     "abbreviation": "OPA",
-    "expansion": "Office of Public Affairs"
+    "expansion": "Operations Planning Application"
   },
   {
     "abbreviation": "OPE",
@@ -5513,7 +5653,7 @@
   },
   {
     "abbreviation": "OPO",
-    "expansion": "Orion Production Operations"
+    "expansion": "On Pad Operation"
   },
   {
     "abbreviation": "OPO",
@@ -5521,7 +5661,7 @@
   },
   {
     "abbreviation": "OPO",
-    "expansion": "On Pad Operation"
+    "expansion": "Orion Production Operations"
   },
   {
     "abbreviation": "OPP",
@@ -5549,11 +5689,11 @@
   },
   {
     "abbreviation": "ORD",
-    "expansion": "Operations Requirement Document"
+    "expansion": "Operational Readiness Date"
   },
   {
     "abbreviation": "ORD",
-    "expansion": "Operational Readiness Date"
+    "expansion": "Operations Requirement Document"
   },
   {
     "abbreviation": "ORR",
@@ -5569,11 +5709,11 @@
   },
   {
     "abbreviation": "OSC",
-    "expansion": "Orbital Sciences Corporation"
+    "expansion": "Operations Support Console"
   },
   {
     "abbreviation": "OSC",
-    "expansion": "Operations Support Console"
+    "expansion": "Orbital Sciences Corporation"
   },
   {
     "abbreviation": "OSD",
@@ -5681,11 +5821,11 @@
   },
   {
     "abbreviation": "PAD",
-    "expansion": "Project Authorization Document"
+    "expansion": "Program Agreements Document"
   },
   {
     "abbreviation": "PAD",
-    "expansion": "Program Agreements Document"
+    "expansion": "Project Authorization Document"
   },
   {
     "abbreviation": "PADD",
@@ -5749,19 +5889,23 @@
   },
   {
     "abbreviation": "PC",
-    "expansion": "Probability of Casualty"
+    "expansion": "Personal Computer"
   },
   {
     "abbreviation": "PC",
-    "expansion": "Personal Computer"
+    "expansion": "Printed Circuit"
+  },
+  {
+    "abbreviation": "PC",
+    "expansion": "Probability of Casualty"
   },
   {
     "abbreviation": "PC",
     "expansion": "Purchase Card"
   },
   {
-    "abbreviation": "PC",
-    "expansion": "Printed Circuit"
+    "abbreviation": "PCA",
+    "expansion": "Paging Control Assembly"
   },
   {
     "abbreviation": "PCA",
@@ -5770,10 +5914,6 @@
   {
     "abbreviation": "PCA",
     "expansion": "Program Commitment Agreement"
-  },
-  {
-    "abbreviation": "PCA",
-    "expansion": "Paging Control Assembly"
   },
   {
     "abbreviation": "PCB",
@@ -5813,11 +5953,11 @@
   },
   {
     "abbreviation": "PDF",
-    "expansion": "Program Development Framework"
+    "expansion": "Portable Document Format"
   },
   {
     "abbreviation": "PDF",
-    "expansion": "Portable Document Format"
+    "expansion": "Program Development Framework"
   },
   {
     "abbreviation": "PDLM",
@@ -5825,11 +5965,11 @@
   },
   {
     "abbreviation": "PDM",
-    "expansion": "Program Decision Memorandum"
+    "expansion": "Product Data Management"
   },
   {
     "abbreviation": "PDM",
-    "expansion": "Product Data Management"
+    "expansion": "Program Decision Memorandum"
   },
   {
     "abbreviation": "PDO",
@@ -5837,11 +5977,11 @@
   },
   {
     "abbreviation": "PDR",
-    "expansion": "Program Decision Review"
+    "expansion": "Preliminary Design Review"
   },
   {
     "abbreviation": "PDR",
-    "expansion": "Preliminary Design Review"
+    "expansion": "Program Decision Review"
   },
   {
     "abbreviation": "PDS",
@@ -5917,7 +6057,7 @@
   },
   {
     "abbreviation": "PL",
-    "expansion": "Product Line"
+    "expansion": "Parts List"
   },
   {
     "abbreviation": "PL",
@@ -5925,7 +6065,7 @@
   },
   {
     "abbreviation": "PL",
-    "expansion": "Parts List"
+    "expansion": "Product Line"
   },
   {
     "abbreviation": "PLANORD",
@@ -5949,15 +6089,15 @@
   },
   {
     "abbreviation": "PM",
+    "expansion": "Program Management"
+  },
+  {
+    "abbreviation": "PM",
     "expansion": "Program Manager"
   },
   {
     "abbreviation": "PM",
     "expansion": "Project Management"
-  },
-  {
-    "abbreviation": "PM",
-    "expansion": "Program Management"
   },
   {
     "abbreviation": "PMAP",
@@ -5977,11 +6117,15 @@
   },
   {
     "abbreviation": "PMR",
+    "expansion": "Program Management Review"
+  },
+  {
+    "abbreviation": "PMR",
     "expansion": "Program Managers Recommend"
   },
   {
     "abbreviation": "PMR",
-    "expansion": "Program Management Review"
+    "expansion": "Program Monthly Review"
   },
   {
     "abbreviation": "PMR",
@@ -5992,16 +6136,12 @@
     "expansion": "Project Monthly Review"
   },
   {
-    "abbreviation": "PMR",
-    "expansion": "Program Monthly Review"
+    "abbreviation": "PMT",
+    "expansion": "Performance Management Team"
   },
   {
     "abbreviation": "PMT",
     "expansion": "Performance Measurement Technique"
-  },
-  {
-    "abbreviation": "PMT",
-    "expansion": "Performance Management Team"
   },
   {
     "abbreviation": "PNCR",
@@ -6113,19 +6253,19 @@
   },
   {
     "abbreviation": "PRR",
-    "expansion": "Program Risk Review"
-  },
-  {
-    "abbreviation": "PRR",
     "expansion": "Production Readiness Review"
   },
   {
-    "abbreviation": "PRT",
-    "expansion": "Program Review Team"
+    "abbreviation": "PRR",
+    "expansion": "Program Risk Review"
   },
   {
     "abbreviation": "PRT",
     "expansion": "Problem Resolution Team"
+  },
+  {
+    "abbreviation": "PRT",
+    "expansion": "Program Review Team"
   },
   {
     "abbreviation": "PSCC",
@@ -6149,11 +6289,11 @@
   },
   {
     "abbreviation": "PSM",
-    "expansion": "Procurement Strategy Meeting"
+    "expansion": "Process Safety Management"
   },
   {
     "abbreviation": "PSM",
-    "expansion": "Process Safety Management"
+    "expansion": "Procurement Strategy Meeting"
   },
   {
     "abbreviation": "PSMT",
@@ -6257,11 +6397,11 @@
   },
   {
     "abbreviation": "QD",
-    "expansion": "Quick Disconnect"
+    "expansion": "Quantity-Distance"
   },
   {
     "abbreviation": "QD",
-    "expansion": "Quantity-Distance"
+    "expansion": "Quick Disconnect"
   },
   {
     "abbreviation": "QEI",
@@ -6293,11 +6433,11 @@
   },
   {
     "abbreviation": "QRA",
-    "expansion": "Quantitative Risk Assessment"
+    "expansion": "Quantitative Risk Analysis"
   },
   {
     "abbreviation": "QRA",
-    "expansion": "Quantitative Risk Analysis"
+    "expansion": "Quantitative Risk Assessment"
   },
   {
     "abbreviation": "QRG",
@@ -6365,11 +6505,11 @@
   },
   {
     "abbreviation": "RBS",
-    "expansion": "Reusable Booster System"
+    "expansion": "Requirements Breakdown Structure"
   },
   {
     "abbreviation": "RBS",
-    "expansion": "Requirements Breakdown Structure"
+    "expansion": "Reusable Booster System"
   },
   {
     "abbreviation": "RCC",
@@ -6400,6 +6540,10 @@
     "expansion": "Remote Data Acquisition Unit"
   },
   {
+    "abbreviation": "RDC",
+    "expansion": "Recover Decision Criteria"
+  },
+  {
     "abbreviation": "RDF",
     "expansion": "RID Disposition Team"
   },
@@ -6424,12 +6568,12 @@
     "expansion": "Resource Environment for Enhanced Budgeting"
   },
   {
-    "abbreviation": "ReMP",
-    "expansion": "Requirements Management Plan"
-  },
-  {
     "abbreviation": "REMP",
     "expansion": "Requirements Engineering Management Plan"
+  },
+  {
+    "abbreviation": "ReMP",
+    "expansion": "Requirements Management Plan"
   },
   {
     "abbreviation": "RES",
@@ -6460,6 +6604,10 @@
     "expansion": "Request For Proposal/Procurement"
   },
   {
+    "abbreviation": "RFQ",
+    "expansion": "Request For Quote"
+  },
+  {
     "abbreviation": "RFR",
     "expansion": "Request for Relief"
   },
@@ -6486,6 +6634,10 @@
   {
     "abbreviation": "RI&CS",
     "expansion": "Range Interface and Control Systems (aka. RICS)"
+  },
+  {
+    "abbreviation": "RID",
+    "expansion": "Review Item Discrepancy"
   },
   {
     "abbreviation": "RID",
@@ -6553,11 +6705,11 @@
   },
   {
     "abbreviation": "ROM",
-    "expansion": "Rough Order of Magnitude"
+    "expansion": "Recovery Operations Manager"
   },
   {
     "abbreviation": "ROM",
-    "expansion": "Recovery Operations Manager"
+    "expansion": "Rough Order of Magnitude"
   },
   {
     "abbreviation": "ROSES",
@@ -6570,6 +6722,10 @@
   {
     "abbreviation": "RPC",
     "expansion": "Remote Power Controller"
+  },
+  {
+    "abbreviation": "RPS",
+    "expansion": "Recording and Playback Subsystem"
   },
   {
     "abbreviation": "RPS",
@@ -6598,6 +6754,10 @@
   {
     "abbreviation": "RS&H",
     "expansion": "Reynolds, Smith and Hills"
+  },
+  {
+    "abbreviation": "RSAA",
+    "expansion": "Reimbursable Space Act Agreement"
   },
   {
     "abbreviation": "RSAR",
@@ -6670,6 +6830,10 @@
   {
     "abbreviation": "RTSR",
     "expansion": "Range Tracking System Report"
+  },
+  {
+    "abbreviation": "RTW",
+    "expansion": "Ready to work"
   },
   {
     "abbreviation": "S&A",
@@ -6749,11 +6913,11 @@
   },
   {
     "abbreviation": "SAP",
-    "expansion": "System Application and Products"
+    "expansion": "Software Assurance Plan"
   },
   {
     "abbreviation": "SAP",
-    "expansion": "Software Assurance Plan"
+    "expansion": "System Application and Products"
   },
   {
     "abbreviation": "SAR",
@@ -6817,15 +6981,15 @@
   },
   {
     "abbreviation": "SCR",
-    "expansion": "System Concept Review"
-  },
-  {
-    "abbreviation": "SCR",
     "expansion": "Schedule Change Request"
   },
   {
     "abbreviation": "SCR",
     "expansion": "System Change Request"
+  },
+  {
+    "abbreviation": "SCR",
+    "expansion": "System Concept Review"
   },
   {
     "abbreviation": "SCV",
@@ -6917,11 +7081,11 @@
   },
   {
     "abbreviation": "SFD",
-    "expansion": "SLS Flame Deflector"
+    "expansion": "Side Flame Deflector"
   },
   {
     "abbreviation": "SFD",
-    "expansion": "Side Flame Deflector"
+    "expansion": "SLS Flame Deflector"
   },
   {
     "abbreviation": "SHA2",
@@ -6969,11 +7133,11 @@
   },
   {
     "abbreviation": "SIP",
-    "expansion": "Systems Integration Plan"
+    "expansion": "Special Inspection Point"
   },
   {
     "abbreviation": "SIP",
-    "expansion": "Special Inspection Point"
+    "expansion": "Systems Integration Plan"
   },
   {
     "abbreviation": "SIP&A",
@@ -7029,11 +7193,11 @@
   },
   {
     "abbreviation": "SMART",
-    "expansion": "Specific, Measurable, Achievable, Results-focused, Time-bound"
+    "expansion": "Safety and Mission Assurance Record Tracking"
   },
   {
     "abbreviation": "SMART",
-    "expansion": "Safety and Mission Assurance Record Tracking"
+    "expansion": "Specific, Measurable, Achievable, Results-focused, Time-bound"
   },
   {
     "abbreviation": "SMASS",
@@ -7041,11 +7205,11 @@
   },
   {
     "abbreviation": "SMC",
-    "expansion": "Strategic Management Council (Agency)"
+    "expansion": "Space and Missile (Systems) Center"
   },
   {
     "abbreviation": "SMC",
-    "expansion": "Space and Missile (Systems) Center"
+    "expansion": "Strategic Management Council (Agency)"
   },
   {
     "abbreviation": "SMC",
@@ -7080,16 +7244,20 @@
     "expansion": "Space Network"
   },
   {
+    "abbreviation": "SNC",
+    "expansion": "Sierra Nevada Company"
+  },
+  {
     "abbreviation": "SOA",
     "expansion": "Supportability, Operability, Affordability"
   },
   {
     "abbreviation": "SOC",
-    "expansion": "State of Charge"
+    "expansion": "Security Operations Center"
   },
   {
     "abbreviation": "SOC",
-    "expansion": "Security Operations Center"
+    "expansion": "State of Charge"
   },
   {
     "abbreviation": "SOCRRATES",
@@ -7145,11 +7313,11 @@
   },
   {
     "abbreviation": "SPL",
-    "expansion": "Simulated Propellant Loading"
+    "expansion": "Secondary Payload"
   },
   {
     "abbreviation": "SPL",
-    "expansion": "Secondary Payload"
+    "expansion": "Simulated Propellant Loading"
   },
   {
     "abbreviation": "SPM",
@@ -7209,11 +7377,11 @@
   },
   {
     "abbreviation": "SRS",
-    "expansion": "Support Requirements System"
+    "expansion": "Software Requirements Specification"
   },
   {
     "abbreviation": "SRS",
-    "expansion": "Software Requirements Specification"
+    "expansion": "Support Requirements System"
   },
   {
     "abbreviation": "SRT",
@@ -7348,8 +7516,16 @@
     "expansion": "Test and Verification"
   },
   {
+    "abbreviation": "T1",
+    "expansion": "Test 1"
+  },
+  {
+    "abbreviation": "T2",
+    "expansion": "Test 2"
+  },
+  {
     "abbreviation": "TAA",
-    "expansion": "Traveling Access Arm"
+    "expansion": "Technical Assistance Agreement"
   },
   {
     "abbreviation": "TAA",
@@ -7357,7 +7533,7 @@
   },
   {
     "abbreviation": "TAA",
-    "expansion": "Technical Assistance Agreement"
+    "expansion": "Traveling Access Arm"
   },
   {
     "abbreviation": "TAC",
@@ -7417,11 +7593,11 @@
   },
   {
     "abbreviation": "TCF",
-    "expansion": "Transporter-Canister Facility"
+    "expansion": "Technical Capabilities/Facilities"
   },
   {
     "abbreviation": "TCF",
-    "expansion": "Technical Capabilities/Facilities"
+    "expansion": "Transporter-Canister Facility"
   },
   {
     "abbreviation": "TCID",
@@ -7441,11 +7617,15 @@
   },
   {
     "abbreviation": "TCRS",
-    "expansion": "Training and Certificatin Record System"
+    "expansion": "Training and Certification Record System"
   },
   {
     "abbreviation": "TCS",
     "expansion": "Thermal Control Subsystem"
+  },
+  {
+    "abbreviation": "TD",
+    "expansion": "Task Directive"
   },
   {
     "abbreviation": "TD",
@@ -7454,10 +7634,6 @@
   {
     "abbreviation": "TD",
     "expansion": "Test Director"
-  },
-  {
-    "abbreviation": "TD",
-    "expansion": "Task Directive"
   },
   {
     "abbreviation": "TDRSS",
@@ -7534,6 +7710,14 @@
   {
     "abbreviation": "TMP",
     "expansion": "Transition Management Plan"
+  },
+  {
+    "abbreviation": "TMRD",
+    "expansion": "Training Model Requirements Documents"
+  },
+  {
+    "abbreviation": "TNL",
+    "expansion": "Transition Notification Letter"
   },
   {
     "abbreviation": "TO",
@@ -7725,11 +7909,15 @@
   },
   {
     "abbreviation": "ULF",
-    "expansion": "Utilization Logistics Flight"
+    "expansion": "Uncrewed Lunar Flyby"
   },
   {
     "abbreviation": "ULF",
-    "expansion": "Uncrewed Lunar Flyby"
+    "expansion": "Utilization Logistics Flight"
+  },
+  {
+    "abbreviation": "UM",
+    "expansion": "Utilization Module"
   },
   {
     "abbreviation": "UP",
@@ -7885,11 +8073,11 @@
   },
   {
     "abbreviation": "VIE",
-    "expansion": "Vertical Integration Element"
+    "expansion": "Vehicle Interface Element"
   },
   {
     "abbreviation": "VIE",
-    "expansion": "Vehicle Interface Element"
+    "expansion": "Vertical Integration Element"
   },
   {
     "abbreviation": "VIL",
@@ -8012,6 +8200,10 @@
     "expansion": "work in place"
   },
   {
+    "abbreviation": "WMS",
+    "expansion": "Wave Monitoring System"
+  },
+  {
     "abbreviation": "WRKS",
     "expansion": "Work Station"
   },
@@ -8045,11 +8237,11 @@
   },
   {
     "abbreviation": "WYE",
-    "expansion": "Work Year Estimate"
+    "expansion": "Work Year Equivalent"
   },
   {
     "abbreviation": "WYE",
-    "expansion": "Work Year Equivalent"
+    "expansion": "Work Year Estimate"
   },
   {
     "abbreviation": "XCS",
@@ -8074,6 +8266,14 @@
   {
     "abbreviation": "XSD",
     "expansion": "XML Schema Definition"
+  },
+  {
+    "abbreviation": "XTCE",
+    "expansion": "XML Telemetric Command Exchange"
+  },
+  {
+    "abbreviation": "XTCE",
+    "expansion": "XML Telemetry and Command Exchange"
   },
   {
     "abbreviation": "YODA",
