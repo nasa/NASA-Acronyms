@@ -612,6 +612,10 @@
     "expansion": "Battery Unit"
   }, 
   {
+    "abbreviation": "BUIE", 
+    "expansion": "Battery Unit Interface Enclosure"
+  }, 
+  {
     "abbreviation": "C&C", 
     "expansion": "Command and Control"
   }, 
