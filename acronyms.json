@@ -460,6 +460,10 @@
     "expansion": "Advanced Avionics and Processing System"
   }, 
   {
+    "abbreviation": "AARL", 
+    "expansion": "Army Aeronautical Research Laboratory"
+  }, 
+  {
     "abbreviation": "AARSC", 
     "expansion": "Aerodynamically-Actuated Radical Shape Change"
   }, 
@@ -962,6 +966,10 @@
   {
     "abbreviation": "ACE", 
     "expansion": "Aerosols, Clouds, Ecosystems"
+  }, 
+  {
+    "abbreviation": "ACE", 
+    "expansion": "Advanced Conventional Engine"
   }, 
   {
     "abbreviation": "ACE", 
@@ -1765,7 +1773,7 @@
   }, 
   {
     "abbreviation": "ADEPT", 
-    "expansion": "Adaptive, Deployable Entry and Placement Technology"
+    "expansion": "Adaptive Deployable Entry Placement Technology"
   }, 
   {
     "abbreviation": "ADF", 
@@ -4314,6 +4322,10 @@
   {
     "abbreviation": "AMV", 
     "expansion": "Air Mix Valve"
+  }, 
+  {
+    "abbreviation": "AMV", 
+    "expansion": "Atmospheric Motion Vectors"
   }, 
   {
     "abbreviation": "AMVP", 
@@ -8400,6 +8412,10 @@
     "expansion": "Borgess Experiiment for Advancement of Research"
   }, 
   {
+    "abbreviation": "BEAVER", 
+    "expansion": "Biosphere Engineered Architecture for Viable Extraterrestrial Residence"
+  }, 
+  {
     "abbreviation": "BEC", 
     "expansion": "Back-Up and Emergency Capability"
   }, 
@@ -11477,7 +11493,7 @@
   }, 
   {
     "abbreviation": "CBV", 
-    "expansion": "Contrending Basis Vectors"
+    "expansion": "Cotrending Basis Vectors"
   }, 
   {
     "abbreviation": "CC", 
@@ -14861,6 +14877,10 @@
   }, 
   {
     "abbreviation": "CLM", 
+    "expansion": "Composite Layer Manufacturing"
+  }, 
+  {
+    "abbreviation": "CLM", 
     "expansion": "Consolidated Logistics and Maintenance"
   }, 
   {
@@ -16326,10 +16346,6 @@
   {
     "abbreviation": "COPV", 
     "expansion": "Composite Overwrapped Pressure Vessel"
-  }, 
-  {
-    "abbreviation": "COPV", 
-    "expansion": "Composite Overwrap Pressure Vessel"
   }, 
   {
     "abbreviation": "COQ", 
@@ -21230,6 +21246,10 @@
   {
     "abbreviation": "DEMC", 
     "expansion": "Direct Mount Cargo"
+  }, 
+  {
+    "abbreviation": "DEMETER", 
+    "expansion": "Deployable, Enclosed Martian Environment for Technology, Eating, and Recreation"
   }, 
   {
     "abbreviation": "Demod", 
@@ -31333,6 +31353,10 @@
   }, 
   {
     "abbreviation": "FCS", 
+    "expansion": "Future Communications Study"
+  }, 
+  {
+    "abbreviation": "FCS", 
     "expansion": "Flight Control System"
   }, 
   {
@@ -37029,6 +37053,10 @@
   }, 
   {
     "abbreviation": "GPC", 
+    "expansion": "Generalized Predictive Control"
+  }, 
+  {
+    "abbreviation": "GPC", 
     "expansion": "Green Products Compilation"
   }, 
   {
@@ -42041,6 +42069,10 @@
   }, 
   {
     "abbreviation": "ICAN", 
+    "expansion": "Integrated Composite Analyzer"
+  }, 
+  {
+    "abbreviation": "ICAN", 
     "expansion": "Integrated Communication and Network"
   }, 
   {
@@ -42701,6 +42733,10 @@
   }, 
   {
     "abbreviation": "IDC", 
+    "expansion": "Instrument Deployment Camera"
+  }, 
+  {
+    "abbreviation": "IDC", 
     "expansion": "Integrated Design Center"
   }, 
   {
@@ -42762,6 +42798,10 @@
   {
     "abbreviation": "IDEA", 
     "expansion": "Interim Design and Engineering Assessment"
+  }, 
+  {
+    "abbreviation": "IDEA", 
+    "expansion": "Integrated Design and Engineering Analysis"
   }, 
   {
     "abbreviation": "IDEAS", 
@@ -46445,6 +46485,10 @@
   }, 
   {
     "abbreviation": "ISC", 
+    "expansion": "Integrally Stiffened Cylinder"
+  }, 
+  {
+    "abbreviation": "ISC", 
     "expansion": "Instrument Support Contractor"
   }, 
   {
@@ -47258,6 +47302,10 @@
   {
     "abbreviation": "ITO", 
     "expansion": "Indium Tin Oxide"
+  }, 
+  {
+    "abbreviation": "ITP", 
+    "expansion": "In-Trail Procedure"
   }, 
   {
     "abbreviation": "ITP", 
@@ -51129,7 +51177,7 @@
   }, 
   {
     "abbreviation": "LENR", 
-    "expansion": "Low Energy Nuclear Reactions"
+    "expansion": "Low Energy Nuclear Reaction"
   }, 
   {
     "abbreviation": "LEO", 
@@ -52398,6 +52446,10 @@
   {
     "abbreviation": "LORA", 
     "expansion": "Level of Repair Analysis"
+  }, 
+  {
+    "abbreviation": "LOS", 
+    "expansion": "Loss of Separation"
   }, 
   {
     "abbreviation": "LOS", 
@@ -54154,6 +54206,10 @@
   {
     "abbreviation": "MA", 
     "expansion": "Multiple Access"
+  }, 
+  {
+    "abbreviation": "MAAP", 
+    "expansion": "Multi-Mission Algorithm and Analysis Platform"
   }, 
   {
     "abbreviation": "MAAPP", 
@@ -57084,6 +57140,10 @@
     "expansion": "Microphone"
   }, 
   {
+    "abbreviation": "MIC", 
+    "expansion": "Mesh Independent Cracking"
+  }, 
+  {
     "abbreviation": "MICB", 
     "expansion": "Mission Integration Control Board"
   }, 
@@ -57146,6 +57206,10 @@
   {
     "abbreviation": "MIDDS", 
     "expansion": "Meterological Interactive Data Display System"
+  }, 
+  {
+    "abbreviation": "MIDEA", 
+    "expansion": "Meteoroid Impact Detection for Exploration of Asteroids"
   }, 
   {
     "abbreviation": "MIDEX", 
@@ -57774,10 +57838,6 @@
   {
     "abbreviation": "MLGD", 
     "expansion": "Main Landing Gear Doors"
-  }, 
-  {
-    "abbreviation": "MLI", 
-    "expansion": "Multi-Layer Insulation"
   }, 
   {
     "abbreviation": "MLI", 
@@ -60109,6 +60169,10 @@
   }, 
   {
     "abbreviation": "MSC", 
+    "expansion": "MISSE Science Carrier"
+  }, 
+  {
+    "abbreviation": "MSC", 
     "expansion": "Mission Support Center"
   }, 
   {
@@ -60601,7 +60665,7 @@
   }, 
   {
     "abbreviation": "MSRR", 
-    "expansion": "Material Science Research Rack"
+    "expansion": "Materials Science Research Rack"
   }, 
   {
     "abbreviation": "MSS", 
@@ -63048,6 +63112,10 @@
     "expansion": "Next Generation"
   }, 
   {
+    "abbreviation": "NextGen", 
+    "expansion": "Next Generation Air Transportation System"
+  }, 
+  {
     "abbreviation": "NextSTEP", 
     "expansion": "Next Space Technologies for Exploration Partnership"
   }, 
@@ -63421,7 +63489,7 @@
   }, 
   {
     "abbreviation": "NICER", 
-    "expansion": "Neutron Star Interior Composition ExploreR"
+    "expansion": "Neutron Star Interior Composition Explorer"
   }, 
   {
     "abbreviation": "NICG", 
@@ -65802,6 +65870,10 @@
   {
     "abbreviation": "OASIS", 
     "expansion": "OEX Autonomous Supporting Instrumentation System"
+  }, 
+  {
+    "abbreviation": "OASIS", 
+    "expansion": "Operational Airspace Sectorization Integrated System"
   }, 
   {
     "abbreviation": "OASIS", 
@@ -77181,6 +77253,10 @@
   }, 
   {
     "abbreviation": "QAS", 
+    "expansion": "Quality Assurance System"
+  }, 
+  {
+    "abbreviation": "QAS", 
     "expansion": "Quasar Absorption System"
   }, 
   {
@@ -78638,6 +78714,10 @@
   {
     "abbreviation": "RCM", 
     "expansion": "Reliability Centered Maintenance"
+  }, 
+  {
+    "abbreviation": "RCM", 
+    "expansion": "Runway Configuration Management"
   }, 
   {
     "abbreviation": "RCMA", 
@@ -89393,7 +89473,7 @@
   }, 
   {
     "abbreviation": "SOFIA", 
-    "expansion": "Stratospheric Observatory For Infrared Astronomy"
+    "expansion": "Stratospheric Observatory for Infrared Astronomy"
   }, 
   {
     "abbreviation": "SOFIE", 
@@ -90254,6 +90334,10 @@
   {
     "abbreviation": "SPI", 
     "expansion": "Spirometry Test"
+  }, 
+  {
+    "abbreviation": "SPI", 
+    "expansion": "Sapa Profiles, Incorporated"
   }, 
   {
     "abbreviation": "SPI", 
@@ -94321,6 +94405,10 @@
   }, 
   {
     "abbreviation": "T", 
+    "expansion": "Tunnel"
+  }, 
+  {
+    "abbreviation": "T", 
     "expansion": "Triple"
   }, 
   {
@@ -95610,6 +95698,10 @@
   {
     "abbreviation": "TDD", 
     "expansion": "Test Documentation Drawing"
+  }, 
+  {
+    "abbreviation": "TDD", 
+    "expansion": "Test-Driven Development"
   }, 
   {
     "abbreviation": "TDD", 
