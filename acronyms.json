@@ -12684,6 +12684,14 @@
     "expansion": "Contract Data Management Office"
   }, 
   {
+    "abbreviation": "CDMOP", 
+    "expansion": "Configuration and Data Management Operating Procedures"
+  }, 
+  {
+    "abbreviation": "CDMP", 
+    "expansion": "Configuration and Data Management Plan"
+  }, 
+  {
     "abbreviation": "CDMS", 
     "expansion": "Cryospheric Data Management System"
   }, 
@@ -14086,6 +14094,10 @@
   {
     "abbreviation": "Ci", 
     "expansion": "Circuitry"
+  }, 
+  {
+    "abbreviation": "CI", 
+    "expansion": "Configuration Identifier"
   }, 
   {
     "abbreviation": "CI", 
@@ -18334,6 +18346,10 @@
   {
     "abbreviation": "CSO", 
     "expansion": "Computer Security Official"
+  }, 
+  {
+    "abbreviation": "CSO", 
+    "expansion": "Chief Safety Officer"
   }, 
   {
     "abbreviation": "CSO", 
@@ -50984,6 +51000,10 @@
     "expansion": "Lunar Distant Retrograde Orbit"
   }, 
   {
+    "abbreviation": "LDRS", 
+    "expansion": "Langley Digital Repository Secure"
+  }, 
+  {
     "abbreviation": "LDS", 
     "expansion": "Laser Docking Sensor"
   }, 
@@ -70645,6 +70665,10 @@
   }, 
   {
     "abbreviation": "PCM", 
+    "expansion": "Project Configuration Manager"
+  }, 
+  {
+    "abbreviation": "PCM", 
     "expansion": "Project Configuration Management"
   }, 
   {
@@ -70710,6 +70734,10 @@
   {
     "abbreviation": "PCN", 
     "expansion": "Program Control Number"
+  }, 
+  {
+    "abbreviation": "PCO", 
+    "expansion": "PP&C Capability Office"
   }, 
   {
     "abbreviation": "PCO", 
@@ -74566,10 +74594,6 @@
   {
     "abbreviation": "PP", 
     "expansion": "Planetary Protection"
-  }, 
-  {
-    "abbreviation": "PP&C", 
-    "expansion": "Program Planning and Control Office"
   }, 
   {
     "abbreviation": "PP&C", 
@@ -86890,6 +86914,10 @@
   {
     "abbreviation": "SFPCB", 
     "expansion": "Science and Flight Projects Contract Branch"
+  }, 
+  {
+    "abbreviation": "SFPPH", 
+    "expansion": "Space Flight Project Practices Handbook"
   }, 
   {
     "abbreviation": "SFPS", 
