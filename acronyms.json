@@ -8492,6 +8492,10 @@
     "expansion": "Behavior Excellence Strategic Team"
   }, 
   {
+    "abbreviation": "BEST", 
+    "expansion": "Black Employee Strategy Team"
+  }, 
+  {
     "abbreviation": "BET", 
     "expansion": "Bending Effect Temperature"
   }, 
@@ -24772,6 +24776,10 @@
     "expansion": "Electrified Aircraft Propulsion"
   }, 
   {
+    "abbreviation": "EAPR", 
+    "expansion": "Enterprise Architecture Project Review"
+  }, 
+  {
     "abbreviation": "EAPRS", 
     "expansion": "EA Problem Reporting System"
   }, 
@@ -24854,6 +24862,10 @@
   {
     "abbreviation": "EASILY", 
     "expansion": "Experimental Avionics Systems Integration Laboratory"
+  }, 
+  {
+    "abbreviation": "EASR", 
+    "expansion": "Enterprise Architecture Service Review"
   }, 
   {
     "abbreviation": "EASSS", 
@@ -26114,6 +26126,10 @@
   {
     "abbreviation": "EEE", 
     "expansion": "Energy Efficient Engine"
+  }, 
+  {
+    "abbreviation": "EEE", 
+    "expansion": "Employees Enabled and Empowered"
   }, 
   {
     "abbreviation": "EEEU", 
@@ -70773,6 +70789,10 @@
   }, 
   {
     "abbreviation": "PCR", 
+    "expansion": "Project Completion Review"
+  }, 
+  {
+    "abbreviation": "PCR", 
     "expansion": "Procedure Change Request"
   }, 
   {
@@ -74370,6 +74390,10 @@
   {
     "abbreviation": "POMT", 
     "expansion": "Planning Operations Management Team"
+  }, 
+  {
+    "abbreviation": "PONDS", 
+    "expansion": "Passic Orbital Nutrient Delivery System"
   }, 
   {
     "abbreviation": "POO", 
@@ -84986,6 +85010,10 @@
   {
     "abbreviation": "SCR", 
     "expansion": "Strip Chart Recorder"
+  }, 
+  {
+    "abbreviation": "SCR", 
+    "expansion": "System Concept Review"
   }, 
   {
     "abbreviation": "SCRAM", 
