@@ -58216,6 +58216,10 @@
     "expansion": "Multilateral Mission Integration and Operation Control Panel"
   }, 
   {
+    "abbreviation": "MMIP", 
+    "expansion": "Moon to Mars Ice and Prospecting"
+  }, 
+  {
     "abbreviation": "MMIS", 
     "expansion": "Mission Management Information Service"
   }, 
@@ -78446,6 +78450,10 @@
   {
     "abbreviation": "RASC", 
     "expansion": "Revolutionary Aerospace Systems Concepts"
+  }, 
+  {
+    "abbreviation": "RASC-AL", 
+    "expansion": "Revolutionary Aerospace Systems Concepts - Academic Linkage"
   }, 
   {
     "abbreviation": "RASCAL", 
