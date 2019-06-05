@@ -20528,6 +20528,10 @@
     "expansion": "Diffusion Coefficients in Crude Oil"
   }, 
   {
+	"abbreviation": "DCCS",
+	"expansion": "Document Change Control System"
+  },
+  {
     "abbreviation": "DCD", 
     "expansion": "DSCC Comand"
   }, 
