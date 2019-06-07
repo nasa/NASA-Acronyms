@@ -488,6 +488,10 @@
     "expansion": "Baseline Configuration Imagery"
   }, 
   {
+    "abbreviation": "BCN", 
+    "expansion": "Baseline Change Notice"
+  }, 
+  {
     "abbreviation": "BCPDU", 
     "expansion": "Booster Control Power Distribution Unit"
   }, 
