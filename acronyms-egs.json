@@ -488,10 +488,6 @@
     "expansion": "Baseline Configuration Imagery"
   }, 
   {
-    "abbreviation": "BCN", 
-    "expansion": "Baseline Change Notice"
-  }, 
-  {
     "abbreviation": "BCPDU", 
     "expansion": "Booster Control Power Distribution Unit"
   }, 
@@ -614,10 +610,6 @@
   {
     "abbreviation": "BU", 
     "expansion": "Battery Unit"
-  }, 
-  {
-    "abbreviation": "BUIE", 
-    "expansion": "Battery Unit Interface Enclosure"
   }, 
   {
     "abbreviation": "C&C", 
@@ -4308,10 +4300,6 @@
     "expansion": "Launch Abort System Facility"
   }, 
   {
-    "abbreviation": "LASSO ", 
-    "expansion": "Laboratory Support Services and Operations"
-  }, 
-  {
     "abbreviation": "LAVA", 
     "expansion": "Lunar Advanced Volatile Analysis"
   }, 
@@ -6917,7 +6905,7 @@
   }, 
   {
     "abbreviation": "SAMP", 
-    "expansion": "Site Activation Management Plan"
+    "expansion": "Site Activation Management Panel Charter"
   }, 
   {
     "abbreviation": "SAN", 
