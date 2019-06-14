@@ -468,6 +468,10 @@
     "expansion": "Aerodynamically-Actuated Radical Shape Change"
   }, 
   {
+    "abbreviation": "AART", 
+    "expansion": "Agency Application Rationalization Tool"
+  }, 
+  {
     "abbreviation": "AAS", 
     "expansion": "Advanced Automated System"
   }, 
@@ -84258,10 +84262,6 @@
   {
     "abbreviation": "SBTC", 
     "expansion": "SpeedBrake / Thrust Controller"
-  }, 
-  {
-    "abbreviation": "SBU", 
-    "expansion": "Sensative But Unclassified"
   }, 
   {
     "abbreviation": "SBU", 
