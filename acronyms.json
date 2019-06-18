@@ -124,6 +124,10 @@
     "expansion": "Assembly and Manifest"
   }, 
   {
+    "abbreviation": "A&M", 
+    "expansion": "Agricultural and Mechanical"
+  }, 
+  {
     "abbreviation": "A&MI", 
     "expansion": "Assembly and Maintenance Integration"
   }, 
@@ -138,6 +142,10 @@
   {
     "abbreviation": "A&P", 
     "expansion": "Airframe and Powerplant"
+  }, 
+  {
+    "abbreviation": "A&P", 
+    "expansion": "Atkins & Pearce"
   }, 
   {
     "abbreviation": "A&R", 
@@ -794,6 +802,10 @@
   {
     "abbreviation": "ACA", 
     "expansion": "Azimuth Control Assembly"
+  }, 
+  {
+    "abbreviation": "ACA", 
+    "expansion": "Automated Collision Avoidance"
   }, 
   {
     "abbreviation": "ACACT", 
@@ -1664,6 +1676,10 @@
     "expansion": "Approach for Data Management, Archive, Protection, and Transmission"
   }, 
   {
+    "abbreviation": "ADAPT", 
+    "expansion": "Advanced Diagnostics and Prognostics Testbed"
+  }, 
+  {
     "abbreviation": "ADAS", 
     "expansion": "Ambulatory Data Acquisition System"
   }, 
@@ -1778,6 +1794,10 @@
   {
     "abbreviation": "ADEPT", 
     "expansion": "Adaptive Deployable Entry Placement Technology"
+  }, 
+  {
+    "abbreviation": "ADEPT", 
+    "expansion": "Automation Design and Evaluation Prototyping Toolset"
   }, 
   {
     "abbreviation": "ADF", 
@@ -1912,6 +1932,10 @@
     "expansion": "Adaptation Data Overlay"
   }, 
   {
+    "abbreviation": "ADO", 
+    "expansion": "Advanced Design Office"
+  }, 
+  {
     "abbreviation": "ADP", 
     "expansion": "Acceptance Data Pack"
   }, 
@@ -1938,6 +1962,10 @@
   {
     "abbreviation": "ADP", 
     "expansion": "Advanced Degree Program"
+  }, 
+  {
+    "abbreviation": "ADP", 
+    "expansion": "Advanced Ducted Propeller"
   }, 
   {
     "abbreviation": "ADP", 
@@ -2072,6 +2100,14 @@
     "expansion": "Avue Digital Services"
   }, 
   {
+    "abbreviation": "ADS", 
+    "expansion": "Aeronautical Design Standard"
+  }, 
+  {
+    "abbreviation": "ADS", 
+    "expansion": "Aeronautical Design Specification"
+  }, 
+  {
     "abbreviation": "ADS-B", 
     "expansion": "Automatic Dependent Surveillance Broadcast"
   }, 
@@ -2198,6 +2234,10 @@
   {
     "abbreviation": "AE", 
     "expansion": "Angstrom Exponent"
+  }, 
+  {
+    "abbreviation": "AE", 
+    "expansion": "Allison Engine"
   }, 
   {
     "abbreviation": "AEA", 
@@ -2394,6 +2434,10 @@
   {
     "abbreviation": "AES", 
     "expansion": "Advanced Exploration Systems"
+  }, 
+  {
+    "abbreviation": "AES", 
+    "expansion": "Auger Electron Spectroscopy"
   }, 
   {
     "abbreviation": "AESA", 
@@ -2792,6 +2836,10 @@
     "expansion": "Astrophysics Focused Telescope Assets"
   }, 
   {
+    "abbreviation": "AFTC", 
+    "expansion": "Air Force Test Center"
+  }, 
+  {
     "abbreviation": "AFTI", 
     "expansion": "Advanced Fighter Technology Integration"
   }, 
@@ -3186,6 +3234,10 @@
   {
     "abbreviation": "AIBS", 
     "expansion": "American Institute of Biological Sciences"
+  }, 
+  {
+    "abbreviation": "AIC", 
+    "expansion": "Aerodynamic Influence Coefficient"
   }, 
   {
     "abbreviation": "AIC", 
@@ -3664,6 +3716,10 @@
     "expansion": "Audit Liaison Representative"
   }, 
   {
+    "abbreviation": "ALR", 
+    "expansion": "Aft Lift Relaxation"
+  }, 
+  {
     "abbreviation": "ALS", 
     "expansion": "Aerial Laser Scanning"
   }, 
@@ -3810,6 +3866,10 @@
   {
     "abbreviation": "ALV", 
     "expansion": "Advanced Launch Vehicle"
+  }, 
+  {
+    "abbreviation": "ALV", 
+    "expansion": "ATK Launch Vehicle"
   }, 
   {
     "abbreviation": "ALWT", 
@@ -4444,6 +4504,10 @@
     "expansion": "Advanced Notification of Shipping"
   }, 
   {
+    "abbreviation": "ANS", 
+    "expansion": "Autonomic Nervous System"
+  }, 
+  {
     "abbreviation": "ANSI", 
     "expansion": "American National Standards Institute"
   }, 
@@ -4957,6 +5021,10 @@
   }, 
   {
     "abbreviation": "APG", 
+    "expansion": "Arc Plasma Generator"
+  }, 
+  {
+    "abbreviation": "APG", 
     "expansion": "Annual Performance Goal"
   }, 
   {
@@ -4978,6 +5046,10 @@
   {
     "abbreviation": "API", 
     "expansion": "Aviation Partners, Incorporated"
+  }, 
+  {
+    "abbreviation": "API", 
+    "expansion": "Applied Poleramic, Incorporated"
   }, 
   {
     "abbreviation": "API", 
@@ -5201,6 +5273,10 @@
   }, 
   {
     "abbreviation": "APS", 
+    "expansion": "Airborne Precision Spacing"
+  }, 
+  {
+    "abbreviation": "APS", 
     "expansion": "Astronaut Positioning System"
   }, 
   {
@@ -5214,6 +5290,10 @@
   {
     "abbreviation": "APS", 
     "expansion": "Automated Payload Switch"
+  }, 
+  {
+    "abbreviation": "APSE", 
+    "expansion": "Aero-Propulso-Servo-Elastic"
   }, 
   {
     "abbreviation": "APSE", 
@@ -5314,6 +5394,10 @@
   {
     "abbreviation": "AR", 
     "expansion": "Active Region"
+  }, 
+  {
+    "abbreviation": "AR", 
+    "expansion": "Anti-Reflective"
   }, 
   {
     "abbreviation": "AR", 
@@ -5808,6 +5892,10 @@
     "expansion": "Advanced Radiator Test Article"
   }, 
   {
+    "abbreviation": "ARTC", 
+    "expansion": "Automated Return to Course"
+  }, 
+  {
     "abbreviation": "ARTCC", 
     "expansion": "Air Route Traffic Control Center"
   }, 
@@ -5890,6 +5978,10 @@
   {
     "abbreviation": "AS", 
     "expansion": "Airspeed"
+  }, 
+  {
+    "abbreviation": "AS", 
+    "expansion": "As-Fabricated"
   }, 
   {
     "abbreviation": "AS", 
@@ -6400,6 +6492,10 @@
     "expansion": "Australian Space Office"
   }, 
   {
+    "abbreviation": "ASOC", 
+    "expansion": "Atlas Spaceflight Operations Center"
+  }, 
+  {
     "abbreviation": "ASOFF", 
     "expansion": "Aviation Safety Officer"
   }, 
@@ -6900,6 +6996,10 @@
     "expansion": "Attitude Timeline"
   }, 
   {
+    "abbreviation": "ATL", 
+    "expansion": "Atlanta International Airport"
+  }, 
+  {
     "abbreviation": "ATLAS", 
     "expansion": "Advanced Topographic Laser Altimeter System"
   }, 
@@ -7213,6 +7313,10 @@
   }, 
   {
     "abbreviation": "AU", 
+    "expansion": "Acousto-Ultrasonic"
+  }, 
+  {
+    "abbreviation": "AU", 
     "expansion": "Astronomical Unit"
   }, 
   {
@@ -7478,6 +7582,10 @@
   {
     "abbreviation": "AVT", 
     "expansion": "Acceptance Vibration Test"
+  }, 
+  {
+    "abbreviation": "AVT", 
+    "expansion": "Applied Vehicle Technology"
   }, 
   {
     "abbreviation": "AVU", 
@@ -7928,6 +8036,10 @@
     "expansion": "Broadband Network"
   }, 
   {
+    "abbreviation": "BBN", 
+    "expansion": "Baysian Belief Network"
+  }, 
+  {
     "abbreviation": "BBND", 
     "expansion": "Bonner Ball Neutron Detector"
   }, 
@@ -7977,6 +8089,14 @@
   }, 
   {
     "abbreviation": "BC", 
+    "expansion": "British Colombia"
+  }, 
+  {
+    "abbreviation": "BC", 
+    "expansion": "Before Christ"
+  }, 
+  {
+    "abbreviation": "BC", 
     "expansion": "Black Carbon"
   }, 
   {
@@ -7994,6 +8114,10 @@
   {
     "abbreviation": "BCA", 
     "expansion": "Battery Charger Assembly"
+  }, 
+  {
+    "abbreviation": "BCA", 
+    "expansion": "Boeing Commerical Airplanes"
   }, 
   {
     "abbreviation": "BCAC", 
@@ -8224,6 +8348,10 @@
     "expansion": "Business Development"
   }, 
   {
+    "abbreviation": "BD", 
+    "expansion": "Blade Deflection"
+  }, 
+  {
     "abbreviation": "BDA", 
     "expansion": "Big Data Analytics"
   }, 
@@ -8380,6 +8508,10 @@
     "expansion": "Binary Data Table"
   }, 
   {
+    "abbreviation": "BDT", 
+    "expansion": "Bagging Decision Tree"
+  }, 
+  {
     "abbreviation": "BDU", 
     "expansion": "Backup Drive Unit"
   }, 
@@ -8472,6 +8604,10 @@
     "expansion": "Bureau of Engraving and Printing"
   }, 
   {
+    "abbreviation": "BEP", 
+    "expansion": "Beamed-Energy Propulsion"
+  }, 
+  {
     "abbreviation": "BER", 
     "expansion": "Bit Error Rate"
   }, 
@@ -8498,6 +8634,10 @@
   {
     "abbreviation": "BEST", 
     "expansion": "Black Employee Strategy Team"
+  }, 
+  {
+    "abbreviation": "BEST", 
+    "expansion": "Boundary Element Solution Technology"
   }, 
   {
     "abbreviation": "BET", 
@@ -8694,6 +8834,10 @@
   {
     "abbreviation": "BIM", 
     "expansion": "BC Interface Module"
+  }, 
+  {
+    "abbreviation": "BIM", 
+    "expansion": "Baysian Imaging Method"
   }, 
   {
     "abbreviation": "BIMSWG", 
@@ -8904,6 +9048,14 @@
     "expansion": "Basic Life Support"
   }, 
   {
+    "abbreviation": "BLS", 
+    "expansion": "Boundary Layer Stripping"
+  }, 
+  {
+    "abbreviation": "BLS", 
+    "expansion": "Bounded Linear Stability"
+  }, 
+  {
     "abbreviation": "BLT", 
     "expansion": "Ballscrew Lubrication Tool"
   }, 
@@ -9026,6 +9178,10 @@
   {
     "abbreviation": "BMG", 
     "expansion": "Bulk Metallic Glass"
+  }, 
+  {
+    "abbreviation": "BMI", 
+    "expansion": "Bismaleimide"
   }, 
   {
     "abbreviation": "BMI", 
@@ -10289,6 +10445,10 @@
   }, 
   {
     "abbreviation": "CA", 
+    "expansion": "Conflict Alert"
+  }, 
+  {
+    "abbreviation": "CA", 
     "expansion": "Certification Authority"
   }, 
   {
@@ -10314,6 +10474,10 @@
   {
     "abbreviation": "CAA", 
     "expansion": "C2V2 Antenna Assembly"
+  }, 
+  {
+    "abbreviation": "CAA", 
+    "expansion": "Civil Aviation Authority"
   }, 
   {
     "abbreviation": "CAaaS", 
@@ -16100,6 +16264,10 @@
     "expansion": "Ccommon Run Time Environment"
   }, 
   {
+    "abbreviation": "COMATE", 
+    "expansion": "Composite Material Evaluator"
+  }, 
+  {
     "abbreviation": "COMBO", 
     "expansion": "Computation of Misses Between Orbits"
   }, 
@@ -19544,6 +19712,10 @@
     "expansion": "Commercial Cross-Bay for Materials"
   }, 
   {
+    "abbreviation": "CXO", 
+    "expansion": "Chandra X-ray Observatory"
+  }, 
+  {
     "abbreviation": "CxP", 
     "expansion": "Constellation Program"
   }, 
@@ -22154,6 +22326,10 @@
   {
     "abbreviation": "DLOV", 
     "expansion": "Directorate Level Overview Videos"
+  }, 
+  {
+    "abbreviation": "DLP", 
+    "expansion": "Data Loss Prevention"
   }, 
   {
     "abbreviation": "DLR", 
@@ -24780,6 +24956,10 @@
     "expansion": "Electrified Aircraft Propulsion"
   }, 
   {
+    "abbreviation": "EAPP", 
+    "expansion": "Electrified Aircraft Propulsion and Power"
+  }, 
+  {
     "abbreviation": "EAPR", 
     "expansion": "Enterprise Architecture Project Review"
   }, 
@@ -24866,6 +25046,10 @@
   {
     "abbreviation": "EASILY", 
     "expansion": "Experimental Avionics Systems Integration Laboratory"
+  }, 
+  {
+    "abbreviation": "EASM", 
+    "expansion": "Explicit Algebraic Stress Model"
   }, 
   {
     "abbreviation": "EASR", 
@@ -26598,6 +26782,10 @@
   {
     "abbreviation": "EHL", 
     "expansion": "Environmental Health Laboratory"
+  }, 
+  {
+    "abbreviation": "EHP", 
+    "expansion": "Electrowetting Heat Pipe"
   }, 
   {
     "abbreviation": "EHP", 
@@ -31897,6 +32085,10 @@
   }, 
   {
     "abbreviation": "FE", 
+    "expansion": "Fracto-emission"
+  }, 
+  {
+    "abbreviation": "FE", 
     "expansion": "Filament Eruptions"
   }, 
   {
@@ -31930,6 +32122,10 @@
   {
     "abbreviation": "FEC", 
     "expansion": "Forward Error Correction"
+  }, 
+  {
+    "abbreviation": "FEC", 
+    "expansion": "Failure Effects Classification"
   }, 
   {
     "abbreviation": "FECA", 
@@ -32308,6 +32504,10 @@
     "expansion": "Fleet and Ground Management"
   }, 
   {
+    "abbreviation": "FGM", 
+    "expansion": "Functionally Graded Material"
+  }, 
+  {
     "abbreviation": "FGMo", 
     "expansion": "FDO/GPO Monitoring"
   }, 
@@ -32318,6 +32518,10 @@
   {
     "abbreviation": "FGS", 
     "expansion": "Flight Guidance System"
+  }, 
+  {
+    "abbreviation": "FGS", 
+    "expansion": "Functionalized Graphene Sheets"
   }, 
   {
     "abbreviation": "FGSE", 
@@ -32486,6 +32690,10 @@
   {
     "abbreviation": "FIF", 
     "expansion": "File Information Form"
+  }, 
+  {
+    "abbreviation": "FIF", 
+    "expansion": "Flexural Internal Friction"
   }, 
   {
     "abbreviation": "FIFE", 
@@ -32800,6 +33008,10 @@
     "expansion": "Fluid Leak Indicator"
   }, 
   {
+    "abbreviation": "FLI", 
+    "expansion": "Forward Looking Interferometer"
+  }, 
+  {
     "abbreviation": "FLICC", 
     "expansion": "Federal Library and Information Center Committee"
   }, 
@@ -32838,6 +33050,10 @@
   {
     "abbreviation": "FLOPS", 
     "expansion": "FLoating-point Operations Per Second"
+  }, 
+  {
+    "abbreviation": "FLOPS", 
+    "expansion": "Flight Optimization System"
   }, 
   {
     "abbreviation": "FLOR", 
@@ -32990,6 +33206,10 @@
   {
     "abbreviation": "FMC", 
     "expansion": "Forward Motor Controller"
+  }, 
+  {
+    "abbreviation": "FMC-CDU", 
+    "expansion": "Flight Management Computer Control-Display Unit"
   }, 
   {
     "abbreviation": "FMCSA", 
@@ -33496,6 +33716,10 @@
     "expansion": "Fiber Optic Sensing System"
   }, 
   {
+    "abbreviation": "FOSS", 
+    "expansion": "Fiber Optic Strain Sensing"
+  }, 
+  {
     "abbreviation": "FOT", 
     "expansion": "Flight Operations Team"
   }, 
@@ -33560,6 +33784,14 @@
     "expansion": "False Positive"
   }, 
   {
+    "abbreviation": "FP", 
+    "expansion": "Flight Parameter"
+  }, 
+  {
+    "abbreviation": "FP", 
+    "expansion": "Fiber Process"
+  }, 
+  {
     "abbreviation": "FPA", 
     "expansion": "Flight Path Angle"
   }, 
@@ -33594,6 +33826,10 @@
   {
     "abbreviation": "FPC", 
     "expansion": "Federal Preparedness Circular"
+  }, 
+  {
+    "abbreviation": "FPC-EKF", 
+    "expansion": "Feature and Pose Constained Extended Kalman Filter"
   }, 
   {
     "abbreviation": "FPCA", 
@@ -33662,6 +33898,10 @@
   {
     "abbreviation": "FPI", 
     "expansion": "Fixed Price Incentive"
+  }, 
+  {
+    "abbreviation": "FPI", 
+    "expansion": "Fast Probability Integration"
   }, 
   {
     "abbreviation": "FPIF", 
@@ -33784,6 +34024,10 @@
     "expansion": "Federal Procurement Regulation"
   }, 
   {
+    "abbreviation": "FPR", 
+    "expansion": "Fan Pressure Ratio"
+  }, 
+  {
     "abbreviation": "FPS", 
     "expansion": "Fan Pump Separator"
   }, 
@@ -33830,6 +34074,10 @@
   {
     "abbreviation": "FPV", 
     "expansion": "Flow Proportioning Valve"
+  }, 
+  {
+    "abbreviation": "FPV", 
+    "expansion": "Flamelet/Progress Variable"
   }, 
   {
     "abbreviation": "FPW", 
@@ -33932,6 +34180,18 @@
     "expansion": "Frame Relay"
   }, 
   {
+    "abbreviation": "FR", 
+    "expansion": "Felicity Ratio"
+  }, 
+  {
+    "abbreviation": "FR", 
+    "expansion": "Fused Reality"
+  }, 
+  {
+    "abbreviation": "FR", 
+    "expansion": "Fuzzy Reasoning"
+  }, 
+  {
     "abbreviation": "FRA", 
     "expansion": "Federal Railroad Administration"
   }, 
@@ -33966,6 +34226,14 @@
   {
     "abbreviation": "FRC", 
     "expansion": "Federal Records Center"
+  }, 
+  {
+    "abbreviation": "FRC", 
+    "expansion": "Fiberglass Reinforced Composite"
+  }, 
+  {
+    "abbreviation": "FRC", 
+    "expansion": "Fiber Reinforced Composite"
   }, 
   {
     "abbreviation": "FRCB", 
@@ -34076,6 +34344,10 @@
     "expansion": "Fleet Resource Management"
   }, 
   {
+    "abbreviation": "FRM", 
+    "expansion": "Fullerene Reinforced Material"
+  }, 
+  {
     "abbreviation": "FRN", 
     "expansion": "Front Right Nutrient"
   }, 
@@ -34094,6 +34366,10 @@
   {
     "abbreviation": "FRP", 
     "expansion": "Failure Recovery Procedure"
+  }, 
+  {
+    "abbreviation": "FRP", 
+    "expansion": "Fiber Reinforced Plastic"
   }, 
   {
     "abbreviation": "FRPA", 
@@ -34122,6 +34398,10 @@
   {
     "abbreviation": "FRS", 
     "expansion": "Failure Reporting System"
+  }, 
+  {
+    "abbreviation": "FRS", 
+    "expansion": "Fiber Reinforced Superalloy"
   }, 
   {
     "abbreviation": "FRSI", 
@@ -34178,6 +34458,14 @@
   {
     "abbreviation": "FS", 
     "expansion": "First Stage"
+  }, 
+  {
+    "abbreviation": "FS", 
+    "expansion": "Flutter Suppression"
+  }, 
+  {
+    "abbreviation": "FS", 
+    "expansion": "Fixed Service"
   }, 
   {
     "abbreviation": "FS&E", 
@@ -34358,6 +34646,10 @@
   {
     "abbreviation": "FSO", 
     "expansion": "Facility Security Officer"
+  }, 
+  {
+    "abbreviation": "FSO", 
+    "expansion": "Flight Safety Office"
   }, 
   {
     "abbreviation": "FSO", 
@@ -34812,6 +35104,10 @@
     "expansion": "Federal Technology Transfer Act"
   }, 
   {
+    "abbreviation": "FTU", 
+    "expansion": "Formal Training Unit"
+  }, 
+  {
     "abbreviation": "fTu", 
     "expansion": "Ultimate Tensile Strength"
   }, 
@@ -34914,6 +35210,10 @@
   {
     "abbreviation": "FW", 
     "expansion": "Feedwater"
+  }, 
+  {
+    "abbreviation": "FWC", 
+    "expansion": "Filament-Wound Case"
   }, 
   {
     "abbreviation": "FWC", 
@@ -41693,11 +41993,11 @@
   }, 
   {
     "abbreviation": "IAF", 
-    "expansion": "Image Analysis Facilities"
+    "expansion": "International Astronautical Federation"
   }, 
   {
     "abbreviation": "IAF", 
-    "expansion": "International Aeronautical Federation"
+    "expansion": "Image Analysis Facilities"
   }, 
   {
     "abbreviation": "IAF", 
@@ -45630,6 +45930,10 @@
   {
     "abbreviation": "IPM", 
     "expansion": "Integrated Pest Management"
+  }, 
+  {
+    "abbreviation": "IPMC", 
+    "expansion": "International Project/Programme Management Committee"
   }, 
   {
     "abbreviation": "IPMM", 
@@ -63108,6 +63412,10 @@
     "expansion": "NEUROCOG"
   }, 
   {
+    "abbreviation": "NEW", 
+    "expansion": "NASA's Entrepreneurial Workforce"
+  }, 
+  {
     "abbreviation": "NewDISS", 
     "expansion": "New Data and Information Systems and Services"
   }, 
@@ -77200,6 +77508,10 @@
     "expansion": "Present Weather Sensor"
   }, 
   {
+    "abbreviation": "PWT", 
+    "expansion": "Propulsion Wind Tunnel"
+  }, 
+  {
     "abbreviation": "PWV", 
     "expansion": "Precipitable Water Vapor"
   }, 
@@ -87761,6 +88073,10 @@
   }, 
   {
     "abbreviation": "SIO", 
+    "expansion": "Systems Integration and Operationalization"
+  }, 
+  {
+    "abbreviation": "SIO", 
     "expansion": "Scripps Institution of Oceanography"
   }, 
   {
@@ -93772,6 +94088,10 @@
     "expansion": "Solidification Using Baffles in Sealed Ampoules"
   }, 
   {
+    "abbreviation": "SUBSEA", 
+    "expansion": "Systematic Underwater Biogeochemical Science and Exploration Analog"
+  }, 
+  {
     "abbreviation": "Subsys", 
     "expansion": "Subsystem"
   }, 
@@ -94586,6 +94906,10 @@
   {
     "abbreviation": "t/a", 
     "expansion": "Turnaround"
+  }, 
+  {
+    "abbreviation": "T/BEST", 
+    "expansion": "Technology Benefit Estimator"
   }, 
   {
     "abbreviation": "T/DO", 
@@ -105190,6 +105514,10 @@
   {
     "abbreviation": "X", 
     "expansion": "Exchange"
+  }, 
+  {
+    "abbreviation": "x-FEM", 
+    "expansion": "Extended Finit Element Method"
   }, 
   {
     "abbreviation": "X-POP", 
