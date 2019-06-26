@@ -5444,6 +5444,10 @@
     "expansion": "Automated Rendezvous and Docking"
   }, 
   {
+    "abbreviation": "Ar-Ar", 
+    "expansion": "Argon-Argon"
+  }, 
+  {
     "abbreviation": "ARA", 
     "expansion": "Appletalk Remote Access"
   }, 
@@ -24624,6 +24628,10 @@
     "expansion": "Detailed Verification Requirement"
   }, 
   {
+    "abbreviation": "DVT", 
+    "expansion": "Deep Vein Thrombosis"
+  }, 
+  {
     "abbreviation": "DVTM", 
     "expansion": "Design Verification Test Model"
   }, 
@@ -41762,6 +41770,10 @@
   {
     "abbreviation": "I-SIPS", 
     "expansion": "ICESat Science Investigator-led Processing System"
+  }, 
+  {
+    "abbreviation": "I-Xe", 
+    "expansion": "Iodine-Xenon"
   }, 
   {
     "abbreviation": "i.e.", 
@@ -60686,10 +60698,6 @@
   {
     "abbreviation": "MSFC", 
     "expansion": "Marshall Space Flight Center"
-  }, 
-  {
-    "abbreviation": "MSFC", 
-    "expansion": "Marshal Space Flight Center"
   }, 
   {
     "abbreviation": "MSFEFI", 
@@ -86748,6 +86756,10 @@
     "expansion": "Sensitivity"
   }, 
   {
+    "abbreviation": "SENSE", 
+    "expansion": "Space Exploration Network Services and Evolution"
+  }, 
+  {
     "abbreviation": "SEO", 
     "expansion": "Search Engine Optimization"
   }, 
@@ -98962,6 +98974,10 @@
   {
     "abbreviation": "TSCOMP", 
     "expansion": "Time Services Computations"
+  }, 
+  {
+    "abbreviation": "TSD", 
+    "expansion": "Technical Services Division"
   }, 
   {
     "abbreviation": "TSD", 
