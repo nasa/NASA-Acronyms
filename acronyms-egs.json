@@ -1980,6 +1980,10 @@
     "expansion": "Engine Change-out Platform"
   }, 
   {
+    "abbreviation": "ECR", 
+    "expansion": "Engineering Change Request"
+  }, 
+  {
     "abbreviation": "ECS", 
     "expansion": "Environmental Control Subsystem"
   }, 
