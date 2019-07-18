@@ -244,6 +244,10 @@
     "expansion": "Alpha-Keto Glutaric Acid"
   }, 
   {
+    "abbreviation": "ALC", 
+    "expansion": "Authorized Laboratory Capability"
+  }, 
+  {
     "abbreviation": "ALCO", 
     "expansion": "American Locomotive Company"
   }, 
@@ -7662,6 +7666,10 @@
   {
     "abbreviation": "TD", 
     "expansion": "Task Directive"
+  }, 
+  {
+    "abbreviation": "TDL", 
+    "expansion": "Transducer Development Laboratory"
   }, 
   {
     "abbreviation": "TDRSS", 
