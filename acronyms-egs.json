@@ -244,10 +244,6 @@
     "expansion": "Alpha-Keto Glutaric Acid"
   }, 
   {
-    "abbreviation": "ALC", 
-    "expansion": "Authorized Laboratory Capability"
-  }, 
-  {
     "abbreviation": "ALCO", 
     "expansion": "American Locomotive Company"
   }, 
@@ -492,10 +488,6 @@
     "expansion": "Baseline Configuration Imagery"
   }, 
   {
-    "abbreviation": "BCN", 
-    "expansion": "Baseline Change Notice"
-  }, 
-  {
     "abbreviation": "BCPDU", 
     "expansion": "Booster Control Power Distribution Unit"
   }, 
@@ -618,14 +610,6 @@
   {
     "abbreviation": "BU", 
     "expansion": "Battery Unit"
-  }, 
-  {
-    "abbreviation": "BUIE", 
-    "expansion": "Battery Unit Interface Enclosure"
-  }, 
-  {
-    "abbreviation": "BUR", 
-    "expansion": "Bottom Up Review"
   }, 
   {
     "abbreviation": "C&C", 
@@ -906,10 +890,6 @@
   {
     "abbreviation": "CEMP", 
     "expansion": "Comprehensive Emergency Management Plan"
-  }, 
-  {
-    "abbreviation": "CEN", 
-    "expansion": "Carrier Ethernet Network"
   }, 
   {
     "abbreviation": "CER", 
@@ -1816,10 +1796,6 @@
     "expansion": "Decommissioning Review"
   }, 
   {
-    "abbreviation": "DRA", 
-    "expansion": "Document Release Authorization"
-  }, 
-  {
     "abbreviation": "DRB", 
     "expansion": "Director's Review Board"
   }, 
@@ -1990,10 +1966,6 @@
   {
     "abbreviation": "ECP", 
     "expansion": "Engine Change-out Platform"
-  }, 
-  {
-    "abbreviation": "ECR", 
-    "expansion": "Engineering Change Request"
   }, 
   {
     "abbreviation": "ECS", 
@@ -3256,10 +3228,6 @@
     "expansion": "Hardware Extension Remote"
   }, 
   {
-    "abbreviation": "HERA", 
-    "expansion": "Hybrid Electronic Radiation Assessor"
-  }, 
-  {
     "abbreviation": "HERSP", 
     "expansion": "Human Exploration Range Safety Panel"
   }, 
@@ -3442,10 +3410,6 @@
   {
     "abbreviation": "IA&S", 
     "expansion": "Integrated Avionics and Software"
-  }, 
-  {
-    "abbreviation": "iACT", 
-    "expansion": "integration Audit Concerns Tracker"
   }, 
   {
     "abbreviation": "IAF", 
@@ -4334,10 +4298,6 @@
   {
     "abbreviation": "LASF", 
     "expansion": "Launch Abort System Facility"
-  }, 
-  {
-    "abbreviation": "LASSO ", 
-    "expansion": "Laboratory Support Services and Operations"
   }, 
   {
     "abbreviation": "LAVA", 
@@ -6945,7 +6905,7 @@
   }, 
   {
     "abbreviation": "SAMP", 
-    "expansion": "Site Activation Management Plan"
+    "expansion": "Site Activation Management Panel Charter"
   }, 
   {
     "abbreviation": "SAN", 
@@ -7680,10 +7640,6 @@
     "expansion": "Task Directive"
   }, 
   {
-    "abbreviation": "TDL", 
-    "expansion": "Transducer Development Laboratory"
-  }, 
-  {
     "abbreviation": "TDRSS", 
     "expansion": "Tracking and Data Relay Satellite System"
   }, 
@@ -7794,10 +7750,6 @@
   {
     "abbreviation": "TOSS", 
     "expansion": "Test Objective Summary Sheet"
-  }, 
-  {
-    "abbreviation": "TPE", 
-    "expansion": "Test Project Engineering"
   }, 
   {
     "abbreviation": "TPF", 
