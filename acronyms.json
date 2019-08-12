@@ -2577,6 +2577,10 @@
   }, 
   {
     "abbreviation": "AFD", 
+    "expansion": "Area Forecast Discussion"
+  }, 
+  {
+    "abbreviation": "AFD", 
     "expansion": "Aft Flight Deck"
   }, 
   {
@@ -3972,6 +3976,10 @@
     "expansion": "Atlantic Management Center, Incorporated"
   }, 
   {
+    "abbreviation": "AMCL", 
+    "expansion": "Accepted Medical Conditions List"
+  }, 
+  {
     "abbreviation": "AMCM", 
     "expansion": "Advanced Missions Cost Model"
   }, 
@@ -4530,6 +4538,10 @@
   {
     "abbreviation": "ANX", 
     "expansion": "Annex"
+  }, 
+  {
+    "abbreviation": "AO", 
+    "expansion": "Adaptive Optics"
   }, 
   {
     "abbreviation": "AO", 
@@ -6338,6 +6350,10 @@
   {
     "abbreviation": "ASHRAE", 
     "expansion": "American Society of Heating, Refrigeration, and Air Conditioning Engineers"
+  }, 
+  {
+    "abbreviation": "ASHWG", 
+    "expansion": "Avionics Systems Harmonization Working Group"
   }, 
   {
     "abbreviation": "ASI", 
@@ -10633,7 +10649,7 @@
   }, 
   {
     "abbreviation": "CADR", 
-    "expansion": "Continous Adiabatic Demagnetization Refrigerator"
+    "expansion": "Continuous Adiabatic Demagnetization Refrigerator"
   }, 
   {
     "abbreviation": "CADRe", 
@@ -14354,6 +14370,10 @@
   {
     "abbreviation": "CIBX", 
     "expansion": "Commercial ITA Biomedical Experiment"
+  }, 
+  {
+    "abbreviation": "CIC", 
+    "expansion": "Cover-Glass Interconnected Cell"
   }, 
   {
     "abbreviation": "CIC", 
@@ -19450,6 +19470,10 @@
   {
     "abbreviation": "CVFA", 
     "expansion": "Check Valve and Filter Assembly"
+  }, 
+  {
+    "abbreviation": "CVI", 
+    "expansion": "Commercial Vehicle Inspection"
   }, 
   {
     "abbreviation": "CVI", 
@@ -25988,6 +26012,10 @@
     "expansion": "ESDIS Data Model Analysis"
   }, 
   {
+    "abbreviation": "EDMR", 
+    "expansion": "Electrically Detected Magnetic Resonance"
+  }, 
+  {
     "abbreviation": "EDMS", 
     "expansion": "Electronic Data Management System"
   }, 
@@ -32020,6 +32048,10 @@
     "expansion": "Flight Definition Requirements Document"
   }, 
   {
+    "abbreviation": "FDRF", 
+    "expansion": "Flight Dynamic Research Facility"
+  }, 
+  {
     "abbreviation": "FDS", 
     "expansion": "Flight Dynamics System"
   }, 
@@ -36365,6 +36397,10 @@
   }, 
   {
     "abbreviation": "GFD", 
+    "expansion": "Generic Flight Deck"
+  }, 
+  {
+    "abbreviation": "GFD", 
     "expansion": "Government-Furnished Data"
   }, 
   {
@@ -40090,6 +40126,10 @@
   {
     "abbreviation": "HLR", 
     "expansion": "Human Lunar Return"
+  }, 
+  {
+    "abbreviation": "HLS", 
+    "expansion": "Harmonized Landsat and Sentinel-2"
   }, 
   {
     "abbreviation": "HLS", 
@@ -49100,6 +49140,10 @@
     "expansion": "Joint Space Operations Center"
   }, 
   {
+    "abbreviation": "JSR", 
+    "expansion": "Journal of Spacecraft and Rockets"
+  }, 
+  {
     "abbreviation": "JSRP", 
     "expansion": "Joint Software Review Panel"
   }, 
@@ -50202,6 +50246,10 @@
   {
     "abbreviation": "LADR", 
     "expansion": "LoTec Active Door Refrigerator"
+  }, 
+  {
+    "abbreviation": "LADS", 
+    "expansion": "Langley Airspace and Dynamics Simulation"
   }, 
   {
     "abbreviation": "LADTAG", 
@@ -52536,6 +52584,10 @@
     "expansion": "Land"
   }, 
   {
+    "abbreviation": "LNG", 
+    "expansion": "Liquefied Natural Gas"
+  }, 
+  {
     "abbreviation": "LNS", 
     "expansion": "Lab Nitrogen System"
   }, 
@@ -52702,6 +52754,10 @@
   {
     "abbreviation": "LOFT", 
     "expansion": "Line Oriented Flight Training"
+  }, 
+  {
+    "abbreviation": "LOFTID", 
+    "expansion": "Low-Earth Orbit Flight Test of an Inflatable Decelerator"
   }, 
   {
     "abbreviation": "Log", 
@@ -54592,6 +54648,10 @@
     "expansion": "Multiple Altimeter Beam Experimental Lidar"
   }, 
   {
+    "abbreviation": "MABR", 
+    "expansion": "Membrane Aerobic Biological Reactor"
+  }, 
+  {
     "abbreviation": "MAC", 
     "expansion": "Media Access Control"
   }, 
@@ -56473,6 +56533,10 @@
   }, 
   {
     "abbreviation": "MEADS", 
+    "expansion": "Mars Entry Atmospheric Data System"
+  }, 
+  {
+    "abbreviation": "MEADS", 
     "expansion": "Medium Extended Air Defense System"
   }, 
   {
@@ -57082,6 +57146,10 @@
   {
     "abbreviation": "MFED", 
     "expansion": "Multifunctional Exercise Device"
+  }, 
+  {
+    "abbreviation": "MFEST", 
+    "expansion": "Multi-Phase Flow Experiment for Suborbital Testing"
   }, 
   {
     "abbreviation": "MFG", 
@@ -66017,6 +66085,10 @@
   }, 
   {
     "abbreviation": "O", 
+    "expansion": "Oxygen"
+  }, 
+  {
+    "abbreviation": "O", 
     "expansion": "Operations"
   }, 
   {
@@ -71838,6 +71910,10 @@
   {
     "abbreviation": "PDVT", 
     "expansion": "Procedures Development and Verification Tool"
+  }, 
+  {
+    "abbreviation": "PE", 
+    "expansion": "Pulmonary Embolism"
   }, 
   {
     "abbreviation": "PE", 
@@ -79065,6 +79141,10 @@
   }, 
   {
     "abbreviation": "RCF", 
+    "expansion": "Research Collaboration Facility"
+  }, 
+  {
+    "abbreviation": "RCF", 
     "expansion": "Rolling Contact Fatigue"
   }, 
   {
@@ -81877,7 +81957,7 @@
   }, 
   {
     "abbreviation": "RRM3", 
-    "expansion": "Robotic Refueling Missing Three"
+    "expansion": "Robotic Refueling Mission Three"
   }, 
   {
     "abbreviation": "RRMD", 
@@ -83958,6 +84038,10 @@
   {
     "abbreviation": "SANA", 
     "expansion": "Space Assigned Numbers Authority"
+  }, 
+  {
+    "abbreviation": "SAND", 
+    "expansion": "Safeguard with Autonomous Navigation Demonstration"
   }, 
   {
     "abbreviation": "SandMA", 
@@ -91353,6 +91437,10 @@
   }, 
   {
     "abbreviation": "SR", 
+    "expansion": "Surface Reflectance"
+  }, 
+  {
+    "abbreviation": "SR", 
     "expansion": "Status Report"
   }, 
   {
@@ -91590,6 +91678,10 @@
   {
     "abbreviation": "SRIIG", 
     "expansion": "System Requirements Interface Integration Group"
+  }, 
+  {
+    "abbreviation": "SRIP", 
+    "expansion": "Sustainability Report and Implementation Plan"
   }, 
   {
     "abbreviation": "SRL", 
@@ -93801,6 +93893,10 @@
   }, 
   {
     "abbreviation": "STP", 
+    "expansion": "Strategic Technology Partnerships"
+  }, 
+  {
+    "abbreviation": "STP", 
     "expansion": "Short Term Plan"
   }, 
   {
@@ -95286,6 +95382,10 @@
   {
     "abbreviation": "TAO", 
     "expansion": "Trajectory Applications Officer"
+  }, 
+  {
+    "abbreviation": "TAP", 
+    "expansion": "Transient Astrophysics Probe"
   }, 
   {
     "abbreviation": "TAP", 
