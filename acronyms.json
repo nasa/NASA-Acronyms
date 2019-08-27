@@ -369,6 +369,10 @@
   }, 
   {
     "abbreviation": "AADC", 
+    "expansion": "Allison Advanced Development Company"
+  }, 
+  {
+    "abbreviation": "AADC", 
     "expansion": "Avionics Architecture Design Change"
   }, 
   {
@@ -510,6 +514,10 @@
   {
     "abbreviation": "AASE", 
     "expansion": "Airborne Arctic Stratospheric Expedition"
+  }, 
+  {
+    "abbreviation": "AAT", 
+    "expansion": "Aerodynamic Acceptance Test"
   }, 
   {
     "abbreviation": "AAT", 
@@ -834,6 +842,10 @@
   {
     "abbreviation": "ACAST", 
     "expansion": "Advanced CNS Architectures and System Technologies"
+  }, 
+  {
+    "abbreviation": "ACAT", 
+    "expansion": "Automatic Collision Avoidance Technology"
   }, 
   {
     "abbreviation": "ACAT", 
@@ -3105,7 +3117,7 @@
   }, 
   {
     "abbreviation": "AHPCS", 
-    "expansion": "Allyhydridopolycarbosilane"
+    "expansion": "Allylhydridopolycarbosilane"
   }, 
   {
     "abbreviation": "AHPLS", 
@@ -3404,6 +3416,10 @@
     "expansion": "Action Item Report"
   }, 
   {
+    "abbreviation": "AIR-T", 
+    "expansion": "Advanced In-Flight Infrared (IR) Thermography"
+  }, 
+  {
     "abbreviation": "AIRD", 
     "expansion": "Assembly Increment Requirement Document"
   }, 
@@ -3526,6 +3542,10 @@
   {
     "abbreviation": "AIWG", 
     "expansion": "ADF Interface working group"
+  }, 
+  {
+    "abbreviation": "AIX", 
+    "expansion": "Ares I-X"
   }, 
   {
     "abbreviation": "AIX", 
@@ -4409,6 +4429,10 @@
   }, 
   {
     "abbreviation": "AN", 
+    "expansion": "Aniline"
+  }, 
+  {
+    "abbreviation": "AN", 
     "expansion": "Army/Navy"
   }, 
   {
@@ -4469,6 +4493,10 @@
   }, 
   {
     "abbreviation": "ANI", 
+    "expansion": "Applied Nanotech, Incorporated"
+  }, 
+  {
+    "abbreviation": "ANI", 
     "expansion": "Automatic Number Identification"
   }, 
   {
@@ -4526,6 +4554,10 @@
   {
     "abbreviation": "ANSP", 
     "expansion": "Air Navigation Service Providers"
+  }, 
+  {
+    "abbreviation": "ANT", 
+    "expansion": "Autonomy as a New Technology"
   }, 
   {
     "abbreviation": "ANT", 
@@ -6629,6 +6661,10 @@
   }, 
   {
     "abbreviation": "ASRM", 
+    "expansion": "Aviation Safety Risk Model"
+  }, 
+  {
+    "abbreviation": "ASRM", 
     "expansion": "Advanced Solid Rocket Motor"
   }, 
   {
@@ -7118,6 +7154,10 @@
   {
     "abbreviation": "ATOL", 
     "expansion": "Air Traffic Operations Laboratory"
+  }, 
+  {
+    "abbreviation": "ATOM", 
+    "expansion": "Aerospace Testing and Facility Operation and Maintenance"
   }, 
   {
     "abbreviation": "ATOM", 
