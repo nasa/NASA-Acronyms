@@ -2833,6 +2833,10 @@
   }, 
   {
     "abbreviation": "AFT", 
+    "expansion": "Amplification Factor Transport"
+  }, 
+  {
+    "abbreviation": "AFT", 
     "expansion": "Atmospheric Flight Test"
   }, 
   {
@@ -4534,6 +4538,10 @@
   {
     "abbreviation": "ANR", 
     "expansion": "Active Noise Reduction"
+  }, 
+  {
+    "abbreviation": "ANS", 
+    "expansion": "Avaya Notification Solution"
   }, 
   {
     "abbreviation": "ANS", 
@@ -18937,6 +18945,10 @@
   }, 
   {
     "abbreviation": "CT", 
+    "expansion": "Carbon Tracker"
+  }, 
+  {
+    "abbreviation": "CT", 
     "expansion": "Cycle Test"
   }, 
   {
@@ -21824,6 +21836,10 @@
     "expansion": "Digital Fourier Transformation"
   }, 
   {
+    "abbreviation": "DFW", 
+    "expansion": "Dallas\u2013Fort Worth"
+  }, 
+  {
     "abbreviation": "DFWP", 
     "expansion": "Drug Free Workplace"
   }, 
@@ -22466,6 +22482,14 @@
   {
     "abbreviation": "DM", 
     "expansion": "Development Model"
+  }, 
+  {
+    "abbreviation": "DM", 
+    "expansion": "Deformable Mirror"
+  }, 
+  {
+    "abbreviation": "DM", 
+    "expansion": "Dried Plum"
   }, 
   {
     "abbreviation": "DM", 
@@ -24138,6 +24162,10 @@
   {
     "abbreviation": "DSRT", 
     "expansion": "Daytime Snow Retrieval Technique"
+  }, 
+  {
+    "abbreviation": "DSS", 
+    "expansion": "Descent System Studies"
   }, 
   {
     "abbreviation": "DSS", 
@@ -26120,6 +26148,10 @@
     "expansion": "Embedded Data Processor"
   }, 
   {
+    "abbreviation": "EDPF", 
+    "expansion": "Electrically Driven Pump Fed"
+  }, 
+  {
     "abbreviation": "EDR", 
     "expansion": "Environment Data Record"
   }, 
@@ -26286,6 +26318,10 @@
   {
     "abbreviation": "EDU", 
     "expansion": "Engineering Development Unit"
+  }, 
+  {
+    "abbreviation": "EDU", 
+    "expansion": "Engineering Design Unit"
   }, 
   {
     "abbreviation": "EDU", 
@@ -27910,6 +27946,10 @@
   {
     "abbreviation": "EO", 
     "expansion": "Engineering Office"
+  }, 
+  {
+    "abbreviation": "EO", 
+    "expansion": "External Occulter"
   }, 
   {
     "abbreviation": "EO", 
@@ -30274,6 +30314,10 @@
   {
     "abbreviation": "EU", 
     "expansion": "Electronics Unit"
+  }, 
+  {
+    "abbreviation": "EU", 
+    "expansion": "European Center"
   }, 
   {
     "abbreviation": "EU", 
@@ -33485,7 +33529,7 @@
   }, 
   {
     "abbreviation": "FN", 
-    "expansion": "Foreign Nationals"
+    "expansion": "Foreign National"
   }, 
   {
     "abbreviation": "FN", 
@@ -33494,6 +33538,10 @@
   {
     "abbreviation": "Fn", 
     "expansion": "Function"
+  }, 
+  {
+    "abbreviation": "FNAM", 
+    "expansion": "Foreign National Access Management"
   }, 
   {
     "abbreviation": "FNBDT", 
@@ -39670,6 +39718,10 @@
   {
     "abbreviation": "HFACS", 
     "expansion": "Human Factor Analysis and Classification System"
+  }, 
+  {
+    "abbreviation": "HFBP", 
+    "expansion": "Human Factors and Behavioral Performance"
   }, 
   {
     "abbreviation": "HFC", 
@@ -48009,7 +48061,7 @@
   }, 
   {
     "abbreviation": "IVC", 
-    "expansion": "International Visit Coordinator"
+    "expansion": "International Visits Coordinator"
   }, 
   {
     "abbreviation": "IVC", 
@@ -48018,10 +48070,6 @@
   {
     "abbreviation": "IVC", 
     "expansion": "Intermodule Ventilation Control"
-  }, 
-  {
-    "abbreviation": "IVC", 
-    "expansion": "International Visitors Coordinator"
   }, 
   {
     "abbreviation": "IVC", 
@@ -49693,7 +49741,7 @@
   }, 
   {
     "abbreviation": "KNPR", 
-    "expansion": "Kennedy NASA Procedural Requirements"
+    "expansion": "Kennedy NASA Procedural Requirement"
   }, 
   {
     "abbreviation": "KO", 
@@ -51998,6 +52046,10 @@
   {
     "abbreviation": "LILT", 
     "expansion": "Low Irradiance Low Temperature"
+  }, 
+  {
+    "abbreviation": "LIM", 
+    "expansion": "Laser Intensity Monitor"
   }, 
   {
     "abbreviation": "LIM", 
@@ -55356,6 +55408,10 @@
     "expansion": "Martin-Baker America"
   }, 
   {
+    "abbreviation": "MBA", 
+    "expansion": "Main Belt Asteroid"
+  }, 
+  {
     "abbreviation": "Mbar", 
     "expansion": "Millibar"
   }, 
@@ -56070,6 +56126,10 @@
   {
     "abbreviation": "MD", 
     "expansion": "Mission Directorate"
+  }, 
+  {
+    "abbreviation": "MD", 
+    "expansion": "Molecular Dynamics"
   }, 
   {
     "abbreviation": "MD", 
@@ -64881,6 +64941,10 @@
   }, 
   {
     "abbreviation": "NOS", 
+    "expansion": "New Observing Strategies"
+  }, 
+  {
+    "abbreviation": "NOS", 
     "expansion": "Network Operating System"
   }, 
   {
@@ -65538,6 +65602,10 @@
   {
     "abbreviation": "NSE", 
     "expansion": "New Service Element"
+  }, 
+  {
+    "abbreviation": "NSEETS", 
+    "expansion": "NASA-wide Specialized Engineering, Evaluation, and Test Services"
   }, 
   {
     "abbreviation": "NSEP", 
@@ -68366,6 +68434,10 @@
   {
     "abbreviation": "OPD", 
     "expansion": "Office of Proposal Development"
+  }, 
+  {
+    "abbreviation": "OPD", 
+    "expansion": "Off-Axis Parabolic Deformable"
   }, 
   {
     "abbreviation": "OPD", 
@@ -75321,6 +75393,10 @@
   }, 
   {
     "abbreviation": "PPO", 
+    "expansion": "Proximal Policy Optimization"
+  }, 
+  {
+    "abbreviation": "PPO", 
     "expansion": "Program Protection Office"
   }, 
   {
@@ -76318,6 +76394,10 @@
   {
     "abbreviation": "PSCB", 
     "expansion": "Program Software Content Briefing"
+  }, 
+  {
+    "abbreviation": "PSCC", 
+    "expansion": "Protective Services Communications Center"
   }, 
   {
     "abbreviation": "PSCN", 
@@ -91729,6 +91809,10 @@
   }, 
   {
     "abbreviation": "SRL", 
+    "expansion": "Sample Retrieval Lander"
+  }, 
+  {
+    "abbreviation": "SRL", 
     "expansion": "Space Radar Laboratory"
   }, 
   {
@@ -99492,6 +99576,10 @@
     "expansion": "Technology Transfer and Commercialization Office"
   }, 
   {
+    "abbreviation": "TTP", 
+    "expansion": "TFDM Terminal Publication"
+  }, 
+  {
     "abbreviation": "TTQ", 
     "expansion": "Time-Tag Queue"
   }, 
@@ -100002,6 +100090,10 @@
   {
     "abbreviation": "UAS", 
     "expansion": "Urgent Action Survey"
+  }, 
+  {
+    "abbreviation": "UAS", 
+    "expansion": "Unmanned Autonomous System"
   }, 
   {
     "abbreviation": "UAS", 
@@ -104130,6 +104222,10 @@
   {
     "abbreviation": "VZV", 
     "expansion": "Varicella Zoster Virus"
+  }, 
+  {
+    "abbreviation": "W", 
+    "expansion": "Wolter"
   }, 
   {
     "abbreviation": "W", 
