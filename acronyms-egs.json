@@ -696,6 +696,10 @@
     "expansion": "Cost Analysis Data Requirement"
   }, 
   {
+    "abbreviation": "CAE", 
+    "expansion": "Computer-Aided Engineering"
+  }, 
+  {
     "abbreviation": "CAF", 
     "expansion": "Center Architectures Forum"
   }, 
@@ -722,6 +726,10 @@
   {
     "abbreviation": "CAM", 
     "expansion": "Control Account Manager \u2013 a position @ HQ"
+  }, 
+  {
+    "abbreviation": "CAM", 
+    "expansion": "Computer-Aided Manufacturing"
   }, 
   {
     "abbreviation": "CAP", 
@@ -3984,6 +3992,14 @@
     "expansion": "Integrated Technical Roadmap Working Group"
   }, 
   {
+    "abbreviation": "ITSS", 
+    "expansion": "Integrated Training Simulation System"
+  }, 
+  {
+    "abbreviation": "ITSS", 
+    "expansion": "Information Technology Support Services (Contract)"
+  }, 
+  {
     "abbreviation": "ITSTAR", 
     "expansion": "IT Security Test Authorization Request"
   }, 
@@ -5250,6 +5266,10 @@
   {
     "abbreviation": "NDR", 
     "expansion": "NASA Diagnostic Radar"
+  }, 
+  {
+    "abbreviation": "NDTI", 
+    "expansion": "New Directions Technologies, Inc"
   }, 
   {
     "abbreviation": "NE", 
