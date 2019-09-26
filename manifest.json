@@ -23,7 +23,7 @@
 
   "permissions": [
     "activeTab",
-    "https://raw.githubusercontent.com/maliska/NASA-Acronyms/master"
+    "https://raw.githubusercontent.com/nasa/NASA-Acronyms/master"
   ],
 
   "icons": {
