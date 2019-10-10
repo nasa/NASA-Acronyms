@@ -1912,6 +1912,10 @@
     "expansion": "Detailed Verification Objective"
   }, 
   {
+    "abbreviation": "DVT", 
+    "expansion": "Data Verification Test"
+  }, 
+  {
     "abbreviation": "DVTS", 
     "expansion": "Digital Video Transmission System"
   }, 
