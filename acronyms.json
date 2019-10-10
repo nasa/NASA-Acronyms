@@ -4165,7 +4165,7 @@
   }, 
   {
     "abbreviation": "AMMI", 
-    "expansion": "Asset Management /Maintenance Improvement"
+    "expansion": "Asset Management/Maintenance Improvement"
   }, 
   {
     "abbreviation": "AMMOS", 
@@ -7852,6 +7852,10 @@
     "expansion": "Budgetary and Planning"
   }, 
   {
+    "abbreviation": "B&PV", 
+    "expansion": "Boiler and Pressure Vessel"
+  }, 
+  {
     "abbreviation": "B-RIC", 
     "expansion": "BRP Rack Interface Controller"
   }, 
@@ -9573,6 +9577,10 @@
   }, 
   {
     "abbreviation": "BPO", 
+    "expansion": "Balloon Program Office"
+  }, 
+  {
+    "abbreviation": "BPO", 
     "expansion": "Badge and Pass Office"
   }, 
   {
@@ -9822,6 +9830,10 @@
   {
     "abbreviation": "BS", 
     "expansion": "Bow Shock"
+  }, 
+  {
+    "abbreviation": "BS", 
+    "expansion": "Boost Stage"
   }, 
   {
     "abbreviation": "BS", 
@@ -17424,6 +17436,10 @@
     "expansion": "Cell Preparation Tube"
   }, 
   {
+    "abbreviation": "CPTC", 
+    "expansion": "Chip Polymer Tantalum Capacitor"
+  }, 
+  {
     "abbreviation": "CPU", 
     "expansion": "Central Processor Unit"
   }, 
@@ -23565,10 +23581,6 @@
   }, 
   {
     "abbreviation": "DRD", 
-    "expansion": "Data Requirement Description/Document"
-  }, 
-  {
-    "abbreviation": "DRD", 
     "expansion": "Document Requirement Description"
   }, 
   {
@@ -24101,10 +24113,6 @@
   }, 
   {
     "abbreviation": "DSO", 
-    "expansion": "Detailed Science/Supplementary Objective"
-  }, 
-  {
-    "abbreviation": "DSO", 
     "expansion": "Director, Space Operations"
   }, 
   {
@@ -24462,10 +24470,6 @@
   {
     "abbreviation": "DTO", 
     "expansion": "Development Test Objective"
-  }, 
-  {
-    "abbreviation": "DTO", 
-    "expansion": "Detailed/Development Test Objective"
   }, 
   {
     "abbreviation": "DTO", 
@@ -25445,7 +25449,7 @@
   }, 
   {
     "abbreviation": "ECD", 
-    "expansion": "Element Control/Configuration Document"
+    "expansion": "Element Configuration Document"
   }, 
   {
     "abbreviation": "ECD", 
@@ -26181,7 +26185,7 @@
   }, 
   {
     "abbreviation": "EDRM", 
-    "expansion": "Engineering Design/Drafting Reference/Requirements Manual"
+    "expansion": "Engineering Design Reference Mission"
   }, 
   {
     "abbreviation": "EDRS", 
@@ -27401,6 +27405,10 @@
   }, 
   {
     "abbreviation": "EM", 
+    "expansion": "Electric Machine"
+  }, 
+  {
+    "abbreviation": "EM", 
     "expansion": "Electronics Module"
   }, 
   {
@@ -27413,7 +27421,7 @@
   }, 
   {
     "abbreviation": "EM", 
-    "expansion": "Engineering Module/ Experiment Module"
+    "expansion": "Engineering Module"
   }, 
   {
     "abbreviation": "EM", 
@@ -27761,7 +27769,7 @@
   }, 
   {
     "abbreviation": "EMS", 
-    "expansion": "Engineering Master Schedule/Services"
+    "expansion": "Engineering Master Services"
   }, 
   {
     "abbreviation": "EMS", 
@@ -27841,7 +27849,7 @@
   }, 
   {
     "abbreviation": "EMU", 
-    "expansion": "Extravehicular Maneuvering/Mobility Unit"
+    "expansion": "Extravehicular Maneuvering Unit"
   }, 
   {
     "abbreviation": "EMUPH", 
@@ -30229,7 +30237,7 @@
   }, 
   {
     "abbreviation": "ETS", 
-    "expansion": "Engineering Technical/Test System"
+    "expansion": "Engineering Test System"
   }, 
   {
     "abbreviation": "ETS", 
@@ -30537,7 +30545,7 @@
   }, 
   {
     "abbreviation": "EVM", 
-    "expansion": "Earned Value Management/Measurement"
+    "expansion": "Earned Value Measurement"
   }, 
   {
     "abbreviation": "EVM", 
@@ -32865,7 +32873,7 @@
   }, 
   {
     "abbreviation": "FIM", 
-    "expansion": "Flight/Functional Integration manager"
+    "expansion": "Functional Integration manager"
   }, 
   {
     "abbreviation": "FIMS", 
@@ -33649,10 +33657,6 @@
   }, 
   {
     "abbreviation": "FOD", 
-    "expansion": "Foreign Object Debris/Damage"
-  }, 
-  {
-    "abbreviation": "FOD", 
     "expansion": "Foreign Object Debris"
   }, 
   {
@@ -34390,10 +34394,6 @@
   {
     "abbreviation": "FRD", 
     "expansion": "Flight Requirements Document"
-  }, 
-  {
-    "abbreviation": "FRD", 
-    "expansion": "Flight/Functional Requirements Document"
   }, 
   {
     "abbreviation": "FRD", 
@@ -35205,7 +35205,7 @@
   }, 
   {
     "abbreviation": "FTS", 
-    "expansion": "Flight Telerobotic Servicer/System"
+    "expansion": "Flight Telerobotic System"
   }, 
   {
     "abbreviation": "FTS", 
@@ -36002,6 +36002,10 @@
   {
     "abbreviation": "GCP", 
     "expansion": "Gas Control Panel"
+  }, 
+  {
+    "abbreviation": "GCP", 
+    "expansion": "Google Cloud Platform"
   }, 
   {
     "abbreviation": "GCP", 
@@ -38385,7 +38389,7 @@
   }, 
   {
     "abbreviation": "GTA", 
-    "expansion": "Ground Test Article/Assembly"
+    "expansion": "Ground Test Assembly"
   }, 
   {
     "abbreviation": "GTA", 
@@ -39101,7 +39105,7 @@
   }, 
   {
     "abbreviation": "HCA", 
-    "expansion": "Hand Controller Adapter/Assembly"
+    "expansion": "Hand Controller Assembly"
   }, 
   {
     "abbreviation": "HCAM", 
@@ -39578,6 +39582,10 @@
   {
     "abbreviation": "HEMI", 
     "expansion": "Hemispherical"
+  }, 
+  {
+    "abbreviation": "HEMM", 
+    "expansion": "High Efficiency Megawatt Motor"
   }, 
   {
     "abbreviation": "Hemo", 
@@ -40462,10 +40470,6 @@
   {
     "abbreviation": "HOSC", 
     "expansion": "Huntsville Operations Support Center"
-  }, 
-  {
-    "abbreviation": "HOSC", 
-    "expansion": "Houston/Huntsville Operations Support Center"
   }, 
   {
     "abbreviation": "HOST", 
@@ -43245,11 +43249,11 @@
   }, 
   {
     "abbreviation": "IDD", 
-    "expansion": "Interface Design/Definition Document"
+    "expansion": "Interface Definition Document"
   }, 
   {
-    "abbreviation": "IDD", 
-    "expansion": "Interface Definition Document"
+    "abbreviation": "IDDE", 
+    "expansion": "Illicit Discharge Detection and Elimination"
   }, 
   {
     "abbreviation": "IDDR", 
@@ -53792,6 +53796,10 @@
     "expansion": "Large Scale Integrated"
   }, 
   {
+    "abbreviation": "LSII", 
+    "expansion": "Lunar Surface Innovation Initiative"
+  }, 
+  {
     "abbreviation": "LSIO/KSC", 
     "expansion": "Launch Site Integration Office at KSC"
   }, 
@@ -59180,10 +59188,6 @@
     "expansion": "MO&DSD Operational/Development Network"
   }, 
   {
-    "abbreviation": "MODNWT", 
-    "expansion": "MO&DSD Operations/Development Network"
-  }, 
-  {
     "abbreviation": "MODSIN", 
     "expansion": "Mission Operations and Data Systems Information Network"
   }, 
@@ -59642,6 +59646,10 @@
   {
     "abbreviation": "MP-MP", 
     "expansion": "Multipoint-Multipoint"
+  }, 
+  {
+    "abbreviation": "MPA", 
+    "expansion": "MAV Payload Assembly"
   }, 
   {
     "abbreviation": "MPA", 
@@ -69969,6 +69977,10 @@
   }, 
   {
     "abbreviation": "PAA", 
+    "expansion": "Preliminary Architecture Assessment"
+  }, 
+  {
+    "abbreviation": "PAA", 
     "expansion": "Phased Array Antenna"
   }, 
   {
@@ -72914,6 +72926,10 @@
   {
     "abbreviation": "PHCP", 
     "expansion": "Payload Hazard Control Plan"
+  }, 
+  {
+    "abbreviation": "PHE", 
+    "expansion": "Propellant Handlers Ensemble"
   }, 
   {
     "abbreviation": "PHM", 
@@ -80896,6 +80912,10 @@
     "expansion": "Reaction Jet Driver"
   }, 
   {
+    "abbreviation": "RJEC", 
+    "expansion": "Richmond Joint Engineering Council"
+  }, 
+  {
     "abbreviation": "RJM", 
     "expansion": "Resistojet Module"
   }, 
@@ -82637,6 +82657,10 @@
   }, 
   {
     "abbreviation": "RTA", 
+    "expansion": "Room Temperature Ambient"
+  }, 
+  {
+    "abbreviation": "RTA", 
     "expansion": "Rotating Telescope Assembly"
   }, 
   {
@@ -83833,7 +83857,7 @@
   }, 
   {
     "abbreviation": "SAC-B/HETE", 
-    "expansion": "Scientific Applications Satellite/High Energy Transient"
+    "expansion": "Satellite de Aplicaciones Cientifico-B/High Energy Transient Explorer"
   }, 
   {
     "abbreviation": "SAC-C", 
@@ -84977,11 +85001,11 @@
   }, 
   {
     "abbreviation": "SCAR-A", 
-    "expansion": "Smoke/Sulfates, Clouds, and Radiation - America"
+    "expansion": "Sulfates, Clouds, and Radiation - America"
   }, 
   {
     "abbreviation": "SCAR-B", 
-    "expansion": "Smoke/Sulfates, Clouds, and Radiation - Brazil"
+    "expansion": "Sulfates, Clouds, and Radiation - Brazil"
   }, 
   {
     "abbreviation": "SCARA", 
@@ -93329,7 +93353,7 @@
   }, 
   {
     "abbreviation": "SSTO", 
-    "expansion": "Single State To Orbit"
+    "expansion": "Single Stage To Orbit"
   }, 
   {
     "abbreviation": "SSTP", 
@@ -93418,6 +93442,10 @@
   {
     "abbreviation": "ST", 
     "expansion": "Space Technology"
+  }, 
+  {
+    "abbreviation": "ST", 
+    "expansion": "Senior Technologist"
   }, 
   {
     "abbreviation": "ST", 
@@ -95752,6 +95780,10 @@
     "expansion": "Teledyne Brown Engineering"
   }, 
   {
+    "abbreviation": "TBFM", 
+    "expansion": "Traffic Based Flow Manager"
+  }, 
+  {
     "abbreviation": "TBI", 
     "expansion": "THRU BULKHEAD INITIATOR"
   }, 
@@ -96690,6 +96722,10 @@
   {
     "abbreviation": "TEDP", 
     "expansion": "Test Equipment Data Package"
+  }, 
+  {
+    "abbreviation": "TEEM", 
+    "expansion": "Turbine Electrified Energy Management"
   }, 
   {
     "abbreviation": "TEEM", 
@@ -99078,6 +99114,10 @@
   {
     "abbreviation": "TRST", 
     "expansion": "Test/Reset"
+  }, 
+  {
+    "abbreviation": "TRT", 
+    "expansion": "Travel Request Tool"
   }, 
   {
     "abbreviation": "TRT", 
@@ -102578,6 +102618,10 @@
   {
     "abbreviation": "Veh", 
     "expansion": "Vehicle"
+  }, 
+  {
+    "abbreviation": "VEL", 
+    "expansion": "Virtual Environments Laboratory"
   }, 
   {
     "abbreviation": "VEL", 
@@ -106298,6 +106342,10 @@
   {
     "abbreviation": "ZP", 
     "expansion": "Zero Position"
+  }, 
+  {
+    "abbreviation": "ZPB", 
+    "expansion": "Zero Pressure Balloon"
   }, 
   {
     "abbreviation": "ZPD", 
