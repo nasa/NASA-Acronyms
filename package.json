@@ -1,0 +1,46 @@
+{
+  "name": "NASA-Acronyms",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate:acronyms": "node bin/NASA-Acronyms.js > src/acronyms.json",
+    "start": "webpack-dev-server --config ./webpack.config.js --mode development",
+    "dev": "webpack --watch --progress --colors --config webpack.config.js --mode=development",
+    "build": "webpack --progress --colors --config webpack.config.js --mode=production",
+    "prod": "npm run generate:acronyms && npm run build"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/plugin-syntax-class-properties": "^7.2.0",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/plugin-transform-runtime": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "copy-webpack-plugin": "^5.0.4",
+    "file-loader": "^4.2.0",
+    "image-webpack-loader": "^5.0.0",
+    "prettier": "1.18.2",
+    "react-hot-loader": "^4.12.10",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "@babel/runtime": "^7.5.5",
+    "jquery": "^3.4.1",
+    "node-fetch": "^2.6.0",
+    "qtip2": "^3.0.3"
+  }
+}
