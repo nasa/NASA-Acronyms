@@ -5,7 +5,13 @@
   "version": "1.5",
 
   "browser_action": {
-    "default_icon": "nasa-logo.png"
+    "default_icon": "images/nasa-logo.png"
+  },
+
+  "background": {
+    "scripts": [
+      "background.bundle.js"
+    ]
   },
 
   "content_scripts": [
@@ -13,22 +19,21 @@
       "matches": ["<all_urls>"],
       "exclude_matches": ["*://*.nasaacronyms.com/*"],
       "js": [
-        "jquery-3.3.1.min.js",
-        "jquery.qtip-3.0.3.min.js",
-        "script.js"
+        "content_script.bundle.js"
       ],
       "css": ["jquery.qtip-3.0.3.min.css"]
     }
   ],
 
   "permissions": [
-    "activeTab",
-    "https://raw.githubusercontent.com/nasa/NASA-Acronyms/master"
+    "activeTab"
   ],
 
   "icons": {
-    "16": "nasa-logo16.png",
-    "48": "nasa-logo48.png",
-    "128": "nasa-logo128.png"
-  }
+    "16": "images/nasa-logo16.png",
+    "48": "images/nasa-logo48.png",
+    "128": "images/nasa-logo128.png"
+  },
+
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
 }
