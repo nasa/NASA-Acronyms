@@ -7632,6 +7632,14 @@
     "expansion": "TVC Actuator Controller"
   }, 
   {
+    "abbreviation": "TAIR", 
+    "expansion": "Test Assembly Inspection Record"
+  }, 
+  {
+    "abbreviation": "TAP", 
+    "expansion": "Test and Assembly Procedure"
+  }, 
+  {
     "abbreviation": "TAR", 
     "expansion": "Tape Archive Files"
   }, 
@@ -7786,6 +7794,10 @@
   {
     "abbreviation": "TIPS", 
     "expansion": "TOSC Integrated Processing Solutions"
+  }, 
+  {
+    "abbreviation": "TIR", 
+    "expansion": "Temporary Installation/Removal"
   }, 
   {
     "abbreviation": "TLCC", 
