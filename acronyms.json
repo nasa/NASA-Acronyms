@@ -50656,6 +50656,10 @@
     "expansion": "Logistics Automated Support System"
   }, 
   {
+    "abbreviation": "LASSO", 
+    "expansion": "Laboratory Support Services and Operations"
+  }, 
+  {
     "abbreviation": "LAT", 
     "expansion": "Large Area Telescope"
   }, 
@@ -51758,6 +51762,10 @@
   {
     "abbreviation": "LETF", 
     "expansion": "Lighting Evaluation and Testing Facility"
+  }, 
+  {
+    "abbreviation": "LETF", 
+    "expansion": "Launch Equipment Test Facility"
   }, 
   {
     "abbreviation": "LETGS", 
@@ -54658,6 +54666,10 @@
   {
     "abbreviation": "M/W", 
     "expansion": "Mate With"
+  }, 
+  {
+    "abbreviation": "M2M", 
+    "expansion": "Moon to Mars"
   }, 
   {
     "abbreviation": "m2mi", 
