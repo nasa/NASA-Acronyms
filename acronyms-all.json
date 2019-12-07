@@ -134365,11 +134365,6 @@
     "expansion": "Crew Module Adapter"
   }, 
   {
-    "abbreviation": "CMA", 
-    "source": "EGS", 
-    "expansion": "Crew Module Adapter"
-  }, 
-  {
     "abbreviation": "CMASS", 
     "source": "EGS", 
     "expansion": "Crew Module Ammonia Servicing Subsystem"
@@ -135033,11 +135028,6 @@
     "abbreviation": "DAS", 
     "source": "EGS", 
     "expansion": "Distributed Antenna System"
-  }, 
-  {
-    "abbreviation": "DAVIS", 
-    "source": "EGS", 
-    "expansion": "Data Acquisition and Video Integrated System"
   }, 
   {
     "abbreviation": "DAVIS", 
@@ -135945,11 +135935,6 @@
     "expansion": "Engineering Services Contract"
   }, 
   {
-    "abbreviation": "ESC", 
-    "source": "EGS", 
-    "expansion": "Engineering Services Contract"
-  }, 
-  {
     "abbreviation": "ESD", 
     "source": "EGS", 
     "expansion": "Exploration Systems Development/Directorate/Division"
@@ -136550,11 +136535,6 @@
     "expansion": "Flight Test Management Office"
   }, 
   {
-    "abbreviation": "FTMO", 
-    "source": "EGS", 
-    "expansion": "Flight Test Management Office"
-  }, 
-  {
     "abbreviation": "FTP", 
     "source": "EGS", 
     "expansion": "File Transfer Protocol"
@@ -137008,11 +136988,6 @@
     "abbreviation": "GUI", 
     "source": "EGS", 
     "expansion": "Graphical User Interface"
-  }, 
-  {
-    "abbreviation": "GW", 
-    "source": "EGS", 
-    "expansion": "Gateway"
   }, 
   {
     "abbreviation": "GW", 
@@ -137518,11 +137493,6 @@
     "abbreviation": "ICP", 
     "source": "EGS", 
     "expansion": "Interface Control Panel"
-  }, 
-  {
-    "abbreviation": "ICPS", 
-    "source": "EGS", 
-    "expansion": "Interim Cryogenic Propulsion Stage"
   }, 
   {
     "abbreviation": "ICPS", 
@@ -138495,11 +138465,6 @@
     "expansion": "Launch ACCessories"
   }, 
   {
-    "abbreviation": "LACC", 
-    "source": "EGS", 
-    "expansion": "Launch ACCessories"
-  }, 
-  {
     "abbreviation": "LaRC", 
     "source": "EGS", 
     "expansion": "Langley Research Center"
@@ -138688,11 +138653,6 @@
     "abbreviation": "LIS", 
     "source": "EGS", 
     "expansion": "Launch Imagery System"
-  }, 
-  {
-    "abbreviation": "LISC", 
-    "source": "EGS", 
-    "expansion": "Launch and Test Range System (LTRS) Integrated Support Contract (LISC)"
   }, 
   {
     "abbreviation": "LISC", 
@@ -139343,11 +139303,6 @@
     "abbreviation": "MOR", 
     "source": "EGS", 
     "expansion": "Mission Operations Review"
-  }, 
-  {
-    "abbreviation": "MOR", 
-    "source": "EGS", 
-    "expansion": "Monthly Operations Review"
   }, 
   {
     "abbreviation": "MOR", 
@@ -140080,11 +140035,6 @@
     "expansion": "Orion Integration Control Board"
   }, 
   {
-    "abbreviation": "OICB", 
-    "source": "EGS", 
-    "expansion": "Orion Integration Control Board"
-  }, 
-  {
     "abbreviation": "OIG", 
     "source": "EGS", 
     "expansion": "Office of the Inspector General"
@@ -140255,11 +140205,6 @@
     "expansion": "Orion Recovery Cradle Assembly"
   }, 
   {
-    "abbreviation": "ORCA", 
-    "source": "EGS", 
-    "expansion": "Orion Recovery Cradle Assembly"
-  }, 
-  {
     "abbreviation": "ORD", 
     "source": "EGS", 
     "expansion": "Operations Requirement Document"
@@ -140358,11 +140303,6 @@
     "abbreviation": "OTC", 
     "source": "EGS", 
     "expansion": "Orion Test Conductor"
-  }, 
-  {
-    "abbreviation": "OTN", 
-    "source": "EGS", 
-    "expansion": "Optical Transport Network"
   }, 
   {
     "abbreviation": "OTN", 
@@ -140478,11 +140418,6 @@
     "abbreviation": "PARR", 
     "source": "EGS", 
     "expansion": "Pre-Acquisition Readiness Review"
-  }, 
-  {
-    "abbreviation": "PAS", 
-    "source": "EGS", 
-    "expansion": "Payload Accommodation Subsystem"
   }, 
   {
     "abbreviation": "PAS", 
@@ -141455,11 +141390,6 @@
     "expansion": "Review Item Discrepancy"
   }, 
   {
-    "abbreviation": "RID", 
-    "source": "EGS", 
-    "expansion": "Review Item Discrepancy"
-  }, 
-  {
     "abbreviation": "RIDM", 
     "source": "EGS", 
     "expansion": "Risk Informed Decision Making"
@@ -141473,11 +141403,6 @@
     "abbreviation": "RIO", 
     "source": "EGS", 
     "expansion": "Remote Input Output"
-  }, 
-  {
-    "abbreviation": "RISA", 
-    "source": "EGS", 
-    "expansion": "Rapid Interactive Structural Analysis"
   }, 
   {
     "abbreviation": "RISA", 
@@ -142345,11 +142270,6 @@
     "expansion": "Schedule Risk Analysis"
   }, 
   {
-    "abbreviation": "SRA", 
-    "source": "EGS", 
-    "expansion": "Schedule Risk Analysis"
-  }, 
-  {
     "abbreviation": "SRB", 
     "source": "EGS", 
     "expansion": "Solid Rocket Booster"
@@ -143118,11 +143038,6 @@
     "abbreviation": "URRT", 
     "source": "EGS", 
     "expansion": "Umbilical Release and Retract Test"
-  }, 
-  {
-    "abbreviation": "URT", 
-    "source": "EGS", 
-    "expansion": "Underway Recovery Test"
   }, 
   {
     "abbreviation": "URT", 
