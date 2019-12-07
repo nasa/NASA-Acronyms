@@ -133090,16 +133090,6 @@
     "expansion": "Advertise and Award"
   }, 
   {
-    "abbreviation": "A&E", 
-    "source": "EGS", 
-    "expansion": "Architect and Engineer"
-  }, 
-  {
-    "abbreviation": "AA", 
-    "source": "EGS", 
-    "expansion": "Ascent Abort"
-  }, 
-  {
     "abbreviation": "ABFM", 
     "source": "EGS", 
     "expansion": "Airborne Field Mill Experiment"
@@ -133113,16 +133103,6 @@
     "abbreviation": "ABS", 
     "source": "EGS", 
     "expansion": "Air Bearing Pallet System"
-  }, 
-  {
-    "abbreviation": "AC", 
-    "source": "EGS", 
-    "expansion": "Alternating Current"
-  }, 
-  {
-    "abbreviation": "ACA", 
-    "source": "EGS", 
-    "expansion": "Associate Contractor Agreement"
   }, 
   {
     "abbreviation": "ACAWS", 
@@ -133155,11 +133135,6 @@
     "expansion": "Application Control Language"
   }, 
   {
-    "abbreviation": "ACM", 
-    "source": "EGS", 
-    "expansion": "Access Control Monitor"
-  }, 
-  {
     "abbreviation": "ACO", 
     "source": "EGS", 
     "expansion": "Architectures and Concept of Operations"
@@ -133170,19 +133145,9 @@
     "expansion": "Automated Control System"
   }, 
   {
-    "abbreviation": "ACS", 
-    "source": "EGS", 
-    "expansion": "Attitude Control System"
-  }, 
-  {
     "abbreviation": "ACTD", 
     "source": "EGS", 
     "expansion": "Alternating Current Terminal Distributer"
-  }, 
-  {
-    "abbreviation": "ACU", 
-    "source": "EGS", 
-    "expansion": "Actuator Control Unit"
   }, 
   {
     "abbreviation": "AD", 
@@ -133205,11 +133170,6 @@
     "expansion": "As-Designed vs As-Built"
   }, 
   {
-    "abbreviation": "ADD", 
-    "source": "EGS", 
-    "expansion": "Architecture Description Document"
-  }, 
-  {
     "abbreviation": "ADFS", 
     "source": "EGS", 
     "expansion": "Active Directory Federation Services"
@@ -133220,11 +133180,6 @@
     "expansion": "Automated Data Monitoring System"
   }, 
   {
-    "abbreviation": "ADP", 
-    "source": "EGS", 
-    "expansion": "Acceptance Data Package"
-  }, 
-  {
     "abbreviation": "ADS", 
     "source": "EGS", 
     "expansion": "Application Development Set"
@@ -133233,11 +133188,6 @@
     "abbreviation": "ADT", 
     "source": "EGS", 
     "expansion": "Administrative Delay Time"
-  }, 
-  {
-    "abbreviation": "ADU", 
-    "source": "EGS", 
-    "expansion": "Automatic Destruct Unit"
   }, 
   {
     "abbreviation": "AEC", 
@@ -133253,16 +133203,6 @@
     "abbreviation": "AES", 
     "source": "EGS", 
     "expansion": "Advanced Explorations Systems"
-  }, 
-  {
-    "abbreviation": "AF", 
-    "source": "EGS", 
-    "expansion": "Air Force"
-  }, 
-  {
-    "abbreviation": "AFB", 
-    "source": "EGS", 
-    "expansion": "Air Force Base"
   }, 
   {
     "abbreviation": "AFDS", 
@@ -133290,16 +133230,6 @@
     "expansion": "Air Force Research Labs"
   }, 
   {
-    "abbreviation": "AFSPC", 
-    "source": "EGS", 
-    "expansion": "Air Force Space Command"
-  }, 
-  {
-    "abbreviation": "AFSS", 
-    "source": "EGS", 
-    "expansion": "Autonomous Flight Safety System"
-  }, 
-  {
     "abbreviation": "AGSM", 
     "source": "EGS", 
     "expansion": "Advanced Ground Systems Maintenance Element (EIT)"
@@ -133308,11 +133238,6 @@
     "abbreviation": "AHJ", 
     "source": "EGS", 
     "expansion": "Authority Having Jurisdiction"
-  }, 
-  {
-    "abbreviation": "AHU", 
-    "source": "EGS", 
-    "expansion": "Air Handling Unit"
   }, 
   {
     "abbreviation": "AI", 
@@ -133328,11 +133253,6 @@
     "abbreviation": "AI&T", 
     "source": "EGS", 
     "expansion": "Assembly Integration and Testing"
-  }, 
-  {
-    "abbreviation": "AIAA", 
-    "source": "EGS", 
-    "expansion": "American Institute of Aeronautics and Astronautics"
   }, 
   {
     "abbreviation": "AIB", 
@@ -133355,11 +133275,6 @@
     "expansion": "Inherent Launch Availability"
   }, 
   {
-    "abbreviation": "AIT", 
-    "source": "EGS", 
-    "expansion": "Analysis and Integration Team"
-  }, 
-  {
     "abbreviation": "AKGA", 
     "source": "EGS", 
     "expansion": "Alpha-Keto Glutaric Acid"
@@ -133380,34 +133295,14 @@
     "expansion": "Assistant Launch Director Console"
   }, 
   {
-    "abbreviation": "ALHAT", 
-    "source": "EGS", 
-    "expansion": "Autonomous Landing and Hazard Avoidance Technology"
-  }, 
-  {
     "abbreviation": "ALS", 
     "source": "EGS", 
     "expansion": "Automated Launch Sequencer"
   }, 
   {
-    "abbreviation": "AM", 
-    "source": "EGS", 
-    "expansion": "Ascent Module"
-  }, 
-  {
-    "abbreviation": "AMO", 
-    "source": "EGS", 
-    "expansion": "Agency Management and Operations"
-  }, 
-  {
     "abbreviation": "AMS", 
     "source": "EGS", 
     "expansion": "Advanced Management Solutions"
-  }, 
-  {
-    "abbreviation": "ANSI", 
-    "source": "EGS", 
-    "expansion": "American National Standards Institute"
   }, 
   {
     "abbreviation": "AO", 
@@ -133435,26 +133330,6 @@
     "expansion": "Architectures and Operations Control Panel"
   }, 
   {
-    "abbreviation": "APG", 
-    "source": "EGS", 
-    "expansion": "Agency Priority Goals"
-  }, 
-  {
-    "abbreviation": "API", 
-    "source": "EGS", 
-    "expansion": "Application Programming Interface"
-  }, 
-  {
-    "abbreviation": "APM", 
-    "source": "EGS", 
-    "expansion": "Application Portfolio Management"
-  }, 
-  {
-    "abbreviation": "APMC", 
-    "source": "EGS", 
-    "expansion": "Agency Program Management Council"
-  }, 
-  {
     "abbreviation": "APS", 
     "source": "EGS", 
     "expansion": "Avionics/Power/Software Office"
@@ -133465,11 +133340,6 @@
     "expansion": "Auxiliary Pad Terminal"
   }, 
   {
-    "abbreviation": "APU", 
-    "source": "EGS", 
-    "expansion": "Auxiliary Power Unit"
-  }, 
-  {
     "abbreviation": "AR", 
     "source": "EGS", 
     "expansion": "Aerojet-Rocketdyne"
@@ -133478,11 +133348,6 @@
     "abbreviation": "ARB", 
     "source": "EGS", 
     "expansion": "Architectures Review Board"
-  }, 
-  {
-    "abbreviation": "ARC", 
-    "source": "EGS", 
-    "expansion": "Ames Research Center"
   }, 
   {
     "abbreviation": "ARC", 
@@ -133505,16 +133370,6 @@
     "expansion": "Automated Real-Time Radio Frequency Monitoring System"
   }, 
   {
-    "abbreviation": "ARM", 
-    "source": "EGS", 
-    "expansion": "Active Risk Manager"
-  }, 
-  {
-    "abbreviation": "ARMD", 
-    "source": "EGS", 
-    "expansion": "Aeronautics Research Mission Directorate"
-  }, 
-  {
     "abbreviation": "ARTEMIS", 
     "source": "EGS", 
     "expansion": "Advanced Real Time Environment for Modeling Integration and Simulation"
@@ -133530,24 +133385,9 @@
     "expansion": "Avionics Software Control Board"
   }, 
   {
-    "abbreviation": "ASEU", 
-    "source": "EGS", 
-    "expansion": "Aft Skirt Electrical Umbilical"
-  }, 
-  {
     "abbreviation": "ASF", 
     "source": "EGS", 
     "expansion": "Application Services Framework"
-  }, 
-  {
-    "abbreviation": "ASM", 
-    "source": "EGS", 
-    "expansion": "Acquisition Strategy Meeting"
-  }, 
-  {
-    "abbreviation": "ASME", 
-    "source": "EGS", 
-    "expansion": "American Society of Mechanical Engineers"
   }, 
   {
     "abbreviation": "ASP", 
@@ -133570,11 +133410,6 @@
     "expansion": "Air Surveillance Radar"
   }, 
   {
-    "abbreviation": "ASRS", 
-    "source": "EGS", 
-    "expansion": "Automated Support Requirements System"
-  }, 
-  {
     "abbreviation": "ASTF", 
     "source": "EGS", 
     "expansion": "Aft Skirt Test Facility"
@@ -133588,31 +133423,6 @@
     "abbreviation": "ASWT", 
     "source": "EGS", 
     "expansion": "Application Software Working Team"
-  }, 
-  {
-    "abbreviation": "ATB", 
-    "source": "EGS", 
-    "expansion": "Abort Test Booster"
-  }, 
-  {
-    "abbreviation": "ATC", 
-    "source": "EGS", 
-    "expansion": "Air Traffic Control"
-  }, 
-  {
-    "abbreviation": "ATCS", 
-    "source": "EGS", 
-    "expansion": "Active Thermal Control System"
-  }, 
-  {
-    "abbreviation": "ATE", 
-    "source": "EGS", 
-    "expansion": "Automated Test Equipment"
-  }, 
-  {
-    "abbreviation": "ATLO", 
-    "source": "EGS", 
-    "expansion": "Assembly, Test, and Launch Operations"
   }, 
   {
     "abbreviation": "ATO", 
@@ -133640,16 +133450,6 @@
     "expansion": "Analysis and Upgrade Assessment Technical Working Group"
   }, 
   {
-    "abbreviation": "AWT", 
-    "source": "EGS", 
-    "expansion": "With Respect To"
-  }, 
-  {
-    "abbreviation": "B/L", 
-    "source": "EGS", 
-    "expansion": "Baseline"
-  }, 
-  {
     "abbreviation": "BACON", 
     "source": "EGS", 
     "expansion": "Backwards Activity Chaser of Need"
@@ -133665,49 +133465,14 @@
     "expansion": "Breathing Air"
   }, 
   {
-    "abbreviation": "BCDS", 
-    "source": "EGS", 
-    "expansion": "Broadband Communications Distribution System"
-  }, 
-  {
-    "abbreviation": "BCI", 
-    "source": "EGS", 
-    "expansion": "Baseline Configuration Imagery"
-  }, 
-  {
     "abbreviation": "BCN", 
     "source": "EGS", 
     "expansion": "Baseline Change Notice"
   }, 
   {
-    "abbreviation": "BCPDU", 
-    "source": "EGS", 
-    "expansion": "Booster Control Power Distribution Unit"
-  }, 
-  {
-    "abbreviation": "BDA", 
-    "source": "EGS", 
-    "expansion": "Blast Danger Area"
-  }, 
-  {
-    "abbreviation": "BDEALS", 
-    "source": "EGS", 
-    "expansion": "Bilateral Data Exchange Agreements, Lists, and Schedules"
-  }, 
-  {
     "abbreviation": "BDEALS", 
     "source": "EGS", 
     "expansion": "Bi-lateral data exchange agreement list and schedules"
-  }, 
-  {
-    "abbreviation": "BEA", 
-    "source": "EGS", 
-    "expansion": "Bilateral Exchange Agreement"
-  }, 
-  {
-    "abbreviation": "BEO", 
-    "source": "EGS", 
-    "expansion": "Beyond Earth Orbit"
   }, 
   {
     "abbreviation": "BET", 
@@ -133770,11 +133535,6 @@
     "expansion": "Business Objectives Agreement"
   }, 
   {
-    "abbreviation": "BOE", 
-    "source": "EGS", 
-    "expansion": "Basis of Estimate"
-  }, 
-  {
     "abbreviation": "BPDCU", 
     "source": "EGS", 
     "expansion": "Booster Power Distribution and Control Unit"
@@ -133788,11 +133548,6 @@
     "abbreviation": "BPM", 
     "source": "EGS", 
     "expansion": "Business Process Modeling"
-  }, 
-  {
-    "abbreviation": "BPR", 
-    "source": "EGS", 
-    "expansion": "Baseline Performance Review"
   }, 
   {
     "abbreviation": "BPU", 
@@ -133815,24 +133570,9 @@
     "expansion": "Bilateral Software Hardware Exchange Agreements, Lists, and Schedules"
   }, 
   {
-    "abbreviation": "BSM", 
-    "source": "EGS", 
-    "expansion": "Booster Separation Motor"
-  }, 
-  {
-    "abbreviation": "BTA", 
-    "source": "EGS", 
-    "expansion": "Boilerplate Test Article"
-  }, 
-  {
     "abbreviation": "BTA", 
     "source": "EGS", 
     "expansion": "Boat Tail"
-  }, 
-  {
-    "abbreviation": "BU", 
-    "source": "EGS", 
-    "expansion": "Battery Unit"
   }, 
   {
     "abbreviation": "BUIE", 
@@ -133845,34 +133585,14 @@
     "expansion": "Bottom Up Review"
   }, 
   {
-    "abbreviation": "C&C", 
-    "source": "EGS", 
-    "expansion": "Command and Control"
-  }, 
-  {
-    "abbreviation": "C&DH", 
-    "source": "EGS", 
-    "expansion": "Command and Data Handling"
-  }, 
-  {
     "abbreviation": "C&I", 
     "source": "EGS", 
     "expansion": "Communications and Imagery"
   }, 
   {
-    "abbreviation": "C&T", 
-    "source": "EGS", 
-    "expansion": "Communications and Tracking"
-  }, 
-  {
     "abbreviation": "C1D2", 
     "source": "EGS", 
     "expansion": "Class 1, Division 2"
-  }, 
-  {
-    "abbreviation": "C2", 
-    "source": "EGS", 
-    "expansion": "Command and Control"
   }, 
   {
     "abbreviation": "C3", 
@@ -133890,11 +133610,6 @@
     "expansion": "Command, Control, Communication and Information Interoperability"
   }, 
   {
-    "abbreviation": "C3PO", 
-    "source": "EGS", 
-    "expansion": "Commercial Crew and Cargo Program Office"
-  }, 
-  {
     "abbreviation": "C3PW", 
     "source": "EGS", 
     "expansion": "Contractor Third Party Work"
@@ -133908,31 +133623,6 @@
     "abbreviation": "CAA", 
     "source": "EGS", 
     "expansion": "Crew Access Arm"
-  }, 
-  {
-    "abbreviation": "CAAS", 
-    "source": "EGS", 
-    "expansion": "Contract Administration and Audit Services"
-  }, 
-  {
-    "abbreviation": "CAC", 
-    "source": "EGS", 
-    "expansion": "Common Access Card"
-  }, 
-  {
-    "abbreviation": "CAD", 
-    "source": "EGS", 
-    "expansion": "Computer-Aided Design"
-  }, 
-  {
-    "abbreviation": "CADRe", 
-    "source": "EGS", 
-    "expansion": "Cost Analysis Data Requirement"
-  }, 
-  {
-    "abbreviation": "CAE", 
-    "source": "EGS", 
-    "expansion": "Computer-Aided Engineering"
   }, 
   {
     "abbreviation": "CAF", 
@@ -133970,36 +133660,6 @@
     "expansion": "Control Account Manager \u2013 a position @ HQ"
   }, 
   {
-    "abbreviation": "CAM", 
-    "source": "EGS", 
-    "expansion": "Computer-Aided Manufacturing"
-  }, 
-  {
-    "abbreviation": "CAP", 
-    "source": "EGS", 
-    "expansion": "Corrective Action Plan"
-  }, 
-  {
-    "abbreviation": "CAPPS", 
-    "source": "EGS", 
-    "expansion": "Checkout, Assembly, and Payload Processing Services"
-  }, 
-  {
-    "abbreviation": "CAPU", 
-    "source": "EGS", 
-    "expansion": "Core Auxiliary Power Unit"
-  }, 
-  {
-    "abbreviation": "CAPUC", 
-    "source": "EGS", 
-    "expansion": "Core Auxiliary Power Unit Controller"
-  }, 
-  {
-    "abbreviation": "CAR", 
-    "source": "EGS", 
-    "expansion": "Change Action Request"
-  }, 
-  {
     "abbreviation": "CARS", 
     "source": "EGS", 
     "expansion": "CUI Assessment Repository System"
@@ -134015,11 +133675,6 @@
     "expansion": "LCC Arms and Umbilicals Engineer"
   }, 
   {
-    "abbreviation": "CB", 
-    "source": "EGS", 
-    "expansion": "Control Board"
-  }, 
-  {
     "abbreviation": "CBA", 
     "source": "EGS", 
     "expansion": "Capabilities Based Assessment"
@@ -134033,21 +133688,6 @@
     "abbreviation": "CBT", 
     "source": "EGS", 
     "expansion": "Computer-Based Training"
-  }, 
-  {
-    "abbreviation": "CC", 
-    "source": "EGS", 
-    "expansion": "Command and Control"
-  }, 
-  {
-    "abbreviation": "CCAFS", 
-    "source": "EGS", 
-    "expansion": "Cape Canaveral Air Force Station"
-  }, 
-  {
-    "abbreviation": "CCB", 
-    "source": "EGS", 
-    "expansion": "Configuration Control Board"
   }, 
   {
     "abbreviation": "CCBD", 
@@ -134080,11 +133720,6 @@
     "expansion": "Capability/Competency Portfolio ???"
   }, 
   {
-    "abbreviation": "CCP", 
-    "source": "EGS", 
-    "expansion": "Commercial Crew Program"
-  }, 
-  {
     "abbreviation": "CCR", 
     "source": "EGS", 
     "expansion": "Crew Consensus Report"
@@ -134100,26 +133735,6 @@
     "expansion": "Camera Control System"
   }, 
   {
-    "abbreviation": "CCSDS", 
-    "source": "EGS", 
-    "expansion": "Consultative Committee for Space Data Systems"
-  }, 
-  {
-    "abbreviation": "CCSE", 
-    "source": "EGS", 
-    "expansion": "Combined Control System Electronics"
-  }, 
-  {
-    "abbreviation": "CCU", 
-    "source": "EGS", 
-    "expansion": "Camera Control Unit"
-  }, 
-  {
-    "abbreviation": "CD", 
-    "source": "EGS", 
-    "expansion": "Center Director"
-  }, 
-  {
     "abbreviation": "CD&SC", 
     "source": "EGS", 
     "expansion": "Communications, Distribution, and Switching Center"
@@ -134128,11 +133743,6 @@
     "abbreviation": "CDDT", 
     "source": "EGS", 
     "expansion": "Count Down Demonstration Testing"
-  }, 
-  {
-    "abbreviation": "CDF", 
-    "source": "EGS", 
-    "expansion": "Cumulative Distribution Function"
   }, 
   {
     "abbreviation": "CDG", 
@@ -134167,32 +133777,12 @@
   {
     "abbreviation": "CDR", 
     "source": "EGS", 
-    "expansion": "Critical Design Review"
-  }, 
-  {
-    "abbreviation": "CDR", 
-    "source": "EGS", 
     "expansion": "Configuration Discrepancy Record"
   }, 
   {
     "abbreviation": "CDT", 
     "source": "EGS", 
     "expansion": "Countdown Time"
-  }, 
-  {
-    "abbreviation": "CDT", 
-    "source": "EGS", 
-    "expansion": "Countdown Demonstration Test"
-  }, 
-  {
-    "abbreviation": "CE", 
-    "source": "EGS", 
-    "expansion": "Change Evaluation"
-  }, 
-  {
-    "abbreviation": "CE", 
-    "source": "EGS", 
-    "expansion": "Chief Engineer"
   }, 
   {
     "abbreviation": "CECB", 
@@ -134210,39 +133800,14 @@
     "expansion": "Carrier Ethernet Network"
   }, 
   {
-    "abbreviation": "CER", 
-    "source": "EGS", 
-    "expansion": "Chief Engineer Review"
-  }, 
-  {
     "abbreviation": "CERB", 
     "source": "EGS", 
     "expansion": "Chief Engineer Review Board"
   }, 
   {
-    "abbreviation": "CEV", 
-    "source": "EGS", 
-    "expansion": "Crew Exploration Vehicle"
-  }, 
-  {
-    "abbreviation": "CFD", 
-    "source": "EGS", 
-    "expansion": "Computational Fluid Dynamics"
-  }, 
-  {
     "abbreviation": "CFR", 
     "source": "EGS", 
     "expansion": "Customer Facility Request"
-  }, 
-  {
-    "abbreviation": "CFR", 
-    "source": "EGS", 
-    "expansion": "Code of Federal Regulations"
-  }, 
-  {
-    "abbreviation": "CG", 
-    "source": "EGS", 
-    "expansion": "Center of Gravity"
   }, 
   {
     "abbreviation": "CGLS", 
@@ -134265,34 +133830,14 @@
     "expansion": "Monomethyl Hydrazine/MMH"
   }, 
   {
-    "abbreviation": "CI", 
-    "source": "EGS", 
-    "expansion": "Configuration Item"
-  }, 
-  {
     "abbreviation": "CIDL", 
     "source": "EGS", 
     "expansion": "Configuration Item Data List"
   }, 
   {
-    "abbreviation": "CIF", 
-    "source": "EGS", 
-    "expansion": "Central Instrumentation Facility"
-  }, 
-  {
-    "abbreviation": "CIL", 
-    "source": "EGS", 
-    "expansion": "Critical Items List"
-  }, 
-  {
     "abbreviation": "Cinetheo ", 
     "source": "EGS", 
     "expansion": "Cinetheodolite"
-  }, 
-  {
-    "abbreviation": "CIO", 
-    "source": "EGS", 
-    "expansion": "Chief Information Officer"
   }, 
   {
     "abbreviation": "CIPS", 
@@ -134315,39 +133860,9 @@
     "expansion": "Central Integrated Test System"
   }, 
   {
-    "abbreviation": "CLIN", 
-    "source": "EGS", 
-    "expansion": "Contract Line Item Number"
-  }, 
-  {
-    "abbreviation": "CLO", 
-    "source": "EGS", 
-    "expansion": "Crewed Lunar Orbit"
-  }, 
-  {
-    "abbreviation": "CLSS", 
-    "source": "EGS", 
-    "expansion": "Cryogenic Level Sensor System"
-  }, 
-  {
     "abbreviation": "CLT", 
     "source": "EGS", 
     "expansion": "Contianer Load Trailer"
-  }, 
-  {
-    "abbreviation": "CLV", 
-    "source": "EGS", 
-    "expansion": "Crew Launch Vehicle"
-  }, 
-  {
-    "abbreviation": "CM", 
-    "source": "EGS", 
-    "expansion": "Crew Module"
-  }, 
-  {
-    "abbreviation": "CM", 
-    "source": "EGS", 
-    "expansion": "Configuration Management"
   }, 
   {
     "abbreviation": "CM&S", 
@@ -134360,11 +133875,6 @@
     "expansion": "Configuration Management/Data Management"
   }, 
   {
-    "abbreviation": "CMA", 
-    "source": "EGS", 
-    "expansion": "Crew Module Adapter"
-  }, 
-  {
     "abbreviation": "CMASS", 
     "source": "EGS", 
     "expansion": "Crew Module Ammonia Servicing Subsystem"
@@ -134375,39 +133885,14 @@
     "expansion": "Configuration Management and Action Tracking"
   }, 
   {
-    "abbreviation": "CMB", 
-    "source": "EGS", 
-    "expansion": "Crew Module Battery"
-  }, 
-  {
-    "abbreviation": "CMDS", 
-    "source": "EGS", 
-    "expansion": "Configuration Management Data System"
-  }, 
-  {
     "abbreviation": "CME", 
     "source": "EGS", 
     "expansion": "Change Management Express"
   }, 
   {
-    "abbreviation": "CML", 
-    "source": "EGS", 
-    "expansion": "Common Model Library"
-  }, 
-  {
-    "abbreviation": "CMMI", 
-    "source": "EGS", 
-    "expansion": "Capability Maturity Model Integration"
-  }, 
-  {
     "abbreviation": "CMO", 
     "source": "EGS", 
     "expansion": "Center Management & Operations"
-  }, 
-  {
-    "abbreviation": "CMO", 
-    "source": "EGS", 
-    "expansion": "Chief Medical Officer"
   }, 
   {
     "abbreviation": "C-MPSR", 
@@ -134418,16 +133903,6 @@
     "abbreviation": "CMR", 
     "source": "EGS", 
     "expansion": "Center Management Review"
-  }, 
-  {
-    "abbreviation": "CMS", 
-    "source": "EGS", 
-    "expansion": "Content Management System"
-  }, 
-  {
-    "abbreviation": "CMS", 
-    "source": "EGS", 
-    "expansion": "Content Management and Storage"
   }, 
   {
     "abbreviation": "CMST", 
@@ -134445,11 +133920,6 @@
     "expansion": "Crew Module Transportation Fixture"
   }, 
   {
-    "abbreviation": "CMUS", 
-    "source": "EGS", 
-    "expansion": "Crew Module Uprighting System"
-  }, 
-  {
     "abbreviation": "CMW", 
     "source": "EGS", 
     "expansion": "Change Management Workflow"
@@ -134463,16 +133933,6 @@
     "abbreviation": "CNT", 
     "source": "EGS", 
     "expansion": "Communications, Navigation, and Tracking"
-  }, 
-  {
-    "abbreviation": "CO", 
-    "source": "EGS", 
-    "expansion": "Contracting Officer"
-  }, 
-  {
-    "abbreviation": "CoF", 
-    "source": "EGS", 
-    "expansion": "Construction of Facilities"
   }, 
   {
     "abbreviation": "COF", 
@@ -134495,29 +133955,9 @@
     "expansion": "Communications Systems Element (EIT)"
   }, 
   {
-    "abbreviation": "COMMSAT", 
-    "source": "EGS", 
-    "expansion": "Communications Satellite"
-  }, 
-  {
     "abbreviation": "ConCERT", 
     "source": "EGS", 
     "expansion": "Constellation Community Electronic RID Tool"
-  }, 
-  {
-    "abbreviation": "ConOps", 
-    "source": "EGS", 
-    "expansion": "Concept of Operations"
-  }, 
-  {
-    "abbreviation": "CoP", 
-    "source": "EGS", 
-    "expansion": "Community of Practice"
-  }, 
-  {
-    "abbreviation": "COPV", 
-    "source": "EGS", 
-    "expansion": "Composite Overwrapped Pressure Vessel"
   }, 
   {
     "abbreviation": "COR", 
@@ -134528,11 +133968,6 @@
     "abbreviation": "COTR", 
     "source": "EGS", 
     "expansion": "Contracting Officer\u2019s Technical Representative"
-  }, 
-  {
-    "abbreviation": "COTS", 
-    "source": "EGS", 
-    "expansion": "Commercial Orbital Transportation Services"
   }, 
   {
     "abbreviation": "COTS", 
@@ -134550,16 +133985,6 @@
     "expansion": "Cross-Program OMRS Management System"
   }, 
   {
-    "abbreviation": "CPA", 
-    "source": "EGS", 
-    "expansion": "Change Partnering Agreement"
-  }, 
-  {
-    "abbreviation": "CPAF", 
-    "source": "EGS", 
-    "expansion": "Cost Plus Award Fee"
-  }, 
-  {
     "abbreviation": "CPARS", 
     "source": "EGS", 
     "expansion": "Contractor Performance Assessment Reporting System"
@@ -134570,19 +133995,9 @@
     "expansion": "Center Planning and Development Office"
   }, 
   {
-    "abbreviation": "CPE", 
-    "source": "EGS", 
-    "expansion": "Change Package Engineer"
-  }, 
-  {
     "abbreviation": "CPI", 
     "source": "EGS", 
     "expansion": "Cross-Program Interdependency"
-  }, 
-  {
-    "abbreviation": "CPIA", 
-    "source": "EGS", 
-    "expansion": "Chemical Propulsion Information Agency"
   }, 
   {
     "abbreviation": "CPID", 
@@ -134600,19 +134015,9 @@
     "expansion": "Cross-Program Logistics Integration Plan"
   }, 
   {
-    "abbreviation": "CPM", 
-    "source": "EGS", 
-    "expansion": "Change Package Manager"
-  }, 
-  {
     "abbreviation": "CPP", 
     "source": "EGS", 
     "expansion": "CoFR Process Plan"
-  }, 
-  {
-    "abbreviation": "CPS", 
-    "source": "EGS", 
-    "expansion": "Cryogenic Propulsion Stage"
   }, 
   {
     "abbreviation": "cps", 
@@ -134623,21 +134028,6 @@
     "abbreviation": "CPU", 
     "source": "EGS", 
     "expansion": "Cabin Purge Unit"
-  }, 
-  {
-    "abbreviation": "CPU", 
-    "source": "EGS", 
-    "expansion": "Central Processing Unit"
-  }, 
-  {
-    "abbreviation": "CR", 
-    "source": "EGS", 
-    "expansion": "Change Request"
-  }, 
-  {
-    "abbreviation": "CR/D", 
-    "source": "EGS", 
-    "expansion": "Change Request/Directive"
   }, 
   {
     "abbreviation": "CRAFT", 
@@ -134675,16 +134065,6 @@
     "expansion": "Cosmic-Ray Energetics and Mass"
   }, 
   {
-    "abbreviation": "CRF", 
-    "source": "EGS", 
-    "expansion": "Canister Rotation Facility"
-  }, 
-  {
-    "abbreviation": "CRM", 
-    "source": "EGS", 
-    "expansion": "Continuous Risk Management"
-  }, 
-  {
     "abbreviation": "CRMWG", 
     "source": "EGS", 
     "expansion": "Center Risk Management Working Group"
@@ -134692,27 +134072,12 @@
   {
     "abbreviation": "CRS", 
     "source": "EGS", 
-    "expansion": "Cargo Resupply Services"
-  }, 
-  {
-    "abbreviation": "CRS", 
-    "source": "EGS", 
     "expansion": "Command Remoting System"
-  }, 
-  {
-    "abbreviation": "CRS", 
-    "source": "EGS", 
-    "expansion": "Commercial Resupply Services"
   }, 
   {
     "abbreviation": "CRT", 
     "source": "EGS", 
     "expansion": "Contingency Retrieval Team"
-  }, 
-  {
-    "abbreviation": "CRV", 
-    "source": "EGS", 
-    "expansion": "Crew Return Vehicle"
   }, 
   {
     "abbreviation": "CRVC", 
@@ -134732,22 +134097,12 @@
   {
     "abbreviation": "CS", 
     "source": "EGS", 
-    "expansion": "Civil Servant"
-  }, 
-  {
-    "abbreviation": "CS", 
-    "source": "EGS", 
     "expansion": "COM System"
   }, 
   {
     "abbreviation": "CS ETE", 
     "source": "EGS", 
     "expansion": "Communications System End-to-End"
-  }, 
-  {
-    "abbreviation": "CSA", 
-    "source": "EGS", 
-    "expansion": "Configuration Status Accounting"
   }, 
   {
     "abbreviation": "CSAS", 
@@ -134765,34 +134120,14 @@
     "expansion": "Central Command System Controller (console)"
   }, 
   {
-    "abbreviation": "CSCI", 
-    "source": "EGS", 
-    "expansion": "Computer Software Configuration Item"
-  }, 
-  {
     "abbreviation": "CSDR", 
     "source": "EGS", 
     "expansion": "Cross-Program System Design Review"
   }, 
   {
-    "abbreviation": "CSE", 
-    "source": "EGS", 
-    "expansion": "Core Stage Engine"
-  }, 
-  {
-    "abbreviation": "CSEC", 
-    "source": "EGS", 
-    "expansion": "Core Stage Engine Controller"
-  }, 
-  {
     "abbreviation": "CSERP", 
     "source": "EGS", 
     "expansion": "Cx Safety and Engineering Review Board"
-  }, 
-  {
-    "abbreviation": "CSFSU", 
-    "source": "EGS", 
-    "expansion": "Core Stage Forward Skirt Umbilical"
   }, 
   {
     "abbreviation": "CSI", 
@@ -134810,11 +134145,6 @@
     "expansion": "Core Stage Inter-Tank Umbilical"
   }, 
   {
-    "abbreviation": "CSLA", 
-    "source": "EGS", 
-    "expansion": "Commercial Space Launch Act"
-  }, 
-  {
     "abbreviation": "CSLC", 
     "source": "EGS", 
     "expansion": "(21st) Century Space Launch Complex"
@@ -134830,11 +134160,6 @@
     "expansion": "Common Services and Framework "
   }, 
   {
-    "abbreviation": "CSO", 
-    "source": "EGS", 
-    "expansion": "Chief Safety Officer"
-  }, 
-  {
     "abbreviation": "CSR", 
     "source": "EGS", 
     "expansion": "Computer Systems Raytheon"
@@ -134848,16 +134173,6 @@
     "abbreviation": "CT", 
     "source": "EGS", 
     "expansion": "Crawler-Transporter"
-  }, 
-  {
-    "abbreviation": "CT", 
-    "source": "EGS", 
-    "expansion": "Cost"
-  }, 
-  {
-    "abbreviation": "CTC", 
-    "source": "EGS", 
-    "expansion": "Command and Telemetry Controller"
   }, 
   {
     "abbreviation": "CTCE", 
@@ -134883,11 +134198,6 @@
     "abbreviation": "CTMF", 
     "source": "EGS", 
     "expansion": "Crawler-Transporter Maintenance Facility"
-  }, 
-  {
-    "abbreviation": "CTN", 
-    "source": "EGS", 
-    "expansion": "Communications and Tracking Network"
   }, 
   {
     "abbreviation": "CTOB", 
@@ -134927,11 +134237,6 @@
   {
     "abbreviation": "CUI", 
     "source": "EGS", 
-    "expansion": "Controlled Unclassified Information"
-  }, 
-  {
-    "abbreviation": "CUI", 
-    "source": "EGS", 
     "expansion": "Character-Based User Interface"
   }, 
   {
@@ -134950,34 +134255,9 @@
     "expansion": "Center Warehouse Working Group"
   }, 
   {
-    "abbreviation": "Cx", 
-    "source": "EGS", 
-    "expansion": "Constellation"
-  }, 
-  {
     "abbreviation": "CxIRMA", 
     "source": "EGS", 
     "expansion": "Constellation Integrated Risk Management Application"
-  }, 
-  {
-    "abbreviation": "CxP", 
-    "source": "EGS", 
-    "expansion": "Constellation Program"
-  }, 
-  {
-    "abbreviation": "CY", 
-    "source": "EGS", 
-    "expansion": "Calendar Year"
-  }, 
-  {
-    "abbreviation": "CYGNSS", 
-    "source": "EGS", 
-    "expansion": "Cyclone Global Navigation Satellite System"
-  }, 
-  {
-    "abbreviation": "D&C", 
-    "source": "EGS", 
-    "expansion": "Design and Construction"
   }, 
   {
     "abbreviation": "D2S", 
@@ -134987,27 +134267,7 @@
   {
     "abbreviation": "DA", 
     "source": "EGS", 
-    "expansion": "Decision Authority"
-  }, 
-  {
-    "abbreviation": "DA", 
-    "source": "EGS", 
     "expansion": "Development Activity (typically used when discussing Non-Conformances)"
-  }, 
-  {
-    "abbreviation": "DAC", 
-    "source": "EGS", 
-    "expansion": "Design Analysis Cycle"
-  }, 
-  {
-    "abbreviation": "DACU", 
-    "source": "EGS", 
-    "expansion": "Data Acquisition and Control Unit"
-  }, 
-  {
-    "abbreviation": "DAR", 
-    "source": "EGS", 
-    "expansion": "Data at Rest"
   }, 
   {
     "abbreviation": "DAR", 
@@ -135020,31 +134280,6 @@
     "expansion": "Damage Assessment Recovery Team"
   }, 
   {
-    "abbreviation": "DAS", 
-    "source": "EGS", 
-    "expansion": "Data Acquisition System"
-  }, 
-  {
-    "abbreviation": "DAS", 
-    "source": "EGS", 
-    "expansion": "Distributed Antenna System"
-  }, 
-  {
-    "abbreviation": "DAVIS", 
-    "source": "EGS", 
-    "expansion": "Data Acquisition and Video Integrated System"
-  }, 
-  {
-    "abbreviation": "db", 
-    "source": "EGS", 
-    "expansion": "Database"
-  }, 
-  {
-    "abbreviation": "db", 
-    "source": "EGS", 
-    "expansion": "Decibel"
-  }, 
-  {
     "abbreviation": "DB", 
     "source": "EGS", 
     "expansion": "Design Burst"
@@ -135053,11 +134288,6 @@
     "abbreviation": "DBA", 
     "source": "EGS", 
     "expansion": "Detonation Booster Assembly"
-  }, 
-  {
-    "abbreviation": "DC", 
-    "source": "EGS", 
-    "expansion": "Direct Current"
   }, 
   {
     "abbreviation": "DCC", 
@@ -135083,16 +134313,6 @@
     "abbreviation": "DCMA", 
     "source": "EGS", 
     "expansion": "Defense Contract Management Agency "
-  }, 
-  {
-    "abbreviation": "DCN", 
-    "source": "EGS", 
-    "expansion": "Design Change Notice"
-  }, 
-  {
-    "abbreviation": "DCR", 
-    "source": "EGS", 
-    "expansion": "Design Certification Review"
   }, 
   {
     "abbreviation": "DCRB", 
@@ -135135,11 +134355,6 @@
     "expansion": "Document and Data Review"
   }, 
   {
-    "abbreviation": "DDT&E", 
-    "source": "EGS", 
-    "expansion": "Design, Development, Test, and Evaluation"
-  }, 
-  {
     "abbreviation": "DDU", 
     "source": "EGS", 
     "expansion": "Design Development Unit"
@@ -135160,24 +134375,9 @@
     "expansion": "Demo (Demonstration)"
   }, 
   {
-    "abbreviation": "DEM", 
-    "source": "EGS", 
-    "expansion": "Data Exchange Message"
-  }, 
-  {
-    "abbreviation": "DES", 
-    "source": "EGS", 
-    "expansion": "Discrete Event Simulation"
-  }, 
-  {
     "abbreviation": "Det3", 
     "source": "EGS", 
     "expansion": "Detachment 3, 45th Space Wing"
-  }, 
-  {
-    "abbreviation": "DFI", 
-    "source": "EGS", 
-    "expansion": "Developmental Flight Instrumentation"
   }, 
   {
     "abbreviation": "DFL", 
@@ -135185,19 +134385,9 @@
     "expansion": "Dry Film Lubricant"
   }, 
   {
-    "abbreviation": "DFRC", 
-    "source": "EGS", 
-    "expansion": "Dryden Flight Research Center"
-  }, 
-  {
     "abbreviation": "DFUM", 
     "source": "EGS", 
     "expansion": "Division Facility Utilization Manager"
-  }, 
-  {
-    "abbreviation": "DGA", 
-    "source": "EGS", 
-    "expansion": "Designated Governing Authority"
   }, 
   {
     "abbreviation": "DI-ITT", 
@@ -135215,29 +134405,9 @@
     "expansion": "Dynamic Integrated Rollout Testing"
   }, 
   {
-    "abbreviation": "DISA", 
-    "source": "EGS", 
-    "expansion": "Defense Information Systems Agency"
-  }, 
-  {
-    "abbreviation": "DM", 
-    "source": "EGS", 
-    "expansion": "Data Management"
-  }, 
-  {
-    "abbreviation": "DM", 
-    "source": "EGS", 
-    "expansion": "Descent Module"
-  }, 
-  {
     "abbreviation": "DMBOK", 
     "source": "EGS", 
     "expansion": "Data Management Body of Knowledge"
-  }, 
-  {
-    "abbreviation": "DMS", 
-    "source": "EGS", 
-    "expansion": "Database Management System"
   }, 
   {
     "abbreviation": "DMSMS", 
@@ -135255,24 +134425,9 @@
     "expansion": "Delta Operations Center"
   }, 
   {
-    "abbreviation": "DoD", 
-    "source": "EGS", 
-    "expansion": "Department of Defense"
-  }, 
-  {
-    "abbreviation": "DoDAF", 
-    "source": "EGS", 
-    "expansion": "Department of Defense Architecture Framework"
-  }, 
-  {
     "abbreviation": "DoD-H", 
     "source": "EGS", 
     "expansion": "Department of Defense Houston"
-  }, 
-  {
-    "abbreviation": "DOL", 
-    "source": "EGS", 
-    "expansion": "Day of Launch"
   }, 
   {
     "abbreviation": "DOLIAHT", 
@@ -135290,19 +134445,9 @@
     "expansion": "Dynamic Object-Oriented Requirements System"
   }, 
   {
-    "abbreviation": "DOT", 
-    "source": "EGS", 
-    "expansion": "Department of Transportation"
-  }, 
-  {
     "abbreviation": "DOT-SP", 
     "source": "EGS", 
     "expansion": "Department of Transportation Special Permit"
-  }, 
-  {
-    "abbreviation": "DP", 
-    "source": "EGS", 
-    "expansion": "Decision Package"
   }, 
   {
     "abbreviation": "DPI", 
@@ -135310,29 +134455,9 @@
     "expansion": "Data Pack Index"
   }, 
   {
-    "abbreviation": "DPM", 
-    "source": "EGS", 
-    "expansion": "Deputy Project Manager"
-  }, 
-  {
-    "abbreviation": "DPMC", 
-    "source": "EGS", 
-    "expansion": "Directorate Program Management Council"
-  }, 
-  {
-    "abbreviation": "DPS", 
-    "source": "EGS", 
-    "expansion": "Data Processing System"
-  }, 
-  {
     "abbreviation": "DQA", 
     "source": "EGS", 
     "expansion": "Documentation Quality Assurance"
-  }, 
-  {
-    "abbreviation": "DR", 
-    "source": "EGS", 
-    "expansion": "Decommissioning Review"
   }, 
   {
     "abbreviation": "DRA", 
@@ -135345,34 +134470,9 @@
     "expansion": "Director's Review Board"
   }, 
   {
-    "abbreviation": "DRD", 
-    "source": "EGS", 
-    "expansion": "Data Requirements Description"
-  }, 
-  {
-    "abbreviation": "DRL", 
-    "source": "EGS", 
-    "expansion": "Data Requirements List"
-  }, 
-  {
-    "abbreviation": "DRM", 
-    "source": "EGS", 
-    "expansion": "Design Reference Mission"
-  }, 
-  {
-    "abbreviation": "DRR", 
-    "source": "EGS", 
-    "expansion": "Disposal Readiness Review"
-  }, 
-  {
     "abbreviation": "DRT", 
     "source": "EGS", 
     "expansion": "Dynamic Rollout Test"
-  }, 
-  {
-    "abbreviation": "DRWP", 
-    "source": "EGS", 
-    "expansion": "Doppler Radar Wind Profiler"
   }, 
   {
     "abbreviation": "DSF", 
@@ -135383,21 +134483,6 @@
     "abbreviation": "DSG&T", 
     "source": "EGS", 
     "expansion": "Deep Space Gateway & Transport"
-  }, 
-  {
-    "abbreviation": "DSH", 
-    "source": "EGS", 
-    "expansion": "Deep Space Habitat"
-  }, 
-  {
-    "abbreviation": "DSN", 
-    "source": "EGS", 
-    "expansion": "Deep Space Network"
-  }, 
-  {
-    "abbreviation": "DSNE", 
-    "source": "EGS", 
-    "expansion": "Design Specification for Natural Environments"
   }, 
   {
     "abbreviation": "DSOC", 
@@ -135430,16 +134515,6 @@
     "expansion": "Detailed Validation Objective"
   }, 
   {
-    "abbreviation": "DVM", 
-    "source": "EGS", 
-    "expansion": "Design Verification Matrix"
-  }, 
-  {
-    "abbreviation": "DVO", 
-    "source": "EGS", 
-    "expansion": "Detailed Verification Objective"
-  }, 
-  {
     "abbreviation": "DVT", 
     "source": "EGS", 
     "expansion": "Data Verification Test"
@@ -135453,16 +134528,6 @@
     "abbreviation": "DW", 
     "source": "EGS", 
     "expansion": "Deviation Waiver"
-  }, 
-  {
-    "abbreviation": "E&I", 
-    "source": "EGS", 
-    "expansion": "Engineering and Integration"
-  }, 
-  {
-    "abbreviation": "E2E", 
-    "source": "EGS", 
-    "expansion": "End-to-End"
   }, 
   {
     "abbreviation": "E2E-C2", 
@@ -135480,21 +134545,6 @@
     "expansion": "End-to-End Command and Control"
   }, 
   {
-    "abbreviation": "E3", 
-    "source": "EGS", 
-    "expansion": "Electromagnetic Environmental Effects"
-  }, 
-  {
-    "abbreviation": "EA", 
-    "source": "EGS", 
-    "expansion": "Enterprise Architecture"
-  }, 
-  {
-    "abbreviation": "EA", 
-    "source": "EGS", 
-    "expansion": "Enterprise Architect"
-  }, 
-  {
     "abbreviation": "EAAU", 
     "source": "EGS", 
     "expansion": "EUS Aft Adapter Umbilical"
@@ -135505,16 +134555,6 @@
     "expansion": "Element Acceptance Review"
   }, 
   {
-    "abbreviation": "EAR", 
-    "source": "EGS", 
-    "expansion": "Export Administration Regulations"
-  }, 
-  {
-    "abbreviation": "EAST", 
-    "source": "EGS", 
-    "expansion": "Enterprise Applications Service Technologies"
-  }, 
-  {
     "abbreviation": "ECHI", 
     "source": "EGS", 
     "expansion": "Early Career Hire Initiative"
@@ -135523,21 +134563,6 @@
     "abbreviation": "ECIF", 
     "source": "EGS", 
     "expansion": "Exploration Collaborative Industry Forum"
-  }, 
-  {
-    "abbreviation": "ECLSS", 
-    "source": "EGS", 
-    "expansion": "Environmental Control and Life Support System"
-  }, 
-  {
-    "abbreviation": "ECMS", 
-    "source": "EGS", 
-    "expansion": "Enterprise Content Management System"
-  }, 
-  {
-    "abbreviation": "ECO", 
-    "source": "EGS", 
-    "expansion": "Engineering Change Order"
   }, 
   {
     "abbreviation": "ECO", 
@@ -135558,11 +134583,6 @@
     "abbreviation": "ECP", 
     "source": "EGS", 
     "expansion": "Engine Change-out Platform"
-  }, 
-  {
-    "abbreviation": "ECR", 
-    "source": "EGS", 
-    "expansion": "Engineering Change Request"
   }, 
   {
     "abbreviation": "ECS", 
@@ -135610,29 +134630,9 @@
     "expansion": "Engineering Drawing Tree"
   }, 
   {
-    "abbreviation": "EDU", 
-    "source": "EGS", 
-    "expansion": "Engineering Development Unit"
-  }, 
-  {
-    "abbreviation": "EEE", 
-    "source": "EGS", 
-    "expansion": "Electrical, Electronic, and Electromechanical"
-  }, 
-  {
     "abbreviation": "EEID", 
     "source": "EGS", 
     "expansion": "External Enclave Identifier"
-  }, 
-  {
-    "abbreviation": "EELV", 
-    "source": "EGS", 
-    "expansion": "Evolved Expendable Launch Vehicle"
-  }, 
-  {
-    "abbreviation": "EES", 
-    "source": "EGS", 
-    "expansion": "Emergency Egress System"
   }, 
   {
     "abbreviation": "EFAU", 
@@ -135640,19 +134640,9 @@
     "expansion": "EUS Forward Adapter Umbilical"
   }, 
   {
-    "abbreviation": "EFI", 
-    "source": "EGS", 
-    "expansion": "Engineering Flight Instrumentation"
-  }, 
-  {
     "abbreviation": "EFT", 
     "source": "EGS", 
     "expansion": "Early Flight Test"
-  }, 
-  {
-    "abbreviation": "EFT", 
-    "source": "EGS", 
-    "expansion": "Exploration Flight Test"
   }, 
   {
     "abbreviation": "EFT-1", 
@@ -135668,16 +134658,6 @@
     "abbreviation": "EGLS", 
     "source": "EGS", 
     "expansion": "Exploration Ground and Launch Services"
-  }, 
-  {
-    "abbreviation": "EGS", 
-    "source": "EGS", 
-    "expansion": "Exploration Ground Systems"
-  }, 
-  {
-    "abbreviation": "EGSE", 
-    "source": "EGS", 
-    "expansion": "Electrical Ground Support Equipment"
   }, 
   {
     "abbreviation": "EHM", 
@@ -135730,26 +134710,6 @@
     "expansion": "Emergency Life Support Apparatus"
   }, 
   {
-    "abbreviation": "ELV", 
-    "source": "EGS", 
-    "expansion": "Expendable Launch Vehicle"
-  }, 
-  {
-    "abbreviation": "ELVIS", 
-    "source": "EGS", 
-    "expansion": "Expendable Launch Vehicle Integrated Support"
-  }, 
-  {
-    "abbreviation": "EM", 
-    "source": "EGS", 
-    "expansion": "Electromagnetic"
-  }, 
-  {
-    "abbreviation": "EM", 
-    "source": "EGS", 
-    "expansion": "Exploration Mission"
-  }, 
-  {
     "abbreviation": "EM-1", 
     "source": "EGS", 
     "expansion": "Exploration Mission 1"
@@ -135762,22 +134722,7 @@
   {
     "abbreviation": "EMC", 
     "source": "EGS", 
-    "expansion": "Electromagnetic Compatibility"
-  }, 
-  {
-    "abbreviation": "EMC", 
-    "source": "EGS", 
     "expansion": "Emergency Management Coordinator"
-  }, 
-  {
-    "abbreviation": "EME", 
-    "source": "EGS", 
-    "expansion": "Electromagnetic Environment"
-  }, 
-  {
-    "abbreviation": "EMI", 
-    "source": "EGS", 
-    "expansion": "Electromagnetic Interference"
   }, 
   {
     "abbreviation": "EML", 
@@ -135790,24 +134735,9 @@
     "expansion": "Element Management Review"
   }, 
   {
-    "abbreviation": "EMS", 
-    "source": "EGS", 
-    "expansion": "Emergency Medical Services"
-  }, 
-  {
     "abbreviation": "EMSF", 
     "source": "EGS", 
     "expansion": "Emergency Safing"
-  }, 
-  {
-    "abbreviation": "EO", 
-    "source": "EGS", 
-    "expansion": "Engineering Order"
-  }, 
-  {
-    "abbreviation": "EOC", 
-    "source": "EGS", 
-    "expansion": "Emergency Operations Center"
   }, 
   {
     "abbreviation": "EOC", 
@@ -135840,16 +134770,6 @@
     "expansion": "Engineering Order To Follow"
   }, 
   {
-    "abbreviation": "EOY", 
-    "source": "EGS", 
-    "expansion": "End of Year"
-  }, 
-  {
-    "abbreviation": "EPACS", 
-    "source": "EGS", 
-    "expansion": "Enterprise Physical Access Control System"
-  }, 
-  {
     "abbreviation": "EPD", 
     "source": "EGS", 
     "expansion": "Emergency Procedures Document"
@@ -135875,29 +134795,14 @@
     "expansion": "Electronic Parts Reliability Database"
   }, 
   {
-    "abbreviation": "EPS", 
-    "source": "EGS", 
-    "expansion": "Electrical Power System"
-  }, 
-  {
     "abbreviation": "EPT", 
     "source": "EGS", 
     "expansion": "Engineering Process Team"
   }, 
   {
-    "abbreviation": "ER", 
-    "source": "EGS", 
-    "expansion": "Eastern Range"
-  }, 
-  {
     "abbreviation": "ER DT", 
     "source": "EGS", 
     "expansion": "Eastern Range Down Time"
-  }, 
-  {
-    "abbreviation": "ERB", 
-    "source": "EGS", 
-    "expansion": "Engineering Review Board"
   }, 
   {
     "abbreviation": "ERD", 
@@ -135910,24 +134815,9 @@
     "expansion": "Eastern Range Dispersion Assessment System"
   }, 
   {
-    "abbreviation": "ERIC", 
-    "source": "EGS", 
-    "expansion": "Exploration Requirements for Institutional Capabilities"
-  }, 
-  {
     "abbreviation": "ERT", 
     "source": "EGS", 
     "expansion": "Exploration Research and Technology"
-  }, 
-  {
-    "abbreviation": "ES", 
-    "source": "EGS", 
-    "expansion": "Engine Section"
-  }, 
-  {
-    "abbreviation": "ESA", 
-    "source": "EGS", 
-    "expansion": "European Space Agency"
   }, 
   {
     "abbreviation": "ESC", 
@@ -135938,21 +134828,6 @@
     "abbreviation": "ESD", 
     "source": "EGS", 
     "expansion": "Exploration Systems Development/Directorate/Division"
-  }, 
-  {
-    "abbreviation": "ESD", 
-    "source": "EGS", 
-    "expansion": "Enterprise Service Desk"
-  }, 
-  {
-    "abbreviation": "ESD", 
-    "source": "EGS", 
-    "expansion": "Electrostatic Discharge"
-  }, 
-  {
-    "abbreviation": "ESDIS", 
-    "source": "EGS", 
-    "expansion": "Earth Science Data and Information System"
   }, 
   {
     "abbreviation": "ESERB", 
@@ -135970,34 +134845,9 @@
     "expansion": "Exploration Systems Integration"
   }, 
   {
-    "abbreviation": "ESIS", 
-    "source": "EGS", 
-    "expansion": "Exploration Systems Integrated Schedule"
-  }, 
-  {
-    "abbreviation": "ESM", 
-    "source": "EGS", 
-    "expansion": "European Service Module"
-  }, 
-  {
     "abbreviation": "ESMAP", 
     "source": "EGS", 
     "expansion": "ESD Safety & Mission Assurance Panel"
-  }, 
-  {
-    "abbreviation": "ESMD", 
-    "source": "EGS", 
-    "expansion": "Exploration Systems Mission Directorate"
-  }, 
-  {
-    "abbreviation": "ESO", 
-    "source": "EGS", 
-    "expansion": "ESDIS Standards Office"
-  }, 
-  {
-    "abbreviation": "ESP", 
-    "source": "EGS", 
-    "expansion": "Engine Service Platform"
   }, 
   {
     "abbreviation": "ESPRIT", 
@@ -136005,29 +134855,14 @@
     "expansion": "European System Providing Refueling Infrastructure and Telecommunications"
   }, 
   {
-    "abbreviation": "ESR", 
-    "source": "EGS", 
-    "expansion": "Engineering Support Room"
-  }, 
-  {
     "abbreviation": "ESS", 
     "source": "EGS", 
     "expansion": "Electronic Surveillance System"
   }, 
   {
-    "abbreviation": "ET", 
-    "source": "EGS", 
-    "expansion": "External Tank"
-  }, 
-  {
     "abbreviation": "ETC", 
     "source": "EGS", 
     "expansion": "Estimate To Completion"
-  }, 
-  {
-    "abbreviation": "ETDP", 
-    "source": "EGS", 
-    "expansion": "Exploration Technology Development Program"
   }, 
   {
     "abbreviation": "ETI", 
@@ -136055,11 +134890,6 @@
     "expansion": "Ethernet Transmission System"
   }, 
   {
-    "abbreviation": "EUS", 
-    "source": "EGS", 
-    "expansion": "Exploration Upper Stage"
-  }, 
-  {
     "abbreviation": "EUSAAU", 
     "source": "EGS", 
     "expansion": "Exploration Upper Stage Aft Adapter Umbilical"
@@ -136075,29 +134905,9 @@
     "expansion": "Exploration Upper Stage Umbilical"
   }, 
   {
-    "abbreviation": "EV", 
-    "source": "EGS", 
-    "expansion": "Earned Value"
-  }, 
-  {
-    "abbreviation": "EVA", 
-    "source": "EGS", 
-    "expansion": "Extravehicular Activity"
-  }, 
-  {
     "abbreviation": "EVI", 
     "source": "EGS", 
     "expansion": "Engine Vertical Installer"
-  }, 
-  {
-    "abbreviation": "EVM", 
-    "source": "EGS", 
-    "expansion": "Earned Value Management"
-  }, 
-  {
-    "abbreviation": "EVMS", 
-    "source": "EGS", 
-    "expansion": "Earned Value Management System"
   }, 
   {
     "abbreviation": "EVS", 
@@ -136110,11 +134920,6 @@
     "expansion": "Extended Work Week"
   }, 
   {
-    "abbreviation": "EXORD", 
-    "source": "EGS", 
-    "expansion": "Executive Order"
-  }, 
-  {
     "abbreviation": "F2F", 
     "source": "EGS", 
     "expansion": "Face-to-Face"
@@ -136125,19 +134930,9 @@
     "expansion": "Functional Analysis"
   }, 
   {
-    "abbreviation": "FAD", 
-    "source": "EGS", 
-    "expansion": "Formulation Authorization Document"
-  }, 
-  {
     "abbreviation": "FAQ", 
     "source": "EGS", 
     "expansion": "Frequently Asked Question"
-  }, 
-  {
-    "abbreviation": "FAR", 
-    "source": "EGS", 
-    "expansion": "Federal Acquisition Regulation"
   }, 
   {
     "abbreviation": "FAST", 
@@ -136145,44 +134940,14 @@
     "expansion": "Final Assembly Test"
   }, 
   {
-    "abbreviation": "FAT", 
-    "source": "EGS", 
-    "expansion": "Factory Acceptance Test"
-  }, 
-  {
     "abbreviation": "FBAIR", 
     "source": "EGS", 
     "expansion": "Facility Breathing Air"
   }, 
   {
-    "abbreviation": "FBC", 
-    "source": "EGS", 
-    "expansion": "Forward Bay Cover"
-  }, 
-  {
-    "abbreviation": "FC", 
-    "source": "EGS", 
-    "expansion": "Flight Computer"
-  }, 
-  {
-    "abbreviation": "FCA", 
-    "source": "EGS", 
-    "expansion": "Functional Configuration Audit"
-  }, 
-  {
     "abbreviation": "FCA", 
     "source": "EGS", 
     "expansion": "Flow Control Assembly "
-  }, 
-  {
-    "abbreviation": "FCM", 
-    "source": "EGS", 
-    "expansion": "Flight Control Module"
-  }, 
-  {
-    "abbreviation": "FCOD", 
-    "source": "EGS", 
-    "expansion": "Flight Crew Operations Directorate"
   }, 
   {
     "abbreviation": "FCOG", 
@@ -136200,29 +134965,14 @@
     "expansion": "Flame Deflector"
   }, 
   {
-    "abbreviation": "FDIR", 
-    "source": "EGS", 
-    "expansion": "Fault Detection, Isolation, and Recovery"
-  }, 
-  {
     "abbreviation": "FDMM", 
     "source": "EGS", 
     "expansion": "Fault Management Design Data"
   }, 
   {
-    "abbreviation": "FDS", 
-    "source": "EGS", 
-    "expansion": "Fire Detection System"
-  }, 
-  {
     "abbreviation": "FEC", 
     "source": "EGS", 
     "expansion": "Florida East Coast Railroad "
-  }, 
-  {
-    "abbreviation": "FEC", 
-    "source": "EGS", 
-    "expansion": "Field Engineering Change"
   }, 
   {
     "abbreviation": "FED", 
@@ -136233,16 +134983,6 @@
     "abbreviation": "FEIT", 
     "source": "EGS", 
     "expansion": "Flight Element Integration Test"
-  }, 
-  {
-    "abbreviation": "FEM", 
-    "source": "EGS", 
-    "expansion": "Finite Element Model"
-  }, 
-  {
-    "abbreviation": "FEU", 
-    "source": "EGS", 
-    "expansion": "Flight Equivalent Unit"
   }, 
   {
     "abbreviation": "FF", 
@@ -136290,19 +135030,9 @@
     "expansion": "Flight Integration Engineer"
   }, 
   {
-    "abbreviation": "FIT", 
-    "source": "EGS", 
-    "expansion": "Florida Institute of Technology"
-  }, 
-  {
     "abbreviation": "FIU", 
     "source": "EGS", 
     "expansion": "Florida International University"
-  }, 
-  {
-    "abbreviation": "FJPS", 
-    "source": "EGS", 
-    "expansion": "Field Joint Protection System"
   }, 
   {
     "abbreviation": "FLC", 
@@ -136325,19 +135055,9 @@
     "expansion": "Florida Launch and Range Complex"
   }, 
   {
-    "abbreviation": "Flt", 
-    "source": "EGS", 
-    "expansion": "Flight"
-  }, 
-  {
     "abbreviation": "FMB", 
     "source": "EGS", 
     "expansion": "Facility Management Board"
-  }, 
-  {
-    "abbreviation": "FMEA", 
-    "source": "EGS", 
-    "expansion": "Failure Mode and Effects Analysis"
   }, 
   {
     "abbreviation": "FN", 
@@ -136348,21 +135068,6 @@
     "abbreviation": "FOC", 
     "source": "EGS", 
     "expansion": "Functional Operational Capability"
-  }, 
-  {
-    "abbreviation": "FOD", 
-    "source": "EGS", 
-    "expansion": "Foreign Object Debris"
-  }, 
-  {
-    "abbreviation": "FOD", 
-    "source": "EGS", 
-    "expansion": "Flight Operations Directorate"
-  }, 
-  {
-    "abbreviation": "FoM", 
-    "source": "EGS", 
-    "expansion": "Figure of Merit"
   }, 
   {
     "abbreviation": "FOTL", 
@@ -136420,24 +135125,9 @@
     "expansion": "Failure Reporting, Analysis, and Corrective Action System"
   }, 
   {
-    "abbreviation": "FRCB", 
-    "source": "EGS", 
-    "expansion": "Flight Rules Control Board"
-  }, 
-  {
     "abbreviation": "FRD", 
     "source": "EGS", 
     "expansion": "Facility Relationship Drawing"
-  }, 
-  {
-    "abbreviation": "FRF", 
-    "source": "EGS", 
-    "expansion": "Flight Readiness Firing"
-  }, 
-  {
-    "abbreviation": "FRR", 
-    "source": "EGS", 
-    "expansion": "Flight Readiness Review"
   }, 
   {
     "abbreviation": "FRR", 
@@ -136445,19 +135135,9 @@
     "expansion": "Facility Readiness Review"
   }, 
   {
-    "abbreviation": "FRT", 
-    "source": "EGS", 
-    "expansion": "Flight Readiness Test"
-  }, 
-  {
     "abbreviation": "FR-X-R", 
     "source": "EGS", 
     "expansion": "Firing Room \u201cX\u201d Redundant Set"
-  }, 
-  {
-    "abbreviation": "FS", 
-    "source": "EGS", 
-    "expansion": "First Stage"
   }, 
   {
     "abbreviation": "FS&OI", 
@@ -136495,54 +135175,14 @@
     "expansion": "Flight Safety Systems"
   }, 
   {
-    "abbreviation": "FSS", 
-    "source": "EGS", 
-    "expansion": "Fire Suppression System"
-  }, 
-  {
     "abbreviation": "FSSWG", 
     "source": "EGS", 
     "expansion": "Flight Safety Systems Working Group"
   }, 
   {
-    "abbreviation": "FSW", 
-    "source": "EGS", 
-    "expansion": "Flight Software"
-  }, 
-  {
-    "abbreviation": "FT", 
-    "source": "EGS", 
-    "expansion": "Flight Test"
-  }, 
-  {
-    "abbreviation": "ft.", 
-    "source": "EGS", 
-    "expansion": "feet"
-  }, 
-  {
-    "abbreviation": "FTA", 
-    "source": "EGS", 
-    "expansion": "Flight Test Article"
-  }, 
-  {
     "abbreviation": "FTE", 
     "source": "EGS", 
     "expansion": "Full Time Equivalent (ex., a civil servant employee)"
-  }, 
-  {
-    "abbreviation": "FTMO", 
-    "source": "EGS", 
-    "expansion": "Flight Test Management Office"
-  }, 
-  {
-    "abbreviation": "FTP", 
-    "source": "EGS", 
-    "expansion": "File Transfer Protocol"
-  }, 
-  {
-    "abbreviation": "FTS", 
-    "source": "EGS", 
-    "expansion": "Flight Termination System"
   }, 
   {
     "abbreviation": "FTSR", 
@@ -136555,11 +135195,6 @@
     "expansion": "Foward"
   }, 
   {
-    "abbreviation": "FY", 
-    "source": "EGS", 
-    "expansion": "Fiscal Year"
-  }, 
-  {
     "abbreviation": "G2F", 
     "source": "EGS", 
     "expansion": "Ground to Flight"
@@ -136568,11 +135203,6 @@
     "abbreviation": "GAHLE", 
     "source": "EGS", 
     "expansion": "GSDO Advanced Hardware LCS Emulator"
-  }, 
-  {
-    "abbreviation": "GAO", 
-    "source": "EGS", 
-    "expansion": "Government Accountability Office"
   }, 
   {
     "abbreviation": "GCA", 
@@ -136615,11 +135245,6 @@
     "expansion": "Ground and Flight Application Software Team"
   }, 
   {
-    "abbreviation": "GFE", 
-    "source": "EGS", 
-    "expansion": "Government-Furnished Equipment"
-  }, 
-  {
     "abbreviation": "GFRC", 
     "source": "EGS", 
     "expansion": "Goddard Flight Research Center"
@@ -136628,16 +135253,6 @@
     "abbreviation": "GFTS", 
     "source": "EGS", 
     "expansion": "Ground Functional Test Set"
-  }, 
-  {
-    "abbreviation": "GFY", 
-    "source": "EGS", 
-    "expansion": "Government Fiscal Year"
-  }, 
-  {
-    "abbreviation": "GH2", 
-    "source": "EGS", 
-    "expansion": "Gaseous Hydrogen"
   }, 
   {
     "abbreviation": "GHe", 
@@ -136677,17 +135292,7 @@
   {
     "abbreviation": "GIS", 
     "source": "EGS", 
-    "expansion": "Geographic Information System"
-  }, 
-  {
-    "abbreviation": "GIS", 
-    "source": "EGS", 
     "expansion": "Ground Integrated Schematic"
-  }, 
-  {
-    "abbreviation": "GLS", 
-    "source": "EGS", 
-    "expansion": "Ground Launch Sequencer"
   }, 
   {
     "abbreviation": "GMaCC", 
@@ -136700,11 +135305,6 @@
     "expansion": "GNU Image Manipulation Program"
   }, 
   {
-    "abbreviation": "GMIP", 
-    "source": "EGS", 
-    "expansion": "Government Mandatory Inspection Point"
-  }, 
-  {
     "abbreviation": "GMPS", 
     "source": "EGS", 
     "expansion": "Ground Main Propulsion System"
@@ -136715,11 +135315,6 @@
     "expansion": "Ground Network"
   }, 
   {
-    "abbreviation": "GN&C", 
-    "source": "EGS", 
-    "expansion": "Guidance, Navigation, and Control"
-  }, 
-  {
     "abbreviation": "GN2", 
     "source": "EGS", 
     "expansion": "gaseous nitrogen"
@@ -136728,11 +135323,6 @@
     "abbreviation": "GNCP", 
     "source": "EGS", 
     "expansion": "Guidance Navigation Control Propulsion"
-  }, 
-  {
-    "abbreviation": "GO", 
-    "source": "EGS", 
-    "expansion": "Ground Operations"
   }, 
   {
     "abbreviation": "GO2", 
@@ -136800,16 +135390,6 @@
     "expansion": "Ground Operations Timeline Analysis Report"
   }, 
   {
-    "abbreviation": "GOX", 
-    "source": "EGS", 
-    "expansion": "gaseous oxygen"
-  }, 
-  {
-    "abbreviation": "GP", 
-    "source": "EGS", 
-    "expansion": "Ground Processing"
-  }, 
-  {
     "abbreviation": "GPAS", 
     "source": "EGS", 
     "expansion": "GSDO Program Analysis Schedule"
@@ -136830,11 +135410,6 @@
     "expansion": "gallons per minute"
   }, 
   {
-    "abbreviation": "GPS", 
-    "source": "EGS", 
-    "expansion": "Global Positioning System"
-  }, 
-  {
     "abbreviation": "GPTU", 
     "source": "EGS", 
     "expansion": "General Propellant Tank Unit"
@@ -136845,16 +135420,6 @@
     "expansion": "Ground Processing Unit"
   }, 
   {
-    "abbreviation": "GR&A", 
-    "source": "EGS", 
-    "expansion": "Ground Rules and Assumptions"
-  }, 
-  {
-    "abbreviation": "GRC", 
-    "source": "EGS", 
-    "expansion": "Glenn Research Center"
-  }, 
-  {
     "abbreviation": "GRUBBS", 
     "source": "EGS", 
     "expansion": "Ground Recorder Utility core BaseBand System"
@@ -136862,22 +135427,7 @@
   {
     "abbreviation": "GS", 
     "source": "EGS", 
-    "expansion": "Ground Support"
-  }, 
-  {
-    "abbreviation": "GS", 
-    "source": "EGS", 
     "expansion": "Ground Systems"
-  }, 
-  {
-    "abbreviation": "GSA", 
-    "source": "EGS", 
-    "expansion": "General Services Administration"
-  }, 
-  {
-    "abbreviation": "GSC", 
-    "source": "EGS", 
-    "expansion": "Garvey Spacecraft Corporation"
   }, 
   {
     "abbreviation": "GSCB", 
@@ -136885,19 +135435,9 @@
     "expansion": "Ground Systems Control Board"
   }, 
   {
-    "abbreviation": "GSDO", 
-    "source": "EGS", 
-    "expansion": "Ground Systems Development and Operations"
-  }, 
-  {
     "abbreviation": "GSDOP", 
     "source": "EGS", 
     "expansion": "GSDO Program"
-  }, 
-  {
-    "abbreviation": "GSE", 
-    "source": "EGS", 
-    "expansion": "Ground Support Equipment"
   }, 
   {
     "abbreviation": "GSEDb", 
@@ -136918,11 +135458,6 @@
     "abbreviation": "GSEP", 
     "source": "EGS", 
     "expansion": "Ground Support Equipment Panel"
-  }, 
-  {
-    "abbreviation": "GSFC", 
-    "source": "EGS", 
-    "expansion": "Goddard Space Flight Center"
   }, 
   {
     "abbreviation": "GSI", 
@@ -136965,19 +135500,9 @@
     "expansion": "Ground Systems Program Planning and Development"
   }, 
   {
-    "abbreviation": "GSS", 
-    "source": "EGS", 
-    "expansion": "Ground Support System"
-  }, 
-  {
     "abbreviation": "GSTC", 
     "source": "EGS", 
     "expansion": "Ground Systems Test Conductor"
-  }, 
-  {
-    "abbreviation": "GTA", 
-    "source": "EGS", 
-    "expansion": "Ground Test Article"
   }, 
   {
     "abbreviation": "GTM", 
@@ -136985,34 +135510,9 @@
     "expansion": "Ground Test Monitor"
   }, 
   {
-    "abbreviation": "GUI", 
-    "source": "EGS", 
-    "expansion": "Graphical User Interface"
-  }, 
-  {
-    "abbreviation": "GW", 
-    "source": "EGS", 
-    "expansion": "Gateway"
-  }, 
-  {
     "abbreviation": "H&A", 
     "source": "EGS", 
     "expansion": "Handling and Access"
-  }, 
-  {
-    "abbreviation": "H&S", 
-    "source": "EGS", 
-    "expansion": "Health and Status"
-  }, 
-  {
-    "abbreviation": "H/W", 
-    "source": "EGS", 
-    "expansion": "Hardware"
-  }, 
-  {
-    "abbreviation": "HA", 
-    "source": "EGS", 
-    "expansion": "Hazard Analysis"
   }, 
   {
     "abbreviation": "HAASP", 
@@ -137033,11 +135533,6 @@
     "abbreviation": "HAZMAT", 
     "source": "EGS", 
     "expansion": "Hazardous Material"
-  }, 
-  {
-    "abbreviation": "HB", 
-    "source": "EGS", 
-    "expansion": "High Bay"
   }, 
   {
     "abbreviation": "HB-1", 
@@ -137080,39 +135575,9 @@
     "expansion": "Hydraulic Control Unit"
   }, 
   {
-    "abbreviation": "HD", 
-    "source": "EGS", 
-    "expansion": "High Definition"
-  }, 
-  {
-    "abbreviation": "HDMI", 
-    "source": "EGS", 
-    "expansion": "High-Definition Multimedia Interface"
-  }, 
-  {
     "abbreviation": "HEC", 
     "source": "EGS", 
     "expansion": "Human Exploration Capability"
-  }, 
-  {
-    "abbreviation": "HEFT", 
-    "source": "EGS", 
-    "expansion": "Human Exploration Framework Team"
-  }, 
-  {
-    "abbreviation": "HEO", 
-    "source": "EGS", 
-    "expansion": "High Earth Orbit"
-  }, 
-  {
-    "abbreviation": "HEO", 
-    "source": "EGS", 
-    "expansion": "Human Exploration and Operations"
-  }, 
-  {
-    "abbreviation": "HEO MD (formerly SOMD and ESMD)", 
-    "source": "EGS", 
-    "expansion": "Human Exploration and Operations Mission Directorate"
   }, 
   {
     "abbreviation": "HEOMD", 
@@ -137125,34 +135590,14 @@
     "expansion": "Hardware Extension Remote"
   }, 
   {
-    "abbreviation": "HERA", 
-    "source": "EGS", 
-    "expansion": "Hybrid Electronic Radiation Assessor"
-  }, 
-  {
-    "abbreviation": "HERSP", 
-    "source": "EGS", 
-    "expansion": "Human Exploration Range Safety Panel"
-  }, 
-  {
     "abbreviation": "HETA", 
     "source": "EGS", 
     "expansion": "High Energy Test Area"
   }, 
   {
-    "abbreviation": "HEX", 
-    "source": "EGS", 
-    "expansion": "Heat Exchanger"
-  }, 
-  {
     "abbreviation": "HFC", 
     "source": "EGS", 
     "expansion": "Hydro fluorocarbon"
-  }, 
-  {
-    "abbreviation": "HFE", 
-    "source": "EGS", 
-    "expansion": "Human Factors Engineering"
   }, 
   {
     "abbreviation": "HFEA", 
@@ -137170,19 +135615,9 @@
     "expansion": "Hazardous Gas Leak Detection System"
   }, 
   {
-    "abbreviation": "HIF", 
-    "source": "EGS", 
-    "expansion": "Horizontal Integration Facility"
-  }, 
-  {
     "abbreviation": "HIS", 
     "source": "EGS", 
     "expansion": "Hardware Interface Structure "
-  }, 
-  {
-    "abbreviation": "HITL", 
-    "source": "EGS", 
-    "expansion": "Human In The Loop"
   }, 
   {
     "abbreviation": "HL&PT", 
@@ -137190,29 +135625,14 @@
     "expansion": "Heavy Lift and Propulsion Technology"
   }, 
   {
-    "abbreviation": "HLO", 
-    "source": "EGS", 
-    "expansion": "High Lunar Orbit"
-  }, 
-  {
     "abbreviation": "HLOC", 
     "source": "EGS", 
     "expansion": "High Level Operational Capability"
   }, 
   {
-    "abbreviation": "HLR", 
-    "source": "EGS", 
-    "expansion": "Human Lunar Return"
-  }, 
-  {
     "abbreviation": "HLV", 
     "source": "EGS", 
     "expansion": "Heavy Lift Vehicle"
-  }, 
-  {
-    "abbreviation": "HMF", 
-    "source": "EGS", 
-    "expansion": "Hypergolic Maintenance Facility"
   }, 
   {
     "abbreviation": "HMN", 
@@ -137225,49 +135645,9 @@
     "expansion": "Health & Medical Technical Authority"
   }, 
   {
-    "abbreviation": "HOSC", 
-    "source": "EGS", 
-    "expansion": "Huntsville Operations Support Center"
-  }, 
-  {
-    "abbreviation": "HOTH", 
-    "source": "EGS", 
-    "expansion": "Houston Orion Test Hardware"
-  }, 
-  {
-    "abbreviation": "HP", 
-    "source": "EGS", 
-    "expansion": "High Pressure"
-  }, 
-  {
     "abbreviation": "HP", 
     "source": "EGS", 
     "expansion": "Hewett Packard"
-  }, 
-  {
-    "abbreviation": "HPG", 
-    "source": "EGS", 
-    "expansion": "High Pressure Gas"
-  }, 
-  {
-    "abbreviation": "HPU", 
-    "source": "EGS", 
-    "expansion": "Hydraulic Power Unit"
-  }, 
-  {
-    "abbreviation": "HPUC", 
-    "source": "EGS", 
-    "expansion": "Hydraulic Power Unit Controller"
-  }, 
-  {
-    "abbreviation": "HQ", 
-    "source": "EGS", 
-    "expansion": "Headquarters"
-  }, 
-  {
-    "abbreviation": "HR", 
-    "source": "EGS", 
-    "expansion": "Hazard Report"
   }, 
   {
     "abbreviation": "HSART", 
@@ -137278,11 +135658,6 @@
     "abbreviation": "HSEP", 
     "source": "EGS", 
     "expansion": "Health Safety Envionmental Procedure"
-  }, 
-  {
-    "abbreviation": "HSFS", 
-    "source": "EGS", 
-    "expansion": "Human Space Flight Support"
   }, 
   {
     "abbreviation": "HSIR", 
@@ -137300,11 +135675,6 @@
     "expansion": "Hyper Text Markup Language"
   }, 
   {
-    "abbreviation": "HVAC", 
-    "source": "EGS", 
-    "expansion": "Heating, Ventilation, and Air Conditioning"
-  }, 
-  {
     "abbreviation": "HVDS", 
     "source": "EGS", 
     "expansion": "Hazardous Vapor Detection System "
@@ -137315,44 +135685,9 @@
     "expansion": "Hazardous Vapor Detection System"
   }, 
   {
-    "abbreviation": "HW", 
-    "source": "EGS", 
-    "expansion": "Hardware"
-  }, 
-  {
-    "abbreviation": "HWCI", 
-    "source": "EGS", 
-    "expansion": "Hardware Configuration Item"
-  }, 
-  {
-    "abbreviation": "HYD", 
-    "source": "EGS", 
-    "expansion": "Hydraulic"
-  }, 
-  {
     "abbreviation": "Hypers", 
     "source": "EGS", 
     "expansion": "Hypergolics"
-  }, 
-  {
-    "abbreviation": "Hz", 
-    "source": "EGS", 
-    "expansion": "Hertz"
-  }, 
-  {
-    "abbreviation": "I/F", 
-    "source": "EGS", 
-    "expansion": "Interface"
-  }, 
-  {
-    "abbreviation": "I3P", 
-    "source": "EGS", 
-    "expansion": "IT Infrastructure Integration Program"
-  }, 
-  {
-    "abbreviation": "IA", 
-    "source": "EGS", 
-    "expansion": "Information Architecture"
   }, 
   {
     "abbreviation": "IA&S", 
@@ -137380,11 +135715,6 @@
     "expansion": "Integrated Avionics Software"
   }, 
   {
-    "abbreviation": "IAS", 
-    "source": "EGS", 
-    "expansion": "Information Architecture"
-  }, 
-  {
     "abbreviation": "IAT", 
     "source": "EGS", 
     "expansion": "Independent Assessment Team"
@@ -137410,11 +135740,6 @@
     "expansion": "Incident Commander"
   }, 
   {
-    "abbreviation": "ICA", 
-    "source": "EGS", 
-    "expansion": "Independent Cost Analysis"
-  }, 
-  {
     "abbreviation": "ICAN", 
     "source": "EGS", 
     "expansion": "Integrated Communications and Network"
@@ -137427,11 +135752,6 @@
   {
     "abbreviation": "ICAT", 
     "source": "EGS", 
-    "expansion": "Integrated Change Assessment Team"
-  }, 
-  {
-    "abbreviation": "ICAT", 
-    "source": "EGS", 
     "expansion": "INCA Commanding and Telemetry"
   }, 
   {
@@ -137440,19 +135760,9 @@
     "expansion": "IPT Critical Capability Assessment"
   }, 
   {
-    "abbreviation": "ICD", 
-    "source": "EGS", 
-    "expansion": "Interface Control Document"
-  }, 
-  {
     "abbreviation": "ICDMWG", 
     "source": "EGS", 
     "expansion": "Information Configuration and Data Management Working Group"
-  }, 
-  {
-    "abbreviation": "ICE", 
-    "source": "EGS", 
-    "expansion": "Integrated Collaborative Environment"
   }, 
   {
     "abbreviation": "ICE", 
@@ -137465,11 +135775,6 @@
     "expansion": "Integrated Collaborative Environment-Enhanced"
   }, 
   {
-    "abbreviation": "ICM", 
-    "source": "EGS", 
-    "expansion": "Information and Configuration Management"
-  }, 
-  {
     "abbreviation": "ICMC", 
     "source": "EGS", 
     "expansion": "Integrated Center Management Council"
@@ -137478,11 +135783,6 @@
     "abbreviation": "ICMP", 
     "source": "EGS", 
     "expansion": "Information and Configuration Management Plan"
-  }, 
-  {
-    "abbreviation": "ICMP", 
-    "source": "EGS", 
-    "expansion": "Internet Control Message Protocol"
   }, 
   {
     "abbreviation": "ICMWG", 
@@ -137495,24 +135795,9 @@
     "expansion": "Interface Control Panel"
   }, 
   {
-    "abbreviation": "ICPS", 
-    "source": "EGS", 
-    "expansion": "Interim Cryogenic Propulsion Stage"
-  }, 
-  {
-    "abbreviation": "ICPSU", 
-    "source": "EGS", 
-    "expansion": "Interim Cryogenic Propulsion Stage Umbilical"
-  }, 
-  {
     "abbreviation": "ICR", 
     "source": "EGS", 
     "expansion": "IPT Critical Review"
-  }, 
-  {
-    "abbreviation": "ID", 
-    "source": "EGS", 
-    "expansion": "Identifier"
   }, 
   {
     "abbreviation": "IDA", 
@@ -137535,11 +135820,6 @@
     "expansion": "Integrated Design Definition Document"
   }, 
   {
-    "abbreviation": "IDE", 
-    "source": "EGS", 
-    "expansion": "Integrated Development Environment"
-  }, 
-  {
     "abbreviation": "IDIQ", 
     "source": "EGS", 
     "expansion": "Indefinite Delivery Indefinite Quantity"
@@ -137560,19 +135840,9 @@
     "expansion": "Infrastructure and Environmental Element"
   }, 
   {
-    "abbreviation": "IEEE", 
-    "source": "EGS", 
-    "expansion": "Institute of Electrical and Electronics Engineers"
-  }, 
-  {
     "abbreviation": "IERB", 
     "source": "EGS", 
     "expansion": "Integrated Engineering Review Board"
-  }, 
-  {
-    "abbreviation": "IF", 
-    "source": "EGS", 
-    "expansion": "Interface"
   }, 
   {
     "abbreviation": "IFA", 
@@ -137588,21 +135858,6 @@
     "abbreviation": "IFC", 
     "source": "EGS", 
     "expansion": "Initiator Firing Circuit (see also FIC)"
-  }, 
-  {
-    "abbreviation": "IG", 
-    "source": "EGS", 
-    "expansion": "Inspector General"
-  }, 
-  {
-    "abbreviation": "IGCE", 
-    "source": "EGS", 
-    "expansion": "Independent Government Cost Estimate"
-  }, 
-  {
-    "abbreviation": "IHA", 
-    "source": "EGS", 
-    "expansion": "Integrated Hazard Analysis"
   }, 
   {
     "abbreviation": "IHM", 
@@ -137645,16 +135900,6 @@
     "expansion": "Integrated Launch Operations Application"
   }, 
   {
-    "abbreviation": "ILS", 
-    "source": "EGS", 
-    "expansion": "Integrated Logistics Support"
-  }, 
-  {
-    "abbreviation": "ILSP", 
-    "source": "EGS", 
-    "expansion": "Integrated Logistics Support Plan"
-  }, 
-  {
     "abbreviation": "IM", 
     "source": "EGS", 
     "expansion": "Information Management"
@@ -137685,29 +135930,9 @@
     "expansion": "Information Management and Communications Support (Contract)"
   }, 
   {
-    "abbreviation": "IMP", 
-    "source": "EGS", 
-    "expansion": "Integrated Master Plan"
-  }, 
-  {
     "abbreviation": "IMR", 
     "source": "EGS", 
     "expansion": "IPT Monthly Review"
-  }, 
-  {
-    "abbreviation": "IMS", 
-    "source": "EGS", 
-    "expansion": "Information Management System"
-  }, 
-  {
-    "abbreviation": "IMS", 
-    "source": "EGS", 
-    "expansion": "Integrated Master Schedule"
-  }, 
-  {
-    "abbreviation": "IMU", 
-    "source": "EGS", 
-    "expansion": "Inertial Measurement Unit"
   }, 
   {
     "abbreviation": "IMWG", 
@@ -137715,19 +135940,9 @@
     "expansion": "Information Management Working Group"
   }, 
   {
-    "abbreviation": "INCA", 
-    "source": "EGS", 
-    "expansion": "Inertial Navigation and Control Assembly"
-  }, 
-  {
     "abbreviation": "Institutional Design Certification Review", 
     "source": "EGS", 
     "expansion": "IDCR"
-  }, 
-  {
-    "abbreviation": "INT", 
-    "source": "EGS", 
-    "expansion": "Integration"
   }, 
   {
     "abbreviation": "Int. Ops.", 
@@ -137738,11 +135953,6 @@
     "abbreviation": "INWORK", 
     "source": "EGS", 
     "expansion": "Supplier has requirement under review"
-  }, 
-  {
-    "abbreviation": "IOC", 
-    "source": "EGS", 
-    "expansion": "Initial Operational Capability"
   }, 
   {
     "abbreviation": "IOM", 
@@ -137770,16 +135980,6 @@
     "expansion": "Industrial Operational Zone"
   }, 
   {
-    "abbreviation": "IP", 
-    "source": "EGS", 
-    "expansion": "Internet Protocol"
-  }, 
-  {
-    "abbreviation": "IPAO", 
-    "source": "EGS", 
-    "expansion": "Independent Program Assessment Office"
-  }, 
-  {
     "abbreviation": "IPCA", 
     "source": "EGS", 
     "expansion": "IPT Preliminary Capability Assessment"
@@ -137800,19 +136000,9 @@
     "expansion": "Integrated Program Planning and Control Integration Team"
   }, 
   {
-    "abbreviation": "IPL", 
-    "source": "EGS", 
-    "expansion": "Indentured Parts List"
-  }, 
-  {
     "abbreviation": "IPPD", 
     "source": "EGS", 
     "expansion": "Integrated Product Process Development"
-  }, 
-  {
-    "abbreviation": "IPR", 
-    "source": "EGS", 
-    "expansion": "In-Process Review"
   }, 
   {
     "abbreviation": "IPR", 
@@ -137828,16 +136018,6 @@
     "abbreviation": "IPSC", 
     "source": "EGS", 
     "expansion": "Interim Protective Services Contract"
-  }, 
-  {
-    "abbreviation": "IPT", 
-    "source": "EGS", 
-    "expansion": "Integrated Product Team"
-  }, 
-  {
-    "abbreviation": "IR", 
-    "source": "EGS", 
-    "expansion": "Infrared"
   }, 
   {
     "abbreviation": "IR", 
@@ -137860,11 +136040,6 @@
     "expansion": "Internal Refrigeration System"
   }, 
   {
-    "abbreviation": "IRD", 
-    "source": "EGS", 
-    "expansion": "Interface Requirements Document"
-  }, 
-  {
     "abbreviation": "IRIG", 
     "source": "EGS", 
     "expansion": "Inter Range Instrumentation Group"
@@ -137873,11 +136048,6 @@
     "abbreviation": "IRIS", 
     "source": "EGS", 
     "expansion": "Infrared Instrumentation System"
-  }, 
-  {
-    "abbreviation": "IRIS", 
-    "source": "EGS", 
-    "expansion": "Incident Reporting Information System"
   }, 
   {
     "abbreviation": "IRN", 
@@ -137893,16 +136063,6 @@
     "abbreviation": "IRT", 
     "source": "EGS", 
     "expansion": "Integrated Review Team"
-  }, 
-  {
-    "abbreviation": "IRT", 
-    "source": "EGS", 
-    "expansion": "Interim Response Team"
-  }, 
-  {
-    "abbreviation": "IRT", 
-    "source": "EGS", 
-    "expansion": "Independent Review Team"
   }, 
   {
     "abbreviation": "IRWG", 
@@ -137925,19 +136085,9 @@
     "expansion": "Ignition/Staging Controller"
   }, 
   {
-    "abbreviation": "ISO", 
-    "source": "EGS", 
-    "expansion": "Information Systems Office"
-  }, 
-  {
     "abbreviation": "ISP", 
     "source": "EGS", 
     "expansion": "Information Systems Panel"
-  }, 
-  {
-    "abbreviation": "ISP", 
-    "source": "EGS", 
-    "expansion": "Internet Service Provider"
   }, 
   {
     "abbreviation": "ISPE", 
@@ -137948,11 +136098,6 @@
     "abbreviation": "ISR", 
     "source": "EGS", 
     "expansion": "Information Support Request"
-  }, 
-  {
-    "abbreviation": "ISS", 
-    "source": "EGS", 
-    "expansion": "International Space Station"
   }, 
   {
     "abbreviation": "ISSI", 
@@ -137975,24 +136120,9 @@
     "expansion": "Integrated Schedule Working Group"
   }, 
   {
-    "abbreviation": "IT", 
-    "source": "EGS", 
-    "expansion": "Information Technology"
-  }, 
-  {
     "abbreviation": "IT&CO", 
     "source": "EGS", 
     "expansion": "Integrated Test and Checkout"
-  }, 
-  {
-    "abbreviation": "ITA", 
-    "source": "EGS", 
-    "expansion": "Internal Task Agreement"
-  }, 
-  {
-    "abbreviation": "ITAR", 
-    "source": "EGS", 
-    "expansion": "International Traffic in Arms Regulations"
   }, 
   {
     "abbreviation": "ITCO", 
@@ -138060,11 +136190,6 @@
     "expansion": "Integration/Transition Working Group"
   }, 
   {
-    "abbreviation": "IV&V", 
-    "source": "EGS", 
-    "expansion": "Independent Verification and Validation"
-  }, 
-  {
     "abbreviation": "IVDD", 
     "source": "EGS", 
     "expansion": "Integrated Vehicle Design Document"
@@ -138080,29 +136205,14 @@
     "expansion": "Integrated Vehicle Testing"
   }, 
   {
-    "abbreviation": "IVT", 
-    "source": "EGS", 
-    "expansion": "Interface Verification Test"
-  }, 
-  {
     "abbreviation": "IWC", 
     "source": "EGS", 
     "expansion": "Integrated Work Center"
   }, 
   {
-    "abbreviation": "JARSS", 
-    "source": "EGS", 
-    "expansion": "Joint Advanced Range Safety System"
-  }, 
-  {
     "abbreviation": "JAXA", 
     "source": "EGS", 
     "expansion": "Japenese Aerospace Exploration Agency"
-  }, 
-  {
-    "abbreviation": "JCL", 
-    "source": "EGS", 
-    "expansion": "Joint Confidence Level"
   }, 
   {
     "abbreviation": "JDMTA", 
@@ -138118,11 +136228,6 @@
     "abbreviation": "JETI", 
     "source": "EGS", 
     "expansion": "Joint Engineering Team for Imagery"
-  }, 
-  {
-    "abbreviation": "JICB", 
-    "source": "EGS", 
-    "expansion": "Joint Integration Control Board"
   }, 
   {
     "abbreviation": "JIS", 
@@ -138155,11 +136260,6 @@
     "expansion": "Joint Operating Procedure"
   }, 
   {
-    "abbreviation": "JPCB", 
-    "source": "EGS", 
-    "expansion": "Joint Program Control Board"
-  }, 
-  {
     "abbreviation": "jpcb", 
     "source": "EGS", 
     "expansion": "Extensible Markup Language [XML] Telemetric and Command Exchange"
@@ -138175,19 +136275,9 @@
     "expansion": "Jet Propulsion Lab"
   }, 
   {
-    "abbreviation": "JPSS-1", 
-    "source": "EGS", 
-    "expansion": "Joint Polar Satellite System"
-  }, 
-  {
     "abbreviation": "JRPS", 
     "source": "EGS", 
     "expansion": "JSOG Responsible Processing Site "
-  }, 
-  {
-    "abbreviation": "JSC", 
-    "source": "EGS", 
-    "expansion": "Johnson Space Center"
   }, 
   {
     "abbreviation": "JSOG", 
@@ -138250,16 +136340,6 @@
     "expansion": "Kennedy Documented Procedures"
   }, 
   {
-    "abbreviation": "KDP", 
-    "source": "EGS", 
-    "expansion": "Key Decision Point"
-  }, 
-  {
-    "abbreviation": "KEA", 
-    "source": "EGS", 
-    "expansion": "Kennedy Engineering Academy"
-  }, 
-  {
     "abbreviation": "KEDS", 
     "source": "EGS", 
     "expansion": "KSC Engineering Documentation System"
@@ -138320,11 +136400,6 @@
     "expansion": "Kilometers"
   }, 
   {
-    "abbreviation": "KM", 
-    "source": "EGS", 
-    "expansion": "Knowledge Management"
-  }, 
-  {
     "abbreviation": "KNDP", 
     "source": "EGS", 
     "expansion": "Kennedy NASA Documented Procedure"
@@ -138365,11 +136440,6 @@
     "expansion": "Kennedy Propellant and Life Support Services"
   }, 
   {
-    "abbreviation": "KPP", 
-    "source": "EGS", 
-    "expansion": "Key Performance Parameters"
-  }, 
-  {
     "abbreviation": "KPR", 
     "source": "EGS", 
     "expansion": "Key Project Reviews"
@@ -138383,16 +136453,6 @@
     "abbreviation": "KPSC", 
     "source": "EGS", 
     "expansion": "Kennedy Protective Services Contract"
-  }, 
-  {
-    "abbreviation": "KSC", 
-    "source": "EGS", 
-    "expansion": "Kennedy Space Center"
-  }, 
-  {
-    "abbreviation": "KSCNF", 
-    "source": "EGS", 
-    "expansion": "Kennedy Space Center News Facility"
   }, 
   {
     "abbreviation": "KSCRD", 
@@ -138415,11 +136475,6 @@
     "expansion": "Kennedy SharePoint Users Group"
   }, 
   {
-    "abbreviation": "KTI", 
-    "source": "EGS", 
-    "expansion": "Kennedy Technical Instruction"
-  }, 
-  {
     "abbreviation": "KTM", 
     "source": "EGS", 
     "expansion": "Kineto Tracker Mount"
@@ -138428,11 +136483,6 @@
     "abbreviation": "KTPS", 
     "source": "EGS", 
     "expansion": "Kennedy Telemetry Processing System"
-  }, 
-  {
-    "abbreviation": "KTS", 
-    "source": "EGS", 
-    "expansion": "Kennedy Tracking Station"
   }, 
   {
     "abbreviation": "KUS", 
@@ -138450,44 +136500,9 @@
     "expansion": "Left/Right"
   }, 
   {
-    "abbreviation": "L/V", 
-    "source": "EGS", 
-    "expansion": "Launch Vehicle"
-  }, 
-  {
-    "abbreviation": "LACB", 
-    "source": "EGS", 
-    "expansion": "Landing Aids Control Building"
-  }, 
-  {
     "abbreviation": "LACC", 
     "source": "EGS", 
     "expansion": "Launch ACCessories"
-  }, 
-  {
-    "abbreviation": "LaRC", 
-    "source": "EGS", 
-    "expansion": "Langley Research Center"
-  }, 
-  {
-    "abbreviation": "LAS", 
-    "source": "EGS", 
-    "expansion": "Launch Abort System"
-  }, 
-  {
-    "abbreviation": "LASF", 
-    "source": "EGS", 
-    "expansion": "Launch Abort System Facility"
-  }, 
-  {
-    "abbreviation": "LASSO ", 
-    "source": "EGS", 
-    "expansion": "Laboratory Support Services and Operations"
-  }, 
-  {
-    "abbreviation": "LAVA", 
-    "source": "EGS", 
-    "expansion": "Lunar Advanced Volatile Analysis"
   }, 
   {
     "abbreviation": "lb./lbs.", 
@@ -138497,22 +136512,7 @@
   {
     "abbreviation": "LC", 
     "source": "EGS", 
-    "expansion": "Launch Complex"
-  }, 
-  {
-    "abbreviation": "LC", 
-    "source": "EGS", 
     "expansion": "Lucent Connector"
-  }, 
-  {
-    "abbreviation": "LCC", 
-    "source": "EGS", 
-    "expansion": "Launch Commit Criteria"
-  }, 
-  {
-    "abbreviation": "LCC", 
-    "source": "EGS", 
-    "expansion": "Launch Control Center"
   }, 
   {
     "abbreviation": "LCCP", 
@@ -138545,16 +136545,6 @@
     "expansion": "Life Cycle Review"
   }, 
   {
-    "abbreviation": "LCRSP", 
-    "source": "EGS", 
-    "expansion": "Launch Constellation Range Safety Panel"
-  }, 
-  {
-    "abbreviation": "LCS", 
-    "source": "EGS", 
-    "expansion": "Launch Control System"
-  }, 
-  {
     "abbreviation": "LCSA", 
     "source": "EGS", 
     "expansion": "Launch Control System Architecture"
@@ -138585,24 +136575,9 @@
     "expansion": "Lead Design Engineer"
   }, 
   {
-    "abbreviation": "LDR", 
-    "source": "EGS", 
-    "expansion": "Low Data Rate"
-  }, 
-  {
     "abbreviation": "LDS", 
     "source": "EGS", 
     "expansion": "LCS Development Set "
-  }, 
-  {
-    "abbreviation": "LEED", 
-    "source": "EGS", 
-    "expansion": "Leadership in Energy and Environmental Design"
-  }, 
-  {
-    "abbreviation": "LEO", 
-    "source": "EGS", 
-    "expansion": "Low Earth Orbit"
   }, 
   {
     "abbreviation": "LEO", 
@@ -138620,29 +136595,14 @@
     "expansion": "Launch Enterprise Transformation"
   }, 
   {
-    "abbreviation": "LETF", 
-    "source": "EGS", 
-    "expansion": "Launch Equipment Test Facility"
-  }, 
-  {
     "abbreviation": "LETFE", 
     "source": "EGS", 
     "expansion": "Launch Equipment Test Facility EIT"
   }, 
   {
-    "abbreviation": "LH", 
-    "source": "EGS", 
-    "expansion": "Left Hand"
-  }, 
-  {
     "abbreviation": "LH2", 
     "source": "EGS", 
     "expansion": "liquid hydrogen"
-  }, 
-  {
-    "abbreviation": "LiDAR", 
-    "source": "EGS", 
-    "expansion": "Light Detection and Ranging"
   }, 
   {
     "abbreviation": "LI-ITT", 
@@ -138670,11 +136630,6 @@
     "expansion": "Line Load Attenuation Mechanism Assembly"
   }, 
   {
-    "abbreviation": "LLCC", 
-    "source": "EGS", 
-    "expansion": "Lightning Launch Commit Criteria"
-  }, 
-  {
     "abbreviation": "LLIL", 
     "source": "EGS", 
     "expansion": "Long Lead Items List"
@@ -138690,11 +136645,6 @@
     "expansion": "Lunar Lander Project Office"
   }, 
   {
-    "abbreviation": "LM", 
-    "source": "EGS", 
-    "expansion": "Lockheed Martin"
-  }, 
-  {
     "abbreviation": "LMF", 
     "source": "EGS", 
     "expansion": "Lunar Manufacturing Facility"
@@ -138703,11 +136653,6 @@
     "abbreviation": "LMI", 
     "source": "EGS", 
     "expansion": "Logistics Management Information"
-  }, 
-  {
-    "abbreviation": "LMS", 
-    "source": "EGS", 
-    "expansion": "Learning Management System"
   }, 
   {
     "abbreviation": "LMS", 
@@ -138725,19 +136670,9 @@
     "expansion": "liquid oxygen"
   }, 
   {
-    "abbreviation": "LOE", 
-    "source": "EGS", 
-    "expansion": "Level of Effort"
-  }, 
-  {
     "abbreviation": "LOLI", 
     "source": "EGS", 
     "expansion": "Limited Operational Life Items"
-  }, 
-  {
-    "abbreviation": "LORA", 
-    "source": "EGS", 
-    "expansion": "Level of Repair Analysis"
   }, 
   {
     "abbreviation": "LOSC", 
@@ -138745,39 +136680,14 @@
     "expansion": "Launch Operations Support Contract"
   }, 
   {
-    "abbreviation": "LOX", 
-    "source": "EGS", 
-    "expansion": "liquid oxygen"
-  }, 
-  {
     "abbreviation": "LPD", 
     "source": "EGS", 
     "expansion": "Landing Platform Dock"
   }, 
   {
-    "abbreviation": "LPE", 
-    "source": "EGS", 
-    "expansion": "Launch Pad Element"
-  }, 
-  {
-    "abbreviation": "LPF", 
-    "source": "EGS", 
-    "expansion": "LAS Processing Facility"
-  }, 
-  {
     "abbreviation": "LPLWS", 
     "source": "EGS", 
     "expansion": "Launch Pad Lightning Warning System"
-  }, 
-  {
-    "abbreviation": "LPS", 
-    "source": "EGS", 
-    "expansion": "Launch Processing System"
-  }, 
-  {
-    "abbreviation": "LPS", 
-    "source": "EGS", 
-    "expansion": "Lightning Protection System"
   }, 
   {
     "abbreviation": "LRB", 
@@ -138825,11 +136735,6 @@
     "expansion": "Lifecycle Support Analysis"
   }, 
   {
-    "abbreviation": "LSA", 
-    "source": "EGS", 
-    "expansion": "Logistics Support Analysis"
-  }, 
-  {
     "abbreviation": "LSAIB", 
     "source": "EGS", 
     "expansion": "Launch Site Assembly & Integration Baseline"
@@ -138838,11 +136743,6 @@
     "abbreviation": "LSAP", 
     "source": "EGS", 
     "expansion": "Logistics Support Analysis Plan"
-  }, 
-  {
-    "abbreviation": "LSAR", 
-    "source": "EGS", 
-    "expansion": "Logistics Support Analysis Record"
   }, 
   {
     "abbreviation": "LSIE", 
@@ -138870,11 +136770,6 @@
     "expansion": "Launch Site Integrated Test and Checkout"
   }, 
   {
-    "abbreviation": "LSP", 
-    "source": "EGS", 
-    "expansion": "Launch Services Program"
-  }, 
-  {
     "abbreviation": "LSPRT", 
     "source": "EGS", 
     "expansion": "Launch Site Process Review Team"
@@ -138883,11 +136778,6 @@
     "abbreviation": "LSS", 
     "source": "EGS", 
     "expansion": "Liquid Sensor System"
-  }, 
-  {
-    "abbreviation": "LSSP", 
-    "source": "EGS", 
-    "expansion": "Launch Site Support Plan"
   }, 
   {
     "abbreviation": "LSSRD", 
@@ -138913,11 +136803,6 @@
     "abbreviation": "LTT", 
     "source": "EGS", 
     "expansion": "Launch Team Training"
-  }, 
-  {
-    "abbreviation": "LV", 
-    "source": "EGS", 
-    "expansion": "Launch Vehicle"
   }, 
   {
     "abbreviation": "LVOPE", 
@@ -138950,29 +136835,14 @@
     "expansion": "KSC LX Organization"
   }, 
   {
-    "abbreviation": "M&S", 
-    "source": "EGS", 
-    "expansion": "Models and Simulations"
-  }, 
-  {
     "abbreviation": "MACL", 
     "source": "EGS", 
     "expansion": "Master Assets and Capabilities List"
   }, 
   {
-    "abbreviation": "MAF", 
-    "source": "EGS", 
-    "expansion": "Michoud Assembly Facility"
-  }, 
-  {
     "abbreviation": "MAP", 
     "source": "EGS", 
     "expansion": "Material and Process"
-  }, 
-  {
-    "abbreviation": "MARAD", 
-    "source": "EGS", 
-    "expansion": "Maritime Administration"
   }, 
   {
     "abbreviation": "MARSS", 
@@ -138985,24 +136855,9 @@
     "expansion": "Meteorological and Atmospheric Real-time Safety Support"
   }, 
   {
-    "abbreviation": "MATA", 
-    "source": "EGS", 
-    "expansion": "Motor Adapter Truss Assembly"
-  }, 
-  {
-    "abbreviation": "MBSE", 
-    "source": "EGS", 
-    "expansion": "Model-Based Systems Engineering"
-  }, 
-  {
     "abbreviation": "MBUU", 
     "source": "EGS", 
     "expansion": "Mid Body Umbilical Unit"
-  }, 
-  {
-    "abbreviation": "MCC", 
-    "source": "EGS", 
-    "expansion": "Mission Control Center"
   }, 
   {
     "abbreviation": "MCE", 
@@ -139017,11 +136872,6 @@
   {
     "abbreviation": "MCR", 
     "source": "EGS", 
-    "expansion": "Mission Concept Review"
-  }, 
-  {
-    "abbreviation": "MCR", 
-    "source": "EGS", 
     "expansion": "Master Change Request/Record ? Mission Concept Review"
   }, 
   {
@@ -139030,54 +136880,9 @@
     "expansion": "Milestone Change Request"
   }, 
   {
-    "abbreviation": "MCR", 
-    "source": "EGS", 
-    "expansion": "Mid-Course Radar"
-  }, 
-  {
-    "abbreviation": "MD", 
-    "source": "EGS", 
-    "expansion": "Management Directive"
-  }, 
-  {
-    "abbreviation": "MD", 
-    "source": "EGS", 
-    "expansion": "Mission Directorate"
-  }, 
-  {
-    "abbreviation": "MDA", 
-    "source": "EGS", 
-    "expansion": "Missile Defense Agency"
-  }, 
-  {
-    "abbreviation": "MDA", 
-    "source": "EGS", 
-    "expansion": "Manufacturing Demonstration Article"
-  }, 
-  {
-    "abbreviation": "MDAU", 
-    "source": "EGS", 
-    "expansion": "Master Data Acquisition Unit"
-  }, 
-  {
-    "abbreviation": "MDD", 
-    "source": "EGS", 
-    "expansion": "Mate/Demate Device"
-  }, 
-  {
     "abbreviation": "MDI", 
     "source": "EGS", 
     "expansion": "Mission Dependency Index"
-  }, 
-  {
-    "abbreviation": "MDR", 
-    "source": "EGS", 
-    "expansion": "Mission Definition Review"
-  }, 
-  {
-    "abbreviation": "MDR", 
-    "source": "EGS", 
-    "expansion": "Medium Data Rate"
   }, 
   {
     "abbreviation": "MDS", 
@@ -139085,29 +136890,9 @@
     "expansion": "Mail Delivery Services"
   }, 
   {
-    "abbreviation": "ME", 
-    "source": "EGS", 
-    "expansion": "Main Engine"
-  }, 
-  {
-    "abbreviation": "Mech", 
-    "source": "EGS", 
-    "expansion": "Mechanical"
-  }, 
-  {
     "abbreviation": "MEI", 
     "source": "EGS", 
     "expansion": "Millennium Engineering and Integration"
-  }, 
-  {
-    "abbreviation": "MEIT", 
-    "source": "EGS", 
-    "expansion": "Multi-Element Integrated Test"
-  }, 
-  {
-    "abbreviation": "MER", 
-    "source": "EGS", 
-    "expansion": "Mission Evaluation Room"
   }, 
   {
     "abbreviation": "MESC", 
@@ -139145,24 +136930,9 @@
     "expansion": "Master Facilities List"
   }, 
   {
-    "abbreviation": "MFV", 
-    "source": "EGS", 
-    "expansion": "Main Fuel Valve"
-  }, 
-  {
     "abbreviation": "MGSE", 
     "source": "EGS", 
     "expansion": "Mechanical Ground Systems Equipment"
-  }, 
-  {
-    "abbreviation": "MHz", 
-    "source": "EGS", 
-    "expansion": "Megahertz"
-  }, 
-  {
-    "abbreviation": "MIDDS", 
-    "source": "EGS", 
-    "expansion": "Meteorological Interactive Data Display System"
   }, 
   {
     "abbreviation": "MIF", 
@@ -139175,19 +136945,9 @@
     "expansion": "Mobile Intercept Ground Optical Recording System"
   }, 
   {
-    "abbreviation": "Mil", 
-    "source": "EGS", 
-    "expansion": "Military"
-  }, 
-  {
     "abbreviation": "MIL", 
     "source": "EGS", 
     "expansion": "Master Interface List"
-  }, 
-  {
-    "abbreviation": "MILA", 
-    "source": "EGS", 
-    "expansion": "Merritt Island Launch Annex"
   }, 
   {
     "abbreviation": "MILCON", 
@@ -139205,26 +136965,6 @@
     "expansion": "Mandatory Inspection Point "
   }, 
   {
-    "abbreviation": "MIPR", 
-    "source": "EGS", 
-    "expansion": "Military Interdepartmental Purchase Request"
-  }, 
-  {
-    "abbreviation": "MIR", 
-    "source": "EGS", 
-    "expansion": "Mission Integration Review"
-  }, 
-  {
-    "abbreviation": "MIT", 
-    "source": "EGS", 
-    "expansion": "Massachusetts Institute of Technology"
-  }, 
-  {
-    "abbreviation": "ML", 
-    "source": "EGS", 
-    "expansion": "Mobile Launcher"
-  }, 
-  {
     "abbreviation": "ML-1", 
     "source": "EGS", 
     "expansion": "Mobile Launcher 1"
@@ -139235,19 +136975,9 @@
     "expansion": "Mobile Launch Base"
   }, 
   {
-    "abbreviation": "MLE", 
-    "source": "EGS", 
-    "expansion": "Mobile Launch Element"
-  }, 
-  {
     "abbreviation": "MLHA", 
     "source": "EGS", 
     "expansion": "Mobile Launcher Handling and Access"
-  }, 
-  {
-    "abbreviation": "MLP", 
-    "source": "EGS", 
-    "expansion": "Mobile Launch Platform"
   }, 
   {
     "abbreviation": "MLS", 
@@ -139265,44 +136995,9 @@
     "expansion": "Maximum Mean Condition"
   }, 
   {
-    "abbreviation": "MMH", 
-    "source": "EGS", 
-    "expansion": "Monomethylhydrazine"
-  }, 
-  {
-    "abbreviation": "MMT", 
-    "source": "EGS", 
-    "expansion": "Mission Management Team"
-  }, 
-  {
-    "abbreviation": "MOA", 
-    "source": "EGS", 
-    "expansion": "Memorandum of Agreement"
-  }, 
-  {
-    "abbreviation": "MOC", 
-    "source": "EGS", 
-    "expansion": "Mission Operations Center"
-  }, 
-  {
     "abbreviation": "MOC", 
     "source": "EGS", 
     "expansion": "Morrell Operations Center"
-  }, 
-  {
-    "abbreviation": "MOD", 
-    "source": "EGS", 
-    "expansion": "Mission Operations Directorate"
-  }, 
-  {
-    "abbreviation": "MOP", 
-    "source": "EGS", 
-    "expansion": "Measure of Performance"
-  }, 
-  {
-    "abbreviation": "MOR", 
-    "source": "EGS", 
-    "expansion": "Mission Operations Review"
   }, 
   {
     "abbreviation": "MOR", 
@@ -139315,29 +137010,9 @@
     "expansion": "Multiple-Object Tracking Radar"
   }, 
   {
-    "abbreviation": "MOU", 
-    "source": "EGS", 
-    "expansion": "Memorandum of Understanding"
-  }, 
-  {
     "abbreviation": "MOVE", 
     "source": "EGS", 
     "expansion": "Mission Operational Voice Enhancement"
-  }, 
-  {
-    "abbreviation": "MPCB", 
-    "source": "EGS", 
-    "expansion": "MPCV Program Control Board"
-  }, 
-  {
-    "abbreviation": "MPCP", 
-    "source": "EGS", 
-    "expansion": "Mishap Preparedness and Contingency Plan"
-  }, 
-  {
-    "abbreviation": "MPCV", 
-    "source": "EGS", 
-    "expansion": "Multi-Purpose Crew Vehicle"
   }, 
   {
     "abbreviation": "MPDI", 
@@ -139350,11 +137025,6 @@
     "expansion": "Multi-Purpose Logistics Module"
   }, 
   {
-    "abbreviation": "MPPF", 
-    "source": "EGS", 
-    "expansion": "Multi-Payload Processing Facility"
-  }, 
-  {
     "abbreviation": "MPPU", 
     "source": "EGS", 
     "expansion": "Mini Portable Purge Unit"
@@ -139365,16 +137035,6 @@
     "expansion": "Military (inter-departmental) Project Request"
   }, 
   {
-    "abbreviation": "MPR", 
-    "source": "EGS", 
-    "expansion": "Monthly Program Review"
-  }, 
-  {
-    "abbreviation": "MPS", 
-    "source": "EGS", 
-    "expansion": "Main Propulsion System"
-  }, 
-  {
     "abbreviation": "MPS", 
     "source": "EGS", 
     "expansion": "Manifest Planning Sync"
@@ -139383,16 +137043,6 @@
     "abbreviation": "MPSF", 
     "source": "EGS", 
     "expansion": "Multi-Purpose Storage Facility"
-  }, 
-  {
-    "abbreviation": "MPSR", 
-    "source": "EGS", 
-    "expansion": "Monthly Program Status Review"
-  }, 
-  {
-    "abbreviation": "MR", 
-    "source": "EGS", 
-    "expansion": "Material Review"
   }, 
   {
     "abbreviation": "MRAP", 
@@ -139413,11 +137063,6 @@
     "abbreviation": "MRL", 
     "source": "EGS", 
     "expansion": "Mandatory Reviewer Listing"
-  }, 
-  {
-    "abbreviation": "MRR", 
-    "source": "EGS", 
-    "expansion": "Mission Readiness Review"
   }, 
   {
     "abbreviation": "MRTU", 
@@ -139455,24 +137100,9 @@
     "expansion": "Modeling and Simulation Control Panel"
   }, 
   {
-    "abbreviation": "MSDS", 
-    "source": "EGS", 
-    "expansion": "Material Safety Data Sheet"
-  }, 
-  {
-    "abbreviation": "MSFC", 
-    "source": "EGS", 
-    "expansion": "Marshall Space Flight Center"
-  }, 
-  {
     "abbreviation": "MSIR", 
     "source": "EGS", 
     "expansion": "Mission Support Integration Review"
-  }, 
-  {
-    "abbreviation": "MSL", 
-    "source": "EGS", 
-    "expansion": "Mars Science Laboratory"
   }, 
   {
     "abbreviation": "MSL", 
@@ -139493,21 +137123,6 @@
     "abbreviation": "MSRB", 
     "source": "EGS", 
     "expansion": "Mission-Specific Requirements Baseline"
-  }, 
-  {
-    "abbreviation": "MSRD", 
-    "source": "EGS", 
-    "expansion": "Mission Systems Requirements Document"
-  }, 
-  {
-    "abbreviation": "MTA", 
-    "source": "EGS", 
-    "expansion": "Maintenance Task Analysis"
-  }, 
-  {
-    "abbreviation": "MTBF", 
-    "source": "EGS", 
-    "expansion": "Mean Time Between Failures"
   }, 
   {
     "abbreviation": "MTO", 
@@ -139535,19 +137150,9 @@
     "expansion": "Master Verification and Validation Planning Database"
   }, 
   {
-    "abbreviation": "N/A", 
-    "source": "EGS", 
-    "expansion": "Not Applicable"
-  }, 
-  {
     "abbreviation": "N2H4", 
     "source": "EGS", 
     "expansion": "hydrazine"
-  }, 
-  {
-    "abbreviation": "N2H4", 
-    "source": "EGS", 
-    "expansion": "Hydrazine"
   }, 
   {
     "abbreviation": "N2O4", 
@@ -139555,29 +137160,9 @@
     "expansion": "dinitrogen tetroxide"
   }, 
   {
-    "abbreviation": "N2O4", 
-    "source": "EGS", 
-    "expansion": "Nitrogen Tetroxide"
-  }, 
-  {
-    "abbreviation": "NAMS", 
-    "source": "EGS", 
-    "expansion": "NASA Access Management System"
-  }, 
-  {
     "abbreviation": "NARA", 
     "source": "EGS", 
     "expansion": "National Archive and Records Administration"
-  }, 
-  {
-    "abbreviation": "NASA", 
-    "source": "EGS", 
-    "expansion": "National Aeronautics and Space Administration"
-  }, 
-  {
-    "abbreviation": "NBL", 
-    "source": "EGS", 
-    "expansion": "Neutral Buoyancy Laboratory"
   }, 
   {
     "abbreviation": "NBSD", 
@@ -139585,24 +137170,9 @@
     "expansion": "Naval Base San Diego"
   }, 
   {
-    "abbreviation": "NC", 
-    "source": "EGS", 
-    "expansion": "Non-Conformance"
-  }, 
-  {
-    "abbreviation": "NDA", 
-    "source": "EGS", 
-    "expansion": "Non-Disclosure Agreement"
-  }, 
-  {
     "abbreviation": "NDAF", 
     "source": "EGS", 
     "expansion": "NASA Data Architecture Framework"
-  }, 
-  {
-    "abbreviation": "NDC", 
-    "source": "EGS", 
-    "expansion": "NASA Data Center"
   }, 
   {
     "abbreviation": "NDE", 
@@ -139640,24 +137210,9 @@
     "expansion": "Near Earth Network"
   }, 
   {
-    "abbreviation": "NEN", 
-    "source": "EGS", 
-    "expansion": "NASA Engineering Network"
-  }, 
-  {
-    "abbreviation": "NEPA", 
-    "source": "EGS", 
-    "expansion": "National Environmental Policy Act"
-  }, 
-  {
     "abbreviation": "NFPA", 
     "source": "EGS", 
     "expansion": "National Fire Protection Agency"
-  }, 
-  {
-    "abbreviation": "NFS", 
-    "source": "EGS", 
-    "expansion": "NASA FAR Supplement"
   }, 
   {
     "abbreviation": "NG", 
@@ -139685,19 +137240,9 @@
     "expansion": "Non-Interference Basis"
   }, 
   {
-    "abbreviation": "NIC", 
-    "source": "EGS", 
-    "expansion": "Network Integration Center"
-  }, 
-  {
     "abbreviation": "NICS", 
     "source": "EGS", 
     "expansion": "NASA Integrated Communications Services"
-  }, 
-  {
-    "abbreviation": "NID", 
-    "source": "EGS", 
-    "expansion": "NASA Interim Directive"
   }, 
   {
     "abbreviation": "NIPR", 
@@ -139705,34 +137250,9 @@
     "expansion": "NASA Interagency Purchase Request"
   }, 
   {
-    "abbreviation": "NISN", 
-    "source": "EGS", 
-    "expansion": "NASA Integrated Services Network"
-  }, 
-  {
-    "abbreviation": "NLDN", 
-    "source": "EGS", 
-    "expansion": "National Lightning Detection Network"
-  }, 
-  {
     "abbreviation": "NMA", 
     "source": "EGS", 
     "expansion": "National Management Association"
-  }, 
-  {
-    "abbreviation": "NMIS", 
-    "source": "EGS", 
-    "expansion": "NASA Mishap Information System"
-  }, 
-  {
-    "abbreviation": "NOA", 
-    "source": "EGS", 
-    "expansion": "Notice of Availability"
-  }, 
-  {
-    "abbreviation": "NOA", 
-    "source": "EGS", 
-    "expansion": "New Obligation Authority"
   }, 
   {
     "abbreviation": "NOACK", 
@@ -139743,11 +137263,6 @@
     "abbreviation": "NOCMT", 
     "source": "EGS", 
     "expansion": "Requirements have not been committed"
-  }, 
-  {
-    "abbreviation": "NODIS", 
-    "source": "EGS", 
-    "expansion": "NASA Online Directives Information System"
   }, 
   {
     "abbreviation": "NOM", 
@@ -139765,11 +137280,6 @@
     "expansion": "Support requirement cannot be met"
   }, 
   {
-    "abbreviation": "NPD", 
-    "source": "EGS", 
-    "expansion": "NASA Policy Directive"
-  }, 
-  {
     "abbreviation": "NPI", 
     "source": "EGS", 
     "expansion": "Number of Parts Installed"
@@ -139778,11 +137288,6 @@
     "abbreviation": "NPR", 
     "source": "EGS", 
     "expansion": "NASA Procedural Requirements"
-  }, 
-  {
-    "abbreviation": "NPRD", 
-    "source": "EGS", 
-    "expansion": "Network Program Requirements Document"
   }, 
   {
     "abbreviation": "N-PROP", 
@@ -139815,36 +137320,6 @@
     "expansion": "Naval Station"
   }, 
   {
-    "abbreviation": "NSA", 
-    "source": "EGS", 
-    "expansion": "National Security Agency"
-  }, 
-  {
-    "abbreviation": "NSI", 
-    "source": "EGS", 
-    "expansion": "NASA Standard Initiator"
-  }, 
-  {
-    "abbreviation": "NSLD", 
-    "source": "EGS", 
-    "expansion": "NASA Shuttle Logistics Depot"
-  }, 
-  {
-    "abbreviation": "NSRS", 
-    "source": "EGS", 
-    "expansion": "NASA Safety Reporting System"
-  }, 
-  {
-    "abbreviation": "NSSC", 
-    "source": "EGS", 
-    "expansion": "NASA Shared Services Center"
-  }, 
-  {
-    "abbreviation": "NSSD", 
-    "source": "EGS", 
-    "expansion": "NASA Spacecraft Services Depot"
-  }, 
-  {
     "abbreviation": "NSWC", 
     "source": "EGS", 
     "expansion": "Naval Surface Warfare Center"
@@ -139855,34 +137330,9 @@
     "expansion": "NASA Technical Categories (Capabilities) ???"
   }, 
   {
-    "abbreviation": "NTD", 
-    "source": "EGS", 
-    "expansion": "NASA Test Director"
-  }, 
-  {
-    "abbreviation": "NTP", 
-    "source": "EGS", 
-    "expansion": "Notice to Proceed"
-  }, 
-  {
-    "abbreviation": "NTSB", 
-    "source": "EGS", 
-    "expansion": "National Transportation Safety Board"
-  }, 
-  {
     "abbreviation": "O&C", 
     "source": "EGS", 
     "expansion": "Operations and Checkout "
-  }, 
-  {
-    "abbreviation": "O&M", 
-    "source": "EGS", 
-    "expansion": "Operations and Maintenance"
-  }, 
-  {
-    "abbreviation": "O2", 
-    "source": "EGS", 
-    "expansion": "Oxygen"
   }, 
   {
     "abbreviation": "OA", 
@@ -139900,41 +137350,6 @@
     "expansion": "Obligation"
   }, 
   {
-    "abbreviation": "OBE", 
-    "source": "EGS", 
-    "expansion": "Overcome By Events"
-  }, 
-  {
-    "abbreviation": "OBS", 
-    "source": "EGS", 
-    "expansion": "Organizational Breakdown Structure"
-  }, 
-  {
-    "abbreviation": "OCD", 
-    "source": "EGS", 
-    "expansion": "Operations Concept Document"
-  }, 
-  {
-    "abbreviation": "OCE", 
-    "source": "EGS", 
-    "expansion": "Office of the Chief Engineer"
-  }, 
-  {
-    "abbreviation": "OCFO", 
-    "source": "EGS", 
-    "expansion": "Office of the Chief Financial Officer"
-  }, 
-  {
-    "abbreviation": "OCI", 
-    "source": "EGS", 
-    "expansion": "Organizational Conflict of Interest"
-  }, 
-  {
-    "abbreviation": "OCP", 
-    "source": "EGS", 
-    "expansion": "Operations Control Panel"
-  }, 
-  {
     "abbreviation": "OCT", 
     "source": "EGS", 
     "expansion": "Office of Chief Technologist"
@@ -139948,11 +137363,6 @@
     "abbreviation": "OD", 
     "source": "EGS", 
     "expansion": "Operational Data"
-  }, 
-  {
-    "abbreviation": "ODC", 
-    "source": "EGS", 
-    "expansion": "Other Direct Costs"
   }, 
   {
     "abbreviation": "ODC", 
@@ -139975,11 +137385,6 @@
     "expansion": "Organizational Development Team"
   }, 
   {
-    "abbreviation": "OE", 
-    "source": "EGS", 
-    "expansion": "Operational Engineer"
-  }, 
-  {
     "abbreviation": "OEE", 
     "source": "EGS", 
     "expansion": "Operational External Enclave"
@@ -139990,24 +137395,9 @@
     "expansion": "Operations Element Manager"
   }, 
   {
-    "abbreviation": "OEM", 
-    "source": "EGS", 
-    "expansion": "Original Equipment Manufacturer"
-  }, 
-  {
     "abbreviation": "OERB", 
     "source": "EGS", 
     "expansion": "Operations Engineering Review Board"
-  }, 
-  {
-    "abbreviation": "OFI", 
-    "source": "EGS", 
-    "expansion": "Operational Flight Instrumentation"
-  }, 
-  {
-    "abbreviation": "OFT", 
-    "source": "EGS", 
-    "expansion": "Orbital Flight Test"
   }, 
   {
     "abbreviation": "OFT-1", 
@@ -140018,11 +137408,6 @@
     "abbreviation": "OGIR", 
     "source": "EGS", 
     "expansion": "Orion Ground Integration Resource"
-  }, 
-  {
-    "abbreviation": "OHCM", 
-    "source": "EGS", 
-    "expansion": "Office of Human Capital Management"
   }, 
   {
     "abbreviation": "OI", 
@@ -140038,11 +137423,6 @@
     "abbreviation": "OIG", 
     "source": "EGS", 
     "expansion": "Office of the Inspector General"
-  }, 
-  {
-    "abbreviation": "OIS", 
-    "source": "EGS", 
-    "expansion": "Operational Intercommunications System"
   }, 
   {
     "abbreviation": "OIS-D", 
@@ -140065,19 +137445,9 @@
     "expansion": "Orion Lockheed Martin"
   }, 
   {
-    "abbreviation": "OMB", 
-    "source": "EGS", 
-    "expansion": "Office of Management and Budget"
-  }, 
-  {
     "abbreviation": "OMCR", 
     "source": "EGS", 
     "expansion": "Operations and Maintenance Controlled Requirement"
-  }, 
-  {
-    "abbreviation": "OME", 
-    "source": "EGS", 
-    "expansion": "Orion Main Engine"
   }, 
   {
     "abbreviation": "OMEU", 
@@ -140088,16 +137458,6 @@
     "abbreviation": "OMI", 
     "source": "EGS", 
     "expansion": "Operational Maintenance Instruction"
-  }, 
-  {
-    "abbreviation": "OML", 
-    "source": "EGS", 
-    "expansion": "Outer Mold Line"
-  }, 
-  {
-    "abbreviation": "OMRS", 
-    "source": "EGS", 
-    "expansion": "Operations and Maintenance Requirements and Specifications"
   }, 
   {
     "abbreviation": "OMRSD", 
@@ -140130,44 +137490,14 @@
     "expansion": "Out of Tolerance"
   }, 
   {
-    "abbreviation": "OP", 
-    "source": "EGS", 
-    "expansion": "Office of Procurement"
-  }, 
-  {
     "abbreviation": "OPA", 
     "source": "EGS", 
     "expansion": "Operations Planning Application"
   }, 
   {
-    "abbreviation": "OPA", 
-    "source": "EGS", 
-    "expansion": "Office of Public Affairs"
-  }, 
-  {
     "abbreviation": "OPE", 
     "source": "EGS", 
     "expansion": "Operations Project Engineer"
-  }, 
-  {
-    "abbreviation": "OPF", 
-    "source": "EGS", 
-    "expansion": "Orbiter Processing Facility"
-  }, 
-  {
-    "abbreviation": "OPI", 
-    "source": "EGS", 
-    "expansion": "Offline Processing and Infrastructure"
-  }, 
-  {
-    "abbreviation": "OPII", 
-    "source": "EGS", 
-    "expansion": "Office of Program and Institutional Integration"
-  }, 
-  {
-    "abbreviation": "OPO", 
-    "source": "EGS", 
-    "expansion": "Orion Production Operations"
   }, 
   {
     "abbreviation": "OPO", 
@@ -140190,16 +137520,6 @@
     "expansion": "Operations Processing Project Review"
   }, 
   {
-    "abbreviation": "OPR", 
-    "source": "EGS", 
-    "expansion": "Office of Primary Responsibility"
-  }, 
-  {
-    "abbreviation": "Ops", 
-    "source": "EGS", 
-    "expansion": "Operations"
-  }, 
-  {
     "abbreviation": "ORCA", 
     "source": "EGS", 
     "expansion": "Orion Recovery Cradle Assembly"
@@ -140210,29 +137530,9 @@
     "expansion": "Operations Requirement Document"
   }, 
   {
-    "abbreviation": "ORD", 
-    "source": "EGS", 
-    "expansion": "Operational Readiness Date"
-  }, 
-  {
-    "abbreviation": "ORR", 
-    "source": "EGS", 
-    "expansion": "Operational Readiness Review"
-  }, 
-  {
-    "abbreviation": "ORU", 
-    "source": "EGS", 
-    "expansion": "Orbital Replacement Unit"
-  }, 
-  {
     "abbreviation": "OSA", 
     "source": "EGS", 
     "expansion": "Orion Spacecraft Adapter (ie: MSA)"
-  }, 
-  {
-    "abbreviation": "OSC", 
-    "source": "EGS", 
-    "expansion": "Orbital Sciences Corporation"
   }, 
   {
     "abbreviation": "OSC", 
@@ -140260,11 +137560,6 @@
     "expansion": "Ordnance Storage Facility"
   }, 
   {
-    "abbreviation": "OSHA", 
-    "source": "EGS", 
-    "expansion": "Occupational Safety and Health Administration"
-  }, 
-  {
     "abbreviation": "OSI", 
     "source": "EGS", 
     "expansion": "Operational Surveillance Imagery"
@@ -140275,19 +137570,9 @@
     "expansion": "Operating System Identifier"
   }, 
   {
-    "abbreviation": "OSMA", 
-    "source": "EGS", 
-    "expansion": "Office of Safety and Mission Assurance"
-  }, 
-  {
     "abbreviation": "OSMS", 
     "source": "EGS", 
     "expansion": "On-Site Manufacturing Support"
-  }, 
-  {
-    "abbreviation": "OSMU", 
-    "source": "EGS", 
-    "expansion": "Orion Service Module Umbilical"
   }, 
   {
     "abbreviation": "OSWIG", 
@@ -140323,11 +137608,6 @@
     "abbreviation": "OTTO", 
     "source": "EGS", 
     "expansion": "Operational Tracking Tool"
-  }, 
-  {
-    "abbreviation": "OTV", 
-    "source": "EGS", 
-    "expansion": "Operational Television"
   }, 
   {
     "abbreviation": "OWG", 
@@ -140367,11 +137647,6 @@
   {
     "abbreviation": "PAD", 
     "source": "EGS", 
-    "expansion": "Project Authorization Document"
-  }, 
-  {
-    "abbreviation": "PAD", 
-    "source": "EGS", 
     "expansion": "Program Agreements Document"
   }, 
   {
@@ -140383,11 +137658,6 @@
     "abbreviation": "PAF", 
     "source": "EGS", 
     "expansion": "Payload Attach Fitting"
-  }, 
-  {
-    "abbreviation": "PAFB", 
-    "source": "EGS", 
-    "expansion": "Patrick Air Force Base"
   }, 
   {
     "abbreviation": "PAG", 
@@ -140405,11 +137675,6 @@
     "expansion": "Cross-Program Processes and Agreements for Launch Site Ground Operations"
   }, 
   {
-    "abbreviation": "PAO", 
-    "source": "EGS", 
-    "expansion": "Public Affairs Office"
-  }, 
-  {
     "abbreviation": "PAR", 
     "source": "EGS", 
     "expansion": "Program Assessment Request"
@@ -140425,11 +137690,6 @@
     "expansion": "Payload Accommodation Subsystem"
   }, 
   {
-    "abbreviation": "PAWS", 
-    "source": "EGS", 
-    "expansion": "Paging and Area Warning System"
-  }, 
-  {
     "abbreviation": "PBIT", 
     "source": "EGS", 
     "expansion": "Power On Built-in Test"
@@ -140440,26 +137700,6 @@
     "expansion": "President's Budget Request"
   }, 
   {
-    "abbreviation": "PBS", 
-    "source": "EGS", 
-    "expansion": "Product Breakdown Structure"
-  }, 
-  {
-    "abbreviation": "PC", 
-    "source": "EGS", 
-    "expansion": "Probability of Casualty"
-  }, 
-  {
-    "abbreviation": "PC", 
-    "source": "EGS", 
-    "expansion": "Personal Computer"
-  }, 
-  {
-    "abbreviation": "PC", 
-    "source": "EGS", 
-    "expansion": "Purchase Card"
-  }, 
-  {
     "abbreviation": "PC", 
     "source": "EGS", 
     "expansion": "Printed Circuit"
@@ -140467,22 +137707,7 @@
   {
     "abbreviation": "PCA", 
     "source": "EGS", 
-    "expansion": "Physical Configuration Audit"
-  }, 
-  {
-    "abbreviation": "PCA", 
-    "source": "EGS", 
-    "expansion": "Program Commitment Agreement"
-  }, 
-  {
-    "abbreviation": "PCA", 
-    "source": "EGS", 
     "expansion": "Paging Control Assembly"
-  }, 
-  {
-    "abbreviation": "PCB", 
-    "source": "EGS", 
-    "expansion": "Program Control Board"
   }, 
   {
     "abbreviation": "PCB", 
@@ -140515,39 +137740,14 @@
     "expansion": "Project Control Panel"
   }, 
   {
-    "abbreviation": "PCU", 
-    "source": "EGS", 
-    "expansion": "Power Control Unit"
-  }, 
-  {
-    "abbreviation": "PDCU", 
-    "source": "EGS", 
-    "expansion": "Power Distribution and Control Unit"
-  }, 
-  {
     "abbreviation": "PDF", 
     "source": "EGS", 
     "expansion": "Program Development Framework"
   }, 
   {
-    "abbreviation": "PDF", 
-    "source": "EGS", 
-    "expansion": "Portable Document Format"
-  }, 
-  {
     "abbreviation": "PDLM", 
     "source": "EGS", 
     "expansion": "Product Data and Lifecycle Management"
-  }, 
-  {
-    "abbreviation": "PDM", 
-    "source": "EGS", 
-    "expansion": "Program Decision Memorandum"
-  }, 
-  {
-    "abbreviation": "PDM", 
-    "source": "EGS", 
-    "expansion": "Product Data Management"
   }, 
   {
     "abbreviation": "PDO", 
@@ -140560,11 +137760,6 @@
     "expansion": "Program Decision Review"
   }, 
   {
-    "abbreviation": "PDR", 
-    "source": "EGS", 
-    "expansion": "Preliminary Design Review"
-  }, 
-  {
     "abbreviation": "PDS", 
     "source": "EGS", 
     "expansion": "Product Data Sheets"
@@ -140573,11 +137768,6 @@
     "abbreviation": "PDS", 
     "source": "EGS", 
     "expansion": "Project Data Sheet"
-  }, 
-  {
-    "abbreviation": "PDU", 
-    "source": "EGS", 
-    "expansion": "Power Distribution Unit"
   }, 
   {
     "abbreviation": "PE", 
@@ -140605,16 +137795,6 @@
     "expansion": "Packaging, Handling, Shipping, and Transportation"
   }, 
   {
-    "abbreviation": "PHSF", 
-    "source": "EGS", 
-    "expansion": "Payload Hazardous Servicing Facility"
-  }, 
-  {
-    "abbreviation": "PI", 
-    "source": "EGS", 
-    "expansion": "Program Integration"
-  }, 
-  {
     "abbreviation": "PID", 
     "source": "EGS", 
     "expansion": "Probability Impact Diagram"
@@ -140630,19 +137810,9 @@
     "expansion": "Project Information Management System"
   }, 
   {
-    "abbreviation": "PIP", 
-    "source": "EGS", 
-    "expansion": "Payload Integration Plan"
-  }, 
-  {
     "abbreviation": "PITT", 
     "source": "EGS", 
     "expansion": "Program Integrated Task Team"
-  }, 
-  {
-    "abbreviation": "PIV", 
-    "source": "EGS", 
-    "expansion": "Personal Identity Verification"
   }, 
   {
     "abbreviation": "PJ", 
@@ -140650,24 +137820,9 @@
     "expansion": "Parachute Jumper"
   }, 
   {
-    "abbreviation": "PKI", 
-    "source": "EGS", 
-    "expansion": "Public Key Infrastructure"
-  }, 
-  {
-    "abbreviation": "PL", 
-    "source": "EGS", 
-    "expansion": "Product Line"
-  }, 
-  {
     "abbreviation": "PL", 
     "source": "EGS", 
     "expansion": "Prerequisite Logic"
-  }, 
-  {
-    "abbreviation": "PL", 
-    "source": "EGS", 
-    "expansion": "Parts List"
   }, 
   {
     "abbreviation": "PLANORD", 
@@ -140675,39 +137830,9 @@
     "expansion": "Planning Order"
   }, 
   {
-    "abbreviation": "PLC", 
-    "source": "EGS", 
-    "expansion": "Programmable Logic Controller"
-  }, 
-  {
     "abbreviation": "PLF", 
     "source": "EGS", 
     "expansion": "Payload Fairing"
-  }, 
-  {
-    "abbreviation": "PLM", 
-    "source": "EGS", 
-    "expansion": "Product Lifecycle Management"
-  }, 
-  {
-    "abbreviation": "PLN", 
-    "source": "EGS", 
-    "expansion": "Plan"
-  }, 
-  {
-    "abbreviation": "PM", 
-    "source": "EGS", 
-    "expansion": "Program Manager"
-  }, 
-  {
-    "abbreviation": "PM", 
-    "source": "EGS", 
-    "expansion": "Project Management"
-  }, 
-  {
-    "abbreviation": "PM", 
-    "source": "EGS", 
-    "expansion": "Program Management"
   }, 
   {
     "abbreviation": "PMAP", 
@@ -140733,21 +137858,6 @@
     "abbreviation": "PMO", 
     "source": "EGS", 
     "expansion": "Program Management Office"
-  }, 
-  {
-    "abbreviation": "PMR", 
-    "source": "EGS", 
-    "expansion": "Program Managers Recommend"
-  }, 
-  {
-    "abbreviation": "PMR", 
-    "source": "EGS", 
-    "expansion": "Program Management Review"
-  }, 
-  {
-    "abbreviation": "PMR", 
-    "source": "EGS", 
-    "expansion": "Project Management Review"
   }, 
   {
     "abbreviation": "PMR", 
@@ -140780,11 +137890,6 @@
     "expansion": "Plan of Action and Milestone"
   }, 
   {
-    "abbreviation": "POC", 
-    "source": "EGS", 
-    "expansion": "Point of Contact"
-  }, 
-  {
     "abbreviation": "POCR", 
     "source": "EGS", 
     "expansion": "Production Operations CAM Review"
@@ -140810,11 +137915,6 @@
     "expansion": "Power on Master Poll List"
   }, 
   {
-    "abbreviation": "PoP", 
-    "source": "EGS", 
-    "expansion": "Period of Performance"
-  }, 
-  {
     "abbreviation": "PoR", 
     "source": "EGS", 
     "expansion": "Program of Record"
@@ -140823,21 +137923,6 @@
     "abbreviation": "PORT", 
     "source": "EGS", 
     "expansion": "Post-Landing Orion Recovery Test"
-  }, 
-  {
-    "abbreviation": "PP&C", 
-    "source": "EGS", 
-    "expansion": "Program Planning and Control"
-  }, 
-  {
-    "abbreviation": "PPBE", 
-    "source": "EGS", 
-    "expansion": "Planning, Programming, Budgeting, and Execution"
-  }, 
-  {
-    "abbreviation": "PPE", 
-    "source": "EGS", 
-    "expansion": "Personal Protective Equipment"
   }, 
   {
     "abbreviation": "PPE", 
@@ -140860,34 +137945,14 @@
     "expansion": "Preliminary Program Support Checkpoint"
   }, 
   {
-    "abbreviation": "PR", 
-    "source": "EGS", 
-    "expansion": "Purchase Request"
-  }, 
-  {
     "abbreviation": "PRA", 
     "source": "EGS", 
     "expansion": "Probabilistic Risk Assessment (model)"
   }, 
   {
-    "abbreviation": "PRACA", 
-    "source": "EGS", 
-    "expansion": "Problem Reporting and Corrective Action"
-  }, 
-  {
-    "abbreviation": "PRB", 
-    "source": "EGS", 
-    "expansion": "Program Review Board"
-  }, 
-  {
     "abbreviation": "PRCU", 
     "source": "EGS", 
     "expansion": "Payload Rack Checkout Unit"
-  }, 
-  {
-    "abbreviation": "PRD", 
-    "source": "EGS", 
-    "expansion": "Program Requirements Document"
   }, 
   {
     "abbreviation": "PRF", 
@@ -140900,34 +137965,14 @@
     "expansion": "(for T&R) Program and Resource Guidance"
   }, 
   {
-    "abbreviation": "PRO", 
-    "source": "EGS", 
-    "expansion": "Procedure"
-  }, 
-  {
     "abbreviation": "PRR", 
     "source": "EGS", 
     "expansion": "Program Risk Review"
   }, 
   {
-    "abbreviation": "PRR", 
-    "source": "EGS", 
-    "expansion": "Production Readiness Review"
-  }, 
-  {
     "abbreviation": "PRT", 
     "source": "EGS", 
     "expansion": "Program Review Team"
-  }, 
-  {
-    "abbreviation": "PRT", 
-    "source": "EGS", 
-    "expansion": "Problem Resolution Team"
-  }, 
-  {
-    "abbreviation": "PSCC", 
-    "source": "EGS", 
-    "expansion": "Protective Services Communications Center"
   }, 
   {
     "abbreviation": "PSE", 
@@ -140948,16 +137993,6 @@
     "abbreviation": "PSI", 
     "source": "EGS", 
     "expansion": "Programmatic and Strategic Integration"
-  }, 
-  {
-    "abbreviation": "PSM", 
-    "source": "EGS", 
-    "expansion": "Procurement Strategy Meeting"
-  }, 
-  {
-    "abbreviation": "PSM", 
-    "source": "EGS", 
-    "expansion": "Process Safety Management"
   }, 
   {
     "abbreviation": "PSMT", 
@@ -140985,11 +138020,6 @@
     "expansion": "Program Support Requirements Document"
   }, 
   {
-    "abbreviation": "PSRP", 
-    "source": "EGS", 
-    "expansion": "Payload Safety Review Panel"
-  }, 
-  {
     "abbreviation": "PSS", 
     "source": "EGS", 
     "expansion": "Payload Separation System"
@@ -141003,11 +138033,6 @@
     "abbreviation": "PT", 
     "source": "EGS", 
     "expansion": "Project Team"
-  }, 
-  {
-    "abbreviation": "PTCR", 
-    "source": "EGS", 
-    "expansion": "Pad Terminal Connection Room"
   }, 
   {
     "abbreviation": "PTE", 
@@ -141030,29 +138055,9 @@
     "expansion": "Product Tailoring Matrix"
   }, 
   {
-    "abbreviation": "PTR", 
-    "source": "EGS", 
-    "expansion": "Periodic Technical Review"
-  }, 
-  {
     "abbreviation": "PTS", 
     "source": "EGS", 
     "expansion": "Power Transfer Switch"
-  }, 
-  {
-    "abbreviation": "PV/S", 
-    "source": "EGS", 
-    "expansion": "Pressure Vessel/System"
-  }, 
-  {
-    "abbreviation": "PVS", 
-    "source": "EGS", 
-    "expansion": "Pressure Vessel System"
-  }, 
-  {
-    "abbreviation": "PWS", 
-    "source": "EGS", 
-    "expansion": "Performance Work Statement"
   }, 
   {
     "abbreviation": "PWS", 
@@ -141065,16 +138070,6 @@
     "expansion": "Pyrotechnics"
   }, 
   {
-    "abbreviation": "QA", 
-    "source": "EGS", 
-    "expansion": "Quality Assurance"
-  }, 
-  {
-    "abbreviation": "QASP", 
-    "source": "EGS", 
-    "expansion": "Quality Assurance Surveillance Plan"
-  }, 
-  {
     "abbreviation": "QAUS", 
     "source": "EGS", 
     "expansion": "ML Arms and Umbilicals Engineer"
@@ -141083,11 +138078,6 @@
     "abbreviation": "QD", 
     "source": "EGS", 
     "expansion": "Quality Designee"
-  }, 
-  {
-    "abbreviation": "QD", 
-    "source": "EGS", 
-    "expansion": "Quick Disconnect"
   }, 
   {
     "abbreviation": "QD", 
@@ -141103,11 +138093,6 @@
     "abbreviation": "QLB", 
     "source": "EGS", 
     "expansion": "Quicklook Book"
-  }, 
-  {
-    "abbreviation": "QMS", 
-    "source": "EGS", 
-    "expansion": "Quality Management System"
   }, 
   {
     "abbreviation": "QMTG", 
@@ -141130,16 +138115,6 @@
     "expansion": "Quarterly Program Status Review"
   }, 
   {
-    "abbreviation": "QRA", 
-    "source": "EGS", 
-    "expansion": "Quantitative Risk Assessment"
-  }, 
-  {
-    "abbreviation": "QRA", 
-    "source": "EGS", 
-    "expansion": "Quantitative Risk Analysis"
-  }, 
-  {
     "abbreviation": "QRG", 
     "source": "EGS", 
     "expansion": "Quick Reference Guide"
@@ -141148,16 +138123,6 @@
     "abbreviation": "QSR", 
     "source": "EGS", 
     "expansion": "Quarterly Subcontractor Review"
-  }, 
-  {
-    "abbreviation": "R&D", 
-    "source": "EGS", 
-    "expansion": "Research and Development"
-  }, 
-  {
-    "abbreviation": "R&M", 
-    "source": "EGS", 
-    "expansion": "Reliability and Maintainability"
   }, 
   {
     "abbreviation": "R&R", 
@@ -141185,11 +138150,6 @@
     "expansion": "Recursive Analysis By Backwards IMS Tracing"
   }, 
   {
-    "abbreviation": "RAC", 
-    "source": "EGS", 
-    "expansion": "Requirements Analysis Cycle"
-  }, 
-  {
     "abbreviation": "RADAR", 
     "source": "EGS", 
     "expansion": "RAdio Detection And Ranging"
@@ -141208,16 +138168,6 @@
     "abbreviation": "RAS", 
     "source": "EGS", 
     "expansion": "RI&CS Architecture Study"
-  }, 
-  {
-    "abbreviation": "RBCC", 
-    "source": "EGS", 
-    "expansion": "Rocket-Based Combined Cycle"
-  }, 
-  {
-    "abbreviation": "RBD", 
-    "source": "EGS", 
-    "expansion": "Reliability Block Diagram"
   }, 
   {
     "abbreviation": "RBS", 
@@ -141250,19 +138200,9 @@
     "expansion": "Requirements Closure Review"
   }, 
   {
-    "abbreviation": "RCS", 
-    "source": "EGS", 
-    "expansion": "Reaction Control System"
-  }, 
-  {
     "abbreviation": "RD", 
     "source": "EGS", 
     "expansion": "Receipt Desk"
-  }, 
-  {
-    "abbreviation": "RDAU", 
-    "source": "EGS", 
-    "expansion": "Remote Data Acquisition Unit"
   }, 
   {
     "abbreviation": "RDC", 
@@ -141271,16 +138211,6 @@
   }, 
   {
     "abbreviation": "RDF", 
-    "source": "EGS", 
-    "expansion": "RID Disposition Team"
-  }, 
-  {
-    "abbreviation": "RDP", 
-    "source": "EGS", 
-    "expansion": "Remote Desktop Protocol"
-  }, 
-  {
-    "abbreviation": "RDT", 
     "source": "EGS", 
     "expansion": "RID Disposition Team"
   }, 
@@ -141305,39 +138235,14 @@
     "expansion": "Requirements Management Plan"
   }, 
   {
-    "abbreviation": "REMP", 
-    "source": "EGS", 
-    "expansion": "Requirements Engineering Management Plan"
-  }, 
-  {
     "abbreviation": "RES", 
     "source": "EGS", 
     "expansion": "Risk-based Explosive Safe-siting toolset"
   }, 
   {
-    "abbreviation": "RESOLVE", 
-    "source": "EGS", 
-    "expansion": "Regolith and Environment Science and Oxygen and Lunar Volatile Extraction"
-  }, 
-  {
-    "abbreviation": "RF", 
-    "source": "EGS", 
-    "expansion": "Radio Frequency"
-  }, 
-  {
-    "abbreviation": "RFA", 
-    "source": "EGS", 
-    "expansion": "Request for Action"
-  }, 
-  {
     "abbreviation": "RFAWG", 
     "source": "EGS", 
     "expansion": "Requirements and Functional Analysis Working Group"
-  }, 
-  {
-    "abbreviation": "RFI", 
-    "source": "EGS", 
-    "expansion": "Request for Information"
   }, 
   {
     "abbreviation": "RFP", 
@@ -141355,24 +138260,9 @@
     "expansion": "Request for Relief"
   }, 
   {
-    "abbreviation": "RFTS", 
-    "source": "EGS", 
-    "expansion": "Radio Frequency and Telemetry Station"
-  }, 
-  {
-    "abbreviation": "RGA", 
-    "source": "EGS", 
-    "expansion": "Rate Gyro Assembly"
-  }, 
-  {
     "abbreviation": "RGWG", 
     "source": "EGS", 
     "expansion": "Range Ground Working Group"
-  }, 
-  {
-    "abbreviation": "RH", 
-    "source": "EGS", 
-    "expansion": "Right Hand"
   }, 
   {
     "abbreviation": "RHIB", 
@@ -141385,24 +138275,9 @@
     "expansion": "Range Interface and Control Systems (aka. RICS)"
   }, 
   {
-    "abbreviation": "RID", 
-    "source": "EGS", 
-    "expansion": "Review Item Discrepancy"
-  }, 
-  {
     "abbreviation": "RIDM", 
     "source": "EGS", 
     "expansion": "Risk Informed Decision Making"
-  }, 
-  {
-    "abbreviation": "RINU", 
-    "source": "EGS", 
-    "expansion": "Redundant Inertial Navigation Unit"
-  }, 
-  {
-    "abbreviation": "RIO", 
-    "source": "EGS", 
-    "expansion": "Remote Input Output"
   }, 
   {
     "abbreviation": "RISA", 
@@ -141410,34 +138285,9 @@
     "expansion": "Rapid Interactive Structural Analysis"
   }, 
   {
-    "abbreviation": "RM", 
-    "source": "EGS", 
-    "expansion": "Risk Management"
-  }, 
-  {
     "abbreviation": "RMA", 
     "source": "EGS", 
     "expansion": "Reliability, Maintainability, Availability"
-  }, 
-  {
-    "abbreviation": "RMO", 
-    "source": "EGS", 
-    "expansion": "Risk Management Officer"
-  }, 
-  {
-    "abbreviation": "RMP", 
-    "source": "EGS", 
-    "expansion": "Risk Management Plan"
-  }, 
-  {
-    "abbreviation": "RMS", 
-    "source": "EGS", 
-    "expansion": "Requirements Management System"
-  }, 
-  {
-    "abbreviation": "RMS", 
-    "source": "EGS", 
-    "expansion": "Root Mean Square"
   }, 
   {
     "abbreviation": "ROA", 
@@ -141455,39 +138305,14 @@
     "expansion": "Requirements for Operations and Maintenance"
   }, 
   {
-    "abbreviation": "ROI", 
-    "source": "EGS", 
-    "expansion": "Return on Investment"
-  }, 
-  {
-    "abbreviation": "ROM", 
-    "source": "EGS", 
-    "expansion": "Rough Order of Magnitude"
-  }, 
-  {
     "abbreviation": "ROM", 
     "source": "EGS", 
     "expansion": "Recovery Operations Manager"
   }, 
   {
-    "abbreviation": "ROSES", 
-    "source": "EGS", 
-    "expansion": "Research Opportunities in Space and Earth Sciences"
-  }, 
-  {
     "abbreviation": "RP-1", 
     "source": "EGS", 
     "expansion": "Rocket Propellant 1"
-  }, 
-  {
-    "abbreviation": "RPC", 
-    "source": "EGS", 
-    "expansion": "Remote Power Controller"
-  }, 
-  {
-    "abbreviation": "RPS", 
-    "source": "EGS", 
-    "expansion": "Record and Playback System"
   }, 
   {
     "abbreviation": "RPS", 
@@ -141515,19 +138340,9 @@
     "expansion": "Risk Review Panel"
   }, 
   {
-    "abbreviation": "RS", 
-    "source": "EGS", 
-    "expansion": "Radiated Susceptibility"
-  }, 
-  {
     "abbreviation": "RS&H", 
     "source": "EGS", 
     "expansion": "Reynolds, Smith and Hills "
-  }, 
-  {
-    "abbreviation": "RSAA", 
-    "source": "EGS", 
-    "expansion": "Reimbursable Space Act Agreement"
   }, 
   {
     "abbreviation": "RSAR", 
@@ -141555,39 +138370,9 @@
     "expansion": "Radially-Segmented Launch Vehicle"
   }, 
   {
-    "abbreviation": "RSPL", 
-    "source": "EGS", 
-    "expansion": "Recommended Spare Parts List"
-  }, 
-  {
-    "abbreviation": "RSRB", 
-    "source": "EGS", 
-    "expansion": "Reusable Solid Rocket Booster"
-  }, 
-  {
-    "abbreviation": "RSRM", 
-    "source": "EGS", 
-    "expansion": "Reusable Solid Rocket Motor"
-  }, 
-  {
     "abbreviation": "RSRMV", 
     "source": "EGS", 
     "expansion": "Reusable Solid Rocket Motor V"
-  }, 
-  {
-    "abbreviation": "RSS", 
-    "source": "EGS", 
-    "expansion": "Range Safety System"
-  }, 
-  {
-    "abbreviation": "RT", 
-    "source": "EGS", 
-    "expansion": "Real-Time"
-  }, 
-  {
-    "abbreviation": "RT", 
-    "source": "EGS", 
-    "expansion": "Remote Terminal"
   }, 
   {
     "abbreviation": "RTA", 
@@ -141610,11 +138395,6 @@
     "expansion": "Real Time Innovations"
   }, 
   {
-    "abbreviation": "RTM", 
-    "source": "EGS", 
-    "expansion": "Requirements Traceability Matrix"
-  }, 
-  {
     "abbreviation": "RTQ", 
     "source": "EGS", 
     "expansion": "Response to Queries"
@@ -141630,29 +138410,14 @@
     "expansion": "Ready to work"
   }, 
   {
-    "abbreviation": "S&A", 
-    "source": "EGS", 
-    "expansion": "Safe and Arm"
-  }, 
-  {
     "abbreviation": "S&H", 
     "source": "EGS", 
     "expansion": "Safety and Health"
   }, 
   {
-    "abbreviation": "S&MA", 
-    "source": "EGS", 
-    "expansion": "Safety and Mission Assurance"
-  }, 
-  {
     "abbreviation": "S&TE", 
     "source": "EGS", 
     "expansion": "Support and Test Equipment"
-  }, 
-  {
-    "abbreviation": "S/C", 
-    "source": "EGS", 
-    "expansion": "Spacecraft"
   }, 
   {
     "abbreviation": "SA", 
@@ -141662,17 +138427,7 @@
   {
     "abbreviation": "SA", 
     "source": "EGS", 
-    "expansion": "Spacecraft Adapter"
-  }, 
-  {
-    "abbreviation": "SA", 
-    "source": "EGS", 
     "expansion": "Supportability Analysis"
-  }, 
-  {
-    "abbreviation": "SAA", 
-    "source": "EGS", 
-    "expansion": "Space Act Agreement"
   }, 
   {
     "abbreviation": "SAA", 
@@ -141680,24 +138435,9 @@
     "expansion": "Systems Assurance Analysis"
   }, 
   {
-    "abbreviation": "SADE", 
-    "source": "EGS", 
-    "expansion": "Solar Array Drive Electronics"
-  }, 
-  {
     "abbreviation": "SADM", 
     "source": "EGS", 
     "expansion": "Solar Array Drive Mechanisms"
-  }, 
-  {
-    "abbreviation": "SAEF", 
-    "source": "EGS", 
-    "expansion": "Spacecraft Assembly and Encapsulation Facility"
-  }, 
-  {
-    "abbreviation": "SAFAR", 
-    "source": "EGS", 
-    "expansion": "Safety Assessment Report"
   }, 
   {
     "abbreviation": "SAGE", 
@@ -141705,24 +138445,9 @@
     "expansion": "Senior Advisory Group Exchange"
   }, 
   {
-    "abbreviation": "SAGE", 
-    "source": "EGS", 
-    "expansion": "Stratospheric Aerosol and Gas Experiment"
-  }, 
-  {
-    "abbreviation": "SAIC", 
-    "source": "EGS", 
-    "expansion": "Science Applications International Corporation"
-  }, 
-  {
     "abbreviation": "SAMP", 
     "source": "EGS", 
     "expansion": "Site Activation Management Plan"
-  }, 
-  {
-    "abbreviation": "SAN", 
-    "source": "EGS", 
-    "expansion": "Storage Area Network"
   }, 
   {
     "abbreviation": "SAP", 
@@ -141730,29 +138455,9 @@
     "expansion": "System Application and Products"
   }, 
   {
-    "abbreviation": "SAP", 
-    "source": "EGS", 
-    "expansion": "Software Assurance Plan"
-  }, 
-  {
-    "abbreviation": "SAR", 
-    "source": "EGS", 
-    "expansion": "System Acceptance Review"
-  }, 
-  {
-    "abbreviation": "SATERN", 
-    "source": "EGS", 
-    "expansion": "System for Administration, Training, and Educational Resources for NASA"
-  }, 
-  {
     "abbreviation": "SATOCM", 
     "source": "EGS", 
     "expansion": "Software Avionics Test Orchestration and Command and Messaging"
-  }, 
-  {
-    "abbreviation": "SB", 
-    "source": "EGS", 
-    "expansion": "Small Business"
   }, 
   {
     "abbreviation": "SBP", 
@@ -141760,19 +138465,9 @@
     "expansion": "Small Business Plan"
   }, 
   {
-    "abbreviation": "SBU", 
-    "source": "EGS", 
-    "expansion": "Sensitive But Unclassified"
-  }, 
-  {
     "abbreviation": "SCA", 
     "source": "EGS", 
     "expansion": "System Component Authorization"
-  }, 
-  {
-    "abbreviation": "SCaN", 
-    "source": "EGS", 
-    "expansion": "Space Communications and Navigation"
   }, 
   {
     "abbreviation": "SCAP", 
@@ -141783,16 +138478,6 @@
     "abbreviation": "SCAPE", 
     "source": "EGS", 
     "expansion": "Self-Contained Atmospheric Protective Ensemble"
-  }, 
-  {
-    "abbreviation": "SCB", 
-    "source": "EGS", 
-    "expansion": "Software Control Board"
-  }, 
-  {
-    "abbreviation": "SCCS", 
-    "source": "EGS", 
-    "expansion": "Spaceport Command and Control System"
   }, 
   {
     "abbreviation": "SCFM", 
@@ -141808,16 +138493,6 @@
     "abbreviation": "SCID", 
     "source": "EGS", 
     "expansion": "System Configuration Identifier"
-  }, 
-  {
-    "abbreviation": "SCR", 
-    "source": "EGS", 
-    "expansion": "System Concept Review"
-  }, 
-  {
-    "abbreviation": "SCR", 
-    "source": "EGS", 
-    "expansion": "Schedule Change Request"
   }, 
   {
     "abbreviation": "SCR", 
@@ -141855,11 +138530,6 @@
     "expansion": "System Design Document"
   }, 
   {
-    "abbreviation": "SDP", 
-    "source": "EGS", 
-    "expansion": "Software Development Plan"
-  }, 
-  {
     "abbreviation": "SDR", 
     "source": "EGS", 
     "expansion": "Systems Definition Review"
@@ -141873,16 +138543,6 @@
     "abbreviation": "SDTS", 
     "source": "EGS", 
     "expansion": "Serial Data Telemetry System"
-  }, 
-  {
-    "abbreviation": "SE", 
-    "source": "EGS", 
-    "expansion": "Support Equipment"
-  }, 
-  {
-    "abbreviation": "SE&I", 
-    "source": "EGS", 
-    "expansion": "Systems Engineering and Integration"
   }, 
   {
     "abbreviation": "SECB", 
@@ -141905,39 +138565,14 @@
     "expansion": "Systems Engineering and Management Company"
   }, 
   {
-    "abbreviation": "SEMP", 
-    "source": "EGS", 
-    "expansion": "Systems Engineering Management Plan"
-  }, 
-  {
-    "abbreviation": "SEP", 
-    "source": "EGS", 
-    "expansion": "Solar Electric Propulsion"
-  }, 
-  {
     "abbreviation": "SERB", 
     "source": "EGS", 
     "expansion": "SLS Engineering Review Board "
   }, 
   {
-    "abbreviation": "SES", 
-    "source": "EGS", 
-    "expansion": "Senior Executive Service"
-  }, 
-  {
-    "abbreviation": "SESC", 
-    "source": "EGS", 
-    "expansion": "SLS Engineering Support Center"
-  }, 
-  {
     "abbreviation": "SETI", 
     "source": "EGS", 
     "expansion": "Systems Electronic Tie-In"
-  }, 
-  {
-    "abbreviation": "SEV", 
-    "source": "EGS", 
-    "expansion": "Space Exploration Vehicle"
   }, 
   {
     "abbreviation": "SFD", 
@@ -141970,21 +138605,6 @@
     "expansion": "Spaceport Integration and Services"
   }, 
   {
-    "abbreviation": "SI&T", 
-    "source": "EGS", 
-    "expansion": "Systems Integration and Test"
-  }, 
-  {
-    "abbreviation": "SID", 
-    "source": "EGS", 
-    "expansion": "Standard Interface Document"
-  }, 
-  {
-    "abbreviation": "SIG", 
-    "source": "EGS", 
-    "expansion": "Systems Integration Group"
-  }, 
-  {
     "abbreviation": "SII", 
     "source": "EGS", 
     "expansion": "Strategic Institutional Investment"
@@ -141993,11 +138613,6 @@
     "abbreviation": "SIL", 
     "source": "EGS", 
     "expansion": "Systems Integration Lab"
-  }, 
-  {
-    "abbreviation": "SIM", 
-    "source": "EGS", 
-    "expansion": "Simulator"
   }, 
   {
     "abbreviation": "SIMS", 
@@ -142025,11 +138640,6 @@
     "expansion": "Supplier Input Process Output Customer"
   }, 
   {
-    "abbreviation": "SIR", 
-    "source": "EGS", 
-    "expansion": "System Integration Review"
-  }, 
-  {
     "abbreviation": "SIWG", 
     "source": "EGS", 
     "expansion": "Software Integration Working Group"
@@ -142045,19 +138655,9 @@
     "expansion": "Separately Loadable Data Base"
   }, 
   {
-    "abbreviation": "SLF", 
-    "source": "EGS", 
-    "expansion": "Shuttle Landing Facility"
-  }, 
-  {
     "abbreviation": "SLIMER", 
     "source": "EGS", 
     "expansion": "Schedule Line Item Macro Extractor from Risk Data"
-  }, 
-  {
-    "abbreviation": "SLS", 
-    "source": "EGS", 
-    "expansion": "Space Launch System"
   }, 
   {
     "abbreviation": "SLSL", 
@@ -142068,16 +138668,6 @@
     "abbreviation": "SLSP", 
     "source": "EGS", 
     "expansion": "SLS Program"
-  }, 
-  {
-    "abbreviation": "SM", 
-    "source": "EGS", 
-    "expansion": "Service Module"
-  }, 
-  {
-    "abbreviation": "SMA", 
-    "source": "EGS", 
-    "expansion": "Safety and Mission Assurance"
   }, 
   {
     "abbreviation": "SMART", 
@@ -142110,16 +138700,6 @@
     "expansion": "System Monitoring and Control"
   }, 
   {
-    "abbreviation": "SMD", 
-    "source": "EGS", 
-    "expansion": "Science Mission Directorate"
-  }, 
-  {
-    "abbreviation": "SME", 
-    "source": "EGS", 
-    "expansion": "Subject Matter Expert"
-  }, 
-  {
     "abbreviation": "SMRF", 
     "source": "EGS", 
     "expansion": "SOA Model Review Forum"
@@ -142135,16 +138715,6 @@
     "expansion": "Subsystem Management Review Team"
   }, 
   {
-    "abbreviation": "SMSR", 
-    "source": "EGS", 
-    "expansion": "Safety and Mission Success Review"
-  }, 
-  {
-    "abbreviation": "SN", 
-    "source": "EGS", 
-    "expansion": "Space Network"
-  }, 
-  {
     "abbreviation": "SNC", 
     "source": "EGS", 
     "expansion": "Sierra Nevada Company"
@@ -142155,24 +138725,9 @@
     "expansion": "Supportability, Operability, Affordability"
   }, 
   {
-    "abbreviation": "SOC", 
-    "source": "EGS", 
-    "expansion": "State of Charge"
-  }, 
-  {
-    "abbreviation": "SOC", 
-    "source": "EGS", 
-    "expansion": "Security Operations Center"
-  }, 
-  {
     "abbreviation": "SOCRRATES ", 
     "source": "EGS", 
     "expansion": "(SOC) \u2013 Software Only CEV Risk Reduction, Analysis, and Test Engineering Simulator"
-  }, 
-  {
-    "abbreviation": "SOMD", 
-    "source": "EGS", 
-    "expansion": "Space Operations Mission Directorate"
   }, 
   {
     "abbreviation": "SONIC", 
@@ -142190,11 +138745,6 @@
     "expansion": "Spacecraft Offline Processing"
   }, 
   {
-    "abbreviation": "SOP", 
-    "source": "EGS", 
-    "expansion": "Standard Operating Procedure"
-  }, 
-  {
     "abbreviation": "SOPE", 
     "source": "EGS", 
     "expansion": "Spacecraft Offline Processing Element"
@@ -142203,11 +138753,6 @@
     "abbreviation": "SoR", 
     "source": "EGS", 
     "expansion": "Statement of Readiness"
-  }, 
-  {
-    "abbreviation": "SOW", 
-    "source": "EGS", 
-    "expansion": "Statement of Work"
   }, 
   {
     "abbreviation": "SPE", 
@@ -142255,31 +138800,6 @@
     "expansion": "SCCS Project Notification"
   }, 
   {
-    "abbreviation": "SPOC", 
-    "source": "EGS", 
-    "expansion": "Space Program Operations Contract"
-  }, 
-  {
-    "abbreviation": "SR&QA", 
-    "source": "EGS", 
-    "expansion": "Safety, Reliability, and Quality Assurance"
-  }, 
-  {
-    "abbreviation": "SRA", 
-    "source": "EGS", 
-    "expansion": "Schedule Risk Analysis"
-  }, 
-  {
-    "abbreviation": "SRB", 
-    "source": "EGS", 
-    "expansion": "Solid Rocket Booster"
-  }, 
-  {
-    "abbreviation": "SRB", 
-    "source": "EGS", 
-    "expansion": "Standing Review Board"
-  }, 
-  {
     "abbreviation": "SRD", 
     "source": "EGS", 
     "expansion": "Systems Requirements Document"
@@ -142295,29 +138815,9 @@
     "expansion": "Small Rocket Launch Program"
   }, 
   {
-    "abbreviation": "SRM", 
-    "source": "EGS", 
-    "expansion": "Solid Rocket Motor"
-  }, 
-  {
-    "abbreviation": "SRR", 
-    "source": "EGS", 
-    "expansion": "System Requirements Review"
-  }, 
-  {
     "abbreviation": "SRRE", 
     "source": "EGS", 
     "expansion": "Spacecraft Recovery and Retrieval Element"
-  }, 
-  {
-    "abbreviation": "SRS", 
-    "source": "EGS", 
-    "expansion": "Support Requirements System"
-  }, 
-  {
-    "abbreviation": "SRS", 
-    "source": "EGS", 
-    "expansion": "Software Requirements Specification"
   }, 
   {
     "abbreviation": "SRT", 
@@ -142330,19 +138830,9 @@
     "expansion": "Step Response Test"
   }, 
   {
-    "abbreviation": "SRU", 
-    "source": "EGS", 
-    "expansion": "Shop Replaceable Unit"
-  }, 
-  {
     "abbreviation": "SS", 
     "source": "EGS", 
     "expansion": "Sound Suppression"
-  }, 
-  {
-    "abbreviation": "SS", 
-    "source": "EGS", 
-    "expansion": "Subsystem"
   }, 
   {
     "abbreviation": "SSA", 
@@ -142353,31 +138843,6 @@
     "abbreviation": "SSAR", 
     "source": "EGS", 
     "expansion": "System Safety Assessment Report"
-  }, 
-  {
-    "abbreviation": "SSC", 
-    "source": "EGS", 
-    "expansion": "Stennis Space Center"
-  }, 
-  {
-    "abbreviation": "SSH", 
-    "source": "EGS", 
-    "expansion": "Secure Shell"
-  }, 
-  {
-    "abbreviation": "SSP", 
-    "source": "EGS", 
-    "expansion": "Space Shuttle Program"
-  }, 
-  {
-    "abbreviation": "SSP", 
-    "source": "EGS", 
-    "expansion": "System Security Plan"
-  }, 
-  {
-    "abbreviation": "SSPF", 
-    "source": "EGS", 
-    "expansion": "Space Station Processing Facility"
   }, 
   {
     "abbreviation": "SSRD", 
@@ -142395,11 +138860,6 @@
     "expansion": "System Safety and Reliability Working Group"
   }, 
   {
-    "abbreviation": "STA", 
-    "source": "EGS", 
-    "expansion": "Structural Test Article"
-  }, 
-  {
     "abbreviation": "STAAD", 
     "source": "EGS", 
     "expansion": "Structural Analysis and Design"
@@ -142408,11 +138868,6 @@
     "abbreviation": "STAX", 
     "source": "EGS", 
     "expansion": "Secure Technology Application Execution"
-  }, 
-  {
-    "abbreviation": "STD", 
-    "source": "EGS", 
-    "expansion": "Standard"
   }, 
   {
     "abbreviation": "StE", 
@@ -142450,11 +138905,6 @@
     "expansion": "Software (a.k.a. S/W)"
   }, 
   {
-    "abbreviation": "SW", 
-    "source": "EGS", 
-    "expansion": "Space Wing"
-  }, 
-  {
     "abbreviation": "SWORDS", 
     "source": "EGS", 
     "expansion": "Soldiers-Warfighter Operationally Responsive Deployer for Space"
@@ -142463,26 +138913,6 @@
     "abbreviation": "SWOT", 
     "source": "EGS", 
     "expansion": "Strengths, Weaknesses, Opportunities, and Threats"
-  }, 
-  {
-    "abbreviation": "T&CD", 
-    "source": "EGS", 
-    "expansion": "Timing and Countdown"
-  }, 
-  {
-    "abbreviation": "T&O", 
-    "source": "EGS", 
-    "expansion": "Threats and Opportunities"
-  }, 
-  {
-    "abbreviation": "T&R", 
-    "source": "EGS", 
-    "expansion": "Transition and Retirement"
-  }, 
-  {
-    "abbreviation": "T&V", 
-    "source": "EGS", 
-    "expansion": "Test and Verification"
   }, 
   {
     "abbreviation": "T1", 
@@ -142510,24 +138940,9 @@
     "expansion": "Temporary Area Access"
   }, 
   {
-    "abbreviation": "TAA", 
-    "source": "EGS", 
-    "expansion": "Technical Assistance Agreement"
-  }, 
-  {
-    "abbreviation": "TAC", 
-    "source": "EGS", 
-    "expansion": "TVC Actuator Controller"
-  }, 
-  {
     "abbreviation": "TAIR", 
     "source": "EGS", 
     "expansion": "Test Assembly Inspection Record"
-  }, 
-  {
-    "abbreviation": "TAP", 
-    "source": "EGS", 
-    "expansion": "Test and Assembly Procedure"
   }, 
   {
     "abbreviation": "TAR", 
@@ -142560,24 +138975,9 @@
     "expansion": "Turbine-Based Combined Cycle"
   }, 
   {
-    "abbreviation": "TBD", 
-    "source": "EGS", 
-    "expansion": "To Be Determined"
-  }, 
-  {
-    "abbreviation": "TBR", 
-    "source": "EGS", 
-    "expansion": "To Be Resolved"
-  }, 
-  {
     "abbreviation": "TBX", 
     "source": "EGS", 
     "expansion": "To Be Exchanged"
-  }, 
-  {
-    "abbreviation": "TC", 
-    "source": "EGS", 
-    "expansion": "Test Conductor"
   }, 
   {
     "abbreviation": "TCA", 
@@ -142588,11 +138988,6 @@
     "abbreviation": "TCATS", 
     "source": "EGS", 
     "expansion": "Transportable Command and Telemetry Systems"
-  }, 
-  {
-    "abbreviation": "TCDT", 
-    "source": "EGS", 
-    "expansion": "Terminal Count Down Test"
   }, 
   {
     "abbreviation": "TCF", 
@@ -142613,11 +139008,6 @@
     "abbreviation": "TCID", 
     "source": "EGS", 
     "expansion": "Test Configuration Identifier"
-  }, 
-  {
-    "abbreviation": "TCM", 
-    "source": "EGS", 
-    "expansion": "Technical Coordination Meeting"
   }, 
   {
     "abbreviation": "TCR", 
@@ -142642,27 +139032,12 @@
   {
     "abbreviation": "TD", 
     "source": "EGS", 
-    "expansion": "Test Director"
-  }, 
-  {
-    "abbreviation": "TD", 
-    "source": "EGS", 
     "expansion": "Task Directive"
   }, 
   {
     "abbreviation": "TDL", 
     "source": "EGS", 
     "expansion": "Transducer Development Laboratory"
-  }, 
-  {
-    "abbreviation": "TDRSS", 
-    "source": "EGS", 
-    "expansion": "Tracking and Data Relay Satellite System"
-  }, 
-  {
-    "abbreviation": "TDS", 
-    "source": "EGS", 
-    "expansion": "Task Description Sheet"
   }, 
   {
     "abbreviation": "TDT", 
@@ -142686,11 +139061,6 @@
   }, 
   {
     "abbreviation": "TEL-4", 
-    "source": "EGS", 
-    "expansion": "TELemetry Processing Facility #4"
-  }, 
-  {
-    "abbreviation": "TEL-IV", 
     "source": "EGS", 
     "expansion": "TELemetry Processing Facility #4"
   }, 
@@ -142770,19 +139140,9 @@
     "expansion": "Take Off"
   }, 
   {
-    "abbreviation": "TO", 
-    "source": "EGS", 
-    "expansion": "Task Order"
-  }, 
-  {
     "abbreviation": "TOC", 
     "source": "EGS", 
     "expansion": "Transmission Operations Center"
-  }, 
-  {
-    "abbreviation": "ToR", 
-    "source": "EGS", 
-    "expansion": "Terms of Reference"
   }, 
   {
     "abbreviation": "TOR", 
@@ -142817,11 +139177,6 @@
   {
     "abbreviation": "TPM", 
     "source": "EGS", 
-    "expansion": "Technical Performance Measure"
-  }, 
-  {
-    "abbreviation": "TPM", 
-    "source": "EGS", 
     "expansion": "Technical Performance Metric"
   }, 
   {
@@ -142833,11 +139188,6 @@
     "abbreviation": "TProjR", 
     "source": "EGS", 
     "expansion": "Top Project Risks"
-  }, 
-  {
-    "abbreviation": "TPS", 
-    "source": "EGS", 
-    "expansion": "Thermal Protection System"
   }, 
   {
     "abbreviation": "TPSF", 
@@ -142855,24 +139205,9 @@
     "expansion": "Test Readiness Document"
   }, 
   {
-    "abbreviation": "TRL", 
-    "source": "EGS", 
-    "expansion": "Technical Readiness Level"
-  }, 
-  {
-    "abbreviation": "TRL", 
-    "source": "EGS", 
-    "expansion": "Technology Readiness Level"
-  }, 
-  {
     "abbreviation": "TRM", 
     "source": "EGS", 
     "expansion": "Technical Resource Manager"
-  }, 
-  {
-    "abbreviation": "TRR", 
-    "source": "EGS", 
-    "expansion": "Test Readiness Review"
   }, 
   {
     "abbreviation": "TRS", 
@@ -142895,11 +139230,6 @@
     "expansion": "Tail Service Mast"
   }, 
   {
-    "abbreviation": "TSMU", 
-    "source": "EGS", 
-    "expansion": "Tail Service Mast Umbilical"
-  }, 
-  {
     "abbreviation": "TSPI", 
     "source": "EGS", 
     "expansion": "Time Space Positional Information"
@@ -142910,11 +139240,6 @@
     "expansion": "Top Sub-organizational Risk"
   }, 
   {
-    "abbreviation": "TTA", 
-    "source": "EGS", 
-    "expansion": "Technical Task Agreement"
-  }, 
-  {
     "abbreviation": "TTL", 
     "source": "EGS", 
     "expansion": "Task Team Lead"
@@ -142923,11 +139248,6 @@
     "abbreviation": "TTSS", 
     "source": "EGS", 
     "expansion": "Technical Training Scheduling System"
-  }, 
-  {
-    "abbreviation": "TVC", 
-    "source": "EGS", 
-    "expansion": "Thrust Vector Control"
   }, 
   {
     "abbreviation": "TVPM", 
@@ -142945,29 +139265,9 @@
     "expansion": "Transmitter/Transmission"
   }, 
   {
-    "abbreviation": "U/R", 
-    "source": "EGS", 
-    "expansion": "Under Review"
-  }, 
-  {
-    "abbreviation": "UA", 
-    "source": "EGS", 
-    "expansion": "Unexplained Anomaly"
-  }, 
-  {
     "abbreviation": "UA", 
     "source": "EGS", 
     "expansion": "Utility Annex"
-  }, 
-  {
-    "abbreviation": "UAS", 
-    "source": "EGS", 
-    "expansion": "Unmanned Aircraft System"
-  }, 
-  {
-    "abbreviation": "UAV", 
-    "source": "EGS", 
-    "expansion": "Unmanned Aerial Vehicle"
   }, 
   {
     "abbreviation": "UCS", 
@@ -142980,39 +139280,9 @@
     "expansion": "Universal Cooling Transporter System"
   }, 
   {
-    "abbreviation": "UDS", 
-    "source": "EGS", 
-    "expansion": "Universal Documentation System"
-  }, 
-  {
     "abbreviation": "UFE", 
     "source": "EGS", 
     "expansion": "Unallocated Future Expense"
-  }, 
-  {
-    "abbreviation": "UHF", 
-    "source": "EGS", 
-    "expansion": "Ultra-High Frequency"
-  }, 
-  {
-    "abbreviation": "UI", 
-    "source": "EGS", 
-    "expansion": "User Interface"
-  }, 
-  {
-    "abbreviation": "ULA", 
-    "source": "EGS", 
-    "expansion": "United Launch Alliance"
-  }, 
-  {
-    "abbreviation": "ULF", 
-    "source": "EGS", 
-    "expansion": "Utilization Logistics Flight"
-  }, 
-  {
-    "abbreviation": "ULF", 
-    "source": "EGS", 
-    "expansion": "Uncrewed Lunar Flyby"
   }, 
   {
     "abbreviation": "UM", 
@@ -143023,11 +139293,6 @@
     "abbreviation": "UP", 
     "source": "EGS", 
     "expansion": "Unified Power"
-  }, 
-  {
-    "abbreviation": "UPS", 
-    "source": "EGS", 
-    "expansion": "Uninterruptible Power Supply"
   }, 
   {
     "abbreviation": "UPSS", 
@@ -143045,31 +139310,6 @@
     "expansion": "Underway Recovery Test"
   }, 
   {
-    "abbreviation": "US", 
-    "source": "EGS", 
-    "expansion": "United States"
-  }, 
-  {
-    "abbreviation": "USA", 
-    "source": "EGS", 
-    "expansion": "United Space Alliance"
-  }, 
-  {
-    "abbreviation": "USA", 
-    "source": "EGS", 
-    "expansion": "Universal Stage Adapter"
-  }, 
-  {
-    "abbreviation": "USAF", 
-    "source": "EGS", 
-    "expansion": "United States Air Force"
-  }, 
-  {
-    "abbreviation": "USN", 
-    "source": "EGS", 
-    "expansion": "United States Navy"
-  }, 
-  {
     "abbreviation": "USTDC", 
     "source": "EGS", 
     "expansion": "University-affiliate SpacePort Technology Development Contract"
@@ -143085,11 +139325,6 @@
     "expansion": "Vehicle and Spacecraft Integration"
   }, 
   {
-    "abbreviation": "V&V", 
-    "source": "EGS", 
-    "expansion": "Verification and Validation"
-  }, 
-  {
     "abbreviation": "V/m", 
     "source": "EGS", 
     "expansion": "volts per meter"
@@ -143098,11 +139333,6 @@
     "abbreviation": "VAA", 
     "source": "EGS", 
     "expansion": "Vehicle Access Arm"
-  }, 
-  {
-    "abbreviation": "VAB", 
-    "source": "EGS", 
-    "expansion": "Vehicle Assembly Building"
   }, 
   {
     "abbreviation": "VABE", 
@@ -143130,11 +139360,6 @@
     "expansion": "Validation Cross-Reference Matrix"
   }, 
   {
-    "abbreviation": "VAFB", 
-    "source": "EGS", 
-    "expansion": "Vandenberg Air Force Base"
-  }, 
-  {
     "abbreviation": "VAHIR", 
     "source": "EGS", 
     "expansion": "Volume Averaged Height Integrated Radar"
@@ -143155,19 +139380,9 @@
     "expansion": "violation consequence index"
   }, 
   {
-    "abbreviation": "VCN", 
-    "source": "EGS", 
-    "expansion": "Verification Closure Notice"
-  }, 
-  {
     "abbreviation": "VDC", 
     "source": "EGS", 
     "expansion": "Volts Direct Current"
-  }, 
-  {
-    "abbreviation": "VDD", 
-    "source": "EGS", 
-    "expansion": "Version Description Document"
   }, 
   {
     "abbreviation": "VDS", 
@@ -143190,19 +139405,9 @@
     "expansion": "Variable Frequency Drives"
   }, 
   {
-    "abbreviation": "VHF", 
-    "source": "EGS", 
-    "expansion": "Very High Frequency"
-  }, 
-  {
     "abbreviation": "VIC", 
     "source": "EGS", 
     "expansion": "Video Interchange Conference"
-  }, 
-  {
-    "abbreviation": "VICB", 
-    "source": "EGS", 
-    "expansion": "Vehicle Integration Control Board"
   }, 
   {
     "abbreviation": "VIE", 
@@ -143210,49 +139415,14 @@
     "expansion": "Vertical Integration Element"
   }, 
   {
-    "abbreviation": "VIE", 
-    "source": "EGS", 
-    "expansion": "Vehicle Interface Element"
-  }, 
-  {
-    "abbreviation": "VIL", 
-    "source": "EGS", 
-    "expansion": "Vehicle Integration and Launch"
-  }, 
-  {
     "abbreviation": "VLD", 
     "source": "EGS", 
     "expansion": "Vertical Lift Doors"
   }, 
   {
-    "abbreviation": "VLN", 
-    "source": "EGS", 
-    "expansion": "Verification Logic Network"
-  }, 
-  {
-    "abbreviation": "VMC", 
-    "source": "EGS", 
-    "expansion": "Vehicle Management Computer"
-  }, 
-  {
     "abbreviation": "VMS", 
     "source": "EGS", 
     "expansion": "Vehicle Motion Simulator"
-  }, 
-  {
-    "abbreviation": "VOIP", 
-    "source": "EGS", 
-    "expansion": "Voice Over Internet Protocol"
-  }, 
-  {
-    "abbreviation": "VPN", 
-    "source": "EGS", 
-    "expansion": "Virtual Private Network"
-  }, 
-  {
-    "abbreviation": "VPU", 
-    "source": "EGS", 
-    "expansion": "Vision Processing Unit"
   }, 
   {
     "abbreviation": "VS", 
@@ -143263,11 +139433,6 @@
     "abbreviation": "VSDS", 
     "source": "EGS", 
     "expansion": "Vehicle Stabilization and Damping Subsystem"
-  }, 
-  {
-    "abbreviation": "VSM", 
-    "source": "EGS", 
-    "expansion": "Value Stream Mapping"
   }, 
   {
     "abbreviation": "VSP", 
@@ -143286,11 +139451,6 @@
   }, 
   {
     "abbreviation": "VTF", 
-    "source": "EGS", 
-    "expansion": "Vertical Transportation Fixture"
-  }, 
-  {
-    "abbreviation": "VTM", 
     "source": "EGS", 
     "expansion": "Vertical Transportation Fixture"
   }, 
@@ -143318,36 +139478,6 @@
     "abbreviation": "WAC", 
     "source": "EGS", 
     "expansion": "Work Authorization Control "
-  }, 
-  {
-    "abbreviation": "WAD", 
-    "source": "EGS", 
-    "expansion": "Work Authorization Document"
-  }, 
-  {
-    "abbreviation": "WAR", 
-    "source": "EGS", 
-    "expansion": "Weekly Activity Report"
-  }, 
-  {
-    "abbreviation": "WBS", 
-    "source": "EGS", 
-    "expansion": "Work Breakdown Structure"
-  }, 
-  {
-    "abbreviation": "WCS", 
-    "source": "EGS", 
-    "expansion": "Work Control System"
-  }, 
-  {
-    "abbreviation": "WDR", 
-    "source": "EGS", 
-    "expansion": "Wet Dress Rehearsal"
-  }, 
-  {
-    "abbreviation": "WG", 
-    "source": "EGS", 
-    "expansion": "Working Group"
   }, 
   {
     "abbreviation": "Wilco", 
@@ -143385,29 +139515,9 @@
     "expansion": "White Sands"
   }, 
   {
-    "abbreviation": "WSC", 
-    "source": "EGS", 
-    "expansion": "White Sands Complex"
-  }, 
-  {
     "abbreviation": "WSERSRB", 
     "source": "EGS", 
     "expansion": "Weapon System Explosives Safety Review Board"
-  }, 
-  {
-    "abbreviation": "WUC", 
-    "source": "EGS", 
-    "expansion": "Work Unit Code"
-  }, 
-  {
-    "abbreviation": "WWW", 
-    "source": "EGS", 
-    "expansion": "World Wide Web"
-  }, 
-  {
-    "abbreviation": "Wx", 
-    "source": "EGS", 
-    "expansion": "Weather"
   }, 
   {
     "abbreviation": "WYE", 
@@ -143425,19 +139535,9 @@
     "expansion": "Extensible Columns Subsystem"
   }, 
   {
-    "abbreviation": "Xe", 
-    "source": "EGS", 
-    "expansion": "Xenon"
-  }, 
-  {
     "abbreviation": "XFCA", 
     "source": "EGS", 
     "expansion": "Cross Functional Closure Assessment"
-  }, 
-  {
-    "abbreviation": "XML", 
-    "source": "EGS", 
-    "expansion": "Extensible Markup Language"
   }, 
   {
     "abbreviation": "XPRAT", 
