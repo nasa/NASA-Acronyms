@@ -1305,11 +1305,6 @@
     "expansion": "Crew Module Adapter"
   }, 
   {
-    "abbreviation": "CMA", 
-    "source": "EGS", 
-    "expansion": "Crew Module Adapter"
-  }, 
-  {
     "abbreviation": "CMASS", 
     "source": "EGS", 
     "expansion": "Crew Module Ammonia Servicing Subsystem"
@@ -4998,6 +4993,11 @@
     "abbreviation": "ITRWG", 
     "source": "EGS", 
     "expansion": "Integrated Technical Roadmap Working Group"
+  }, 
+  {
+    "abbreviation": "ITSC", 
+    "source": "EGS", 
+    "expansion": "Information Technology Steering Committee"
   }, 
   {
     "abbreviation": "ITSS", 
