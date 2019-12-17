@@ -635,11 +635,6 @@
     "expansion": "Bilateral Data Exchange Agreements, Lists, and Schedules"
   }, 
   {
-    "abbreviation": "BDEALS", 
-    "source": "EGS", 
-    "expansion": "Bi-lateral data exchange agreement list and schedules"
-  }, 
-  {
     "abbreviation": "BEA", 
     "source": "EGS", 
     "expansion": "Bilateral Exchange Agreement"
