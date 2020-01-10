@@ -14380,6 +14380,11 @@
     "expansion": "Cooperative Astrophysics And Technology Satellite"
   }, 
   {
+    "abbreviation": "CATT", 
+    "source": "LaRC", 
+    "expansion": "Center Automation Tranformation Team"
+  }, 
+  {
     "abbreviation": "CATV", 
     "source": "LaRC", 
     "expansion": "Cable TV"
@@ -86312,6 +86317,11 @@
   {
     "abbreviation": "OSCAR", 
     "source": "LaRC", 
+    "expansion": "Orbital Syngas Commodity Augmentation Reactor"
+  }, 
+  {
+    "abbreviation": "OSCAR", 
+    "source": "LaRC", 
     "expansion": "Online Satellite Catalogue and Request System"
   }, 
   {
@@ -124470,6 +124480,11 @@
     "expansion": "Time to Go"
   }, 
   {
+    "abbreviation": "TtG", 
+    "source": "LaRC", 
+    "expansion": "Trash to Gas"
+  }, 
+  {
     "abbreviation": "TTGbe", 
     "source": "LaRC", 
     "expansion": "Time Tagged Gigabyte"
@@ -124583,6 +124598,11 @@
     "abbreviation": "TTS", 
     "source": "LaRC", 
     "expansion": "Titusville"
+  }, 
+  {
+    "abbreviation": "TtSG", 
+    "source": "LaRC", 
+    "expansion": "Trash to Supply Gas"
   }, 
   {
     "abbreviation": "TTSS", 
