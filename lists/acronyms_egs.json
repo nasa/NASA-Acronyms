@@ -950,6 +950,11 @@
     "expansion": "LCC Arms and Umbilicals Engineer"
   }, 
   {
+    "abbreviation": "CAV", 
+    "source": "EGS", 
+    "expansion": "Configuration, Accounting, & Verification"
+  }, 
+  {
     "abbreviation": "CB", 
     "source": "EGS", 
     "expansion": "Control Board"
@@ -8478,6 +8483,11 @@
     "abbreviation": "ROM", 
     "source": "EGS", 
     "expansion": "Recovery Operations Manager"
+  }, 
+  {
+    "abbreviation": "ROM", 
+    "source": "EGS", 
+    "expansion": "Range of Motion"
   }, 
   {
     "abbreviation": "ROSES", 
