@@ -337,7 +337,7 @@
   {
     "abbreviation": "AACPSM", 
     "source": "HSF", 
-    "expansion": "Actual Average Cost per Successful Mission"
+    "expansion": "Actual Average Cost Per Successful Mission"
   }, 
   {
     "abbreviation": "AACS", 
@@ -802,7 +802,7 @@
   {
     "abbreviation": "ACE", 
     "source": "HSF", 
-    "expansion": "Actual Average Cost per Successful Mission"
+    "expansion": "Actual Average Cost Per Successful Mission"
   }, 
   {
     "abbreviation": "ACE", 
@@ -902,7 +902,7 @@
   {
     "abbreviation": "ACM", 
     "source": "HSF", 
-    "expansion": "Actual Average Cost per Successful Mission"
+    "expansion": "Actual Average Cost Per Successful Mission"
   }, 
   {
     "abbreviation": "ACM", 
@@ -1372,7 +1372,7 @@
   {
     "abbreviation": "ADOP", 
     "source": "HSF", 
-    "expansion": "Advanced Distributed On-Board Processor"
+    "expansion": "Advanced Distributed on-Board Processor"
   }, 
   {
     "abbreviation": "ADP", 
@@ -1917,7 +1917,7 @@
   {
     "abbreviation": "AFO", 
     "source": "HSF", 
-    "expansion": "Abort from Orbit"
+    "expansion": "Abort From Orbit"
   }, 
   {
     "abbreviation": "AFO", 
@@ -2542,7 +2542,7 @@
   {
     "abbreviation": "AIOD", 
     "source": "HSF", 
-    "expansion": "Ascent Insertion On-Orbit Deorbit"
+    "expansion": "Ascent Insertion on-Orbit Deorbit"
   }, 
   {
     "abbreviation": "AIP", 
@@ -2582,7 +2582,7 @@
   {
     "abbreviation": "AIS", 
     "source": "HSF", 
-    "expansion": "Analog-In Single-Ended"
+    "expansion": "Analog-in Single-Ended"
   }, 
   {
     "abbreviation": "AISC", 
@@ -3447,12 +3447,12 @@
   {
     "abbreviation": "AOCP", 
     "source": "HSF", 
-    "expansion": "AC On-Board Computer Program"
+    "expansion": "AC on-Board Computer Program"
   }, 
   {
     "abbreviation": "AOCP", 
     "source": "HSF", 
-    "expansion": "AVCS On-Board Computer Program"
+    "expansion": "AVCS on-Board Computer Program"
   }, 
   {
     "abbreviation": "AOCRD", 
@@ -3562,7 +3562,7 @@
   {
     "abbreviation": "AOSP", 
     "source": "HSF", 
-    "expansion": "Advanced On-Board Signal Processor"
+    "expansion": "Advanced on-Board Signal Processor"
   }, 
   {
     "abbreviation": "AOT", 
@@ -3902,7 +3902,7 @@
   {
     "abbreviation": "APTI", 
     "source": "HSF", 
-    "expansion": "Actions per Time Interval"
+    "expansion": "Actions Per Time Interval"
   }, 
   {
     "abbreviation": "APU", 
@@ -4212,7 +4212,7 @@
   {
     "abbreviation": "ARTSE", 
     "source": "HSF", 
-    "expansion": "Ada Run-Time Support Environment (for Embedded Systems)"
+    "expansion": "Ada Run-Time Support Environment (For Embedded Systems)"
   }, 
   {
     "abbreviation": "ARU", 
@@ -4292,7 +4292,7 @@
   {
     "abbreviation": "ASAP", 
     "source": "HSF", 
-    "expansion": "As Soon As Possible"
+    "expansion": "As Soon as Possible"
   }, 
   {
     "abbreviation": "ASAPTS", 
@@ -5677,7 +5677,7 @@
   {
     "abbreviation": "BAU", 
     "source": "HSF", 
-    "expansion": "Business As Usual"
+    "expansion": "Business as Usual"
   }, 
   {
     "abbreviation": "BB", 
@@ -6202,7 +6202,7 @@
   {
     "abbreviation": "BILBO", 
     "source": "HSF", 
-    "expansion": "Built-In Logic Block Observer"
+    "expansion": "Built-in Logic Block Observer"
   }, 
   {
     "abbreviation": "BIS", 
@@ -6217,12 +6217,12 @@
   {
     "abbreviation": "BIT", 
     "source": "HSF", 
-    "expansion": "Built-In Test"
+    "expansion": "Built-in Test"
   }, 
   {
     "abbreviation": "BITE", 
     "source": "HSF", 
-    "expansion": "Built-In Test Equipment"
+    "expansion": "Built-in Test Equipment"
   }, 
   {
     "abbreviation": "BITS", 
@@ -7882,7 +7882,7 @@
   {
     "abbreviation": "CB", 
     "source": "HSF", 
-    "expansion": "Coax (or Coaxial) Interface Bracket"
+    "expansion": "Coax (Or Coaxial) Interface Bracket"
   }, 
   {
     "abbreviation": "CB", 
@@ -9807,7 +9807,7 @@
   {
     "abbreviation": "CIDSC", 
     "source": "HSF", 
-    "expansion": "Contractor In-House Data Support Capability"
+    "expansion": "Contractor in-House Data Support Capability"
   }, 
   {
     "abbreviation": "CIE", 
@@ -10837,7 +10837,7 @@
   {
     "abbreviation": "COS", 
     "source": "HSF", 
-    "expansion": "Carry-On Oxygen System"
+    "expansion": "Carry-on Oxygen System"
   }, 
   {
     "abbreviation": "COS", 
@@ -10892,7 +10892,7 @@
   {
     "abbreviation": "COTS", 
     "source": "HSF", 
-    "expansion": "Commercial off the Shelf"
+    "expansion": "Commercial Off the Shelf"
   }, 
   {
     "abbreviation": "COV", 
@@ -10992,7 +10992,7 @@
   {
     "abbreviation": "CPAF", 
     "source": "HSF", 
-    "expansion": "Cost plus Award Fee"
+    "expansion": "Cost Plus Award Fee"
   }, 
   {
     "abbreviation": "CPAR", 
@@ -11142,17 +11142,17 @@
   {
     "abbreviation": "CPF", 
     "source": "HSF", 
-    "expansion": "Cost per Flight"
+    "expansion": "Cost Per Flight"
   }, 
   {
     "abbreviation": "CPFF", 
     "source": "HSF", 
-    "expansion": "Cost plus Fixed Fee"
+    "expansion": "Cost Plus Fixed Fee"
   }, 
   {
     "abbreviation": "CPFF/IF", 
     "source": "HSF", 
-    "expansion": "Cost plus Fixed Fee/Incentive Fee"
+    "expansion": "Cost Plus Fixed Fee/Incentive Fee"
   }, 
   {
     "abbreviation": "CPG", 
@@ -11182,12 +11182,12 @@
   {
     "abbreviation": "CPIF", 
     "source": "HSF", 
-    "expansion": "Cost plus Incentive Fee"
+    "expansion": "Cost Plus Incentive Fee"
   }, 
   {
     "abbreviation": "CPIF/AF", 
     "source": "HSF", 
-    "expansion": "Cost plus Incentive Fee/Award Fee"
+    "expansion": "Cost Plus Incentive Fee/Award Fee"
   }, 
   {
     "abbreviation": "CPM", 
@@ -11687,7 +11687,7 @@
   {
     "abbreviation": "CS", 
     "source": "HSF", 
-    "expansion": "Contractor Share of Variance from Target Cost"
+    "expansion": "Contractor Share of Variance From Target Cost"
   }, 
   {
     "abbreviation": "CSA", 
@@ -13372,7 +13372,7 @@
   {
     "abbreviation": "DBCI", 
     "source": "HSF", 
-    "expansion": "DB with Respect to a Circular Polarized Antenna"
+    "expansion": "DB With Respect to a Circular Polarized Antenna"
   }, 
   {
     "abbreviation": "DBCR", 
@@ -14322,7 +14322,7 @@
   {
     "abbreviation": "DECA", 
     "source": "HSF", 
-    "expansion": "Display/AGAP Electronic Control Assembly"
+    "expansion": "Display/Agap Electronic Control Assembly"
   }, 
   {
     "abbreviation": "DECL", 
@@ -14907,7 +14907,7 @@
   {
     "abbreviation": "DITMCO", 
     "source": "HSF", 
-    "expansion": "Drive-In Theater Manufacturing Company\u2019s Wire Harness Insulation Analyzer"
+    "expansion": "Drive-in Theater Manufacturing Company\u2019s Wire Harness Insulation Analyzer"
   }, 
   {
     "abbreviation": "DITMO", 
@@ -15412,7 +15412,7 @@
   {
     "abbreviation": "DORIS", 
     "source": "HSF", 
-    "expansion": "Determination of Orbit Radio Positioning Integrated from Shuttle (French-Supplied Dual-Frequency Receiver)"
+    "expansion": "Determination of Orbit Radio Positioning Integrated From Shuttle (French-Supplied Dual-Frequency Receiver)"
   }, 
   {
     "abbreviation": "DOS", 
@@ -16522,7 +16522,7 @@
   {
     "abbreviation": "DVO", 
     "source": "HSF", 
-    "expansion": "Delta Velocity On/Off"
+    "expansion": "Delta Velocity on/Off"
   }, 
   {
     "abbreviation": "DVS", 
@@ -16897,7 +16897,7 @@
   {
     "abbreviation": "EBI", 
     "source": "HSF", 
-    "expansion": "Eyeballs In (+GX)"
+    "expansion": "Eyeballs in (+GX)"
   }, 
   {
     "abbreviation": "EBL", 
@@ -18747,7 +18747,7 @@
   {
     "abbreviation": "EOW", 
     "source": "HSF", 
-    "expansion": "Energy over Weight"
+    "expansion": "Energy Over Weight"
   }, 
   {
     "abbreviation": "EP", 
@@ -19002,7 +19002,7 @@
   {
     "abbreviation": "EPTU", 
     "source": "HSF", 
-    "expansion": "Events per Time Unit"
+    "expansion": "Events Per Time Unit"
   }, 
   {
     "abbreviation": "EPWG", 
@@ -20102,7 +20102,7 @@
   {
     "abbreviation": "EXO", 
     "source": "HSF", 
-    "expansion": "Experiment Operator (in Spacelab)"
+    "expansion": "Experiment Operator (In Spacelab)"
   }, 
   {
     "abbreviation": "EXT", 
@@ -22117,12 +22117,12 @@
   {
     "abbreviation": "FMOFEV", 
     "source": "HSF", 
-    "expansion": "First Manned Orbital Flight with EVA"
+    "expansion": "First Manned Orbital Flight With EVA"
   }, 
   {
     "abbreviation": "FMOFPL", 
     "source": "HSF", 
-    "expansion": "First Manned Orbital Flight with Payload"
+    "expansion": "First Manned Orbital Flight With Payload"
   }, 
   {
     "abbreviation": "FMP", 
@@ -22367,7 +22367,7 @@
   {
     "abbreviation": "FOP", 
     "source": "HSF", 
-    "expansion": "Follow-On Production"
+    "expansion": "Follow-on Production"
   }, 
   {
     "abbreviation": "FOPG", 
@@ -22377,7 +22377,7 @@
   {
     "abbreviation": "FOPP", 
     "source": "HSF", 
-    "expansion": "Follow-On Parts Production"
+    "expansion": "Follow-on Parts Production"
   }, 
   {
     "abbreviation": "FOPS", 
@@ -22652,7 +22652,7 @@
   {
     "abbreviation": "FPPR", 
     "source": "HSF", 
-    "expansion": "Fixed Price with Price Revision"
+    "expansion": "Fixed Price With Price Revision"
   }, 
   {
     "abbreviation": "FPQ", 
@@ -24382,7 +24382,7 @@
   {
     "abbreviation": "GETL", 
     "source": "HSF", 
-    "expansion": "Ground Elapsed Time of Landing (for TIG of Abort Burn)"
+    "expansion": "Ground Elapsed Time of Landing (For TIG of Abort Burn)"
   }, 
   {
     "abbreviation": "GETS", 
@@ -24962,7 +24962,7 @@
   {
     "abbreviation": "GOTS", 
     "source": "HSF", 
-    "expansion": "Government off the Shelf"
+    "expansion": "Government Off the Shelf"
   }, 
   {
     "abbreviation": "GOWG", 
@@ -26737,7 +26737,7 @@
   {
     "abbreviation": "HIPO", 
     "source": "HSF", 
-    "expansion": "Hierarchy plus Input, Process, and Output"
+    "expansion": "Hierarchy Plus Input, Process, and Output"
   }, 
   {
     "abbreviation": "HITS", 
@@ -27762,7 +27762,7 @@
   {
     "abbreviation": "Hz", 
     "source": "HSF", 
-    "expansion": "Hertz (Cycles per Second)"
+    "expansion": "Hertz (Cycles Per Second)"
   }, 
   {
     "abbreviation": "I", 
@@ -28072,7 +28072,7 @@
   {
     "abbreviation": "IASS", 
     "source": "HSF", 
-    "expansion": "Inverter/ATCS Support Structure"
+    "expansion": "Inverter/Atcs Support Structure"
   }, 
   {
     "abbreviation": "IAT", 
@@ -28787,7 +28787,7 @@
   {
     "abbreviation": "IDOT", 
     "source": "HSF", 
-    "expansion": "Instrument Digital On-Line Transcriber"
+    "expansion": "Instrument Digital on-Line Transcriber"
   }, 
   {
     "abbreviation": "IDP", 
@@ -29482,7 +29482,7 @@
   {
     "abbreviation": "ILSIM", 
     "source": "HSF", 
-    "expansion": "Integration of Lethality Studies into Model"
+    "expansion": "Integration of Lethality Studies Into Model"
   }, 
   {
     "abbreviation": "ILSMT", 
@@ -29857,7 +29857,7 @@
   {
     "abbreviation": "IOCP", 
     "source": "HSF", 
-    "expansion": "ITS On-Board Computer Program"
+    "expansion": "ITS on-Board Computer Program"
   }, 
   {
     "abbreviation": "IOCU", 
@@ -30337,7 +30337,7 @@
   {
     "abbreviation": "IRAN", 
     "source": "HSF", 
-    "expansion": "Inspection and Repairs As Necessary"
+    "expansion": "Inspection and Repairs as Necessary"
   }, 
   {
     "abbreviation": "IRANSAT", 
@@ -33407,7 +33407,7 @@
   {
     "abbreviation": "LMF", 
     "source": "HSF", 
-    "expansion": "Lower mid Fuselage"
+    "expansion": "Lower Mid Fuselage"
   }, 
   {
     "abbreviation": "LMG", 
@@ -33662,7 +33662,7 @@
   {
     "abbreviation": "LONS", 
     "source": "HSF", 
-    "expansion": "Local On-Line Network System"
+    "expansion": "Local on-Line Network System"
   }, 
   {
     "abbreviation": "LOO", 
@@ -34472,7 +34472,7 @@
   {
     "abbreviation": "LTA", 
     "source": "HSF", 
-    "expansion": "Lighter than Air"
+    "expansion": "Lighter Than Air"
   }, 
   {
     "abbreviation": "LTA", 
@@ -35317,7 +35317,7 @@
   {
     "abbreviation": "MAPS", 
     "source": "HSF", 
-    "expansion": "Measurement of Air Pollution from Satellites"
+    "expansion": "Measurement of Air Pollution From Satellites"
   }, 
   {
     "abbreviation": "MAPTIS", 
@@ -37052,7 +37052,7 @@
   {
     "abbreviation": "MFLOPS", 
     "source": "HSF", 
-    "expansion": "Millions of Floating-Point Operations per Second"
+    "expansion": "Millions of Floating-Point Operations Per Second"
   }, 
   {
     "abbreviation": "MFO", 
@@ -37262,7 +37262,7 @@
   {
     "abbreviation": "MHz", 
     "source": "HSF", 
-    "expansion": "Megahertz (Megacycles per Second)"
+    "expansion": "Megahertz (Megacycles Per Second)"
   }, 
   {
     "abbreviation": "MI", 
@@ -37972,12 +37972,12 @@
   {
     "abbreviation": "MMH/FH", 
     "source": "HSF", 
-    "expansion": "Maintenance Man-Hours per Flight Hour"
+    "expansion": "Maintenance Man-Hours Per Flight Hour"
   }, 
   {
     "abbreviation": "MMH/Y", 
     "source": "HSF", 
-    "expansion": "Maintenance Man-Hours per Year"
+    "expansion": "Maintenance Man-Hours Per Year"
   }, 
   {
     "abbreviation": "MMI", 
@@ -38722,7 +38722,7 @@
   {
     "abbreviation": "MPOR", 
     "source": "HSF", 
-    "expansion": "Master Power-On Reset"
+    "expansion": "Master Power-on Reset"
   }, 
   {
     "abbreviation": "MPP", 
@@ -40517,12 +40517,12 @@
   {
     "abbreviation": "Mb/s", 
     "source": "HSF", 
-    "expansion": "Megabits per Second"
+    "expansion": "Megabits Per Second"
   }, 
   {
     "abbreviation": "Mbps", 
     "source": "HSF", 
-    "expansion": "Megabits per Second"
+    "expansion": "Megabits Per Second"
   }, 
   {
     "abbreviation": "MeV", 
@@ -40532,17 +40532,17 @@
   {
     "abbreviation": "Mips", 
     "source": "HSF", 
-    "expansion": "Million Instructions per Second"
+    "expansion": "Million Instructions Per Second"
   }, 
   {
     "abbreviation": "Mips", 
     "source": "HSF", 
-    "expansion": "Millions of Instructions per Second"
+    "expansion": "Millions of Instructions Per Second"
   }, 
   {
     "abbreviation": "Mops", 
     "source": "HSF", 
-    "expansion": "Million Operations per Second"
+    "expansion": "Million Operations Per Second"
   }, 
   {
     "abbreviation": "N", 
@@ -40612,7 +40612,7 @@
   {
     "abbreviation": "N/FTS", 
     "source": "HSF", 
-    "expansion": "Near-/far-Term System"
+    "expansion": "Near-/Far-Term System"
   }, 
   {
     "abbreviation": "N/L", 
@@ -40642,7 +40642,7 @@
   {
     "abbreviation": "N/m2", 
     "source": "HSF", 
-    "expansion": "Newtons per Meter Squared"
+    "expansion": "Newtons Per Meter Squared"
   }, 
   {
     "abbreviation": "N2H2", 
@@ -43162,7 +43162,7 @@
   {
     "abbreviation": "OESS", 
     "source": "HSF", 
-    "expansion": "Orbiter/ET Separation System"
+    "expansion": "Orbiter/Et Separation System"
   }, 
   {
     "abbreviation": "OET", 
@@ -43587,7 +43587,7 @@
   {
     "abbreviation": "OLSA", 
     "source": "HSF", 
-    "expansion": "Orbiter/LPS Signal Adapter"
+    "expansion": "Orbiter/Lps Signal Adapter"
   }, 
   {
     "abbreviation": "OLSP", 
@@ -43602,7 +43602,7 @@
   {
     "abbreviation": "OM", 
     "source": "HSF", 
-    "expansion": "Operational mid DSC or MDM"
+    "expansion": "Operational Mid DSC or MDM"
   }, 
   {
     "abbreviation": "OM", 
@@ -44887,7 +44887,7 @@
   {
     "abbreviation": "Orion", 
     "source": "HSF", 
-    "expansion": "Communications Satellite for Service over the Atlantic Ocean"
+    "expansion": "Communications Satellite for Service Over the Atlantic Ocean"
   }, 
   {
     "abbreviation": "P", 
@@ -48787,7 +48787,7 @@
   {
     "abbreviation": "POI", 
     "source": "HSF", 
-    "expansion": "Power-On/Off Interrupt"
+    "expansion": "Power-on/Off Interrupt"
   }, 
   {
     "abbreviation": "POI", 
@@ -48807,7 +48807,7 @@
   {
     "abbreviation": "POID", 
     "source": "HSF", 
-    "expansion": "Power-On/Off Interrupt Delay"
+    "expansion": "Power-on/Off Interrupt Delay"
   }, 
   {
     "abbreviation": "POL", 
@@ -48877,7 +48877,7 @@
   {
     "abbreviation": "POPU", 
     "source": "HSF", 
-    "expansion": "Push-over/Pull-Up"
+    "expansion": "Push-Over/Pull-Up"
   }, 
   {
     "abbreviation": "POR", 
@@ -48887,7 +48887,7 @@
   {
     "abbreviation": "POR", 
     "source": "HSF", 
-    "expansion": "Power-On Reset"
+    "expansion": "Power-on Reset"
   }, 
   {
     "abbreviation": "POR", 
@@ -49252,7 +49252,7 @@
   {
     "abbreviation": "PPS", 
     "source": "HSF", 
-    "expansion": "Pulses per Second"
+    "expansion": "Pulses Per Second"
   }, 
   {
     "abbreviation": "PPSL", 
@@ -50722,7 +50722,7 @@
   {
     "abbreviation": "PWD", 
     "source": "HSF", 
-    "expansion": "Proceed with Design"
+    "expansion": "Proceed With Design"
   }, 
   {
     "abbreviation": "PWDS", 
@@ -52302,7 +52302,7 @@
   {
     "abbreviation": "REI", 
     "source": "HSF", 
-    "expansion": "Range from Entry Interface"
+    "expansion": "Range From Entry Interface"
   }, 
   {
     "abbreviation": "REI", 
@@ -52907,7 +52907,7 @@
   {
     "abbreviation": "RJOD", 
     "source": "HSF", 
-    "expansion": "Reaction Jet/OMS Driver"
+    "expansion": "Reaction Jet/Oms Driver"
   }, 
   {
     "abbreviation": "RL", 
@@ -54857,7 +54857,7 @@
   {
     "abbreviation": "SAIP", 
     "source": "HSF", 
-    "expansion": "Spares Acquisition Integrated with Production"
+    "expansion": "Spares Acquisition Integrated With Production"
   }, 
   {
     "abbreviation": "SAJ", 
@@ -55267,7 +55267,7 @@
   {
     "abbreviation": "SAWBOC", 
     "source": "HSF", 
-    "expansion": "System Analysis with Blockout Considerations"
+    "expansion": "System Analysis With Blockout Considerations"
   }, 
   {
     "abbreviation": "SB", 
@@ -57717,7 +57717,7 @@
   {
     "abbreviation": "SGITS", 
     "source": "HSF", 
-    "expansion": "Spacecraft/GOSS Interface Test System"
+    "expansion": "Spacecraft/Goss Interface Test System"
   }, 
   {
     "abbreviation": "SGLS", 
@@ -57837,7 +57837,7 @@
   {
     "abbreviation": "SHOOT", 
     "source": "HSF", 
-    "expansion": "Super Helium On-Orbit Transfer"
+    "expansion": "Super Helium on-Orbit Transfer"
   }, 
   {
     "abbreviation": "SHORAN", 
@@ -58482,7 +58482,7 @@
   {
     "abbreviation": "SLA", 
     "source": "HSF", 
-    "expansion": "Spray-On Lightweight Ablator"
+    "expansion": "Spray-on Lightweight Ablator"
   }, 
   {
     "abbreviation": "SLA", 
@@ -58847,7 +58847,7 @@
   {
     "abbreviation": "SM3/H", 
     "source": "HSF", 
-    "expansion": "Standard m3 per Hour"
+    "expansion": "Standard M3 Per Hour"
   }, 
   {
     "abbreviation": "SMA", 
@@ -59502,7 +59502,7 @@
   {
     "abbreviation": "SOFI", 
     "source": "HSF", 
-    "expansion": "Spray-On Foam Insulation"
+    "expansion": "Spray-on Foam Insulation"
   }, 
   {
     "abbreviation": "SOFT", 
@@ -59702,7 +59702,7 @@
   {
     "abbreviation": "SOSRM", 
     "source": "HSF", 
-    "expansion": "Strap-On Solid Rocket Motor"
+    "expansion": "Strap-on Solid Rocket Motor"
   }, 
   {
     "abbreviation": "SOT", 
@@ -59712,7 +59712,7 @@
   {
     "abbreviation": "SOT", 
     "source": "HSF", 
-    "expansion": "Strap-On Tank"
+    "expansion": "Strap-on Tank"
   }, 
   {
     "abbreviation": "SOTS", 
@@ -60342,7 +60342,7 @@
   {
     "abbreviation": "SPOC", 
     "source": "HSF", 
-    "expansion": "Shuttle Portable On-Board Computer"
+    "expansion": "Shuttle Portable on-Board Computer"
   }, 
   {
     "abbreviation": "SPOM", 
@@ -61767,7 +61767,7 @@
   {
     "abbreviation": "SSO", 
     "source": "HSF", 
-    "expansion": "Subsystem Operation (in Spacelab)"
+    "expansion": "Subsystem Operation (In Spacelab)"
   }, 
   {
     "abbreviation": "SSO", 
@@ -62187,7 +62187,7 @@
   {
     "abbreviation": "SST", 
     "source": "HSF", 
-    "expansion": "Subsystem Terminal (on Spacelab)"
+    "expansion": "Subsystem Terminal (On Spacelab)"
   }, 
   {
     "abbreviation": "SSTC", 
@@ -64362,7 +64362,7 @@
   {
     "abbreviation": "TCM", 
     "source": "HSF", 
-    "expansion": "Target Cost per Mission"
+    "expansion": "Target Cost Per Mission"
   }, 
   {
     "abbreviation": "TCM", 
@@ -65047,7 +65047,7 @@
   {
     "abbreviation": "TFC", 
     "source": "HSF", 
-    "expansion": "Time from Cutoff"
+    "expansion": "Time From Cutoff"
   }, 
   {
     "abbreviation": "TFCS", 
@@ -65057,7 +65057,7 @@
   {
     "abbreviation": "TFE", 
     "source": "HSF", 
-    "expansion": "Time from Event"
+    "expansion": "Time From Event"
   }, 
   {
     "abbreviation": "TFF", 
@@ -65072,7 +65072,7 @@
   {
     "abbreviation": "TFI", 
     "source": "HSF", 
-    "expansion": "Time from Ignition"
+    "expansion": "Time From Ignition"
   }, 
   {
     "abbreviation": "TFL", 
@@ -65082,17 +65082,17 @@
   {
     "abbreviation": "TFL", 
     "source": "HSF", 
-    "expansion": "Time from Launch"
+    "expansion": "Time From Launch"
   }, 
   {
     "abbreviation": "TFM", 
     "source": "HSF", 
-    "expansion": "Target Incentive Fee per Mission"
+    "expansion": "Target Incentive Fee Per Mission"
   }, 
   {
     "abbreviation": "TFO", 
     "source": "HSF", 
-    "expansion": "Transferring from Original"
+    "expansion": "Transferring From Original"
   }, 
   {
     "abbreviation": "TFOV", 
@@ -65167,7 +65167,7 @@
   {
     "abbreviation": "TGIR", 
     "source": "HSF", 
-    "expansion": "Test Generation with Infrared Reasoning"
+    "expansion": "Test Generation With Infrared Reasoning"
   }, 
   {
     "abbreviation": "TGO", 
@@ -65312,7 +65312,7 @@
   {
     "abbreviation": "TIFS", 
     "source": "HSF", 
-    "expansion": "Total In-Flight Simulator"
+    "expansion": "Total in-Flight Simulator"
   }, 
   {
     "abbreviation": "TIG", 
@@ -68497,7 +68497,7 @@
   {
     "abbreviation": "VGIMU", 
     "source": "HSF", 
-    "expansion": "Velocity to Be Gained As Related to IMU Orientation"
+    "expansion": "Velocity to Be Gained as Related to IMU Orientation"
   }, 
   {
     "abbreviation": "VGOR", 
@@ -69322,7 +69322,7 @@
   {
     "abbreviation": "W/m2", 
     "source": "HSF", 
-    "expansion": "Watts per Square Meter"
+    "expansion": "Watts Per Square Meter"
   }, 
   {
     "abbreviation": "WA", 
@@ -70172,7 +70172,7 @@
   {
     "abbreviation": "Wpc", 
     "source": "HSF", 
-    "expansion": "Watts per Candle"
+    "expansion": "Watts Per Candle"
   }, 
   {
     "abbreviation": "X", 
@@ -70427,7 +70427,7 @@
   {
     "abbreviation": "ZSI", 
     "source": "HSF", 
-    "expansion": "Z Solar Inertial (Payload Bay Facing Away from Sun)"
+    "expansion": "Z Solar Inertial (Payload Bay Facing Away From Sun)"
   }, 
   {
     "abbreviation": "ZT", 
@@ -70452,22 +70452,22 @@
   {
     "abbreviation": "bpi", 
     "source": "HSF", 
-    "expansion": "Bits per Inch"
+    "expansion": "Bits Per Inch"
   }, 
   {
     "abbreviation": "bpm", 
     "source": "HSF", 
-    "expansion": "Beats per Minute"
+    "expansion": "Beats Per Minute"
   }, 
   {
     "abbreviation": "bps", 
     "source": "HSF", 
-    "expansion": "Bits per Second"
+    "expansion": "Bits Per Second"
   }, 
   {
     "abbreviation": "brpm", 
     "source": "HSF", 
-    "expansion": "Breath Rate per Minute"
+    "expansion": "Breath Rate Per Minute"
   }, 
   {
     "abbreviation": "c.g.", 
@@ -70477,7 +70477,7 @@
   {
     "abbreviation": "c/s", 
     "source": "HSF", 
-    "expansion": "Counts per Second"
+    "expansion": "Counts Per Second"
   }, 
   {
     "abbreviation": "capcom", 
@@ -70487,7 +70487,7 @@
   {
     "abbreviation": "cfm", 
     "source": "HSF", 
-    "expansion": "Cubic Feet per Minute"
+    "expansion": "Cubic Feet Per Minute"
   }, 
   {
     "abbreviation": "comcon", 
@@ -70512,12 +70512,12 @@
   {
     "abbreviation": "cpm", 
     "source": "HSF", 
-    "expansion": "Cycles per Minute"
+    "expansion": "Cycles Per Minute"
   }, 
   {
     "abbreviation": "cps", 
     "source": "HSF", 
-    "expansion": "Cycles per Second"
+    "expansion": "Cycles Per Second"
   }, 
   {
     "abbreviation": "dB", 
@@ -70547,22 +70547,22 @@
   {
     "abbreviation": "fpm", 
     "source": "HSF", 
-    "expansion": "Feet per Minute"
+    "expansion": "Feet Per Minute"
   }, 
   {
     "abbreviation": "fps", 
     "source": "HSF", 
-    "expansion": "Feet per Second"
+    "expansion": "Feet Per Second"
   }, 
   {
     "abbreviation": "fps", 
     "source": "HSF", 
-    "expansion": "Frames per Second"
+    "expansion": "Frames Per Second"
   }, 
   {
     "abbreviation": "ft/sec", 
     "source": "HSF", 
-    "expansion": "Feet per Second"
+    "expansion": "Feet Per Second"
   }, 
   {
     "abbreviation": "g", 
@@ -70572,22 +70572,22 @@
   {
     "abbreviation": "gph", 
     "source": "HSF", 
-    "expansion": "Gallons per Hour"
+    "expansion": "Gallons Per Hour"
   }, 
   {
     "abbreviation": "gpm", 
     "source": "HSF", 
-    "expansion": "Gallons per Minute"
+    "expansion": "Gallons Per Minute"
   }, 
   {
     "abbreviation": "gps", 
     "source": "HSF", 
-    "expansion": "Gallons per Second"
+    "expansion": "Gallons Per Second"
   }, 
   {
     "abbreviation": "ips", 
     "source": "HSF", 
-    "expansion": "Inches per Second"
+    "expansion": "Inches Per Second"
   }, 
   {
     "abbreviation": "k", 
@@ -70627,12 +70627,12 @@
   {
     "abbreviation": "kbps", 
     "source": "HSF", 
-    "expansion": "Kilobits per Second"
+    "expansion": "Kilobits Per Second"
   }, 
   {
     "abbreviation": "kbs", 
     "source": "HSF", 
-    "expansion": "Kilobits per Second"
+    "expansion": "Kilobits Per Second"
   }, 
   {
     "abbreviation": "keV", 
@@ -70647,7 +70647,7 @@
   {
     "abbreviation": "kgal/min", 
     "source": "HSF", 
-    "expansion": "Kilogallons per Minute"
+    "expansion": "Kilogallons Per Minute"
   }, 
   {
     "abbreviation": "klb", 
@@ -70662,22 +70662,22 @@
   {
     "abbreviation": "km/hr", 
     "source": "HSF", 
-    "expansion": "Kilometers per Hour"
+    "expansion": "Kilometers Per Hour"
   }, 
   {
     "abbreviation": "kops", 
     "source": "HSF", 
-    "expansion": "Thousands of Operations per Second"
+    "expansion": "Thousands of Operations Per Second"
   }, 
   {
     "abbreviation": "kpps", 
     "source": "HSF", 
-    "expansion": "Kilopulses per Second"
+    "expansion": "Kilopulses Per Second"
   }, 
   {
     "abbreviation": "kps", 
     "source": "HSF", 
-    "expansion": "Kilometers per Second"
+    "expansion": "Kilometers Per Second"
   }, 
   {
     "abbreviation": "krem", 
@@ -70687,7 +70687,7 @@
   {
     "abbreviation": "ks/s", 
     "source": "HSF", 
-    "expansion": "Kilosymbols per Second"
+    "expansion": "Kilosymbols Per Second"
   }, 
   {
     "abbreviation": "loran", 
@@ -70697,17 +70697,17 @@
   {
     "abbreviation": "lpW", 
     "source": "HSF", 
-    "expansion": "Lumens per Watt"
+    "expansion": "Lumens Per Watt"
   }, 
   {
     "abbreviation": "lpm", 
     "source": "HSF", 
-    "expansion": "Lines per Minute"
+    "expansion": "Lines Per Minute"
   }, 
   {
     "abbreviation": "lps", 
     "source": "HSF", 
-    "expansion": "Liters per Second"
+    "expansion": "Liters Per Second"
   }, 
   {
     "abbreviation": "m-kg", 
@@ -70737,7 +70737,7 @@
   {
     "abbreviation": "mbps", 
     "source": "HSF", 
-    "expansion": "Millibits per Second"
+    "expansion": "Millibits Per Second"
   }, 
   {
     "abbreviation": "mg", 
@@ -70767,7 +70767,7 @@
   {
     "abbreviation": "mph", 
     "source": "HSF", 
-    "expansion": "Miles per Hour"
+    "expansion": "Miles Per Hour"
   }, 
   {
     "abbreviation": "ms", 
@@ -70812,62 +70812,62 @@
   {
     "abbreviation": "ppb", 
     "source": "HSF", 
-    "expansion": "Parts per Billion"
+    "expansion": "Parts Per Billion"
   }, 
   {
     "abbreviation": "pph", 
     "source": "HSF", 
-    "expansion": "Pounds per Hour"
+    "expansion": "Pounds Per Hour"
   }, 
   {
     "abbreviation": "ppm", 
     "source": "HSF", 
-    "expansion": "Parts per Million"
+    "expansion": "Parts Per Million"
   }, 
   {
     "abbreviation": "ppm", 
     "source": "HSF", 
-    "expansion": "Parts per Minute"
+    "expansion": "Parts Per Minute"
   }, 
   {
     "abbreviation": "ppm", 
     "source": "HSF", 
-    "expansion": "Pulses per Minute"
+    "expansion": "Pulses Per Minute"
   }, 
   {
     "abbreviation": "pps", 
     "source": "HSF", 
-    "expansion": "Pulses per Second"
+    "expansion": "Pulses Per Second"
   }, 
   {
     "abbreviation": "psf", 
     "source": "HSF", 
-    "expansion": "Pounds per Square Foot"
+    "expansion": "Pounds Per Square Foot"
   }, 
   {
     "abbreviation": "psi", 
     "source": "HSF", 
-    "expansion": "Pounds per Square Inch"
+    "expansion": "Pounds Per Square Inch"
   }, 
   {
     "abbreviation": "psia", 
     "source": "HSF", 
-    "expansion": "Pounds per Square Inch Absolute"
+    "expansion": "Pounds Per Square Inch Absolute"
   }, 
   {
     "abbreviation": "psid", 
     "source": "HSF", 
-    "expansion": "Pounds per Square Inch Differential"
+    "expansion": "Pounds Per Square Inch Differential"
   }, 
   {
     "abbreviation": "psig", 
     "source": "HSF", 
-    "expansion": "Pounds per Square Inch Gauge"
+    "expansion": "Pounds Per Square Inch Gauge"
   }, 
   {
     "abbreviation": "psis", 
     "source": "HSF", 
-    "expansion": "Pounds per Square Inch Scaled"
+    "expansion": "Pounds Per Square Inch Scaled"
   }, 
   {
     "abbreviation": "q", 
@@ -70877,37 +70877,37 @@
   {
     "abbreviation": "rms", 
     "source": "HSF", 
-    "expansion": "Radian Means per Second"
+    "expansion": "Radian Means Per Second"
   }, 
   {
     "abbreviation": "rph", 
     "source": "HSF", 
-    "expansion": "Revolutions per Hour"
+    "expansion": "Revolutions Per Hour"
   }, 
   {
     "abbreviation": "rpm", 
     "source": "HSF", 
-    "expansion": "Revolutions per Minute"
+    "expansion": "Revolutions Per Minute"
   }, 
   {
     "abbreviation": "rpm", 
     "source": "HSF", 
-    "expansion": "Rotations per Minute"
+    "expansion": "Rotations Per Minute"
   }, 
   {
     "abbreviation": "rps", 
     "source": "HSF", 
-    "expansion": "Revolutions per Second"
+    "expansion": "Revolutions Per Second"
   }, 
   {
     "abbreviation": "s/s", 
     "source": "HSF", 
-    "expansion": "Samples per Second"
+    "expansion": "Samples Per Second"
   }, 
   {
     "abbreviation": "s/s", 
     "source": "HSF", 
-    "expansion": "Symbols per Second"
+    "expansion": "Symbols Per Second"
   }, 
   {
     "abbreviation": "scc", 
@@ -70917,17 +70917,17 @@
   {
     "abbreviation": "scch", 
     "source": "HSF", 
-    "expansion": "Standard Cubic Centimeters per Hour"
+    "expansion": "Standard Cubic Centimeters Per Hour"
   }, 
   {
     "abbreviation": "sccm", 
     "source": "HSF", 
-    "expansion": "Standard Cubic Centimeters per Minute"
+    "expansion": "Standard Cubic Centimeters Per Minute"
   }, 
   {
     "abbreviation": "sccs", 
     "source": "HSF", 
-    "expansion": "Standard Cubic Centimeters per Second"
+    "expansion": "Standard Cubic Centimeters Per Second"
   }, 
   {
     "abbreviation": "scf", 
@@ -70937,27 +70937,27 @@
   {
     "abbreviation": "scfh", 
     "source": "HSF", 
-    "expansion": "Standard Cubic Feet per Hour"
+    "expansion": "Standard Cubic Feet Per Hour"
   }, 
   {
     "abbreviation": "scfm", 
     "source": "HSF", 
-    "expansion": "Standard Cubic Feet per Minute"
+    "expansion": "Standard Cubic Feet Per Minute"
   }, 
   {
     "abbreviation": "scfs", 
     "source": "HSF", 
-    "expansion": "Standard Cubic Feet per Second"
+    "expansion": "Standard Cubic Feet Per Second"
   }, 
   {
     "abbreviation": "scim", 
     "source": "HSF", 
-    "expansion": "Standard Cubic Inches per Minute"
+    "expansion": "Standard Cubic Inches Per Minute"
   }, 
   {
     "abbreviation": "scis", 
     "source": "HSF", 
-    "expansion": "Standard Cubic Inches per Second"
+    "expansion": "Standard Cubic Inches Per Second"
   }, 
   {
     "abbreviation": "sm", 
@@ -70967,7 +70967,7 @@
   {
     "abbreviation": "sps", 
     "source": "HSF", 
-    "expansion": "Samples per Second"
+    "expansion": "Samples Per Second"
   }, 
   {
     "abbreviation": "sr", 
@@ -70977,16 +70977,16 @@
   {
     "abbreviation": "w/m", 
     "source": "HSF", 
-    "expansion": "Words per Minute"
+    "expansion": "Words Per Minute"
   }, 
   {
     "abbreviation": "wpm", 
     "source": "HSF", 
-    "expansion": "Words per Minute"
+    "expansion": "Words Per Minute"
   }, 
   {
     "abbreviation": "wps", 
     "source": "HSF", 
-    "expansion": "Words per Second"
+    "expansion": "Words Per Second"
   }
 ]
