@@ -2765,13 +2765,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "DAVIS", 
-    "source_id": 0, 
-    "acronym_id": 395, 
-    "expansion": "Data Acquisition and Video Integrated System", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "db", 
     "source_id": 0, 
     "acronym_id": 396, 
@@ -4032,13 +4025,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "ESC", 
-    "source_id": 0, 
-    "acronym_id": 576, 
-    "expansion": "Engineering Services Contract", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "ESD", 
     "source_id": 0, 
     "acronym_id": 577, 
@@ -4879,13 +4865,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "FTMO", 
-    "source_id": 0, 
-    "acronym_id": 697, 
-    "expansion": "Flight Test Management Office", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "FTP", 
     "source_id": 0, 
     "acronym_id": 698, 
@@ -5526,13 +5505,6 @@
     "abbreviation": "GW", 
     "source_id": 0, 
     "acronym_id": 789, 
-    "expansion": "Gateway", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "GW", 
-    "source_id": 0, 
-    "acronym_id": 790, 
     "expansion": "Gateway", 
     "source": "EGS"
   }, 
@@ -6240,13 +6212,6 @@
     "abbreviation": "ICPS", 
     "source_id": 0, 
     "acronym_id": 891, 
-    "expansion": "Interim Cryogenic Propulsion Stage", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "ICPS", 
-    "source_id": 0, 
-    "acronym_id": 892, 
     "expansion": "Interim Cryogenic Propulsion Stage", 
     "source": "EGS"
   }, 
@@ -7609,13 +7574,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "LACC", 
-    "source_id": 0, 
-    "acronym_id": 1087, 
-    "expansion": "Launch ACCessories", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "LaRC", 
     "source_id": 0, 
     "acronym_id": 1088, 
@@ -7885,13 +7843,6 @@
     "abbreviation": "LISC", 
     "source_id": 0, 
     "acronym_id": 1126, 
-    "expansion": "Launch and Test Range System (LTRS) Integrated Support Contract (LISC)", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "LISC", 
-    "source_id": 0, 
-    "acronym_id": 1127, 
     "expansion": "Launch and Test Range System (LTRS) Integrated Support Contract (LISC)", 
     "source": "EGS"
   }, 
@@ -8806,13 +8757,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "MOR", 
-    "source_id": 0, 
-    "acronym_id": 1258, 
-    "expansion": "Monthly Operations Review", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "MOTR", 
     "source_id": 0, 
     "acronym_id": 1259, 
@@ -9138,13 +9082,6 @@
     "abbreviation": "N2H4", 
     "source_id": 0, 
     "acronym_id": 1305, 
-    "expansion": "Hydrazine", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "N2H4", 
-    "source_id": 0, 
-    "acronym_id": 1306, 
     "expansion": "Hydrazine", 
     "source": "EGS"
   }, 
@@ -9828,13 +9765,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "OICB", 
-    "source_id": 0, 
-    "acronym_id": 1404, 
-    "expansion": "Orion Integration Control Board", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "OIG", 
     "source_id": 0, 
     "acronym_id": 1405, 
@@ -10073,13 +10003,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "ORCA", 
-    "source_id": 0, 
-    "acronym_id": 1439, 
-    "expansion": "Orion Recovery Cradle Assembly", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "ORD", 
     "source_id": 0, 
     "acronym_id": 1440, 
@@ -10223,13 +10146,6 @@
     "abbreviation": "OTN", 
     "source_id": 0, 
     "acronym_id": 1460, 
-    "expansion": "Optical Transport Network", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "OTN", 
-    "source_id": 0, 
-    "acronym_id": 1461, 
     "expansion": "Optical Transport Network", 
     "source": "EGS"
   }, 
@@ -10391,13 +10307,6 @@
     "abbreviation": "PAS", 
     "source_id": 0, 
     "acronym_id": 1484, 
-    "expansion": "Payload Accommodation Subsystem", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "PAS", 
-    "source_id": 0, 
-    "acronym_id": 1485, 
     "expansion": "Payload Accommodation Subsystem", 
     "source": "EGS"
   }, 
@@ -11753,13 +11662,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "RID", 
-    "source_id": 0, 
-    "acronym_id": 1679, 
-    "expansion": "Review Item Discrepancy", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "RIDM", 
     "source_id": 0, 
     "acronym_id": 1680, 
@@ -11784,13 +11686,6 @@
     "abbreviation": "RISA", 
     "source_id": 0, 
     "acronym_id": 1683, 
-    "expansion": "Rapid Interactive Structural Analysis", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "RISA", 
-    "source_id": 0, 
-    "acronym_id": 1684, 
     "expansion": "Rapid Interactive Structural Analysis", 
     "source": "EGS"
   }, 
@@ -13006,13 +12901,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "SRA", 
-    "source_id": 0, 
-    "acronym_id": 1858, 
-    "expansion": "Schedule Risk Analysis", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "SRB", 
     "source_id": 0, 
     "acronym_id": 1859, 
@@ -14094,13 +13982,6 @@
     "abbreviation": "URT", 
     "source_id": 0, 
     "acronym_id": 2013, 
-    "expansion": "Underway Recovery Test", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "URT", 
-    "source_id": 0, 
-    "acronym_id": 2014, 
     "expansion": "Underway Recovery Test", 
     "source": "EGS"
   }, 
