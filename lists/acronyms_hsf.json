@@ -75824,13 +75824,6 @@
     "source": "HSF"
   }, 
   {
-    "abbreviation": "Rf", 
-    "source_id": 2, 
-    "acronym_id": 10832, 
-    "expansion": "Risk Factor", 
-    "source": "HSF"
-  }, 
-  {
     "abbreviation": "Rnet", 
     "source_id": 2, 
     "acronym_id": 10833, 
@@ -99159,13 +99152,6 @@
     "source_id": 2, 
     "acronym_id": 14166, 
     "expansion": "Pulses Per Minute", 
-    "source": "HSF"
-  }, 
-  {
-    "abbreviation": "pps", 
-    "source_id": 2, 
-    "acronym_id": 14167, 
-    "expansion": "Pulses Per Second", 
     "source": "HSF"
   }, 
   {
