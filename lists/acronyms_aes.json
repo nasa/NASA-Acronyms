@@ -2945,5 +2945,12 @@
     "acronym_id": 420, 
     "expansion": "Western Range", 
     "source": "LSP"
+  }, 
+  {
+    "abbreviation": "lsp-test", 
+    "source_id": 4, 
+    "acronym_id": 421, 
+    "expansion": "Lsp-Test", 
+    "source": "LSP"
   }
 ]
