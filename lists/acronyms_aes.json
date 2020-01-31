@@ -336,20 +336,6 @@
     "source": "LSP"
   }, 
   {
-    "abbreviation": "CoFR", 
-    "source_id": 4, 
-    "acronym_id": 48, 
-    "expansion": "Certification of Facility Readiness", 
-    "source": "LSP"
-  }, 
-  {
-    "abbreviation": "CogE", 
-    "source_id": 4, 
-    "acronym_id": 49, 
-    "expansion": "Cognizant Engineer", 
-    "source": "LSP"
-  }, 
-  {
     "abbreviation": "COLA", 
     "source_id": 4, 
     "acronym_id": 50, 
@@ -406,6 +392,20 @@
     "source": "LSP"
   }, 
   {
+    "abbreviation": "CoFR", 
+    "source_id": 4, 
+    "acronym_id": 48, 
+    "expansion": "Certification of Facility Readiness", 
+    "source": "LSP"
+  }, 
+  {
+    "abbreviation": "CogE", 
+    "source_id": 4, 
+    "acronym_id": 49, 
+    "expansion": "Cognizant Engineer", 
+    "source": "LSP"
+  }, 
+  {
     "abbreviation": "DA", 
     "source_id": 4, 
     "acronym_id": 58, 
@@ -424,13 +424,6 @@
     "source_id": 4, 
     "acronym_id": 60, 
     "expansion": "Data Observation", 
-    "source": "LSP"
-  }, 
-  {
-    "abbreviation": "DoD", 
-    "source_id": 4, 
-    "acronym_id": 61, 
-    "expansion": "Department of Defense", 
     "source": "LSP"
   }, 
   {
@@ -459,6 +452,13 @@
     "source_id": 4, 
     "acronym_id": 65, 
     "expansion": "Detailed Test Objective", 
+    "source": "LSP"
+  }, 
+  {
+    "abbreviation": "DoD", 
+    "source_id": 4, 
+    "acronym_id": 61, 
+    "expansion": "Department of Defense", 
     "source": "LSP"
   }, 
   {
@@ -998,13 +998,6 @@
     "source_id": 4, 
     "acronym_id": 142, 
     "expansion": "Integration Engineer", 
-    "source": "LSP"
-  }, 
-  {
-    "abbreviation": "iEN", 
-    "source_id": 4, 
-    "acronym_id": 143, 
-    "expansion": "Industrial Engineering Network", 
     "source": "LSP"
   }, 
   {
@@ -2030,6 +2023,13 @@
     "source": "LSP"
   }, 
   {
+    "abbreviation": "P-POD", 
+    "source_id": 4, 
+    "acronym_id": 322, 
+    "expansion": "Poly Picosatellite Orbital Deployer", 
+    "source": "LSP"
+  }, 
+  {
     "abbreviation": "PAF", 
     "source_id": 4, 
     "acronym_id": 290, 
@@ -2251,13 +2251,6 @@
     "source_id": 4, 
     "acronym_id": 321, 
     "expansion": "Program Planning Office", 
-    "source": "LSP"
-  }, 
-  {
-    "abbreviation": "P-POD", 
-    "source_id": 4, 
-    "acronym_id": 322, 
-    "expansion": "Poly Picosatellite Orbital Deployer", 
     "source": "LSP"
   }, 
   {
@@ -2944,6 +2937,13 @@
     "source_id": 4, 
     "acronym_id": 420, 
     "expansion": "Western Range", 
+    "source": "LSP"
+  }, 
+  {
+    "abbreviation": "iEN", 
+    "source_id": 4, 
+    "acronym_id": 143, 
+    "expansion": "Industrial Engineering Network", 
     "source": "LSP"
   }, 
   {
