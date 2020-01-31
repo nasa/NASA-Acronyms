@@ -294,13 +294,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "AFnet", 
-    "source_id": 0, 
-    "acronym_id": 42, 
-    "expansion": "Air Force Network", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "AFNIC", 
     "source_id": 0, 
     "acronym_id": 43, 
@@ -333,6 +326,13 @@
     "source_id": 0, 
     "acronym_id": 47, 
     "expansion": "Autonomous Flight Safety System", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "AFnet", 
+    "source_id": 0, 
+    "acronym_id": 42, 
+    "expansion": "Air Force Network", 
     "source": "EGS"
   }, 
   {
@@ -403,13 +403,6 @@
     "source_id": 0, 
     "acronym_id": 57, 
     "expansion": "Architecture Integration and Management", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "Ainh", 
-    "source_id": 0, 
-    "acronym_id": 58, 
-    "expansion": "Inherent Launch Availability", 
     "source": "EGS"
   }, 
   {
@@ -494,27 +487,6 @@
     "source_id": 0, 
     "acronym_id": 70, 
     "expansion": "Announcement of Opportunities", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "Ao", 
-    "source_id": 0, 
-    "acronym_id": 71, 
-    "expansion": "Operational Availability", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "AoA", 
-    "source_id": 0, 
-    "acronym_id": 72, 
-    "expansion": "Abort Once Around??", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "AoA", 
-    "source_id": 0, 
-    "acronym_id": 73, 
-    "expansion": "Analysis of Alternatives", 
     "source": "EGS"
   }, 
   {
@@ -819,6 +791,34 @@
     "source": "EGS"
   }, 
   {
+    "abbreviation": "Ainh", 
+    "source_id": 0, 
+    "acronym_id": 58, 
+    "expansion": "Inherent Launch Availability", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "Ao", 
+    "source_id": 0, 
+    "acronym_id": 71, 
+    "expansion": "Operational Availability", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "AoA", 
+    "source_id": 0, 
+    "acronym_id": 72, 
+    "expansion": "Abort Once Around??", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "AoA", 
+    "source_id": 0, 
+    "acronym_id": 73, 
+    "expansion": "Analysis of Alternatives", 
+    "source": "EGS"
+  }, 
+  {
     "abbreviation": "B/L", 
     "source_id": 0, 
     "acronym_id": 117, 
@@ -1117,6 +1117,20 @@
     "source_id": 0, 
     "acronym_id": 159, 
     "expansion": "Communications and Tracking", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "C-MPSR", 
+    "source_id": 0, 
+    "acronym_id": 270, 
+    "expansion": "Comprehensive - Monthly Program Status Review", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "C-RAST", 
+    "source_id": 0, 
+    "acronym_id": 317, 
+    "expansion": "Constellation-Requirement Assessment Simulation Technique", 
     "source": "EGS"
   }, 
   {
@@ -1715,13 +1729,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "Cinetheo ", 
-    "source_id": 0, 
-    "acronym_id": 245, 
-    "expansion": "Cinetheodolite", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "CIO", 
     "source_id": 0, 
     "acronym_id": 246, 
@@ -1890,13 +1897,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "C-MPSR", 
-    "source_id": 0, 
-    "acronym_id": 270, 
-    "expansion": "Comprehensive - Monthly Program Status Review", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "CMR", 
     "source_id": 0, 
     "acronym_id": 271, 
@@ -1974,24 +1974,10 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "CoF", 
-    "source_id": 0, 
-    "acronym_id": 282, 
-    "expansion": "Construction of Facilities", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "COF", 
     "source_id": 0, 
     "acronym_id": 283, 
     "expansion": "Central Operations Facility", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "CoFR", 
-    "source_id": 0, 
-    "acronym_id": 284, 
-    "expansion": "Certification of Flight Readiness", 
     "source": "EGS"
   }, 
   {
@@ -2002,38 +1988,10 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "Comm", 
-    "source_id": 0, 
-    "acronym_id": 286, 
-    "expansion": "Communications Systems Element (EIT)", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "COMMSAT", 
     "source_id": 0, 
     "acronym_id": 287, 
     "expansion": "Communications Satellite", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "ConCERT", 
-    "source_id": 0, 
-    "acronym_id": 288, 
-    "expansion": "Constellation Community Electronic RID Tool", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "ConOps", 
-    "source_id": 0, 
-    "acronym_id": 289, 
-    "expansion": "Concept of Operations", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "CoP", 
-    "source_id": 0, 
-    "acronym_id": 290, 
-    "expansion": "Community of Practice", 
     "source": "EGS"
   }, 
   {
@@ -2177,13 +2135,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "cps", 
-    "source_id": 0, 
-    "acronym_id": 311, 
-    "expansion": "Changes Per Second", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "CPU", 
     "source_id": 0, 
     "acronym_id": 312, 
@@ -2216,13 +2167,6 @@
     "source_id": 0, 
     "acronym_id": 316, 
     "expansion": "CM Recovery Attach Fitting Test", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "C-RAST", 
-    "source_id": 0, 
-    "acronym_id": 317, 
-    "expansion": "Constellation-Requirement Assessment Simulation Technique", 
     "source": "EGS"
   }, 
   {
@@ -2646,6 +2590,69 @@
     "source": "EGS"
   }, 
   {
+    "abbreviation": "CY", 
+    "source_id": 0, 
+    "acronym_id": 381, 
+    "expansion": "Calendar Year", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "CYGNSS", 
+    "source_id": 0, 
+    "acronym_id": 382, 
+    "expansion": "Cyclone Global Navigation Satellite System", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "Cinetheo ", 
+    "source_id": 0, 
+    "acronym_id": 245, 
+    "expansion": "Cinetheodolite", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "CoF", 
+    "source_id": 0, 
+    "acronym_id": 282, 
+    "expansion": "Construction of Facilities", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "CoFR", 
+    "source_id": 0, 
+    "acronym_id": 284, 
+    "expansion": "Certification of Flight Readiness", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "CoP", 
+    "source_id": 0, 
+    "acronym_id": 290, 
+    "expansion": "Community of Practice", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "Comm", 
+    "source_id": 0, 
+    "acronym_id": 286, 
+    "expansion": "Communications Systems Element (EIT)", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "ConCERT", 
+    "source_id": 0, 
+    "acronym_id": 288, 
+    "expansion": "Constellation Community Electronic RID Tool", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "ConOps", 
+    "source_id": 0, 
+    "acronym_id": 289, 
+    "expansion": "Concept of Operations", 
+    "source": "EGS"
+  }, 
+  {
     "abbreviation": "Cx", 
     "source_id": 0, 
     "acronym_id": 378, 
@@ -2664,20 +2671,6 @@
     "source_id": 0, 
     "acronym_id": 380, 
     "expansion": "Constellation Program", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "CY", 
-    "source_id": 0, 
-    "acronym_id": 381, 
-    "expansion": "Calendar Year", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "CYGNSS", 
-    "source_id": 0, 
-    "acronym_id": 382, 
-    "expansion": "Cyclone Global Navigation Satellite System", 
     "source": "EGS"
   }, 
   {
@@ -2762,20 +2755,6 @@
     "source_id": 0, 
     "acronym_id": 394, 
     "expansion": "Data Acquisition and Video Integrated System", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "db", 
-    "source_id": 0, 
-    "acronym_id": 396, 
-    "expansion": "Database", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "db", 
-    "source_id": 0, 
-    "acronym_id": 397, 
-    "expansion": "Decibel", 
     "source": "EGS"
   }, 
   {
@@ -2954,13 +2933,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "Det3", 
-    "source_id": 0, 
-    "acronym_id": 423, 
-    "expansion": "Detachment 3, 45th Space Wing", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "DFI", 
     "source_id": 0, 
     "acronym_id": 424, 
@@ -3070,27 +3042,6 @@
     "source_id": 0, 
     "acronym_id": 439, 
     "expansion": "Delta Operations Center", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "DoD", 
-    "source_id": 0, 
-    "acronym_id": 440, 
-    "expansion": "Department of Defense", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "DoDAF", 
-    "source_id": 0, 
-    "acronym_id": 441, 
-    "expansion": "Department of Defense Architecture Framework", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "DoD-H", 
-    "source_id": 0, 
-    "acronym_id": 442, 
-    "expansion": "Department of Defense Houston", 
     "source": "EGS"
   }, 
   {
@@ -3311,13 +3262,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "DVaO", 
-    "source_id": 0, 
-    "acronym_id": 474, 
-    "expansion": "Detailed Validation Objective", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "DVM", 
     "source_id": 0, 
     "acronym_id": 475, 
@@ -3346,10 +3290,45 @@
     "source": "EGS"
   }, 
   {
+    "abbreviation": "DVaO", 
+    "source_id": 0, 
+    "acronym_id": 474, 
+    "expansion": "Detailed Validation Objective", 
+    "source": "EGS"
+  }, 
+  {
     "abbreviation": "DW", 
     "source_id": 0, 
     "acronym_id": 479, 
     "expansion": "Deviation Waiver", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "Det3", 
+    "source_id": 0, 
+    "acronym_id": 423, 
+    "expansion": "Detachment 3, 45th Space Wing", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "DoD", 
+    "source_id": 0, 
+    "acronym_id": 440, 
+    "expansion": "Department of Defense", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "DoD-H", 
+    "source_id": 0, 
+    "acronym_id": 442, 
+    "expansion": "Department of Defense Houston", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "DoDAF", 
+    "source_id": 0, 
+    "acronym_id": 441, 
+    "expansion": "Department of Defense Architecture Framework", 
     "source": "EGS"
   }, 
   {
@@ -3476,13 +3455,6 @@
     "source_id": 0, 
     "acronym_id": 497, 
     "expansion": "Export Control Officer", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "eCoFR", 
-    "source_id": 0, 
-    "acronym_id": 498, 
-    "expansion": "Electornic Certification of Flight Readiness", 
     "source": "EGS"
   }, 
   {
@@ -4571,13 +4543,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "Flt", 
-    "source_id": 0, 
-    "acronym_id": 655, 
-    "expansion": "Flight", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "FMB", 
     "source_id": 0, 
     "acronym_id": 656, 
@@ -4617,13 +4582,6 @@
     "source_id": 0, 
     "acronym_id": 661, 
     "expansion": "Flight Operations Directorate", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "FoM", 
-    "source_id": 0, 
-    "acronym_id": 662, 
-    "expansion": "Figure of Merit", 
     "source": "EGS"
   }, 
   {
@@ -4697,6 +4655,13 @@
     "source": "EGS"
   }, 
   {
+    "abbreviation": "FR-X-R", 
+    "source_id": 0, 
+    "acronym_id": 680, 
+    "expansion": "Firing Room \u201cX\u201d Redundant Set", 
+    "source": "EGS"
+  }, 
+  {
     "abbreviation": "FRACAS", 
     "source_id": 0, 
     "acronym_id": 673, 
@@ -4743,13 +4708,6 @@
     "source_id": 0, 
     "acronym_id": 679, 
     "expansion": "Flight Readiness Test", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "FR-X-R", 
-    "source_id": 0, 
-    "acronym_id": 680, 
-    "expansion": "Firing Room \u201cX\u201d Redundant Set", 
     "source": "EGS"
   }, 
   {
@@ -4837,13 +4795,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "ft.", 
-    "source_id": 0, 
-    "acronym_id": 693, 
-    "expansion": "Feet", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "FTA", 
     "source_id": 0, 
     "acronym_id": 694, 
@@ -4886,17 +4837,31 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "Fwd", 
-    "source_id": 0, 
-    "acronym_id": 701, 
-    "expansion": "Foward", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "FY", 
     "source_id": 0, 
     "acronym_id": 702, 
     "expansion": "Fiscal Year", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "Flt", 
+    "source_id": 0, 
+    "acronym_id": 655, 
+    "expansion": "Flight", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "FoM", 
+    "source_id": 0, 
+    "acronym_id": 662, 
+    "expansion": "Figure of Merit", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "Fwd", 
+    "source_id": 0, 
+    "acronym_id": 701, 
+    "expansion": "Foward", 
     "source": "EGS"
   }, 
   {
@@ -5012,13 +4977,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "GHe", 
-    "source_id": 0, 
-    "acronym_id": 719, 
-    "expansion": "Gaseous Helium", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "GHIM", 
     "source_id": 0, 
     "acronym_id": 720, 
@@ -5044,6 +5002,13 @@
     "source_id": 0, 
     "acronym_id": 723, 
     "expansion": "Ground Hardware Management Tool", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "GHe", 
+    "source_id": 0, 
+    "acronym_id": 719, 
+    "expansion": "Gaseous Helium", 
     "source": "EGS"
   }, 
   {
@@ -5082,13 +5047,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "GMaCC", 
-    "source_id": 0, 
-    "acronym_id": 729, 
-    "expansion": "Global Monitoring and Control Center", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "GMIP", 
     "source_id": 0, 
     "acronym_id": 730, 
@@ -5107,6 +5065,13 @@
     "source_id": 0, 
     "acronym_id": 732, 
     "expansion": "Ground Main Propulsion System", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "GMaCC", 
+    "source_id": 0, 
+    "acronym_id": 729, 
+    "expansion": "Global Monitoring and Control Center", 
     "source": "EGS"
   }, 
   {
@@ -5268,13 +5233,6 @@
     "source_id": 0, 
     "acronym_id": 755, 
     "expansion": "Goal Performance Evaluation System", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "gpm", 
-    "source_id": 0, 
-    "acronym_id": 756, 
-    "expansion": "Gallons Per Minute", 
     "source": "EGS"
   }, 
   {
@@ -6020,13 +5978,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "iACT", 
-    "source_id": 0, 
-    "acronym_id": 864, 
-    "expansion": "Integration Audit Concerns Tracker", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "IAF", 
     "source_id": 0, 
     "acronym_id": 865, 
@@ -6384,13 +6335,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "iKCMS", 
-    "source_id": 0, 
-    "acronym_id": 917, 
-    "expansion": "Integrated Kennedy Communication Management System", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "IL R&R", 
     "source_id": 0, 
     "acronym_id": 918, 
@@ -6524,24 +6468,10 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "Institutional Design Certification Review", 
-    "source_id": 0, 
-    "acronym_id": 937, 
-    "expansion": "Idcr", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "INT", 
     "source_id": 0, 
     "acronym_id": 938, 
     "expansion": "Integration", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "Int. Ops.", 
-    "source_id": 0, 
-    "acronym_id": 939, 
-    "expansion": "Integration Operations", 
     "source": "EGS"
   }, 
   {
@@ -6626,13 +6556,6 @@
     "source_id": 0, 
     "acronym_id": 951, 
     "expansion": "Independent Program and Cost Evaluation", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "iPIT", 
-    "source_id": 0, 
-    "acronym_id": 952, 
-    "expansion": "Integrated Program Planning and Control Integration Team", 
     "source": "EGS"
   }, 
   {
@@ -7049,6 +6972,20 @@
     "source": "EGS"
   }, 
   {
+    "abbreviation": "Institutional Design Certification Review", 
+    "source_id": 0, 
+    "acronym_id": 937, 
+    "expansion": "Idcr", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "Int. Ops.", 
+    "source_id": 0, 
+    "acronym_id": 939, 
+    "expansion": "Integration Operations", 
+    "source": "EGS"
+  }, 
+  {
     "abbreviation": "JARSS", 
     "source_id": 0, 
     "acronym_id": 1012, 
@@ -7144,13 +7081,6 @@
     "source_id": 0, 
     "acronym_id": 1025, 
     "expansion": "Joint Program Control Board", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "jpcb", 
-    "source_id": 0, 
-    "acronym_id": 1026, 
-    "expansion": "Extensible Markup Language [XML] Telemetric and Command Exchange", 
     "source": "EGS"
   }, 
   {
@@ -7364,13 +7294,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "km", 
-    "source_id": 0, 
-    "acronym_id": 1057, 
-    "expansion": "Kilometers", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "KM", 
     "source_id": 0, 
     "acronym_id": 1058, 
@@ -7574,13 +7497,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "LaRC", 
-    "source_id": 0, 
-    "acronym_id": 1088, 
-    "expansion": "Langley Research Center", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "LAS", 
     "source_id": 0, 
     "acronym_id": 1089, 
@@ -7606,13 +7522,6 @@
     "source_id": 0, 
     "acronym_id": 1092, 
     "expansion": "Lunar Advanced Volatile Analysis", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "lb./lbs.", 
-    "source_id": 0, 
-    "acronym_id": 1093, 
-    "expansion": "Pound/Pounds", 
     "source": "EGS"
   }, 
   {
@@ -7816,13 +7725,6 @@
     "source_id": 0, 
     "acronym_id": 1122, 
     "expansion": "Liquid Hydrogen", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "LiDAR", 
-    "source_id": 0, 
-    "acronym_id": 1123, 
-    "expansion": "Light Detection and Ranging", 
     "source": "EGS"
   }, 
   {
@@ -8253,6 +8155,20 @@
     "source": "EGS"
   }, 
   {
+    "abbreviation": "LaRC", 
+    "source_id": 0, 
+    "acronym_id": 1088, 
+    "expansion": "Langley Research Center", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "LiDAR", 
+    "source_id": 0, 
+    "acronym_id": 1123, 
+    "expansion": "Light Detection and Ranging", 
+    "source": "EGS"
+  }, 
+  {
     "abbreviation": "M&S", 
     "source_id": 0, 
     "acronym_id": 1186, 
@@ -8449,13 +8365,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "Mech", 
-    "source_id": 0, 
-    "acronym_id": 1214, 
-    "expansion": "Mechanical", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "MEI", 
     "source_id": 0, 
     "acronym_id": 1215, 
@@ -8565,13 +8474,6 @@
     "source_id": 0, 
     "acronym_id": 1230, 
     "expansion": "Mobile Intercept Ground Optical Recording System", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "Mil", 
-    "source_id": 0, 
-    "acronym_id": 1231, 
-    "expansion": "Military", 
     "source": "EGS"
   }, 
   {
@@ -9072,6 +8974,27 @@
     "source": "EGS"
   }, 
   {
+    "abbreviation": "Mech", 
+    "source_id": 0, 
+    "acronym_id": 1214, 
+    "expansion": "Mechanical", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "Mil", 
+    "source_id": 0, 
+    "acronym_id": 1231, 
+    "expansion": "Military", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "N-PROP", 
+    "source_id": 0, 
+    "acronym_id": 1354, 
+    "expansion": "NASA Property Management Database", 
+    "source": "EGS"
+  }, 
+  {
     "abbreviation": "N/A", 
     "source_id": 0, 
     "acronym_id": 1304, 
@@ -9412,13 +9335,6 @@
     "source_id": 0, 
     "acronym_id": 1353, 
     "expansion": "Network Program Requirements Document", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "N-PROP", 
-    "source_id": 0, 
-    "acronym_id": 1354, 
-    "expansion": "NASA Property Management Database", 
     "source": "EGS"
   }, 
   {
@@ -9989,13 +9905,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "Ops", 
-    "source_id": 0, 
-    "acronym_id": 1437, 
-    "expansion": "Operations", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "ORCA", 
     "source_id": 0, 
     "acronym_id": 1438, 
@@ -10189,6 +10098,13 @@
     "source_id": 0, 
     "acronym_id": 1467, 
     "expansion": "Operators Working Group", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "Ops", 
+    "source_id": 0, 
+    "acronym_id": 1437, 
+    "expansion": "Operations", 
     "source": "EGS"
   }, 
   {
@@ -10829,13 +10745,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "PoD", 
-    "source_id": 0, 
-    "acronym_id": 1560, 
-    "expansion": "Point of Departure (Aka. POD)", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "POIWG", 
     "source_id": 0, 
     "acronym_id": 1561, 
@@ -10847,20 +10756,6 @@
     "source_id": 0, 
     "acronym_id": 1562, 
     "expansion": "Power on Master Poll List", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "PoP", 
-    "source_id": 0, 
-    "acronym_id": 1563, 
-    "expansion": "Period of Performance", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "PoR", 
-    "source_id": 0, 
-    "acronym_id": 1564, 
-    "expansion": "Program of Record", 
     "source": "EGS"
   }, 
   {
@@ -10906,17 +10801,17 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "PPlan", 
-    "source_id": 0, 
-    "acronym_id": 1571, 
-    "expansion": "Programming Plan (Currently AFSC Programming Plan 10-01)", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "PPSC", 
     "source_id": 0, 
     "acronym_id": 1572, 
     "expansion": "Preliminary Program Support Checkpoint", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "PPlan", 
+    "source_id": 0, 
+    "acronym_id": 1571, 
+    "expansion": "Programming Plan (Currently AFSC Programming Plan 10-01)", 
     "source": "EGS"
   }, 
   {
@@ -11029,13 +10924,6 @@
     "source_id": 0, 
     "acronym_id": 1588, 
     "expansion": "Program Specific Engineering Test", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "psf", 
-    "source_id": 0, 
-    "acronym_id": 1589, 
-    "expansion": "Ibs./Ft2 (Pounds Per Square Foot)", 
     "source": "EGS"
   }, 
   {
@@ -11197,6 +11085,27 @@
     "source_id": 0, 
     "acronym_id": 1612, 
     "expansion": "Portal Workstation", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "PoD", 
+    "source_id": 0, 
+    "acronym_id": 1560, 
+    "expansion": "Point of Departure (Aka. POD)", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "PoP", 
+    "source_id": 0, 
+    "acronym_id": 1563, 
+    "expansion": "Period of Performance", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "PoR", 
+    "source_id": 0, 
+    "acronym_id": 1564, 
+    "expansion": "Program of Record", 
     "source": "EGS"
   }, 
   {
@@ -11533,13 +11442,6 @@
     "source_id": 0, 
     "acronym_id": 1660, 
     "expansion": "Resource Environment for Enhanced Budgeting", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "ReMP", 
-    "source_id": 0, 
-    "acronym_id": 1661, 
-    "expansion": "Requirements Management Plan", 
     "source": "EGS"
   }, 
   {
@@ -12005,6 +11907,13 @@
     "source": "EGS"
   }, 
   {
+    "abbreviation": "ReMP", 
+    "source_id": 0, 
+    "acronym_id": 1661, 
+    "expansion": "Requirements Management Plan", 
+    "source": "EGS"
+  }, 
+  {
     "abbreviation": "S&A", 
     "source_id": 0, 
     "acronym_id": 1730, 
@@ -12201,13 +12110,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "SCaN", 
-    "source_id": 0, 
-    "acronym_id": 1758, 
-    "expansion": "Space Communications and Navigation", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "SCAP", 
     "source_id": 0, 
     "acronym_id": 1759, 
@@ -12296,6 +12198,13 @@
     "source_id": 0, 
     "acronym_id": 1771, 
     "expansion": "Small Class Vehicle Element", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "SCaN", 
+    "source_id": 0, 
+    "acronym_id": 1758, 
+    "expansion": "Space Communications and Navigation", 
     "source": "EGS"
   }, 
   {
@@ -12803,13 +12712,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "SoR", 
-    "source_id": 0, 
-    "acronym_id": 1844, 
-    "expansion": "Statement of Readiness", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "SOW", 
     "source_id": 0, 
     "acronym_id": 1845, 
@@ -13104,13 +13006,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "StE", 
-    "source_id": 0, 
-    "acronym_id": 1888, 
-    "expansion": "Stakeholder Expectation", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "STICM", 
     "source_id": 0, 
     "acronym_id": 1889, 
@@ -13171,6 +13066,20 @@
     "source_id": 0, 
     "acronym_id": 1897, 
     "expansion": "Strengths, Weaknesses, Opportunities, and Threats", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "SoR", 
+    "source_id": 0, 
+    "acronym_id": 1844, 
+    "expansion": "Statement of Readiness", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "StE", 
+    "source_id": 0, 
+    "acronym_id": 1888, 
+    "expansion": "Stakeholder Expectation", 
     "source": "EGS"
   }, 
   {
@@ -13615,13 +13524,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "ToR", 
-    "source_id": 0, 
-    "acronym_id": 1961, 
-    "expansion": "Terms of Reference", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "TOR", 
     "source_id": 0, 
     "acronym_id": 1962, 
@@ -13685,13 +13587,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "TProjR", 
-    "source_id": 0, 
-    "acronym_id": 1971, 
-    "expansion": "Top Project Risks", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "TPS", 
     "source_id": 0, 
     "acronym_id": 1972, 
@@ -13703,6 +13598,13 @@
     "source_id": 0, 
     "acronym_id": 1973, 
     "expansion": "Thermal Protection Systems Facility", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "TProjR", 
+    "source_id": 0, 
+    "acronym_id": 1971, 
+    "expansion": "Top Project Risks", 
     "source": "EGS"
   }, 
   {
@@ -13843,6 +13745,13 @@
     "source_id": 0, 
     "acronym_id": 1993, 
     "expansion": "Transmitter/Transmission", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "ToR", 
+    "source_id": 0, 
+    "acronym_id": 1961, 
+    "expansion": "Terms of Reference", 
     "source": "EGS"
   }, 
   {
@@ -14091,20 +14000,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "VaCR", 
-    "source_id": 0, 
-    "acronym_id": 2030, 
-    "expansion": "Validation Completion Report", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "VaCRM", 
-    "source_id": 0, 
-    "acronym_id": 2031, 
-    "expansion": "Validation Cross-Reference Matrix", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "VAFB", 
     "source_id": 0, 
     "acronym_id": 2032, 
@@ -14165,20 +14060,6 @@
     "source_id": 0, 
     "acronym_id": 2040, 
     "expansion": "Vehicle Damper System", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "VeL", 
-    "source_id": 0, 
-    "acronym_id": 2041, 
-    "expansion": "Verification Lead", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "VeP", 
-    "source_id": 0, 
-    "acronym_id": 2042, 
-    "expansion": "Verification Plan", 
     "source": "EGS"
   }, 
   {
@@ -14364,6 +14245,34 @@
     "source": "EGS"
   }, 
   {
+    "abbreviation": "VaCR", 
+    "source_id": 0, 
+    "acronym_id": 2030, 
+    "expansion": "Validation Completion Report", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "VaCRM", 
+    "source_id": 0, 
+    "acronym_id": 2031, 
+    "expansion": "Validation Cross-Reference Matrix", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "VeL", 
+    "source_id": 0, 
+    "acronym_id": 2041, 
+    "expansion": "Verification Lead", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "VeP", 
+    "source_id": 0, 
+    "acronym_id": 2042, 
+    "expansion": "Verification Plan", 
+    "source": "EGS"
+  }, 
+  {
     "abbreviation": "WAC", 
     "source_id": 0, 
     "acronym_id": 2069, 
@@ -14413,24 +14322,10 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "Wilco", 
-    "source_id": 0, 
-    "acronym_id": 2076, 
-    "expansion": "Will Comply", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "WINDS", 
     "source_id": 0, 
     "acronym_id": 2077, 
     "expansion": "Weather Information Network Display System", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "wip", 
-    "source_id": 0, 
-    "acronym_id": 2078, 
-    "expansion": "Work in Place", 
     "source": "EGS"
   }, 
   {
@@ -14490,13 +14385,6 @@
     "source": "EGS"
   }, 
   {
-    "abbreviation": "Wx", 
-    "source_id": 0, 
-    "acronym_id": 2087, 
-    "expansion": "Weather", 
-    "source": "EGS"
-  }, 
-  {
     "abbreviation": "WYE", 
     "source_id": 0, 
     "acronym_id": 2088, 
@@ -14511,17 +14399,24 @@
     "source": "EGS"
   }, 
   {
+    "abbreviation": "Wilco", 
+    "source_id": 0, 
+    "acronym_id": 2076, 
+    "expansion": "Will Comply", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "Wx", 
+    "source_id": 0, 
+    "acronym_id": 2087, 
+    "expansion": "Weather", 
+    "source": "EGS"
+  }, 
+  {
     "abbreviation": "XCS", 
     "source_id": 0, 
     "acronym_id": 2090, 
     "expansion": "Extensible Columns Subsystem", 
-    "source": "EGS"
-  }, 
-  {
-    "abbreviation": "Xe", 
-    "source_id": 0, 
-    "acronym_id": 2091, 
-    "expansion": "Xenon", 
     "source": "EGS"
   }, 
   {
@@ -14567,10 +14462,115 @@
     "source": "EGS"
   }, 
   {
+    "abbreviation": "Xe", 
+    "source_id": 0, 
+    "acronym_id": 2091, 
+    "expansion": "Xenon", 
+    "source": "EGS"
+  }, 
+  {
     "abbreviation": "YODA", 
     "source_id": 0, 
     "acronym_id": 2098, 
     "expansion": "Your Organizational Dashboard Application", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "cps", 
+    "source_id": 0, 
+    "acronym_id": 311, 
+    "expansion": "Changes Per Second", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "db", 
+    "source_id": 0, 
+    "acronym_id": 396, 
+    "expansion": "Database", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "db", 
+    "source_id": 0, 
+    "acronym_id": 397, 
+    "expansion": "Decibel", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "eCoFR", 
+    "source_id": 0, 
+    "acronym_id": 498, 
+    "expansion": "Electornic Certification of Flight Readiness", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "ft.", 
+    "source_id": 0, 
+    "acronym_id": 693, 
+    "expansion": "Feet", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "gpm", 
+    "source_id": 0, 
+    "acronym_id": 756, 
+    "expansion": "Gallons Per Minute", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "iACT", 
+    "source_id": 0, 
+    "acronym_id": 864, 
+    "expansion": "Integration Audit Concerns Tracker", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "iKCMS", 
+    "source_id": 0, 
+    "acronym_id": 917, 
+    "expansion": "Integrated Kennedy Communication Management System", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "iPIT", 
+    "source_id": 0, 
+    "acronym_id": 952, 
+    "expansion": "Integrated Program Planning and Control Integration Team", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "jpcb", 
+    "source_id": 0, 
+    "acronym_id": 1026, 
+    "expansion": "Extensible Markup Language [XML] Telemetric and Command Exchange", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "km", 
+    "source_id": 0, 
+    "acronym_id": 1057, 
+    "expansion": "Kilometers", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "lb./lbs.", 
+    "source_id": 0, 
+    "acronym_id": 1093, 
+    "expansion": "Pound/Pounds", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "psf", 
+    "source_id": 0, 
+    "acronym_id": 1589, 
+    "expansion": "Ibs./Ft2 (Pounds Per Square Foot)", 
+    "source": "EGS"
+  }, 
+  {
+    "abbreviation": "wip", 
+    "source_id": 0, 
+    "acronym_id": 2078, 
+    "expansion": "Work in Place", 
     "source": "EGS"
   }
 ]
