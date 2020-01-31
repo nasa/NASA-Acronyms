@@ -2945,5 +2945,12 @@
     "acronym_id": 143, 
     "expansion": "Industrial Engineering Network", 
     "source": "LSP"
+  }, 
+  {
+    "abbreviation": "lsp-test", 
+    "source_id": 4, 
+    "acronym_id": 421, 
+    "expansion": "Lsp-Test", 
+    "source": "LSP"
   }
 ]
