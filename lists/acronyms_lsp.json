@@ -336,6 +336,20 @@
     "source": "LSP"
   }, 
   {
+    "abbreviation": "CoFR", 
+    "source_id": 4, 
+    "acronym_id": 48, 
+    "expansion": "Certification of Facility Readiness", 
+    "source": "LSP"
+  }, 
+  {
+    "abbreviation": "CogE", 
+    "source_id": 4, 
+    "acronym_id": 49, 
+    "expansion": "Cognizant Engineer", 
+    "source": "LSP"
+  }, 
+  {
     "abbreviation": "COLA", 
     "source_id": 4, 
     "acronym_id": 50, 
@@ -392,20 +406,6 @@
     "source": "LSP"
   }, 
   {
-    "abbreviation": "CoFR", 
-    "source_id": 4, 
-    "acronym_id": 48, 
-    "expansion": "Certification of Facility Readiness", 
-    "source": "LSP"
-  }, 
-  {
-    "abbreviation": "CogE", 
-    "source_id": 4, 
-    "acronym_id": 49, 
-    "expansion": "Cognizant Engineer", 
-    "source": "LSP"
-  }, 
-  {
     "abbreviation": "DA", 
     "source_id": 4, 
     "acronym_id": 58, 
@@ -424,6 +424,13 @@
     "source_id": 4, 
     "acronym_id": 60, 
     "expansion": "Data Observation", 
+    "source": "LSP"
+  }, 
+  {
+    "abbreviation": "DoD", 
+    "source_id": 4, 
+    "acronym_id": 61, 
+    "expansion": "Department of Defense", 
     "source": "LSP"
   }, 
   {
@@ -452,13 +459,6 @@
     "source_id": 4, 
     "acronym_id": 65, 
     "expansion": "Detailed Test Objective", 
-    "source": "LSP"
-  }, 
-  {
-    "abbreviation": "DoD", 
-    "source_id": 4, 
-    "acronym_id": 61, 
-    "expansion": "Department of Defense", 
     "source": "LSP"
   }, 
   {
@@ -1001,6 +1001,13 @@
     "source": "LSP"
   }, 
   {
+    "abbreviation": "iEN", 
+    "source_id": 4, 
+    "acronym_id": 143, 
+    "expansion": "Industrial Engineering Network", 
+    "source": "LSP"
+  }, 
+  {
     "abbreviation": "IFD", 
     "source_id": 4, 
     "acronym_id": 144, 
@@ -1390,6 +1397,13 @@
     "source_id": 4, 
     "acronym_id": 199, 
     "expansion": "Launch Services Program Information System", 
+    "source": "LSP"
+  }, 
+  {
+    "abbreviation": "lsp-test", 
+    "source_id": 4, 
+    "acronym_id": 421, 
+    "expansion": "Lsp-Test", 
     "source": "LSP"
   }, 
   {
@@ -2937,20 +2951,6 @@
     "source_id": 4, 
     "acronym_id": 420, 
     "expansion": "Western Range", 
-    "source": "LSP"
-  }, 
-  {
-    "abbreviation": "iEN", 
-    "source_id": 4, 
-    "acronym_id": 143, 
-    "expansion": "Industrial Engineering Network", 
-    "source": "LSP"
-  }, 
-  {
-    "abbreviation": "lsp-test", 
-    "source_id": 4, 
-    "acronym_id": 421, 
-    "expansion": "Lsp-Test", 
     "source": "LSP"
   }
 ]
