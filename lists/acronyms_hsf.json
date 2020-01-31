@@ -28413,17 +28413,17 @@
     "source": "HSF"
   }, 
   {
-    "abbreviation": "FA<", 
-    "source_id": 2, 
-    "acronym_id": 4059, 
-    "expansion": "First Approach and Landing Test", 
-    "source": "HSF"
-  }, 
-  {
     "abbreviation": "FA/COSI", 
     "source_id": 2, 
     "acronym_id": 4060, 
     "expansion": "Final Assembly Closeout Systems Installation", 
+    "source": "HSF"
+  }, 
+  {
+    "abbreviation": "FA<", 
+    "source_id": 2, 
+    "acronym_id": 4059, 
+    "expansion": "First Approach and Landing Test", 
     "source": "HSF"
   }, 
   {
