@@ -17927,13 +17927,6 @@
     "source": "HSF"
   }, 
   {
-    "abbreviation": "Cf", 
-    "source_id": 2, 
-    "acronym_id": 2561, 
-    "expansion": "Consequence of Failure", 
-    "source": "HSF"
-  }, 
-  {
     "abbreviation": "CfS", 
     "source_id": 2, 
     "acronym_id": 2562, 
@@ -71103,13 +71096,6 @@
     "source_id": 2, 
     "acronym_id": 10157, 
     "expansion": "Complexity Factor", 
-    "source": "HSF"
-  }, 
-  {
-    "abbreviation": "Pd", 
-    "source_id": 2, 
-    "acronym_id": 10158, 
-    "expansion": "Dependency Factor", 
     "source": "HSF"
   }, 
   {
