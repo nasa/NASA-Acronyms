@@ -93,15 +93,15 @@
   {
     "abbreviation": "ATP", 
     "source_id": 4, 
-    "acronym_id": 14, 
-    "expansion": "Accelerated Training Program", 
+    "acronym_id": 13, 
+    "expansion": "Authority to Proceed", 
     "source": "LSP"
   }, 
   {
     "abbreviation": "ATP", 
     "source_id": 4, 
-    "acronym_id": 13, 
-    "expansion": "Authority to Proceed", 
+    "acronym_id": 14, 
+    "expansion": "Accelerated Training Program", 
     "source": "LSP"
   }, 
   {
@@ -336,20 +336,6 @@
     "source": "LSP"
   }, 
   {
-    "abbreviation": "CoFR", 
-    "source_id": 4, 
-    "acronym_id": 48, 
-    "expansion": "Certification of Facility Readiness", 
-    "source": "LSP"
-  }, 
-  {
-    "abbreviation": "CogE", 
-    "source_id": 4, 
-    "acronym_id": 49, 
-    "expansion": "Cognizant Engineer", 
-    "source": "LSP"
-  }, 
-  {
     "abbreviation": "COLA", 
     "source_id": 4, 
     "acronym_id": 50, 
@@ -406,6 +392,20 @@
     "source": "LSP"
   }, 
   {
+    "abbreviation": "CoFR", 
+    "source_id": 4, 
+    "acronym_id": 48, 
+    "expansion": "Certification of Facility Readiness", 
+    "source": "LSP"
+  }, 
+  {
+    "abbreviation": "CogE", 
+    "source_id": 4, 
+    "acronym_id": 49, 
+    "expansion": "Cognizant Engineer", 
+    "source": "LSP"
+  }, 
+  {
     "abbreviation": "DA", 
     "source_id": 4, 
     "acronym_id": 58, 
@@ -424,13 +424,6 @@
     "source_id": 4, 
     "acronym_id": 60, 
     "expansion": "Data Observation", 
-    "source": "LSP"
-  }, 
-  {
-    "abbreviation": "DoD", 
-    "source_id": 4, 
-    "acronym_id": 61, 
-    "expansion": "Department of Defense", 
     "source": "LSP"
   }, 
   {
@@ -459,6 +452,13 @@
     "source_id": 4, 
     "acronym_id": 65, 
     "expansion": "Detailed Test Objective", 
+    "source": "LSP"
+  }, 
+  {
+    "abbreviation": "DoD", 
+    "source_id": 4, 
+    "acronym_id": 61, 
+    "expansion": "Department of Defense", 
     "source": "LSP"
   }, 
   {
@@ -1001,13 +1001,6 @@
     "source": "LSP"
   }, 
   {
-    "abbreviation": "iEN", 
-    "source_id": 4, 
-    "acronym_id": 143, 
-    "expansion": "Industrial Engineering Network", 
-    "source": "LSP"
-  }, 
-  {
     "abbreviation": "IFD", 
     "source_id": 4, 
     "acronym_id": 144, 
@@ -1213,15 +1206,15 @@
   {
     "abbreviation": "KDP", 
     "source_id": 4, 
-    "acronym_id": 174, 
-    "expansion": "Kennedy Space Center Documented Procedure", 
+    "acronym_id": 173, 
+    "expansion": "Key Decision Point", 
     "source": "LSP"
   }, 
   {
     "abbreviation": "KDP", 
     "source_id": 4, 
-    "acronym_id": 173, 
-    "expansion": "Key Decision Point", 
+    "acronym_id": 174, 
+    "expansion": "Kennedy Space Center Documented Procedure", 
     "source": "LSP"
   }, 
   {
@@ -1400,13 +1393,6 @@
     "source": "LSP"
   }, 
   {
-    "abbreviation": "lsp-test", 
-    "source_id": 4, 
-    "acronym_id": 421, 
-    "expansion": "Lsp-Test", 
-    "source": "LSP"
-  }, 
-  {
     "abbreviation": "LSRR", 
     "source_id": 4, 
     "acronym_id": 200, 
@@ -1500,15 +1486,15 @@
   {
     "abbreviation": "MAM", 
     "source_id": 4, 
-    "acronym_id": 214, 
-    "expansion": "Mission Assignment Matrix", 
+    "acronym_id": 213, 
+    "expansion": "Mission Assurance Manager", 
     "source": "LSP"
   }, 
   {
     "abbreviation": "MAM", 
     "source_id": 4, 
-    "acronym_id": 213, 
-    "expansion": "Mission Assurance Manager", 
+    "acronym_id": 214, 
+    "expansion": "Mission Assignment Matrix", 
     "source": "LSP"
   }, 
   {
@@ -2452,15 +2438,15 @@
   {
     "abbreviation": "RO", 
     "source_id": 4, 
-    "acronym_id": 350, 
-    "expansion": "Resident Office", 
+    "acronym_id": 349, 
+    "expansion": "Risk Owner", 
     "source": "LSP"
   }, 
   {
     "abbreviation": "RO", 
     "source_id": 4, 
-    "acronym_id": 349, 
-    "expansion": "Risk Owner", 
+    "acronym_id": 350, 
+    "expansion": "Resident Office", 
     "source": "LSP"
   }, 
   {
@@ -2522,15 +2508,15 @@
   {
     "abbreviation": "SAR", 
     "source_id": 4, 
-    "acronym_id": 360, 
-    "expansion": "Safety Analysis Report", 
+    "acronym_id": 359, 
+    "expansion": "System Acceptance Review", 
     "source": "LSP"
   }, 
   {
     "abbreviation": "SAR", 
     "source_id": 4, 
-    "acronym_id": 359, 
-    "expansion": "System Acceptance Review", 
+    "acronym_id": 360, 
+    "expansion": "Safety Analysis Report", 
     "source": "LSP"
   }, 
   {
@@ -2662,15 +2648,15 @@
   {
     "abbreviation": "SP", 
     "source_id": 4, 
-    "acronym_id": 380, 
-    "expansion": "SharePoint", 
+    "acronym_id": 379, 
+    "expansion": "Standard Practice", 
     "source": "LSP"
   }, 
   {
     "abbreviation": "SP", 
     "source_id": 4, 
-    "acronym_id": 379, 
-    "expansion": "Standard Practice", 
+    "acronym_id": 380, 
+    "expansion": "SharePoint", 
     "source": "LSP"
   }, 
   {
@@ -2788,15 +2774,15 @@
   {
     "abbreviation": "TC", 
     "source_id": 4, 
-    "acronym_id": 398, 
-    "expansion": "Team Captain", 
+    "acronym_id": 397, 
+    "expansion": "Thermocouple", 
     "source": "LSP"
   }, 
   {
     "abbreviation": "TC", 
     "source_id": 4, 
-    "acronym_id": 397, 
-    "expansion": "Thermocouple", 
+    "acronym_id": 398, 
+    "expansion": "Team Captain", 
     "source": "LSP"
   }, 
   {
@@ -2951,6 +2937,20 @@
     "source_id": 4, 
     "acronym_id": 420, 
     "expansion": "Western Range", 
+    "source": "LSP"
+  }, 
+  {
+    "abbreviation": "iEN", 
+    "source_id": 4, 
+    "acronym_id": 143, 
+    "expansion": "Industrial Engineering Network", 
+    "source": "LSP"
+  }, 
+  {
+    "abbreviation": "lsp-test", 
+    "source_id": 4, 
+    "acronym_id": 421, 
+    "expansion": "Lsp-Test", 
     "source": "LSP"
   }
 ]
