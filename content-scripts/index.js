@@ -11,26 +11,21 @@ const getMessage = (request) => {
   });
 }
 
-// places meaning(s) below selected acronym in a qtip tooltip
 const renderTooltip = () => {
   $("body").mouseup(event => {
     setTimeout(async () => {
       var inner, range, rect, x, y, h, w;
       var selection = window.getSelection();
       if (selection.rangeCount > 0) {
-        // invoke when text is selected
         inner = selection.anchorNode.innerHTML;
         if (inner) {
-          // check if selection is in an input tag
           if (inner.includes("input") || inner.includes("textarea")) {
-            // verify selection is in an input tag
             x = event.clientX;
-            y = event.clientY + 10; // place qtip slightly below the mouse
+            y = event.clientY + 10;
             h = 1;
             w = 1;
           }
         } else {
-          // for text that a user didn't type
           range = selection.getRangeAt(0);
           rect = range.getBoundingClientRect();
           x = rect.left;
@@ -76,12 +71,12 @@ const renderTooltip = () => {
         $("#nasa_tooltip").qtip({
           hide: {
             event: "unfocus"
-          }, // hides qtip on mousedown
+          },
           content: meaning,
           prerender: true,
           show: {
             ready: true
-          }, // prerendering and showing qtip immediately when ready fixes bug where selecting and quickly moving mouse away wouldn't get a qtip
+          },
           position: {
             my: "top center",
             at: "bottom center",
