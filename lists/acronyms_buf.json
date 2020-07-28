@@ -1,0 +1,401 @@
+[
+  {
+    "abbreviation": "AI&T", 
+    "source_id": 0, 
+    "acronym_id": 5, 
+    "expansion": "Alignment Integration & Test", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "AR&D", 
+    "source_id": 0, 
+    "acronym_id": 4, 
+    "expansion": "Automated Rendezvous and Docking", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "BTP", 
+    "source_id": 0, 
+    "acronym_id": 6, 
+    "expansion": "Build To Print", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "CBE", 
+    "source_id": 0, 
+    "acronym_id": 7, 
+    "expansion": "Current Best Estimate", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "CCSDS", 
+    "source_id": 0, 
+    "acronym_id": 8, 
+    "expansion": "Consultative Committee for Space Data Systems", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "CDL", 
+    "source_id": 0, 
+    "acronym_id": 3, 
+    "expansion": "Custom Development Languages", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "CPC", 
+    "source_id": 0, 
+    "acronym_id": 54, 
+    "expansion": "Compound Parabolic Concentrator", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "ECSRM", 
+    "source_id": 0, 
+    "acronym_id": 55, 
+    "expansion": "Early Calibration System Risk Management", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "EDU", 
+    "source_id": 0, 
+    "acronym_id": 9, 
+    "expansion": "Engineering Development Unit", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "EGSE", 
+    "source_id": 0, 
+    "acronym_id": 10, 
+    "expansion": "Electrical Ground Support Equipment", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "EICD", 
+    "source_id": 0, 
+    "acronym_id": 11, 
+    "expansion": "Electrical Interface Control Document", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "EM", 
+    "source_id": 0, 
+    "acronym_id": 12, 
+    "expansion": "Engineering Model", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "EPR", 
+    "source_id": 0, 
+    "acronym_id": 13, 
+    "expansion": "Engineering Peer Review", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "ESD", 
+    "source_id": 0, 
+    "acronym_id": 14, 
+    "expansion": "Electrostatic Discharge", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "ETU", 
+    "source_id": 0, 
+    "acronym_id": 15, 
+    "expansion": "Engineering Test Unit", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "FDC", 
+    "source_id": 0, 
+    "acronym_id": 51, 
+    "expansion": "Fault Detection and Classification", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "FEB", 
+    "source_id": 0, 
+    "acronym_id": 16, 
+    "expansion": "Front End Box", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "FET", 
+    "source_id": 0, 
+    "acronym_id": 17, 
+    "expansion": "Field Effect Transistor", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "FPGA", 
+    "source_id": 0, 
+    "acronym_id": 18, 
+    "expansion": "Field Programmable Gate Array", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "FSAB", 
+    "source_id": 0, 
+    "acronym_id": 19, 
+    "expansion": "Full Scale Aft Bulked (LandSat-7)", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "GRLR", 
+    "source_id": 0, 
+    "acronym_id": 20, 
+    "expansion": "Goddard Reconfigurable Laser Ranger", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "GRSSLi", 
+    "source_id": 0, 
+    "acronym_id": 21, 
+    "expansion": "Goddard Reconfigurable Solid-state Scanning LiDAR", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "GSE", 
+    "source_id": 0, 
+    "acronym_id": 22, 
+    "expansion": "Ground Support Equipment", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "HARRC", 
+    "source_id": 0, 
+    "acronym_id": 23, 
+    "expansion": "High Angular Resolution Relative Calibration", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "HPO", 
+    "source_id": 0, 
+    "acronym_id": 1, 
+    "expansion": "Health Physics Office", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "ICD", 
+    "source_id": 0, 
+    "acronym_id": 24, 
+    "expansion": "Interface Control Document", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "IMPACT", 
+    "source_id": 0, 
+    "acronym_id": 56, 
+    "expansion": "Interagency Implementation and Advanced Concepts Team", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "LRF", 
+    "source_id": 0, 
+    "acronym_id": 26, 
+    "expansion": "Laser Range Finder", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "LSITP", 
+    "source_id": 0, 
+    "acronym_id": 2, 
+    "expansion": "Lunar Surface Instrument and Technology Payloads", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "LiDAR", 
+    "source_id": 0, 
+    "acronym_id": 25, 
+    "expansion": "Light Detection and Ranging", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MAR", 
+    "source_id": 0, 
+    "acronym_id": 27, 
+    "expansion": "Mission Assurance Requirements", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MEB", 
+    "source_id": 0, 
+    "acronym_id": 28, 
+    "expansion": "Main Electronics Box", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MEL", 
+    "source_id": 0, 
+    "acronym_id": 29, 
+    "expansion": "Master Equipment List", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MEMS", 
+    "source_id": 0, 
+    "acronym_id": 30, 
+    "expansion": "Micro-Electro-Mechanical Systems", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MGSE", 
+    "source_id": 0, 
+    "acronym_id": 31, 
+    "expansion": "Mechanical Ground Support Equipment", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MHz", 
+    "source_id": 0, 
+    "acronym_id": 32, 
+    "expansion": "Megahertz", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MICD", 
+    "source_id": 0, 
+    "acronym_id": 33, 
+    "expansion": "Mechanical Interface Control Document", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MLI", 
+    "source_id": 0, 
+    "acronym_id": 34, 
+    "expansion": "Multi-Layer Insulation", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MRR", 
+    "source_id": 0, 
+    "acronym_id": 35, 
+    "expansion": "Manufacturing Readiness Review", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "OSAM", 
+    "source_id": 0, 
+    "acronym_id": 53, 
+    "expansion": "On-Orbit Servicing, Assembly and Manufacturing", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PACE", 
+    "source_id": 0, 
+    "acronym_id": 0, 
+    "expansion": "Plankton, Aerosol, Cloud and ocean Ecosystem", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PCB", 
+    "source_id": 0, 
+    "acronym_id": 36, 
+    "expansion": "Parts Control Board", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PCC", 
+    "source_id": 0, 
+    "acronym_id": 37, 
+    "expansion": "Processor Control Card", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PDL", 
+    "source_id": 0, 
+    "acronym_id": 38, 
+    "expansion": "Product Development Lead", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PDR", 
+    "source_id": 0, 
+    "acronym_id": 39, 
+    "expansion": "Preliminary Design Review", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PSD", 
+    "source_id": 0, 
+    "acronym_id": 40, 
+    "expansion": "Position Sensitive Diode (or Detector)", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PWB", 
+    "source_id": 0, 
+    "acronym_id": 41, 
+    "expansion": "Printed Wiring Board", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PWM", 
+    "source_id": 0, 
+    "acronym_id": 42, 
+    "expansion": "Pulse Width Modulation", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "RPO", 
+    "source_id": 0, 
+    "acronym_id": 43, 
+    "expansion": "Rendezvous and Proximity Operations", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "RUI", 
+    "source_id": 0, 
+    "acronym_id": 44, 
+    "expansion": "Requirement Unique Identifier", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "SpC", 
+    "source_id": 0, 
+    "acronym_id": 45, 
+    "expansion": "SpaceCube", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "TRL", 
+    "source_id": 0, 
+    "acronym_id": 46, 
+    "expansion": "Test Readiness Level", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "TRR", 
+    "source_id": 0, 
+    "acronym_id": 47, 
+    "expansion": "Test Readiness Review", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "UART", 
+    "source_id": 0, 
+    "acronym_id": 50, 
+    "expansion": "Universal Asynchronous Receiver Transmitter", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "VDSU", 
+    "source_id": 0, 
+    "acronym_id": 52, 
+    "expansion": "Video Distribution & Storage Unit", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "VOA", 
+    "source_id": 0, 
+    "acronym_id": 49, 
+    "expansion": "Variable Optical Attenuator", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "WBS", 
+    "source_id": 0, 
+    "acronym_id": 48, 
+    "expansion": "Work Breakdown Structure", 
+    "source": "buffer"
+  }
+]
