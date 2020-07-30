@@ -119,6 +119,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "FEIC", 
+    "source_id": 0, 
+    "acronym_id": 57, 
+    "expansion": "Front End Interface Card", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "FET", 
     "source_id": 0, 
     "acronym_id": 17, 
@@ -214,6 +221,13 @@
     "source_id": 0, 
     "acronym_id": 27, 
     "expansion": "Mission Assurance Requirements", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MDM", 
+    "source_id": 0, 
+    "acronym_id": 58, 
+    "expansion": "Micro-D Miniature", 
     "source": "buffer"
   }, 
   {
@@ -354,6 +368,13 @@
     "source_id": 0, 
     "acronym_id": 45, 
     "expansion": "SpaceCube", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "TIA", 
+    "source_id": 0, 
+    "acronym_id": 59, 
+    "expansion": "Transimpedance Amplifier", 
     "source": "buffer"
   }, 
   {
