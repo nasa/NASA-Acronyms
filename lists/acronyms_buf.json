@@ -105,6 +105,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "EVOA", 
+    "source_id": 0, 
+    "acronym_id": 62, 
+    "expansion": "Electronic Variable Optical Attenuator", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "FDC", 
     "source_id": 0, 
     "acronym_id": 51, 
@@ -350,6 +357,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "RDS", 
+    "source_id": 0, 
+    "acronym_id": 63, 
+    "expansion": "Restore Dynamic Simulator", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "RPO", 
     "source_id": 0, 
     "acronym_id": 43, 
@@ -361,6 +375,20 @@
     "source_id": 0, 
     "acronym_id": 44, 
     "expansion": "Requirement Unique Identifier", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "SIRF", 
+    "source_id": 0, 
+    "acronym_id": 60, 
+    "expansion": "Single event Immune Reconfigurable FPGA", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "SMB", 
+    "source_id": 0, 
+    "acronym_id": 61, 
+    "expansion": "Standard Message Bus", 
     "source": "buffer"
   }, 
   {
