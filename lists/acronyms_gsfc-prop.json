@@ -1,0 +1,4643 @@
+[
+  {
+    "abbreviation": "3PCS", 
+    "source_id": 6, 
+    "acronym_id": 0, 
+    "expansion": "Pointing, Positioning, Phasing and Coordinate Systems", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AA", 
+    "source_id": 6, 
+    "acronym_id": 1, 
+    "expansion": "Associate Administrator", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ABML", 
+    "source_id": 6, 
+    "acronym_id": 2, 
+    "expansion": "As-Built Materials List", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ACFTD", 
+    "source_id": 6, 
+    "acronym_id": 3, 
+    "expansion": "Air Cleaner Fine Test Dust", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ACS", 
+    "source_id": 6, 
+    "acronym_id": 4, 
+    "expansion": "Attitude Control System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ACSPB", 
+    "source_id": 6, 
+    "acronym_id": 5, 
+    "expansion": "ACS Propellant Budget", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ADC", 
+    "source_id": 6, 
+    "acronym_id": 6, 
+    "expansion": "Analog-to-Digital Converter", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ADM", 
+    "source_id": 6, 
+    "acronym_id": 7, 
+    "expansion": "Additively Manufactured", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AETD", 
+    "source_id": 6, 
+    "acronym_id": 8, 
+    "expansion": "Applied Engineering and Technology Directorate", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AFRC", 
+    "source_id": 6, 
+    "acronym_id": 9, 
+    "expansion": "Armstrong Flight Research Center", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AFRP", 
+    "source_id": 6, 
+    "acronym_id": 10, 
+    "expansion": "Anomaly Problem/Failure Reporting", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AFSPC", 
+    "source_id": 6, 
+    "acronym_id": 11, 
+    "expansion": "Air Force Space Command", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AFT", 
+    "source_id": 6, 
+    "acronym_id": 12, 
+    "expansion": "Allowable Flight Temperature", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AIAA", 
+    "source_id": 6, 
+    "acronym_id": 13, 
+    "expansion": "American Institute of Aeronautics and Astronautics", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ALC", 
+    "source_id": 6, 
+    "acronym_id": 14, 
+    "expansion": "Agency Location Code", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ALDS", 
+    "source_id": 6, 
+    "acronym_id": 15, 
+    "expansion": "Agency Labor Distribution System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ALI", 
+    "source_id": 6, 
+    "acronym_id": 16, 
+    "expansion": "Accounting Line Item", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AM", 
+    "source_id": 6, 
+    "acronym_id": 17, 
+    "expansion": "Avionics Module", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AMMS", 
+    "source_id": 6, 
+    "acronym_id": 18, 
+    "expansion": "Advanced Materials Management System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AMO", 
+    "source_id": 6, 
+    "acronym_id": 19, 
+    "expansion": "Agency Management and Operations Funding Source", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AO", 
+    "source_id": 6, 
+    "acronym_id": 20, 
+    "expansion": "Announcement of Opportunity", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AP", 
+    "source_id": 6, 
+    "acronym_id": 21, 
+    "expansion": "Accounts Payable", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "APC", 
+    "source_id": 6, 
+    "acronym_id": 22, 
+    "expansion": "Active Pressure Control", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "APL", 
+    "source_id": 6, 
+    "acronym_id": 23, 
+    "expansion": "Applied Physics Laboratory", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AR ", 
+    "source_id": 6, 
+    "acronym_id": 24, 
+    "expansion": "Accounts Receivable", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ARC", 
+    "source_id": 6, 
+    "acronym_id": 25, 
+    "expansion": "Atlantic Research Corporation", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ARC", 
+    "source_id": 6, 
+    "acronym_id": 26, 
+    "expansion": "Ames Research Center", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ARO", 
+    "source_id": 6, 
+    "acronym_id": 27, 
+    "expansion": "After Receipt of Order", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ASTM", 
+    "source_id": 6, 
+    "acronym_id": 28, 
+    "expansion": "American Society for Testing and Materials", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ASTME", 
+    "source_id": 6, 
+    "acronym_id": 29, 
+    "expansion": "American Society of Tool and Manufacturing Engineers", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ATK", 
+    "source_id": 6, 
+    "acronym_id": 30, 
+    "expansion": "Alliant Techsystems", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ATP", 
+    "source_id": 6, 
+    "acronym_id": 31, 
+    "expansion": "Adenosine Triphosphate", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ATP", 
+    "source_id": 6, 
+    "acronym_id": 32, 
+    "expansion": "Acceptance Test Procedure", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ATR", 
+    "source_id": 6, 
+    "acronym_id": 33, 
+    "expansion": "Acceptance Test Readiness", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AU", 
+    "source_id": 6, 
+    "acronym_id": 34, 
+    "expansion": "Astronomical Unit", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AVS", 
+    "source_id": 6, 
+    "acronym_id": 35, 
+    "expansion": "Avionics Subsystem", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AWG", 
+    "source_id": 6, 
+    "acronym_id": 36, 
+    "expansion": "American Wire Gage", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "AWMS", 
+    "source_id": 6, 
+    "acronym_id": 37, 
+    "expansion": "Accounts Payable Work Management System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "BD", 
+    "source_id": 6, 
+    "acronym_id": 38, 
+    "expansion": "Block Diagram", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "BEM", 
+    "source_id": 6, 
+    "acronym_id": 39, 
+    "expansion": "Boundary Element Method", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "BETC", 
+    "source_id": 6, 
+    "acronym_id": 40, 
+    "expansion": "Business Event Type Code", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "BFSL", 
+    "source_id": 6, 
+    "acronym_id": 41, 
+    "expansion": "Best Fit Straight Line", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "BI", 
+    "source_id": 6, 
+    "acronym_id": 42, 
+    "expansion": "Business Intelligence", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "BLV", 
+    "source_id": 6, 
+    "acronym_id": 43, 
+    "expansion": "Biological Limit Value", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "BM", 
+    "source_id": 6, 
+    "acronym_id": 44, 
+    "expansion": "Business Managers", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "BOL", 
+    "source_id": 6, 
+    "acronym_id": 46, 
+    "expansion": "Beginning of Life", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "BPA", 
+    "source_id": 6, 
+    "acronym_id": 47, 
+    "expansion": "Blanket Purchase Agreement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "BPR", 
+    "source_id": 6, 
+    "acronym_id": 48, 
+    "expansion": "Back Pressure Relief", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "BRP", 
+    "source_id": 6, 
+    "acronym_id": 49, 
+    "expansion": "Broken Plane Maneuver", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "BW", 
+    "source_id": 6, 
+    "acronym_id": 50, 
+    "expansion": "Business Warehouse", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "BoB", 
+    "source_id": 6, 
+    "acronym_id": 45, 
+    "expansion": "Break Out Box", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "C&DH", 
+    "source_id": 6, 
+    "acronym_id": 51, 
+    "expansion": "Command & Data Handling", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CAAS", 
+    "source_id": 6, 
+    "acronym_id": 52, 
+    "expansion": "Contract Administration and Audit Services", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CAD", 
+    "source_id": 6, 
+    "acronym_id": 53, 
+    "expansion": "Computer Aided Design", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CADRe", 
+    "source_id": 6, 
+    "acronym_id": 54, 
+    "expansion": "Cost Analysis Data Requirement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CAN", 
+    "source_id": 6, 
+    "acronym_id": 55, 
+    "expansion": "Cooperative Agreement Notice", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CARS", 
+    "source_id": 6, 
+    "acronym_id": 56, 
+    "expansion": "Central Accounting and Reporting System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CAS", 
+    "source_id": 6, 
+    "acronym_id": 57, 
+    "expansion": "Cost Accounting Standards", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CASB", 
+    "source_id": 6, 
+    "acronym_id": 58, 
+    "expansion": "Cost Accounting Standards Board", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CASP", 
+    "source_id": 6, 
+    "acronym_id": 59, 
+    "expansion": "Cross Agency Support Program", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CBE", 
+    "source_id": 6, 
+    "acronym_id": 60, 
+    "expansion": "Current Best Estimate", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CC", 
+    "source_id": 6, 
+    "acronym_id": 61, 
+    "expansion": "Contamination Control", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CCB", 
+    "source_id": 6, 
+    "acronym_id": 62, 
+    "expansion": "Change Control Board", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CCP", 
+    "source_id": 6, 
+    "acronym_id": 63, 
+    "expansion": "Contamination Control Plan", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CCR", 
+    "source_id": 6, 
+    "acronym_id": 64, 
+    "expansion": "Contractor Cost Reporting Extension to SAP", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CDR", 
+    "source_id": 6, 
+    "acronym_id": 65, 
+    "expansion": "Critical Design Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CDRIL", 
+    "source_id": 6, 
+    "acronym_id": 66, 
+    "expansion": "Contractual Deliverable", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CE", 
+    "source_id": 6, 
+    "acronym_id": 67, 
+    "expansion": "Conducted Emissions", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CEEF", 
+    "source_id": 6, 
+    "acronym_id": 68, 
+    "expansion": "Combined Environmental Effects Facility", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CEL", 
+    "source_id": 6, 
+    "acronym_id": 69, 
+    "expansion": "Ceiling Exposure Limit", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CFD", 
+    "source_id": 6, 
+    "acronym_id": 70, 
+    "expansion": "Computational Fluid Dynamics", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CFO", 
+    "source_id": 6, 
+    "acronym_id": 71, 
+    "expansion": "Chief Financial Officer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CFU", 
+    "source_id": 6, 
+    "acronym_id": 72, 
+    "expansion": "Colony Forming Units", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CGA", 
+    "source_id": 6, 
+    "acronym_id": 73, 
+    "expansion": "Compressed Gas Association", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CGE", 
+    "source_id": 6, 
+    "acronym_id": 74, 
+    "expansion": "Concur Government Edition", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CIC", 
+    "source_id": 6, 
+    "acronym_id": 75, 
+    "expansion": "Cell Interface Circuit", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CIL", 
+    "source_id": 6, 
+    "acronym_id": 76, 
+    "expansion": "Critical Items List", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CIO", 
+    "source_id": 6, 
+    "acronym_id": 77, 
+    "expansion": "Chief Information Officer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CLA", 
+    "source_id": 6, 
+    "acronym_id": 78, 
+    "expansion": "Coupled Load Analysis", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CLA", 
+    "source_id": 6, 
+    "acronym_id": 79, 
+    "expansion": "Combined Loads Analysis", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CM", 
+    "source_id": 6, 
+    "acronym_id": 80, 
+    "expansion": "Center of Mass", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CM&O", 
+    "source_id": 6, 
+    "acronym_id": 81, 
+    "expansion": "Center Management and Operations", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CMD", 
+    "source_id": 6, 
+    "acronym_id": 82, 
+    "expansion": "Command", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CMM", 
+    "source_id": 6, 
+    "acronym_id": 83, 
+    "expansion": "Contracts Management Module", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CMO", 
+    "source_id": 6, 
+    "acronym_id": 84, 
+    "expansion": "Center Management and Operations Funding Source", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CMP", 
+    "source_id": 6, 
+    "acronym_id": 85, 
+    "expansion": "Continuous Monitoring Program", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CO", 
+    "source_id": 6, 
+    "acronym_id": 86, 
+    "expansion": "Contracting Officer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "COC", 
+    "source_id": 6, 
+    "acronym_id": 87, 
+    "expansion": "Certificate of Conformance", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "COCD", 
+    "source_id": 6, 
+    "acronym_id": 88, 
+    "expansion": "Commitment, Obligation, Cost, and Disbursement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CONOPS", 
+    "source_id": 6, 
+    "acronym_id": 90, 
+    "expansion": "Concept of Operations", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CONV", 
+    "source_id": 6, 
+    "acronym_id": 91, 
+    "expansion": "Converter", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "COPV", 
+    "source_id": 6, 
+    "acronym_id": 92, 
+    "expansion": "Composite Overwrapped Pressure Vessel", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "COR", 
+    "source_id": 6, 
+    "acronym_id": 93, 
+    "expansion": "Contracting Officer's Representative", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CORTS", 
+    "source_id": 6, 
+    "acronym_id": 94, 
+    "expansion": "Contractor Resources Tracking System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "COSPAR", 
+    "source_id": 6, 
+    "acronym_id": 95, 
+    "expansion": "Committee on Space Research", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "COTS", 
+    "source_id": 6, 
+    "acronym_id": 96, 
+    "expansion": "Commercial Off-the-Shelf", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CR", 
+    "source_id": 6, 
+    "acronym_id": 97, 
+    "expansion": "Continuing Resolution", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CRES", 
+    "source_id": 6, 
+    "acronym_id": 98, 
+    "expansion": "Corrosion Resistant Steel", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CS", 
+    "source_id": 6, 
+    "acronym_id": 99, 
+    "expansion": "Civil Service/Servant", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CSLA", 
+    "source_id": 6, 
+    "acronym_id": 100, 
+    "expansion": "Contract Service Level Agreement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CSS", 
+    "source_id": 6, 
+    "acronym_id": 101, 
+    "expansion": "Course Sun Sensors", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CSV", 
+    "source_id": 6, 
+    "acronym_id": 102, 
+    "expansion": "Comma Separated Values", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CT", 
+    "source_id": 6, 
+    "acronym_id": 103, 
+    "expansion": "Computed Tomography", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CTR", 
+    "source_id": 6, 
+    "acronym_id": 104, 
+    "expansion": "Compensated Temperature Range", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CVCM", 
+    "source_id": 6, 
+    "acronym_id": 105, 
+    "expansion": "Collected Volatile Condensable Materials", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CWBS", 
+    "source_id": 6, 
+    "acronym_id": 106, 
+    "expansion": "Contract Work Breakdown Structure", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CY", 
+    "source_id": 6, 
+    "acronym_id": 107, 
+    "expansion": "Calendar Year", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "CoF", 
+    "source_id": 6, 
+    "acronym_id": 89, 
+    "expansion": "Construction of Facilities Funding Source", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "D/S", 
+    "source_id": 6, 
+    "acronym_id": 108, 
+    "expansion": "Downstream", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DB", 
+    "source_id": 6, 
+    "acronym_id": 109, 
+    "expansion": "Diode Box", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DC", 
+    "source_id": 6, 
+    "acronym_id": 110, 
+    "expansion": "Duty Cycle", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DCAA", 
+    "source_id": 6, 
+    "acronym_id": 111, 
+    "expansion": "Defense Contract Auditing Agency", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DCMA", 
+    "source_id": 6, 
+    "acronym_id": 112, 
+    "expansion": "Defense Contract Management Agency", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DCR", 
+    "source_id": 6, 
+    "acronym_id": 113, 
+    "expansion": "Design Conformance Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DDD", 
+    "source_id": 6, 
+    "acronym_id": 114, 
+    "expansion": "Displacement Damage Dose", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DDD", 
+    "source_id": 6, 
+    "acronym_id": 115, 
+    "expansion": "Deep Dialectric Discharge", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DES", 
+    "source_id": 6, 
+    "acronym_id": 116, 
+    "expansion": "Digital Electronics Sensor", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DFRC", 
+    "source_id": 6, 
+    "acronym_id": 117, 
+    "expansion": "Dryden Flight Research Center", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DFSE", 
+    "source_id": 6, 
+    "acronym_id": 118, 
+    "expansion": "Deputy Flight Systems Engineer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DHMR", 
+    "source_id": 6, 
+    "acronym_id": 119, 
+    "expansion": "Dry Heat Microbial Reduction", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DI", 
+    "source_id": 6, 
+    "acronym_id": 120, 
+    "expansion": "Deionized", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DIST", 
+    "source_id": 6, 
+    "acronym_id": 121, 
+    "expansion": "Distribution", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DOORs", 
+    "source_id": 6, 
+    "acronym_id": 123, 
+    "expansion": "Dynamic Object-Oriented Requirements System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DPLY", 
+    "source_id": 6, 
+    "acronym_id": 124, 
+    "expansion": "Deploy", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DPMR", 
+    "source_id": 6, 
+    "acronym_id": 125, 
+    "expansion": "Deputy Project Manager of Resources", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DPU", 
+    "source_id": 6, 
+    "acronym_id": 126, 
+    "expansion": "Data Processing Unit", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DRD", 
+    "source_id": 6, 
+    "acronym_id": 127, 
+    "expansion": "Data Requirement Description", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DRFP", 
+    "source_id": 6, 
+    "acronym_id": 128, 
+    "expansion": "Draft Request for Proposal", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DRM", 
+    "source_id": 6, 
+    "acronym_id": 129, 
+    "expansion": "Directorate Resources Manager", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DSCM", 
+    "source_id": 6, 
+    "acronym_id": 130, 
+    "expansion": "Deputy Space Craft Manager", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DSM", 
+    "source_id": 6, 
+    "acronym_id": 131, 
+    "expansion": "Deep Space Maneuver", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DSMC", 
+    "source_id": 6, 
+    "acronym_id": 132, 
+    "expansion": "Direct Simulation Monte Carlo", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DSN", 
+    "source_id": 6, 
+    "acronym_id": 133, 
+    "expansion": "Deep Space Network", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DSR", 
+    "source_id": 6, 
+    "acronym_id": 134, 
+    "expansion": "Division Status Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DST", 
+    "source_id": 6, 
+    "acronym_id": 135, 
+    "expansion": "Dual Split Triplet", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DV", 
+    "source_id": 6, 
+    "acronym_id": 136, 
+    "expansion": "Delta Velocity", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "DoD", 
+    "source_id": 6, 
+    "acronym_id": 122, 
+    "expansion": "Department of Defense", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "E-GOV", 
+    "source_id": 6, 
+    "acronym_id": 145, 
+    "expansion": "Electronic Government", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "E-THEMIS", 
+    "source_id": 6, 
+    "acronym_id": 172, 
+    "expansion": "Europa Thermal Emission Imaging System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EAC", 
+    "source_id": 6, 
+    "acronym_id": 137, 
+    "expansion": "Estimate at Completion", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EB", 
+    "source_id": 6, 
+    "acronym_id": 138, 
+    "expansion": "Electron Beam", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EC", 
+    "source_id": 6, 
+    "acronym_id": 139, 
+    "expansion": "Europa Clipper", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ECR", 
+    "source_id": 6, 
+    "acronym_id": 140, 
+    "expansion": "Engineering Change Request", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ECR", 
+    "source_id": 6, 
+    "acronym_id": 141, 
+    "expansion": "Environmental Compliance and Restoration Funding Source", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ED50", 
+    "source_id": 6, 
+    "acronym_id": 142, 
+    "expansion": "Median Effective Does", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EEE", 
+    "source_id": 6, 
+    "acronym_id": 143, 
+    "expansion": "Electrical, Electronic, and Electromechanical", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EGA", 
+    "source_id": 6, 
+    "acronym_id": 144, 
+    "expansion": "Earth Gravity Assist", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EGSE", 
+    "source_id": 6, 
+    "acronym_id": 146, 
+    "expansion": "Electrical Ground Support Equipment", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EICD", 
+    "source_id": 6, 
+    "acronym_id": 147, 
+    "expansion": "Electrical Interface Control Document", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EIDP", 
+    "source_id": 6, 
+    "acronym_id": 148, 
+    "expansion": "End Item Data Package", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EIG", 
+    "source_id": 6, 
+    "acronym_id": 149, 
+    "expansion": "Electrical Interface and Grounding", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EIS", 
+    "source_id": 6, 
+    "acronym_id": 150, 
+    "expansion": "Europa Imaging System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ELDRS", 
+    "source_id": 6, 
+    "acronym_id": 151, 
+    "expansion": "Enhanced Low Dose Rate Sensitivity", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EM", 
+    "source_id": 6, 
+    "acronym_id": 152, 
+    "expansion": "Engineering Model", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EMC", 
+    "source_id": 6, 
+    "acronym_id": 153, 
+    "expansion": "Electromagnetic Compatibility", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EMCP", 
+    "source_id": 6, 
+    "acronym_id": 154, 
+    "expansion": "Electromagnetic Compatibility Plan", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EMF", 
+    "source_id": 6, 
+    "acronym_id": 155, 
+    "expansion": "Electromagnetic Field", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EMI", 
+    "source_id": 6, 
+    "acronym_id": 156, 
+    "expansion": "Electromagnetic Interference", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EMS", 
+    "source_id": 6, 
+    "acronym_id": 158, 
+    "expansion": "Environmental Management System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ENG", 
+    "source_id": 6, 
+    "acronym_id": 159, 
+    "expansion": "Engineer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EOL", 
+    "source_id": 6, 
+    "acronym_id": 160, 
+    "expansion": "End of Life", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EP", 
+    "source_id": 6, 
+    "acronym_id": 161, 
+    "expansion": "Elevated Privileges", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EPC", 
+    "source_id": 6, 
+    "acronym_id": 162, 
+    "expansion": "Electronic Power Conditioner", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EPDW", 
+    "source_id": 6, 
+    "acronym_id": 163, 
+    "expansion": "Enhanced Procurement Data Warehouse", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EPR", 
+    "source_id": 6, 
+    "acronym_id": 164, 
+    "expansion": "Estimated Price Report", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EPSS", 
+    "source_id": 6, 
+    "acronym_id": 165, 
+    "expansion": "Enterprise Performance Support System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EPW", 
+    "source_id": 6, 
+    "acronym_id": 166, 
+    "expansion": "Electronic Pulse Width", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ERD", 
+    "source_id": 6, 
+    "acronym_id": 167, 
+    "expansion": "Environmental Requirements Document", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ESA", 
+    "source_id": 6, 
+    "acronym_id": 168, 
+    "expansion": "European Space Agency", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ESD", 
+    "source_id": 6, 
+    "acronym_id": 169, 
+    "expansion": "Electrostatic Discharge", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ESEOD", 
+    "source_id": 6, 
+    "acronym_id": 170, 
+    "expansion": "Equivalent Sharp Edge Orifice Diameter", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ETFE", 
+    "source_id": 6, 
+    "acronym_id": 171, 
+    "expansion": "Ethylene Tetrafluoroethylene", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ETU", 
+    "source_id": 6, 
+    "acronym_id": 173, 
+    "expansion": "Engineering Test Unit", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EVA", 
+    "source_id": 6, 
+    "acronym_id": 174, 
+    "expansion": "Extreme Value Analysis", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EVEEGA", 
+    "source_id": 6, 
+    "acronym_id": 175, 
+    "expansion": "Earth-Venus-Earth-Earth Gravity Assist", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EVM", 
+    "source_id": 6, 
+    "acronym_id": 176, 
+    "expansion": "Earned Value Management", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "EVMS", 
+    "source_id": 6, 
+    "acronym_id": 177, 
+    "expansion": "Earned Value Management System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "F&D", 
+    "source_id": 6, 
+    "acronym_id": 178, 
+    "expansion": "Fill and Drain", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FA", 
+    "source_id": 6, 
+    "acronym_id": 179, 
+    "expansion": "Flight Acceptance", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FAR", 
+    "source_id": 6, 
+    "acronym_id": 180, 
+    "expansion": "Federal Acquisition Regulation", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FASAB", 
+    "source_id": 6, 
+    "acronym_id": 181, 
+    "expansion": "Federal Accounting Standards Advisory Board", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FBWT", 
+    "source_id": 6, 
+    "acronym_id": 182, 
+    "expansion": "Funds Balance With Treasury", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FC", 
+    "source_id": 6, 
+    "acronym_id": 183, 
+    "expansion": "Funded Contract Outline Agreement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FCR", 
+    "source_id": 6, 
+    "acronym_id": 184, 
+    "expansion": "Fault Containment Region", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FCS", 
+    "source_id": 6, 
+    "acronym_id": 185, 
+    "expansion": "GSFC Funds Control System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FCST", 
+    "source_id": 6, 
+    "acronym_id": 186, 
+    "expansion": "Forecast", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FDD", 
+    "source_id": 6, 
+    "acronym_id": 187, 
+    "expansion": "Functional Design Description", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FDV", 
+    "source_id": 6, 
+    "acronym_id": 188, 
+    "expansion": "Fill and Drain Valve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FEM", 
+    "source_id": 6, 
+    "acronym_id": 189, 
+    "expansion": "Finite Element Method", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FEP", 
+    "source_id": 6, 
+    "acronym_id": 190, 
+    "expansion": "Fluorinated Ethylene Propylene", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FET", 
+    "source_id": 6, 
+    "acronym_id": 191, 
+    "expansion": "Field Effect Transistor", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FM", 
+    "source_id": 6, 
+    "acronym_id": 192, 
+    "expansion": "Flight Model", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FM", 
+    "source_id": 6, 
+    "acronym_id": 193, 
+    "expansion": "Financial Manager", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FMEA", 
+    "source_id": 6, 
+    "acronym_id": 194, 
+    "expansion": "Failure Modes and Effects Analysis", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FMECA", 
+    "source_id": 6, 
+    "acronym_id": 195, 
+    "expansion": "Failure Modes Effects and Criticality Analysis", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FMS", 
+    "source_id": 6, 
+    "acronym_id": 196, 
+    "expansion": "Financial Management Service", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FOIA", 
+    "source_id": 6, 
+    "acronym_id": 197, 
+    "expansion": "Freedom of Information Act", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FOS", 
+    "source_id": 6, 
+    "acronym_id": 198, 
+    "expansion": "Factor of Safety", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FP", 
+    "source_id": 6, 
+    "acronym_id": 199, 
+    "expansion": "Funded Program", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FPGA", 
+    "source_id": 6, 
+    "acronym_id": 200, 
+    "expansion": "Field Programmable Gate Array", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FRB", 
+    "source_id": 6, 
+    "acronym_id": 201, 
+    "expansion": "Failure Review Board", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FS", 
+    "source_id": 6, 
+    "acronym_id": 202, 
+    "expansion": "Flight System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FS", 
+    "source_id": 6, 
+    "acronym_id": 203, 
+    "expansion": "Fund Source", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FSE", 
+    "source_id": 6, 
+    "acronym_id": 204, 
+    "expansion": "Flight Systems Engineering", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FSO", 
+    "source_id": 6, 
+    "acronym_id": 205, 
+    "expansion": "Full Scale Output", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FSO", 
+    "source_id": 6, 
+    "acronym_id": 206, 
+    "expansion": "Financial Systems Office", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FSS", 
+    "source_id": 6, 
+    "acronym_id": 207, 
+    "expansion": "Financial Services Section", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FSW", 
+    "source_id": 6, 
+    "acronym_id": 208, 
+    "expansion": "Flight Software", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FT", 
+    "source_id": 6, 
+    "acronym_id": 209, 
+    "expansion": "Fault Tree", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FTE", 
+    "source_id": 6, 
+    "acronym_id": 210, 
+    "expansion": "Full Time Equivalent", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "FY", 
+    "source_id": 6, 
+    "acronym_id": 211, 
+    "expansion": "Fiscal Year", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "G&A", 
+    "source_id": 6, 
+    "acronym_id": 212, 
+    "expansion": "General & Administrative", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GAAP", 
+    "source_id": 6, 
+    "acronym_id": 213, 
+    "expansion": "Generally Accepted Accounting Principles", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GAO", 
+    "source_id": 6, 
+    "acronym_id": 214, 
+    "expansion": "Government Accountability Office", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GDS", 
+    "source_id": 6, 
+    "acronym_id": 215, 
+    "expansion": "Ground Data System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GEVS", 
+    "source_id": 6, 
+    "acronym_id": 216, 
+    "expansion": "Goddard Environmental Verification Specification", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GFE", 
+    "source_id": 6, 
+    "acronym_id": 217, 
+    "expansion": "Government Furnished Equipment", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GISS", 
+    "source_id": 6, 
+    "acronym_id": 218, 
+    "expansion": "Goddard Institute for Space Studies", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GN2", 
+    "source_id": 6, 
+    "acronym_id": 219, 
+    "expansion": "Gaseous Nitrogen", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GNC", 
+    "source_id": 6, 
+    "acronym_id": 220, 
+    "expansion": "Guidance Navigation and Control", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GOWG", 
+    "source_id": 6, 
+    "acronym_id": 221, 
+    "expansion": "Ground Operations Working Group", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GPG", 
+    "source_id": 6, 
+    "acronym_id": 222, 
+    "expansion": "Goddard Procedures and Guidelines", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GPM", 
+    "source_id": 6, 
+    "acronym_id": 223, 
+    "expansion": "Global Precipitation Measurement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GPR", 
+    "source_id": 6, 
+    "acronym_id": 224, 
+    "expansion": "Goddard Procedural Requiremet", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GPRS", 
+    "source_id": 6, 
+    "acronym_id": 225, 
+    "expansion": "Goddard Problem Reporting System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GRAP", 
+    "source_id": 6, 
+    "acronym_id": 226, 
+    "expansion": "Goods Received Accounts Payable", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GRC", 
+    "source_id": 6, 
+    "acronym_id": 227, 
+    "expansion": "Glenn Research Center", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GRM", 
+    "source_id": 6, 
+    "acronym_id": 228, 
+    "expansion": "Goddard Review Management", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GRMS", 
+    "source_id": 6, 
+    "acronym_id": 229, 
+    "expansion": "Root Mean Squared Acceleration", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GSA", 
+    "source_id": 6, 
+    "acronym_id": 230, 
+    "expansion": "General Services Administration", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GSE", 
+    "source_id": 6, 
+    "acronym_id": 231, 
+    "expansion": "Ground Support Equipment", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GSFC", 
+    "source_id": 6, 
+    "acronym_id": 232, 
+    "expansion": "Goddard Space Flight Center", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "GT&C", 
+    "source_id": 6, 
+    "acronym_id": 233, 
+    "expansion": "General Terms and Conditions", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "H/W", 
+    "source_id": 6, 
+    "acronym_id": 234, 
+    "expansion": "Hardware", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HBM", 
+    "source_id": 6, 
+    "acronym_id": 235, 
+    "expansion": "Human Body Model", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HCW", 
+    "source_id": 6, 
+    "acronym_id": 236, 
+    "expansion": "Human Capital Workforce", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HD", 
+    "source_id": 6, 
+    "acronym_id": 237, 
+    "expansion": "High Density", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HEPA", 
+    "source_id": 6, 
+    "acronym_id": 238, 
+    "expansion": "High Efficiency Particulate Arrestance", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HF", 
+    "source_id": 6, 
+    "acronym_id": 239, 
+    "expansion": "High Frequency", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HGA", 
+    "source_id": 6, 
+    "acronym_id": 240, 
+    "expansion": "High Gain Antenna", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HM", 
+    "source_id": 6, 
+    "acronym_id": 242, 
+    "expansion": "Hazardous Material", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HMMS", 
+    "source_id": 6, 
+    "acronym_id": 243, 
+    "expansion": "Hazardous Materials Management System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HMR", 
+    "source_id": 6, 
+    "acronym_id": 244, 
+    "expansion": "Heat Microbial Reduction", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HOR", 
+    "source_id": 6, 
+    "acronym_id": 245, 
+    "expansion": "Hand Operated Regulator", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HOV", 
+    "source_id": 6, 
+    "acronym_id": 246, 
+    "expansion": "Hand Operated Valve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HP", 
+    "source_id": 6, 
+    "acronym_id": 247, 
+    "expansion": "High Pressure", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HPLV", 
+    "source_id": 6, 
+    "acronym_id": 248, 
+    "expansion": "High Pressure Latch Valve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HPSO", 
+    "source_id": 6, 
+    "acronym_id": 249, 
+    "expansion": "High Pressure Systems Operators", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HQ", 
+    "source_id": 6, 
+    "acronym_id": 250, 
+    "expansion": "Headquarters", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HRCR", 
+    "source_id": 6, 
+    "acronym_id": 251, 
+    "expansion": "Hardware Requirements Certification Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HRP", 
+    "source_id": 6, 
+    "acronym_id": 252, 
+    "expansion": "Human Resources Portal", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HRS", 
+    "source_id": 6, 
+    "acronym_id": 253, 
+    "expansion": "Heat Redistribution System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "HWID", 
+    "source_id": 6, 
+    "acronym_id": 254, 
+    "expansion": "Hazardous Waste Identification", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "Hipot", 
+    "source_id": 6, 
+    "acronym_id": 241, 
+    "expansion": "High Potential", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "I&T", 
+    "source_id": 6, 
+    "acronym_id": 255, 
+    "expansion": "Integration and Test", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "I/F", 
+    "source_id": 6, 
+    "acronym_id": 256, 
+    "expansion": "Interface", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IAA", 
+    "source_id": 6, 
+    "acronym_id": 257, 
+    "expansion": "Interagency Agreement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IAM", 
+    "source_id": 6, 
+    "acronym_id": 258, 
+    "expansion": "Integrated Asset Management", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IC", 
+    "source_id": 6, 
+    "acronym_id": 259, 
+    "expansion": "Institutional Committee", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ICD", 
+    "source_id": 6, 
+    "acronym_id": 260, 
+    "expansion": "Interface Control Document", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ICE", 
+    "source_id": 6, 
+    "acronym_id": 261, 
+    "expansion": "Independent Cost Estimate", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ICEMAG", 
+    "source_id": 6, 
+    "acronym_id": 262, 
+    "expansion": "Interior Characterization of Europa Using Magnetometry", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ID", 
+    "source_id": 6, 
+    "acronym_id": 263, 
+    "expansion": "Inner Diameter", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IDP", 
+    "source_id": 6, 
+    "acronym_id": 265, 
+    "expansion": "Individual Development Plans", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IEMP", 
+    "source_id": 6, 
+    "acronym_id": 266, 
+    "expansion": "Integrated Enterprise Management Program", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IG", 
+    "source_id": 6, 
+    "acronym_id": 268, 
+    "expansion": "Inspector General", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IGT", 
+    "source_id": 6, 
+    "acronym_id": 269, 
+    "expansion": "Interagovernmental Transaction", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ILCCA", 
+    "source_id": 6, 
+    "acronym_id": 270, 
+    "expansion": "Independent Life-Cycle Cost Analysis", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IMS", 
+    "source_id": 6, 
+    "acronym_id": 271, 
+    "expansion": "Integrated Master Schedule", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IMU", 
+    "source_id": 6, 
+    "acronym_id": 272, 
+    "expansion": "Inertial Measurement Unit", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "INT", 
+    "source_id": 6, 
+    "acronym_id": 273, 
+    "expansion": "Integration", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IOC", 
+    "source_id": 6, 
+    "acronym_id": 274, 
+    "expansion": "Institutional Operations Council", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IPA", 
+    "source_id": 6, 
+    "acronym_id": 275, 
+    "expansion": "Isopropyl Alcohol", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IPAC", 
+    "source_id": 6, 
+    "acronym_id": 276, 
+    "expansion": "Intra-Governmental Payment and Collection", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IRAD", 
+    "source_id": 6, 
+    "acronym_id": 277, 
+    "expansion": "In-House Research and Development", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IRIS", 
+    "source_id": 6, 
+    "acronym_id": 278, 
+    "expansion": "Invoice Routing and Information System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ISO", 
+    "source_id": 6, 
+    "acronym_id": 279, 
+    "expansion": "International Organization for Standardization", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ISP", 
+    "source_id": 6, 
+    "acronym_id": 280, 
+    "expansion": "Specific Impulse", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ISP", 
+    "source_id": 6, 
+    "acronym_id": 281, 
+    "expansion": "Internet Service Providers", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IT", 
+    "source_id": 6, 
+    "acronym_id": 282, 
+    "expansion": "Information Technology", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ITA", 
+    "source_id": 6, 
+    "acronym_id": 283, 
+    "expansion": "Independent Technical Authority", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ITAR", 
+    "source_id": 6, 
+    "acronym_id": 284, 
+    "expansion": "International Traffic in Arms Regulations", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ITD", 
+    "source_id": 6, 
+    "acronym_id": 285, 
+    "expansion": "Inception to Date", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ITPR", 
+    "source_id": 6, 
+    "acronym_id": 286, 
+    "expansion": "IT Purchase Requisition Tool", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ITRR", 
+    "source_id": 6, 
+    "acronym_id": 287, 
+    "expansion": "Integration and Test Readiness Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ITTS", 
+    "source_id": 6, 
+    "acronym_id": 288, 
+    "expansion": "IFMP Ticket Tracking Systems", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IV&V", 
+    "source_id": 6, 
+    "acronym_id": 289, 
+    "expansion": "NASA Independent Verification & Validation Facility", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "IdMAX", 
+    "source_id": 6, 
+    "acronym_id": 264, 
+    "expansion": "Identity Management and Account Exchange System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "JANS", 
+    "source_id": 6, 
+    "acronym_id": 291, 
+    "expansion": "Joint Army Navy Space", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "JOI", 
+    "source_id": 6, 
+    "acronym_id": 292, 
+    "expansion": "Jupiter Orbit Insertion", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "JPL", 
+    "source_id": 6, 
+    "acronym_id": 293, 
+    "expansion": "Jet Propulsion Laboratory", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "JSC", 
+    "source_id": 6, 
+    "acronym_id": 294, 
+    "expansion": "Johnson Space Center", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "JT", 
+    "source_id": 6, 
+    "acronym_id": 295, 
+    "expansion": "Joule Thompson", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "KDP", 
+    "source_id": 6, 
+    "acronym_id": 296, 
+    "expansion": "Key Decision Point", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "KSC", 
+    "source_id": 6, 
+    "acronym_id": 297, 
+    "expansion": "Kennedy Space Center", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "L/D", 
+    "source_id": 6, 
+    "acronym_id": 298, 
+    "expansion": "Length to Diameter Ratio", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LBB", 
+    "source_id": 6, 
+    "acronym_id": 300, 
+    "expansion": "Leak-Before-Burst", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LC50", 
+    "source_id": 6, 
+    "acronym_id": 301, 
+    "expansion": "Median Lethal Concentration", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LCC", 
+    "source_id": 6, 
+    "acronym_id": 302, 
+    "expansion": "Life-Cycle Cost", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LCCA", 
+    "source_id": 6, 
+    "acronym_id": 303, 
+    "expansion": "Life-Cycle Cost Analysis", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LCCE", 
+    "source_id": 6, 
+    "acronym_id": 304, 
+    "expansion": "Life-Cycle Cost Estimate", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LD50", 
+    "source_id": 6, 
+    "acronym_id": 305, 
+    "expansion": "Lethal Dose for 50% Population", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LED", 
+    "source_id": 6, 
+    "acronym_id": 306, 
+    "expansion": "Light Emitting Diode", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LLA", 
+    "source_id": 6, 
+    "acronym_id": 307, 
+    "expansion": "Limited Life Items Analysis", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LLIL", 
+    "source_id": 6, 
+    "acronym_id": 308, 
+    "expansion": "Limited Life Items List", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LLV", 
+    "source_id": 6, 
+    "acronym_id": 309, 
+    "expansion": "Liquid Latch Valve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LN2", 
+    "source_id": 6, 
+    "acronym_id": 310, 
+    "expansion": "Liquid Nitrogen", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LOAEL", 
+    "source_id": 6, 
+    "acronym_id": 311, 
+    "expansion": "Lowest Observed Adverse Effect Level", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LOD", 
+    "source_id": 6, 
+    "acronym_id": 312, 
+    "expansion": "Letter of Delegation", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LP", 
+    "source_id": 6, 
+    "acronym_id": 313, 
+    "expansion": "Low Pressure", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LPLV", 
+    "source_id": 6, 
+    "acronym_id": 314, 
+    "expansion": "Low Pressure Latch Valve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LRE", 
+    "source_id": 6, 
+    "acronym_id": 315, 
+    "expansion": "Latest Revised Estimate", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LRO", 
+    "source_id": 6, 
+    "acronym_id": 316, 
+    "expansion": "Lunar Reconnaissance Orbiter", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LSA", 
+    "source_id": 6, 
+    "acronym_id": 317, 
+    "expansion": "Linear Separation Assembly", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LT", 
+    "source_id": 6, 
+    "acronym_id": 318, 
+    "expansion": "Load Temperature", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LV", 
+    "source_id": 6, 
+    "acronym_id": 319, 
+    "expansion": "Latch Valve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LV", 
+    "source_id": 6, 
+    "acronym_id": 320, 
+    "expansion": "Launch Vehicle", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LVA", 
+    "source_id": 6, 
+    "acronym_id": 321, 
+    "expansion": "Launch Vehicle Adapter", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "LaRC", 
+    "source_id": 6, 
+    "acronym_id": 299, 
+    "expansion": "Langley Research Center", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "M&P", 
+    "source_id": 6, 
+    "acronym_id": 322, 
+    "expansion": "Materials & Processes", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MAC", 
+    "source_id": 6, 
+    "acronym_id": 323, 
+    "expansion": "Modal Mass Acceleration Curve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MAC", 
+    "source_id": 6, 
+    "acronym_id": 324, 
+    "expansion": "Maximum Acceleration Curve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MADE", 
+    "source_id": 6, 
+    "acronym_id": 325, 
+    "expansion": "Minimum Accounting Data Elements", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MAE", 
+    "source_id": 6, 
+    "acronym_id": 326, 
+    "expansion": "Materials Assurance Engineering", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MAR", 
+    "source_id": 6, 
+    "acronym_id": 327, 
+    "expansion": "Mission Assurance Requirements", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MASPEX", 
+    "source_id": 6, 
+    "acronym_id": 328, 
+    "expansion": "Mass Spectrometer for Planetary Exploration", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MAWP", 
+    "source_id": 6, 
+    "acronym_id": 329, 
+    "expansion": "Maximum Anticipated Working Pressure", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MBSE", 
+    "source_id": 6, 
+    "acronym_id": 330, 
+    "expansion": "Model Based Systems Engineering", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MCR", 
+    "source_id": 6, 
+    "acronym_id": 331, 
+    "expansion": "Mission Concept Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MDC", 
+    "source_id": 6, 
+    "acronym_id": 332, 
+    "expansion": "Mission Duty Cycle", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MDM", 
+    "source_id": 6, 
+    "acronym_id": 333, 
+    "expansion": "Micro D Metal Shell", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MDR", 
+    "source_id": 6, 
+    "acronym_id": 335, 
+    "expansion": "Mission Design Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MEL", 
+    "source_id": 6, 
+    "acronym_id": 336, 
+    "expansion": "Master Equipment List", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MELF", 
+    "source_id": 6, 
+    "acronym_id": 337, 
+    "expansion": "Metal Electrode Leadless Face", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MEOP", 
+    "source_id": 6, 
+    "acronym_id": 338, 
+    "expansion": "Maximum Expected Operating Pressure", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MEOT", 
+    "source_id": 6, 
+    "acronym_id": 339, 
+    "expansion": "Maxiumum Expected Operating Temperature", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MEV", 
+    "source_id": 6, 
+    "acronym_id": 340, 
+    "expansion": "Maximum Expected Value", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MGMT", 
+    "source_id": 6, 
+    "acronym_id": 341, 
+    "expansion": "Management", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MGSE", 
+    "source_id": 6, 
+    "acronym_id": 342, 
+    "expansion": "Mechanical Ground Support Equipment", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MICD", 
+    "source_id": 6, 
+    "acronym_id": 343, 
+    "expansion": "Mechanical Interface Control Document", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MIP", 
+    "source_id": 6, 
+    "acronym_id": 344, 
+    "expansion": "Mandatory Inspection Point", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MISE", 
+    "source_id": 6, 
+    "acronym_id": 345, 
+    "expansion": "Mapping Imaging Spectrometer for Europa", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MIUL", 
+    "source_id": 6, 
+    "acronym_id": 346, 
+    "expansion": "Material Identification and Usage List", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MLI", 
+    "source_id": 6, 
+    "acronym_id": 347, 
+    "expansion": "Multilayer Insulation", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MMH", 
+    "source_id": 6, 
+    "acronym_id": 348, 
+    "expansion": "Monomethyl Hydrazine", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MMOD", 
+    "source_id": 6, 
+    "acronym_id": 349, 
+    "expansion": "Micrometeoroid Orbital Debris", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MMR", 
+    "source_id": 6, 
+    "acronym_id": 350, 
+    "expansion": "Monthly Management Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MMS", 
+    "source_id": 6, 
+    "acronym_id": 351, 
+    "expansion": "Magnetospheric Multiscale", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MOD", 
+    "source_id": 6, 
+    "acronym_id": 352, 
+    "expansion": "Management Operations Directorate", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MOMA", 
+    "source_id": 6, 
+    "acronym_id": 353, 
+    "expansion": "Mars Organic Molecule Analyzer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MON", 
+    "source_id": 6, 
+    "acronym_id": 354, 
+    "expansion": "Mixed Oxides of Nitrogen", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MOS", 
+    "source_id": 6, 
+    "acronym_id": 355, 
+    "expansion": "Mission Operations", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MPC", 
+    "source_id": 6, 
+    "acronym_id": 356, 
+    "expansion": "Materials Control Plan", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MPE", 
+    "source_id": 6, 
+    "acronym_id": 357, 
+    "expansion": "Materials and Process Engineering", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MR", 
+    "source_id": 6, 
+    "acronym_id": 358, 
+    "expansion": "Mixture Ratio", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MRB", 
+    "source_id": 6, 
+    "acronym_id": 359, 
+    "expansion": "Materials Review Board", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MS ", 
+    "source_id": 6, 
+    "acronym_id": 360, 
+    "expansion": "Margin of Safety", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MSES", 
+    "source_id": 6, 
+    "acronym_id": 361, 
+    "expansion": "Mechanical Systems Engineering Services", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MSFC", 
+    "source_id": 6, 
+    "acronym_id": 362, 
+    "expansion": "Marshall Space Flight Center", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MSR", 
+    "source_id": 6, 
+    "acronym_id": 363, 
+    "expansion": "Monthly Status Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MSU", 
+    "source_id": 6, 
+    "acronym_id": 364, 
+    "expansion": "Mobile Service Unit", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MTH", 
+    "source_id": 6, 
+    "acronym_id": 365, 
+    "expansion": "Month", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MUA", 
+    "source_id": 6, 
+    "acronym_id": 366, 
+    "expansion": "Material Usage Agreement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MV", 
+    "source_id": 6, 
+    "acronym_id": 367, 
+    "expansion": "Mixing Valve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MV", 
+    "source_id": 6, 
+    "acronym_id": 368, 
+    "expansion": "Manual Valve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "MdM", 
+    "source_id": 6, 
+    "acronym_id": 334, 
+    "expansion": "Metadata Manager", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "N2/NBS", 
+    "source_id": 6, 
+    "acronym_id": 369, 
+    "expansion": "NASA Budget System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NAAS", 
+    "source_id": 6, 
+    "acronym_id": 370, 
+    "expansion": "NASA Automated Awards System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NAC", 
+    "source_id": 6, 
+    "acronym_id": 371, 
+    "expansion": "Narrow Angle Camera", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NAIS", 
+    "source_id": 6, 
+    "acronym_id": 372, 
+    "expansion": "NASA Acquisition Internet Service", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NAMS", 
+    "source_id": 6, 
+    "acronym_id": 373, 
+    "expansion": "NASA Account Management System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NASA", 
+    "source_id": 6, 
+    "acronym_id": 374, 
+    "expansion": "National Aeronautics and Space Administration", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NCTS", 
+    "source_id": 6, 
+    "acronym_id": 375, 
+    "expansion": "NASA Conference Tracking System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NDA", 
+    "source_id": 6, 
+    "acronym_id": 376, 
+    "expansion": "Non-Disclosure Agreement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NDE", 
+    "source_id": 6, 
+    "acronym_id": 377, 
+    "expansion": "Non Destructive Evaluation", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NDT", 
+    "source_id": 6, 
+    "acronym_id": 378, 
+    "expansion": "Non Destructive Testing", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NEACC", 
+    "source_id": 6, 
+    "acronym_id": 379, 
+    "expansion": "NASA Enterprise Applications Competency Center", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NEPA", 
+    "source_id": 6, 
+    "acronym_id": 380, 
+    "expansion": "National Environmental Policy Act", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NFS", 
+    "source_id": 6, 
+    "acronym_id": 381, 
+    "expansion": "NASA Federal Acquisition Regulation (FAR) Supplement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NGIS", 
+    "source_id": 6, 
+    "acronym_id": 382, 
+    "expansion": "Northrop Grumman Innovation Systems", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NID", 
+    "source_id": 6, 
+    "acronym_id": 383, 
+    "expansion": "NASA Interim Directive", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NIST", 
+    "source_id": 6, 
+    "acronym_id": 384, 
+    "expansion": "National Institute of Standards and Technology", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NOA", 
+    "source_id": 6, 
+    "acronym_id": 385, 
+    "expansion": "New Obligational Authority", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NOAEL", 
+    "source_id": 6, 
+    "acronym_id": 386, 
+    "expansion": "No Observed Adverse Effect Level", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NODIS", 
+    "source_id": 6, 
+    "acronym_id": 387, 
+    "expansion": "NASA on-Line Directives Information System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NOEL", 
+    "source_id": 6, 
+    "acronym_id": 388, 
+    "expansion": "No Observed Effect Level", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NPD", 
+    "source_id": 6, 
+    "acronym_id": 389, 
+    "expansion": "NASA Policy Directive", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NPR", 
+    "source_id": 6, 
+    "acronym_id": 390, 
+    "expansion": "NASA Procedural Requirements", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NPSL", 
+    "source_id": 6, 
+    "acronym_id": 391, 
+    "expansion": "NASA Parts Selection List", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NPSM", 
+    "source_id": 6, 
+    "acronym_id": 392, 
+    "expansion": "National Pipe Straight Mechanical", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NPT", 
+    "source_id": 6, 
+    "acronym_id": 393, 
+    "expansion": "National Pipe Thread", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NPTF", 
+    "source_id": 6, 
+    "acronym_id": 394, 
+    "expansion": "National Pipe Thread Fuel", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NRA", 
+    "source_id": 6, 
+    "acronym_id": 395, 
+    "expansion": "NASA Research Announcement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NRE", 
+    "source_id": 6, 
+    "acronym_id": 396, 
+    "expansion": "Nonrecurring Engineering", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NRL", 
+    "source_id": 6, 
+    "acronym_id": 397, 
+    "expansion": "Naval Research Laboratory", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NSM", 
+    "source_id": 6, 
+    "acronym_id": 398, 
+    "expansion": "NASA Structure Management System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NSSC", 
+    "source_id": 6, 
+    "acronym_id": 399, 
+    "expansion": "NASA Shared Services Center", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NT30", 
+    "source_id": 6, 
+    "acronym_id": 400, 
+    "expansion": "Net Term 30 Days", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NTE", 
+    "source_id": 6, 
+    "acronym_id": 401, 
+    "expansion": "Not to Exceed", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NTO", 
+    "source_id": 6, 
+    "acronym_id": 402, 
+    "expansion": "Nitrogen Tetroxide", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "NV", 
+    "source_id": 6, 
+    "acronym_id": 403, 
+    "expansion": "Needle Valve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OA", 
+    "source_id": 6, 
+    "acronym_id": 404, 
+    "expansion": "Outline Agreement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OATK", 
+    "source_id": 6, 
+    "acronym_id": 405, 
+    "expansion": "Orbital Alliant Thiokol", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OCE", 
+    "source_id": 6, 
+    "acronym_id": 407, 
+    "expansion": "Office of the Chief Engineer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OCFO", 
+    "source_id": 6, 
+    "acronym_id": 408, 
+    "expansion": "Office of the Chief Financial Officer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OCIO", 
+    "source_id": 6, 
+    "acronym_id": 409, 
+    "expansion": "Office of the Chief Information Officer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OD", 
+    "source_id": 6, 
+    "acronym_id": 410, 
+    "expansion": "Outer Diameter", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ODC", 
+    "source_id": 6, 
+    "acronym_id": 411, 
+    "expansion": "Other Direct Costs", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ODH", 
+    "source_id": 6, 
+    "acronym_id": 412, 
+    "expansion": "Oxygen Deficiency Hazard", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OH", 
+    "source_id": 6, 
+    "acronym_id": 413, 
+    "expansion": "Optical Head", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OHCM", 
+    "source_id": 6, 
+    "acronym_id": 414, 
+    "expansion": "Office of Human Capital Management", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OLAP", 
+    "source_id": 6, 
+    "acronym_id": 415, 
+    "expansion": "Online Analytical Processing", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OMB", 
+    "source_id": 6, 
+    "acronym_id": 416, 
+    "expansion": "Office of Management and Budget", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OR", 
+    "source_id": 6, 
+    "acronym_id": 417, 
+    "expansion": "Orifice", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ORR", 
+    "source_id": 6, 
+    "acronym_id": 418, 
+    "expansion": "Operational Readiness Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OSC", 
+    "source_id": 6, 
+    "acronym_id": 419, 
+    "expansion": "Orbital Sciences Corporation", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OSHA", 
+    "source_id": 6, 
+    "acronym_id": 420, 
+    "expansion": "Occupational Safety and Health Administration", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OSMA", 
+    "source_id": 6, 
+    "acronym_id": 421, 
+    "expansion": "Office of Safety and Mission Assurance", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "OTM", 
+    "source_id": 6, 
+    "acronym_id": 422, 
+    "expansion": "Orbit Trim Maneuver", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "Obs", 
+    "source_id": 6, 
+    "acronym_id": 406, 
+    "expansion": "Obligations", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "Ox", 
+    "source_id": 6, 
+    "acronym_id": 423, 
+    "expansion": "Oxidizer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "P/N", 
+    "source_id": 6, 
+    "acronym_id": 424, 
+    "expansion": "Part Number", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "P/S", 
+    "source_id": 6, 
+    "acronym_id": 425, 
+    "expansion": "Power Supply", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PACT", 
+    "source_id": 6, 
+    "acronym_id": 426, 
+    "expansion": "Performance Award Calculation Tool", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PAIP", 
+    "source_id": 6, 
+    "acronym_id": 427, 
+    "expansion": "Product Assurance and Implementation Plan", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PAIP", 
+    "source_id": 6, 
+    "acronym_id": 428, 
+    "expansion": "Product Assurance Implementation Plan", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PBM", 
+    "source_id": 6, 
+    "acronym_id": 429, 
+    "expansion": "Program Business Manager", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PCA", 
+    "source_id": 6, 
+    "acronym_id": 430, 
+    "expansion": "Pressurant Control Assembly", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PCB", 
+    "source_id": 6, 
+    "acronym_id": 431, 
+    "expansion": "Parts Control Board", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PCDA", 
+    "source_id": 6, 
+    "acronym_id": 432, 
+    "expansion": "Power Conditioning and Distribution Assembly", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PCR", 
+    "source_id": 6, 
+    "acronym_id": 433, 
+    "expansion": "Program Concept Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PCTFE", 
+    "source_id": 6, 
+    "acronym_id": 434, 
+    "expansion": "Polychlorotrifluoroethylene", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PCV", 
+    "source_id": 6, 
+    "acronym_id": 435, 
+    "expansion": "Pressure Control Valve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PD", 
+    "source_id": 6, 
+    "acronym_id": 436, 
+    "expansion": "Position Description", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PDB", 
+    "source_id": 6, 
+    "acronym_id": 437, 
+    "expansion": "Propulsion Diode Box", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PDL", 
+    "source_id": 6, 
+    "acronym_id": 438, 
+    "expansion": "Product Development Lead", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PDL", 
+    "source_id": 6, 
+    "acronym_id": 439, 
+    "expansion": "Product Design Lead", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PDM", 
+    "source_id": 6, 
+    "acronym_id": 440, 
+    "expansion": "Product Delivery Manager", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PDR", 
+    "source_id": 6, 
+    "acronym_id": 441, 
+    "expansion": "Preliminary Design Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PDV", 
+    "source_id": 6, 
+    "acronym_id": 442, 
+    "expansion": "Propellant Delta-V", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PE", 
+    "source_id": 6, 
+    "acronym_id": 443, 
+    "expansion": "Parts Engineer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PEDR", 
+    "source_id": 6, 
+    "acronym_id": 444, 
+    "expansion": "Preliminary Electrical Design Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PEL", 
+    "source_id": 6, 
+    "acronym_id": 445, 
+    "expansion": "Power Equipment List", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PEL", 
+    "source_id": 6, 
+    "acronym_id": 446, 
+    "expansion": "Permissible Exposure Limit", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PF", 
+    "source_id": 6, 
+    "acronym_id": 447, 
+    "expansion": "Protoflight", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PFA", 
+    "source_id": 6, 
+    "acronym_id": 448, 
+    "expansion": "Perfluoroalkoxy Alkane (PFA) Teflon", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PFR", 
+    "source_id": 6, 
+    "acronym_id": 449, 
+    "expansion": "Problem Failure Report", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PG", 
+    "source_id": 6, 
+    "acronym_id": 450, 
+    "expansion": "Pressure Gauge", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PG", 
+    "source_id": 6, 
+    "acronym_id": 451, 
+    "expansion": "Procedures and Guidance", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PGSE", 
+    "source_id": 6, 
+    "acronym_id": 452, 
+    "expansion": "Payload Ground Support Equipment", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PHA", 
+    "source_id": 6, 
+    "acronym_id": 453, 
+    "expansion": "Preliminary Hazard Analysis", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PI", 
+    "source_id": 6, 
+    "acronym_id": 454, 
+    "expansion": "Principal Investigator", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PIA", 
+    "source_id": 6, 
+    "acronym_id": 455, 
+    "expansion": "Propellant Isolation Assembly", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PIMS", 
+    "source_id": 6, 
+    "acronym_id": 456, 
+    "expansion": "Plasma Instrument for Magnetic Sounding", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PLA", 
+    "source_id": 6, 
+    "acronym_id": 457, 
+    "expansion": "Propellant Leak Allocation", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PLI", 
+    "source_id": 6, 
+    "acronym_id": 458, 
+    "expansion": "Procurement Line Item", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PM", 
+    "source_id": 6, 
+    "acronym_id": 459, 
+    "expansion": "Propulsion Module", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PMD", 
+    "source_id": 6, 
+    "acronym_id": 460, 
+    "expansion": "Propellant Management Device", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PME", 
+    "source_id": 6, 
+    "acronym_id": 461, 
+    "expansion": "Propulsion Module Electronics", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PMS", 
+    "source_id": 6, 
+    "acronym_id": 462, 
+    "expansion": "Payment Management System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PO", 
+    "source_id": 6, 
+    "acronym_id": 463, 
+    "expansion": "Purchase Order", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "POP", 
+    "source_id": 6, 
+    "acronym_id": 464, 
+    "expansion": "Program Operating Plan", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PP", 
+    "source_id": 6, 
+    "acronym_id": 465, 
+    "expansion": "Planetary Protection", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PP&E", 
+    "source_id": 6, 
+    "acronym_id": 466, 
+    "expansion": "Property, Plant and Equipment", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PPBE", 
+    "source_id": 6, 
+    "acronym_id": 467, 
+    "expansion": "Planning, Programming, Budgeting, Execution", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PPE", 
+    "source_id": 6, 
+    "acronym_id": 468, 
+    "expansion": "Planetary Protection Engineer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PPE", 
+    "source_id": 6, 
+    "acronym_id": 469, 
+    "expansion": "Personal Protective Equipment", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PPO", 
+    "source_id": 6, 
+    "acronym_id": 470, 
+    "expansion": "Planetary Protection Officer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PPR", 
+    "source_id": 6, 
+    "acronym_id": 471, 
+    "expansion": "Planetary Protection Requirements", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PPSL", 
+    "source_id": 6, 
+    "acronym_id": 472, 
+    "expansion": "Project Parts Selection List", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PR", 
+    "source_id": 6, 
+    "acronym_id": 473, 
+    "expansion": "Problem Report", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PR", 
+    "source_id": 6, 
+    "acronym_id": 474, 
+    "expansion": "Purchase Requisition/Purchase Request", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PRA", 
+    "source_id": 6, 
+    "acronym_id": 475, 
+    "expansion": "Probabilistic Risk Assessment", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PROP", 
+    "source_id": 6, 
+    "acronym_id": 476, 
+    "expansion": "Propulsion System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PRT", 
+    "source_id": 6, 
+    "acronym_id": 477, 
+    "expansion": "Platinum Resistance Thermometer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PSA", 
+    "source_id": 6, 
+    "acronym_id": 478, 
+    "expansion": "Parts Stress Analysis", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PSE", 
+    "source_id": 6, 
+    "acronym_id": 479, 
+    "expansion": "Propulsion System Electronics", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PSM", 
+    "source_id": 6, 
+    "acronym_id": 480, 
+    "expansion": "Payload Safety Manager", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PSR", 
+    "source_id": 6, 
+    "acronym_id": 481, 
+    "expansion": "Pre-Ship Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PSS", 
+    "source_id": 6, 
+    "acronym_id": 482, 
+    "expansion": "Propulsion Subsystem", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PSS", 
+    "source_id": 6, 
+    "acronym_id": 483, 
+    "expansion": "Project Support Specialist", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PT", 
+    "source_id": 6, 
+    "acronym_id": 484, 
+    "expansion": "Pressure Transducer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PTFE", 
+    "source_id": 6, 
+    "acronym_id": 485, 
+    "expansion": "Polytetrafluoroethylene", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PV", 
+    "source_id": 6, 
+    "acronym_id": 486, 
+    "expansion": "Photo Voltaic", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PVS", 
+    "source_id": 6, 
+    "acronym_id": 487, 
+    "expansion": "Pressure Vessel and Pressurized Systems", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PWA", 
+    "source_id": 6, 
+    "acronym_id": 488, 
+    "expansion": "Printed Wiring Assembly", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PWB", 
+    "source_id": 6, 
+    "acronym_id": 489, 
+    "expansion": "Printed Wiring Board", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PWR", 
+    "source_id": 6, 
+    "acronym_id": 490, 
+    "expansion": "Power", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PWY", 
+    "source_id": 6, 
+    "acronym_id": 491, 
+    "expansion": "Productive Work Year", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "PY", 
+    "source_id": 6, 
+    "acronym_id": 492, 
+    "expansion": "Program Year", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "QA", 
+    "source_id": 6, 
+    "acronym_id": 493, 
+    "expansion": "Quality Assurance", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "QBS", 
+    "source_id": 6, 
+    "acronym_id": 494, 
+    "expansion": "Qualification by Similarity", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "QCM", 
+    "source_id": 6, 
+    "acronym_id": 495, 
+    "expansion": "Quartz Crystal Monitor", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "QMS", 
+    "source_id": 6, 
+    "acronym_id": 496, 
+    "expansion": "Quality Management System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "QTP", 
+    "source_id": 6, 
+    "acronym_id": 497, 
+    "expansion": "Qualification Test Program", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "QTRR", 
+    "source_id": 6, 
+    "acronym_id": 498, 
+    "expansion": "Qualification Test Readiness Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "R&D", 
+    "source_id": 6, 
+    "acronym_id": 499, 
+    "expansion": "Research and Development", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "R&R", 
+    "source_id": 6, 
+    "acronym_id": 500, 
+    "expansion": "Remove and Replace", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "R-BET", 
+    "source_id": 6, 
+    "acronym_id": 504, 
+    "expansion": "Reimbursable Budget Execution Tool", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "R/I", 
+    "source_id": 6, 
+    "acronym_id": 501, 
+    "expansion": "Receiving/Inspection", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RA", 
+    "source_id": 6, 
+    "acronym_id": 502, 
+    "expansion": "Resource Analyst", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RAPTOR", 
+    "source_id": 6, 
+    "acronym_id": 503, 
+    "expansion": "Research and Analysis Program Tracking of Resources", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RC", 
+    "source_id": 6, 
+    "acronym_id": 505, 
+    "expansion": "Reporting Category", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RCRA", 
+    "source_id": 6, 
+    "acronym_id": 506, 
+    "expansion": "Resource Conservation and Recovery Act", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RCS", 
+    "source_id": 6, 
+    "acronym_id": 507, 
+    "expansion": "Reaction Control System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RDF", 
+    "source_id": 6, 
+    "acronym_id": 508, 
+    "expansion": "Radiation Design Factor", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RE", 
+    "source_id": 6, 
+    "acronym_id": 509, 
+    "expansion": "Rocket Engine", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "REASON", 
+    "source_id": 6, 
+    "acronym_id": 510, 
+    "expansion": "Radar for Europa Assessment and Sounding: Ocean to Near-Surface", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RECDEL", 
+    "source_id": 6, 
+    "acronym_id": 511, 
+    "expansion": "Receivables/Deliverables", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "REM", 
+    "source_id": 6, 
+    "acronym_id": 512, 
+    "expansion": "Rocket Engine Module", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "REU", 
+    "source_id": 6, 
+    "acronym_id": 513, 
+    "expansion": "Remote Engineering Unit", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RF", 
+    "source_id": 6, 
+    "acronym_id": 514, 
+    "expansion": "Radio Frequency", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RFA", 
+    "source_id": 6, 
+    "acronym_id": 515, 
+    "expansion": "Request for Action", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RFI", 
+    "source_id": 6, 
+    "acronym_id": 516, 
+    "expansion": "Request for Information", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RFO", 
+    "source_id": 6, 
+    "acronym_id": 517, 
+    "expansion": "Regional Finance Office", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RFP", 
+    "source_id": 6, 
+    "acronym_id": 518, 
+    "expansion": "Request for Proposal", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RHB", 
+    "source_id": 6, 
+    "acronym_id": 519, 
+    "expansion": "Replacement Heater Block", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RLAT", 
+    "source_id": 6, 
+    "acronym_id": 520, 
+    "expansion": "Radiation Lot Acceptance Test Plan", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RLU", 
+    "source_id": 6, 
+    "acronym_id": 521, 
+    "expansion": "Relative Light Unit", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RMS", 
+    "source_id": 6, 
+    "acronym_id": 522, 
+    "expansion": "Root Mean Square", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ROM", 
+    "source_id": 6, 
+    "acronym_id": 523, 
+    "expansion": "Rough Order of Magnitude", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RR", 
+    "source_id": 6, 
+    "acronym_id": 524, 
+    "expansion": "Risk Reduction", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RSB", 
+    "source_id": 6, 
+    "acronym_id": 525, 
+    "expansion": "Remote Serial Bus", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RTI", 
+    "source_id": 6, 
+    "acronym_id": 526, 
+    "expansion": "Real Time Interval", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RTN", 
+    "source_id": 6, 
+    "acronym_id": 527, 
+    "expansion": "Return", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RV", 
+    "source_id": 6, 
+    "acronym_id": 528, 
+    "expansion": "Relief Valve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RW", 
+    "source_id": 6, 
+    "acronym_id": 529, 
+    "expansion": "Reaction Wheel", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "RWA", 
+    "source_id": 6, 
+    "acronym_id": 530, 
+    "expansion": "Reaction Wheel Assembly", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "S/C", 
+    "source_id": 6, 
+    "acronym_id": 531, 
+    "expansion": "Spacecraft", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SA", 
+    "source_id": 6, 
+    "acronym_id": 532, 
+    "expansion": "Solar Array", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SAAM", 
+    "source_id": 6, 
+    "acronym_id": 533, 
+    "expansion": "Space Act Agreement Maker", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SADA", 
+    "source_id": 6, 
+    "acronym_id": 534, 
+    "expansion": "Solar Array Drive Assembly", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SAE", 
+    "source_id": 6, 
+    "acronym_id": 535, 
+    "expansion": "Society of Automotive Engineers", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SAM", 
+    "source_id": 6, 
+    "acronym_id": 536, 
+    "expansion": "System for Award Management", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SAP", 
+    "source_id": 6, 
+    "acronym_id": 537, 
+    "expansion": "Systems, Applications and Products in Data Processing", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SAR", 
+    "source_id": 6, 
+    "acronym_id": 538, 
+    "expansion": "Safety Assessment Report", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SATERN", 
+    "source_id": 6, 
+    "acronym_id": 539, 
+    "expansion": "System for Administration, Training, and Educational Resources for NASA", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SB", 
+    "source_id": 6, 
+    "acronym_id": 540, 
+    "expansion": "Small Business", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SB/SDB", 
+    "source_id": 6, 
+    "acronym_id": 541, 
+    "expansion": "Small Business/Small Disadvantage Business", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SBAP", 
+    "source_id": 6, 
+    "acronym_id": 542, 
+    "expansion": "Small Business Accelerated Payment", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SBIR", 
+    "source_id": 6, 
+    "acronym_id": 543, 
+    "expansion": "Small Business Innovation Research", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SBU", 
+    "source_id": 6, 
+    "acronym_id": 544, 
+    "expansion": "Sensitive but Unclassified", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SCC", 
+    "source_id": 6, 
+    "acronym_id": 545, 
+    "expansion": "Stress Corrosion Cracking", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SCCS", 
+    "source_id": 6, 
+    "acronym_id": 546, 
+    "expansion": "Standard Cubic Centimeters Per Second", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SCM", 
+    "source_id": 6, 
+    "acronym_id": 547, 
+    "expansion": "Space Craft Manager", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SCRD", 
+    "source_id": 6, 
+    "acronym_id": 550, 
+    "expansion": "Spacecraft Requirements Document", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SCoRe", 
+    "source_id": 6, 
+    "acronym_id": 548, 
+    "expansion": "Signature Control Request", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SCoRe", 
+    "source_id": 6, 
+    "acronym_id": 549, 
+    "expansion": "Signature Controlled Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SD", 
+    "source_id": 6, 
+    "acronym_id": 551, 
+    "expansion": "Space Department", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SD", 
+    "source_id": 6, 
+    "acronym_id": 552, 
+    "expansion": "Standard Density", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SDB", 
+    "source_id": 6, 
+    "acronym_id": 553, 
+    "expansion": "Small Disadvantaged Business", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SDO", 
+    "source_id": 6, 
+    "acronym_id": 554, 
+    "expansion": "Solar Dynamics Observatory", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SDP", 
+    "source_id": 6, 
+    "acronym_id": 555, 
+    "expansion": "Safety Data Package", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SDRL", 
+    "source_id": 6, 
+    "acronym_id": 556, 
+    "expansion": "Supplier Deliverable Requirements List", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SE", 
+    "source_id": 6, 
+    "acronym_id": 557, 
+    "expansion": "Surface Evolver", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SEB", 
+    "source_id": 6, 
+    "acronym_id": 558, 
+    "expansion": "Single Event Burnout", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SEDR", 
+    "source_id": 6, 
+    "acronym_id": 559, 
+    "expansion": "Single Event Dielectric Rupture", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SEE", 
+    "source_id": 6, 
+    "acronym_id": 560, 
+    "expansion": "Single Event Effects", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SEEA", 
+    "source_id": 6, 
+    "acronym_id": 561, 
+    "expansion": "Single Event Effects Analysis", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SEFI", 
+    "source_id": 6, 
+    "acronym_id": 562, 
+    "expansion": "Single Event Functional Interrupts", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SEGR", 
+    "source_id": 6, 
+    "acronym_id": 563, 
+    "expansion": "Single Event Gate Rupture", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SEL", 
+    "source_id": 6, 
+    "acronym_id": 564, 
+    "expansion": "Single Event Latchup", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SEM", 
+    "source_id": 6, 
+    "acronym_id": 565, 
+    "expansion": "Scanning Electron Microscope", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SES", 
+    "source_id": 6, 
+    "acronym_id": 566, 
+    "expansion": "Space Exploration Sector", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SES", 
+    "source_id": 6, 
+    "acronym_id": 567, 
+    "expansion": "Space Environment Simulation", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SET", 
+    "source_id": 6, 
+    "acronym_id": 568, 
+    "expansion": "Single Event Transient", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SEU", 
+    "source_id": 6, 
+    "acronym_id": 569, 
+    "expansion": "Single Event Upsets", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SEWP", 
+    "source_id": 6, 
+    "acronym_id": 570, 
+    "expansion": "Solutions for Enterprise-Wide Procurement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SGL", 
+    "source_id": 6, 
+    "acronym_id": 571, 
+    "expansion": "Standard General Ledger", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SIERA", 
+    "source_id": 6, 
+    "acronym_id": 572, 
+    "expansion": "System for International External Relations Agreements", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SIR", 
+    "source_id": 6, 
+    "acronym_id": 573, 
+    "expansion": "Systems Integration Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SIT", 
+    "source_id": 6, 
+    "acronym_id": 574, 
+    "expansion": "Systems Integration and Testing", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SLA", 
+    "source_id": 6, 
+    "acronym_id": 661, 
+    "expansion": "Service Level Agreement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SLI", 
+    "source_id": 6, 
+    "acronym_id": 575, 
+    "expansion": "Service Line Item", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SLS", 
+    "source_id": 6, 
+    "acronym_id": 576, 
+    "expansion": "Space Launch System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SMA", 
+    "source_id": 6, 
+    "acronym_id": 577, 
+    "expansion": "Safety and Mission Assurance", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SMAP", 
+    "source_id": 6, 
+    "acronym_id": 578, 
+    "expansion": "Safety and Mission Assurance Plan", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SME", 
+    "source_id": 6, 
+    "acronym_id": 579, 
+    "expansion": "Subject Matter Expert", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SOA", 
+    "source_id": 6, 
+    "acronym_id": 580, 
+    "expansion": "Standard Outline Agreement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SOV", 
+    "source_id": 6, 
+    "acronym_id": 581, 
+    "expansion": "Solenoid Valve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SOW", 
+    "source_id": 6, 
+    "acronym_id": 582, 
+    "expansion": "Statement of Work", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SP3T", 
+    "source_id": 6, 
+    "acronym_id": 583, 
+    "expansion": "Single-Pole, Triple-Throw", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SPDT", 
+    "source_id": 6, 
+    "acronym_id": 584, 
+    "expansion": "Single-Pole, Double-Throw", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SPEC", 
+    "source_id": 6, 
+    "acronym_id": 585, 
+    "expansion": "Specification", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SPF", 
+    "source_id": 6, 
+    "acronym_id": 586, 
+    "expansion": "Single Point Failures", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SR ", 
+    "source_id": 6, 
+    "acronym_id": 587, 
+    "expansion": "Service Request", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SRP", 
+    "source_id": 6, 
+    "acronym_id": 588, 
+    "expansion": "Software Refresh Portal", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SRP", 
+    "source_id": 6, 
+    "acronym_id": 662, 
+    "expansion": "Solar Radiation Pressure", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SRR", 
+    "source_id": 6, 
+    "acronym_id": 589, 
+    "expansion": "Subsystem Requirements Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SRU", 
+    "source_id": 6, 
+    "acronym_id": 590, 
+    "expansion": "Stellar Reference Unit", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SS", 
+    "source_id": 6, 
+    "acronym_id": 591, 
+    "expansion": "Stainless Steel", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SSC", 
+    "source_id": 6, 
+    "acronym_id": 592, 
+    "expansion": "Stennis Space Center", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SSDIF", 
+    "source_id": 6, 
+    "acronym_id": 593, 
+    "expansion": "Spacecraft System Development and Integration Facility", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SSE", 
+    "source_id": 6, 
+    "acronym_id": 594, 
+    "expansion": "System Simulation Equipment", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SSO", 
+    "source_id": 6, 
+    "acronym_id": 595, 
+    "expansion": "Single Sign-On", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SSPP", 
+    "source_id": 6, 
+    "acronym_id": 596, 
+    "expansion": "System Safety Project Plan", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SSPP", 
+    "source_id": 6, 
+    "acronym_id": 597, 
+    "expansion": "Sub-System Safety Program Plan", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "STB", 
+    "source_id": 6, 
+    "acronym_id": 598, 
+    "expansion": "System Test Bed", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "STEL", 
+    "source_id": 6, 
+    "acronym_id": 599, 
+    "expansion": "Short Term Exposure Limit", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "STS", 
+    "source_id": 6, 
+    "acronym_id": 600, 
+    "expansion": "Space Transportation System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SUDA", 
+    "source_id": 6, 
+    "acronym_id": 601, 
+    "expansion": "Surface Dust Mass Analyzer", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SV", 
+    "source_id": 6, 
+    "acronym_id": 602, 
+    "expansion": "Service Valve", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SW", 
+    "source_id": 6, 
+    "acronym_id": 603, 
+    "expansion": "Software", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "SWG", 
+    "source_id": 6, 
+    "acronym_id": 604, 
+    "expansion": "Safety Working Group", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "T-Code", 
+    "source_id": 6, 
+    "acronym_id": 609, 
+    "expansion": "Transaction Code", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TAS", 
+    "source_id": 6, 
+    "acronym_id": 605, 
+    "expansion": "Treasury Account Symbol", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TBD", 
+    "source_id": 6, 
+    "acronym_id": 606, 
+    "expansion": "To Be Determined", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TBR", 
+    "source_id": 6, 
+    "acronym_id": 607, 
+    "expansion": "To Be Reviewed", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TCM", 
+    "source_id": 6, 
+    "acronym_id": 608, 
+    "expansion": "Trajectory Correction Maneuver", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TD", 
+    "source_id": 6, 
+    "acronym_id": 610, 
+    "expansion": "Thermal Desktop", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TDMS", 
+    "source_id": 6, 
+    "acronym_id": 611, 
+    "expansion": "Technical Data Management System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TFM", 
+    "source_id": 6, 
+    "acronym_id": 612, 
+    "expansion": "Treasury Financial Manual", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "THRM", 
+    "source_id": 6, 
+    "acronym_id": 613, 
+    "expansion": "Thermal", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TICD", 
+    "source_id": 6, 
+    "acronym_id": 614, 
+    "expansion": "Thermal Interface Control Document", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TID", 
+    "source_id": 6, 
+    "acronym_id": 615, 
+    "expansion": "Total Ionizing Dose", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TIMIS", 
+    "source_id": 6, 
+    "acronym_id": 616, 
+    "expansion": "Test and Integration Management Information System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TIN", 
+    "source_id": 6, 
+    "acronym_id": 617, 
+    "expansion": "Taxpayer Identification Number", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TLM", 
+    "source_id": 6, 
+    "acronym_id": 618, 
+    "expansion": "Telemetry", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TML", 
+    "source_id": 6, 
+    "acronym_id": 619, 
+    "expansion": "Total Mass Loss", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TOMS", 
+    "source_id": 6, 
+    "acronym_id": 620, 
+    "expansion": "Task Order Management System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TPA", 
+    "source_id": 6, 
+    "acronym_id": 621, 
+    "expansion": "Trading Partner Agreement", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TRR", 
+    "source_id": 6, 
+    "acronym_id": 622, 
+    "expansion": "Test Readiness Review", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TRT", 
+    "source_id": 6, 
+    "acronym_id": 623, 
+    "expansion": "Temperature Requirement Table", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TV", 
+    "source_id": 6, 
+    "acronym_id": 624, 
+    "expansion": "Thermal Vacuum", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TVAC", 
+    "source_id": 6, 
+    "acronym_id": 625, 
+    "expansion": "Thermal Vacuum", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TVS", 
+    "source_id": 6, 
+    "acronym_id": 626, 
+    "expansion": "Transient Voltage Suppressor", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TWA", 
+    "source_id": 6, 
+    "acronym_id": 627, 
+    "expansion": "Time Weighted Average", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "TWT", 
+    "source_id": 6, 
+    "acronym_id": 628, 
+    "expansion": "Traveling Wave Tube", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "UHF", 
+    "source_id": 6, 
+    "acronym_id": 629, 
+    "expansion": "Ultra High Frequnecy", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ULC", 
+    "source_id": 6, 
+    "acronym_id": 630, 
+    "expansion": "Unliquidated Costs", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "ULO", 
+    "source_id": 6, 
+    "acronym_id": 631, 
+    "expansion": "Unliquidated Obligations", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "UVS", 
+    "source_id": 6, 
+    "acronym_id": 632, 
+    "expansion": "Ultraviolet Sensor", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "VDC", 
+    "source_id": 6, 
+    "acronym_id": 633, 
+    "expansion": "Volts DC", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "VFM", 
+    "source_id": 6, 
+    "acronym_id": 634, 
+    "expansion": "Venturi Flow Meter", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "VGA", 
+    "source_id": 6, 
+    "acronym_id": 635, 
+    "expansion": "Venus Gravity Assist", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "VHF", 
+    "source_id": 6, 
+    "acronym_id": 636, 
+    "expansion": "Very High Frequency", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "VHP", 
+    "source_id": 6, 
+    "acronym_id": 637, 
+    "expansion": "Vapor Hydrogen Peroxide", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "VPN", 
+    "source_id": 6, 
+    "acronym_id": 638, 
+    "expansion": "Virtual Private Network", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "VTI", 
+    "source_id": 6, 
+    "acronym_id": 639, 
+    "expansion": "Valve Tech Incorporated", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "W/C", 
+    "source_id": 6, 
+    "acronym_id": 640, 
+    "expansion": "Worst Case", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WA", 
+    "source_id": 6, 
+    "acronym_id": 641, 
+    "expansion": "Work Authorization", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WAC", 
+    "source_id": 6, 
+    "acronym_id": 642, 
+    "expansion": "Wide Angle Camera", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WAD", 
+    "source_id": 6, 
+    "acronym_id": 643, 
+    "expansion": "Work Authorization Document", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WAWF", 
+    "source_id": 6, 
+    "acronym_id": 644, 
+    "expansion": "Wide Area Workflow", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WBS", 
+    "source_id": 6, 
+    "acronym_id": 645, 
+    "expansion": "Work Breakdown Structure", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WCA", 
+    "source_id": 6, 
+    "acronym_id": 646, 
+    "expansion": "Worst Case Analysis", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WCF", 
+    "source_id": 6, 
+    "acronym_id": 647, 
+    "expansion": "Working Capital Fund", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WFF", 
+    "source_id": 6, 
+    "acronym_id": 649, 
+    "expansion": "Wallops Flight Facility", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WFR", 
+    "source_id": 6, 
+    "acronym_id": 650, 
+    "expansion": "Water Vapor Regained", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WIMS", 
+    "source_id": 6, 
+    "acronym_id": 651, 
+    "expansion": "Workforce Integrated Management System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WIP", 
+    "source_id": 6, 
+    "acronym_id": 652, 
+    "expansion": "Work in Progress", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WOA", 
+    "source_id": 6, 
+    "acronym_id": 653, 
+    "expansion": "Work Order Authorization", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WOSB", 
+    "source_id": 6, 
+    "acronym_id": 654, 
+    "expansion": "Woman-Owned Small Business", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WSTF", 
+    "source_id": 6, 
+    "acronym_id": 655, 
+    "expansion": "White Sands Test Facility", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WTTS", 
+    "source_id": 6, 
+    "acronym_id": 656, 
+    "expansion": "Workforce Transformation Tracking System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WU", 
+    "source_id": 6, 
+    "acronym_id": 657, 
+    "expansion": "Wheel Unit", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WXS", 
+    "source_id": 6, 
+    "acronym_id": 658, 
+    "expansion": "Wave Guide Transfer Switch", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WYE", 
+    "source_id": 6, 
+    "acronym_id": 659, 
+    "expansion": "Work Year Equivalent", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "WebTADS", 
+    "source_id": 6, 
+    "acronym_id": 648, 
+    "expansion": "Web-Based Time and Attendance Distribution System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "YTD", 
+    "source_id": 6, 
+    "acronym_id": 660, 
+    "expansion": "Year to Date", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "eMOD", 
+    "source_id": 6, 
+    "acronym_id": 157, 
+    "expansion": "Electronic Management Operations Directorate System", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "iESD", 
+    "source_id": 6, 
+    "acronym_id": 267, 
+    "expansion": "Internal Electro-Static Discharge", 
+    "source": "GSFC-Prop"
+  }, 
+  {
+    "abbreviation": "iWAPP", 
+    "source_id": 6, 
+    "acronym_id": 290, 
+    "expansion": "Integrated Workforce and Personnel Planning", 
+    "source": "GSFC-Prop"
+  }
+]
