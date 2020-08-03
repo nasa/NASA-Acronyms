@@ -392,6 +392,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "SiPM", 
+    "source_id": 0, 
+    "acronym_id": 64, 
+    "expansion": "Silicon Photomultiplier", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "SpC", 
     "source_id": 0, 
     "acronym_id": 45, 
