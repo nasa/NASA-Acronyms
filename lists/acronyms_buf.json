@@ -413,6 +413,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "TO", 
+    "source_id": 0, 
+    "acronym_id": 65, 
+    "expansion": "Transistor Outline", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "TRL", 
     "source_id": 0, 
     "acronym_id": 46, 
