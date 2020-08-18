@@ -21,6 +21,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "CASALS", 
+    "source_id": 0, 
+    "acronym_id": 66, 
+    "expansion": "Concurrent Artificially Intelligent Spectrometry and Adaptive Lidar System", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "CBE", 
     "source_id": 0, 
     "acronym_id": 7, 
