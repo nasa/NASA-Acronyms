@@ -56,6 +56,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "DDL", 
+    "source_id": 0, 
+    "acronym_id": 68, 
+    "expansion": "Deorbit, Descent, and Landing", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "ECSRM", 
     "source_id": 0, 
     "acronym_id": 55, 
