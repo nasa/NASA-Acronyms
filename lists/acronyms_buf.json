@@ -84,6 +84,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "EIB", 
+    "source_id": 0, 
+    "acronym_id": 69, 
+    "expansion": "Engine Instrumentation Box", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "EICD", 
     "source_id": 0, 
     "acronym_id": 11, 
