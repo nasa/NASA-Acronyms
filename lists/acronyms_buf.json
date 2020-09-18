@@ -23,7 +23,7 @@
   {
     "abbreviation": "CASALS", 
     "source_id": 0, 
-    "acronym_id": 66, 
+    "acronym_id": 69, 
     "expansion": "Concurrent Artificially Intelligent Spectrometry and Adaptive Lidar System", 
     "source": "buffer"
   }, 
@@ -51,21 +51,21 @@
   {
     "abbreviation": "CPC", 
     "source_id": 0, 
-    "acronym_id": 54, 
+    "acronym_id": 57, 
     "expansion": "Compound Parabolic Concentrator", 
     "source": "buffer"
   }, 
   {
     "abbreviation": "DDL", 
     "source_id": 0, 
-    "acronym_id": 68, 
+    "acronym_id": 71, 
     "expansion": "Deorbit, Descent, and Landing", 
     "source": "buffer"
   }, 
   {
     "abbreviation": "ECSRM", 
     "source_id": 0, 
-    "acronym_id": 55, 
+    "acronym_id": 58, 
     "expansion": "Early Calibration System Risk Management", 
     "source": "buffer"
   }, 
@@ -86,7 +86,7 @@
   {
     "abbreviation": "EIB", 
     "source_id": 0, 
-    "acronym_id": 69, 
+    "acronym_id": 72, 
     "expansion": "Engine Instrumentation Box", 
     "source": "buffer"
   }, 
@@ -128,7 +128,7 @@
   {
     "abbreviation": "EVOA", 
     "source_id": 0, 
-    "acronym_id": 62, 
+    "acronym_id": 65, 
     "expansion": "Electronic Variable Optical Attenuator", 
     "source": "buffer"
   }, 
@@ -149,7 +149,7 @@
   {
     "abbreviation": "FEIC", 
     "source_id": 0, 
-    "acronym_id": 57, 
+    "acronym_id": 60, 
     "expansion": "Front End Interface Card", 
     "source": "buffer"
   }, 
@@ -219,7 +219,7 @@
   {
     "abbreviation": "IMPACT", 
     "source_id": 0, 
-    "acronym_id": 56, 
+    "acronym_id": 59, 
     "expansion": "Interagency Implementation and Advanced Concepts Team", 
     "source": "buffer"
   }, 
@@ -254,7 +254,7 @@
   {
     "abbreviation": "MDM", 
     "source_id": 0, 
-    "acronym_id": 58, 
+    "acronym_id": 61, 
     "expansion": "Micro-D Miniature", 
     "source": "buffer"
   }, 
@@ -322,6 +322,27 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "OSAM 1", 
+    "source_id": 0, 
+    "acronym_id": 55, 
+    "expansion": "On-Orbit Servicing, Assembly and Manufacturing", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "OSAM-1", 
+    "source_id": 0, 
+    "acronym_id": 56, 
+    "expansion": "On-Orbit Servicing, Assembly and Manufacturing", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "OSAM1", 
+    "source_id": 0, 
+    "acronym_id": 54, 
+    "expansion": "On-Orbit Servicing, Assembly and Manufacturing", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "PACE", 
     "source_id": 0, 
     "acronym_id": 0, 
@@ -380,14 +401,14 @@
   {
     "abbreviation": "RDS", 
     "source_id": 0, 
-    "acronym_id": 63, 
+    "acronym_id": 66, 
     "expansion": "Restore Dynamic Simulator", 
     "source": "buffer"
   }, 
   {
     "abbreviation": "RI2", 
     "source_id": 0, 
-    "acronym_id": 67, 
+    "acronym_id": 70, 
     "expansion": "Radical Innovation Initiative", 
     "source": "buffer"
   }, 
@@ -408,21 +429,21 @@
   {
     "abbreviation": "SIRF", 
     "source_id": 0, 
-    "acronym_id": 60, 
+    "acronym_id": 63, 
     "expansion": "Single event Immune Reconfigurable FPGA", 
     "source": "buffer"
   }, 
   {
     "abbreviation": "SMB", 
     "source_id": 0, 
-    "acronym_id": 61, 
+    "acronym_id": 64, 
     "expansion": "Standard Message Bus", 
     "source": "buffer"
   }, 
   {
     "abbreviation": "SiPM", 
     "source_id": 0, 
-    "acronym_id": 64, 
+    "acronym_id": 67, 
     "expansion": "Silicon Photomultiplier", 
     "source": "buffer"
   }, 
@@ -436,14 +457,14 @@
   {
     "abbreviation": "TIA", 
     "source_id": 0, 
-    "acronym_id": 59, 
+    "acronym_id": 62, 
     "expansion": "Transimpedance Amplifier", 
     "source": "buffer"
   }, 
   {
     "abbreviation": "TO", 
     "source_id": 0, 
-    "acronym_id": 65, 
+    "acronym_id": 68, 
     "expansion": "Transistor Outline", 
     "source": "buffer"
   }, 
