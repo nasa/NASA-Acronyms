@@ -441,6 +441,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "SQRLi", 
+    "source_id": 0, 
+    "acronym_id": 73, 
+    "expansion": "Space Qualified Rover Lidar", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "SiPM", 
     "source_id": 0, 
     "acronym_id": 67, 
