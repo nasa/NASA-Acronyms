@@ -56,6 +56,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "CS", 
+    "source_id": 0, 
+    "acronym_id": 74, 
+    "expansion": "Cell Science", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "DDL", 
     "source_id": 0, 
     "acronym_id": 71, 
@@ -203,6 +210,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "HPH", 
+    "source_id": 0, 
+    "acronym_id": 75, 
+    "expansion": "High Purity Hydrazine", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "HPO", 
     "source_id": 0, 
     "acronym_id": 1, 
@@ -312,6 +326,13 @@
     "source_id": 0, 
     "acronym_id": 35, 
     "expansion": "Manufacturing Readiness Review", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MSolo", 
+    "source_id": 0, 
+    "acronym_id": 76, 
+    "expansion": "Mass Spectrometer Observing Lunar Operations", 
     "source": "buffer"
   }, 
   {
