@@ -168,6 +168,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "FEOCS", 
+    "source_id": 0, 
+    "acronym_id": 79, 
+    "expansion": "Federal Organizational Climate Survey", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "FET", 
     "source_id": 0, 
     "acronym_id": 17, 
