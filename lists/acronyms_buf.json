@@ -252,6 +252,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "LLS", 
+    "source_id": 0, 
+    "acronym_id": 80, 
+    "expansion": "Liquid Level Sensor", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "LRF", 
     "source_id": 0, 
     "acronym_id": 26, 
