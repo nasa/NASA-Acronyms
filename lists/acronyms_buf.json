@@ -119,6 +119,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "EPPL", 
+    "source_id": 0, 
+    "acronym_id": 81, 
+    "expansion": "Electric Power and Propulsion Laboratory", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "EPR", 
     "source_id": 0, 
     "acronym_id": 13, 
