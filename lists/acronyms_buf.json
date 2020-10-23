@@ -364,6 +364,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "NESS", 
+    "source_id": 0, 
+    "acronym_id": 82, 
+    "expansion": "NASA Form 1018 Electronic Submission System", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "OSAM", 
     "source_id": 0, 
     "acronym_id": 53, 
