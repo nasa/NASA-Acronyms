@@ -189,6 +189,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "FORCAST", 
+    "source_id": 0, 
+    "acronym_id": 83, 
+    "expansion": "Faint Object infraRed CAmera for the SOFIA Telescope", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "FPGA", 
     "source_id": 0, 
     "acronym_id": 18, 
