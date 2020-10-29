@@ -301,6 +301,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "MCX", 
+    "source_id": 0, 
+    "acronym_id": 84, 
+    "expansion": "Micro Coaxial Connector", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "MDM", 
     "source_id": 0, 
     "acronym_id": 61, 
@@ -354,6 +361,13 @@
     "source_id": 0, 
     "acronym_id": 34, 
     "expansion": "Multi-Layer Insulation", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MMCX", 
+    "source_id": 0, 
+    "acronym_id": 85, 
+    "expansion": "Micro-Miniature Coaxial Connector", 
     "source": "buffer"
   }, 
   {
