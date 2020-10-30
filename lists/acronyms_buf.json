@@ -546,6 +546,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "TFA", 
+    "source_id": 0, 
+    "acronym_id": 86, 
+    "expansion": "Trajectory Feasibility Analysis", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "TIA", 
     "source_id": 0, 
     "acronym_id": 62, 
