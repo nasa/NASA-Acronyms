@@ -70,6 +70,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "CS2", 
+    "source_id": 0, 
+    "acronym_id": 87, 
+    "expansion": "CubeSat Card Standard", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "DDL", 
     "source_id": 0, 
     "acronym_id": 71, 
