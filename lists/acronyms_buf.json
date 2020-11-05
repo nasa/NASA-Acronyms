@@ -518,6 +518,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "RoHS", 
+    "source_id": 0, 
+    "acronym_id": 88, 
+    "expansion": "Restriction of Hazardous Substances", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "SIRF", 
     "source_id": 0, 
     "acronym_id": 63, 
