@@ -77,6 +77,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "DAX", 
+    "source_id": 0, 
+    "acronym_id": 89, 
+    "expansion": "Data Analysis eXpressions", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "DDL", 
     "source_id": 0, 
     "acronym_id": 71, 
