@@ -287,6 +287,20 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "LPAT", 
+    "source_id": 0, 
+    "acronym_id": 90, 
+    "expansion": "Low Pressure Actuation Test", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "LPAT", 
+    "source_id": 0, 
+    "acronym_id": 91, 
+    "expansion": "LASSO Project Approval Tool", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "LRF", 
     "source_id": 0, 
     "acronym_id": 26, 
