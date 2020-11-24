@@ -7,6 +7,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "AIAL", 
+    "source_id": 0, 
+    "acronym_id": 92, 
+    "expansion": "Advanced Imaging and Analysis Laboratory", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "AR&D", 
     "source_id": 0, 
     "acronym_id": 4, 
@@ -322,6 +329,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "MAL", 
+    "source_id": 0, 
+    "acronym_id": 93, 
+    "expansion": "Materials Analysis Laboratory", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "MAR", 
     "source_id": 0, 
     "acronym_id": 27, 
@@ -361,6 +375,13 @@
     "source_id": 0, 
     "acronym_id": 30, 
     "expansion": "Micro-Electro-Mechanical Systems", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "METL", 
+    "source_id": 0, 
+    "acronym_id": 94, 
+    "expansion": "Mechanical and Environmental Testing Laboratory", 
     "source": "buffer"
   }, 
   {
