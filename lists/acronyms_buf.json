@@ -602,6 +602,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "StE", 
+    "source_id": 0, 
+    "acronym_id": 95, 
+    "expansion": "Structures and Thermal Environments", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "TFA", 
     "source_id": 0, 
     "acronym_id": 86, 
