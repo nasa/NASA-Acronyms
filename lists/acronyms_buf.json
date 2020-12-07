@@ -199,7 +199,7 @@
     "abbreviation": "FEMCI", 
     "source_id": 0, 
     "acronym_id": 96, 
-    "expansion": "Finite Element Modeling Continuous Improvement (https://femci.gsfc.nasa.gov)", 
+    "expansion": "Finite Element Modeling Continuous Improvement (<a href=\"https://femci.gsfc.nasa.gov\">femci.gsfc.nasa.gov</a>)", 
     "source": "buffer"
   }, 
   {
