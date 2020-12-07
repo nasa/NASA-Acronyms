@@ -196,6 +196,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "FEMCI", 
+    "source_id": 0, 
+    "acronym_id": 96, 
+    "expansion": "Finite Element Modeling Continuous Improvement (https://femci.gsfc.nasa.gov)", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "FEOCS", 
     "source_id": 0, 
     "acronym_id": 79, 
