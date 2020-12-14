@@ -595,6 +595,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "SSWP", 
+    "source_id": 0, 
+    "acronym_id": 97, 
+    "expansion": "Supervisor Safety Web Page", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "SiPM", 
     "source_id": 0, 
     "acronym_id": 67, 
