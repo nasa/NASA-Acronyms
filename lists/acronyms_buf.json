@@ -9,7 +9,7 @@
   {
     "abbreviation": "AIAL", 
     "source_id": 0, 
-    "acronym_id": 92, 
+    "acronym_id": 91, 
     "expansion": "Advanced Imaging and Analysis Laboratory", 
     "source": "buffer"
   }, 
@@ -198,7 +198,7 @@
   {
     "abbreviation": "FEMCI", 
     "source_id": 0, 
-    "acronym_id": 96, 
+    "acronym_id": 95, 
     "expansion": "Finite Element Modeling Continuous Improvement (<a href=\"https://femci.gsfc.nasa.gov\">femci.gsfc.nasa.gov</a>)", 
     "source": "buffer"
   }, 
@@ -304,13 +304,6 @@
     "abbreviation": "LPAT", 
     "source_id": 0, 
     "acronym_id": 90, 
-    "expansion": "Low Pressure Actuation Test", 
-    "source": "buffer"
-  }, 
-  {
-    "abbreviation": "LPAT", 
-    "source_id": 0, 
-    "acronym_id": 91, 
     "expansion": "LASSO Project Approval Tool", 
     "source": "buffer"
   }, 
@@ -338,7 +331,7 @@
   {
     "abbreviation": "MAL", 
     "source_id": 0, 
-    "acronym_id": 93, 
+    "acronym_id": 92, 
     "expansion": "Materials Analysis Laboratory", 
     "source": "buffer"
   }, 
@@ -387,7 +380,7 @@
   {
     "abbreviation": "METL", 
     "source_id": 0, 
-    "acronym_id": 94, 
+    "acronym_id": 93, 
     "expansion": "Mechanical and Environmental Testing Laboratory", 
     "source": "buffer"
   }, 
@@ -597,7 +590,7 @@
   {
     "abbreviation": "SSWP", 
     "source_id": 0, 
-    "acronym_id": 97, 
+    "acronym_id": 96, 
     "expansion": "Supervisor Safety Web Page", 
     "source": "buffer"
   }, 
@@ -618,7 +611,7 @@
   {
     "abbreviation": "StE", 
     "source_id": 0, 
-    "acronym_id": 95, 
+    "acronym_id": 94, 
     "expansion": "Structures and Thermal Environments", 
     "source": "buffer"
   }, 
