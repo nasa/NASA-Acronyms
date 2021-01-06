@@ -441,6 +441,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "OITM", 
+    "source_id": 0, 
+    "acronym_id": 97, 
+    "expansion": "Organizational Information Technology Manager", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "OSAM", 
     "source_id": 0, 
     "acronym_id": 53, 
