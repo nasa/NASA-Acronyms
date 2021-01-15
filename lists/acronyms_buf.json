@@ -14,6 +14,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "APC", 
+    "source_id": 0, 
+    "acronym_id": 99, 
+    "expansion": "Angled Physical Contact", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "AR&D", 
     "source_id": 0, 
     "acronym_id": 4, 
@@ -172,6 +179,13 @@
     "source_id": 0, 
     "acronym_id": 65, 
     "expansion": "Electronic Variable Optical Attenuator", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "FC", 
+    "source_id": 0, 
+    "acronym_id": 98, 
+    "expansion": "Ferrule Connector/Fiber Channel", 
     "source": "buffer"
   }, 
   {
