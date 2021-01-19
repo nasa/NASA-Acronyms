@@ -231,6 +231,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "FETT", 
+    "source_id": 0, 
+    "acronym_id": 100, 
+    "expansion": "Flight Evaluation Task Team", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "FORCAST", 
     "source_id": 0, 
     "acronym_id": 83, 
