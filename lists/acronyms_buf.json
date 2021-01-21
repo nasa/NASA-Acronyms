@@ -119,6 +119,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "EFILMRS", 
+    "source_id": 0, 
+    "acronym_id": 101, 
+    "expansion": "Exploration Upper Stage (EUS) Flight Imagery Launch Monitoring Real-time System", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "EGSE", 
     "source_id": 0, 
     "acronym_id": 10, 
