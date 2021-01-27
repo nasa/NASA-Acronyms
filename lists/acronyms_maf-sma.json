@@ -3542,6 +3542,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "ECD", 
+    "source_id": 8, 
+    "acronym_id": 2499, 
+    "expansion": "Element Control Drawings", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "ECF", 
     "source_id": 8, 
     "acronym_id": 737, 
@@ -11557,6 +11564,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "PAD", 
+    "source_id": 8, 
+    "acronym_id": 2500, 
+    "expansion": "Program Agreement Document", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "PAF", 
     "source_id": 8, 
     "acronym_id": 338, 
@@ -11701,6 +11715,13 @@
     "source_id": 8, 
     "acronym_id": 347, 
     "expansion": "Process Control Document (Boeing)", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PCD", 
+    "source_id": 8, 
+    "acronym_id": 2498, 
+    "expansion": "Procurement Control Drawings", 
     "source": "MAF-SMA"
   }, 
   {
@@ -15505,6 +15526,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "SVR", 
+    "source_id": 8, 
+    "acronym_id": 2501, 
+    "expansion": "Single Verifcation Record", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "SVTL", 
     "source_id": 8, 
     "acronym_id": 1760, 
@@ -16779,6 +16807,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "VCM", 
+    "source_id": 8, 
+    "acronym_id": 2502, 
+    "expansion": "Verfication Compliance Metadata", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "VCN", 
     "source_id": 8, 
     "acronym_id": 507, 
@@ -16800,6 +16835,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "VCRP", 
+    "source_id": 8, 
+    "acronym_id": 2503, 
+    "expansion": "Verification Closure Review Package", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "VCS", 
     "source_id": 8, 
     "acronym_id": 2323, 
@@ -16811,6 +16853,13 @@
     "source_id": 8, 
     "acronym_id": 2324, 
     "expansion": "Voluntary Consensus Standard", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "VCS", 
+    "source_id": 8, 
+    "acronym_id": 2497, 
+    "expansion": "Verification Compliance Summary", 
     "source": "MAF-SMA"
   }, 
   {
