@@ -1134,6 +1134,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "BOI", 
+    "source_id": 8, 
+    "acronym_id": 2507, 
+    "expansion": "Break of Inspection (Previously Accepted Non-Conformance)", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "BOLE", 
     "source_id": 8, 
     "acronym_id": 1766, 
@@ -12985,6 +12992,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "QBS", 
+    "source_id": 8, 
+    "acronym_id": 2506, 
+    "expansion": "Qualification-by-Similarity ", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "QD", 
     "source_id": 8, 
     "acronym_id": 385, 
@@ -16912,6 +16926,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "VEP", 
+    "source_id": 8, 
+    "acronym_id": 2504, 
+    "expansion": "Verification Event Plan", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "VES", 
     "source_id": 8, 
     "acronym_id": 509, 
@@ -17014,6 +17035,13 @@
     "source_id": 8, 
     "acronym_id": 1515, 
     "expansion": "Veteran Owned Small Business", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "VP", 
+    "source_id": 8, 
+    "acronym_id": 2505, 
+    "expansion": "Verification Procedure", 
     "source": "MAF-SMA"
   }, 
   {
