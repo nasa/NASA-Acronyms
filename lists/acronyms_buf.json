@@ -105,6 +105,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "DROID", 
+    "source_id": 0, 
+    "acronym_id": 103, 
+    "expansion": "Disposition and Review of Organizational Issuance Data", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "ECSRM", 
     "source_id": 0, 
     "acronym_id": 58, 
