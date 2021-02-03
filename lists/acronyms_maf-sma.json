@@ -224,6 +224,20 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "ACM", 
+    "source_id": 8, 
+    "acronym_id": 2517, 
+    "expansion": "Area Control  Manager", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "ACM", 
+    "source_id": 8, 
+    "acronym_id": 2522, 
+    "expansion": "Access Control Manager", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "ACN", 
     "source_id": 8, 
     "acronym_id": 542, 
@@ -319,6 +333,20 @@
     "source_id": 8, 
     "acronym_id": 548, 
     "expansion": "Automatic Destruct Unit", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "AED", 
+    "source_id": 8, 
+    "acronym_id": 2514, 
+    "expansion": "Automated External Difibrillators", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "AED", 
+    "source_id": 8, 
+    "acronym_id": 2521, 
+    "expansion": "Automated External Defibrillator", 
     "source": "MAF-SMA"
   }, 
   {
@@ -627,6 +655,13 @@
     "source_id": 8, 
     "acronym_id": 2373, 
     "expansion": "Arrowhead Products", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "AP", 
+    "source_id": 8, 
+    "acronym_id": 2531, 
+    "expansion": "Ammonium Perchlorate", 
     "source": "MAF-SMA"
   }, 
   {
@@ -994,6 +1029,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "BAC", 
+    "source_id": 8, 
+    "acronym_id": 2508, 
+    "expansion": "Boeing Analysis Cycle", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "BCDE", 
     "source_id": 8, 
     "acronym_id": 577, 
@@ -1355,6 +1397,13 @@
     "source_id": 8, 
     "acronym_id": 631, 
     "expansion": "Conventional Friction Stir Weld", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "C1D2", 
+    "source_id": 8, 
+    "acronym_id": 2528, 
+    "expansion": "Class 1 Division 2 (KSC Area Where Flammable Gases Are Handled)", 
     "source": "MAF-SMA"
   }, 
   {
@@ -2181,6 +2230,13 @@
     "source_id": 8, 
     "acronym_id": 53, 
     "expansion": "Commercial Off-the-Shelf", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "CP", 
+    "source_id": 8, 
+    "acronym_id": 2509, 
+    "expansion": "Control Point", 
     "source": "MAF-SMA"
   }, 
   {
@@ -3906,6 +3962,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "ELSA", 
+    "source_id": 8, 
+    "acronym_id": 2529, 
+    "expansion": "Emergency Life Support Apparatus", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "ELSE", 
     "source_id": 8, 
     "acronym_id": 113, 
@@ -5544,6 +5607,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "GCS", 
+    "source_id": 8, 
+    "acronym_id": 2543, 
+    "expansion": "Ground Cooling System", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "GD&T", 
     "source_id": 8, 
     "acronym_id": 861, 
@@ -5775,6 +5845,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "GPTU", 
+    "source_id": 8, 
+    "acronym_id": 2541, 
+    "expansion": "Generic Propellant Transfer Unit", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "GR", 
     "source_id": 8, 
     "acronym_id": 878, 
@@ -5856,6 +5933,13 @@
     "source_id": 8, 
     "acronym_id": 167, 
     "expansion": "Ground Systems Development and Operations", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "GSDO", 
+    "source_id": 8, 
+    "acronym_id": 2540, 
+    "expansion": "Ground Systems Development & Operations", 
     "source": "MAF-SMA"
   }, 
   {
@@ -5961,6 +6045,13 @@
     "source_id": 8, 
     "acronym_id": 888, 
     "expansion": "Half Duplex", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "H2N4", 
+    "source_id": 8, 
+    "acronym_id": 2525, 
+    "expansion": "Hydrazine", 
     "source": "MAF-SMA"
   }, 
   {
@@ -6209,6 +6300,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "HEPA", 
+    "source_id": 8, 
+    "acronym_id": 2515, 
+    "expansion": "High Effeciency Particulate Air", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "HERO", 
     "source_id": 8, 
     "acronym_id": 905, 
@@ -6318,6 +6416,13 @@
     "source_id": 8, 
     "acronym_id": 2011, 
     "expansion": "High Reliability", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "HIA", 
+    "source_id": 8, 
+    "acronym_id": 2516, 
+    "expansion": "Hardware Inspection Area", 
     "source": "MAF-SMA"
   }, 
   {
@@ -6563,6 +6668,13 @@
     "source_id": 8, 
     "acronym_id": 1557, 
     "expansion": "Human Spaceflight Capabilities", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "HSEP", 
+    "source_id": 8, 
+    "acronym_id": 2535, 
+    "expansion": "Health, Safety, Environmental Procedures (KSC)", 
     "source": "MAF-SMA"
   }, 
   {
@@ -7749,6 +7861,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "JSOG", 
+    "source_id": 8, 
+    "acronym_id": 2530, 
+    "expansion": "Jacobs Safety Operatiosn Group", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "JSpOC", 
     "source_id": 8, 
     "acronym_id": 2057, 
@@ -7991,6 +8110,13 @@
     "source_id": 8, 
     "acronym_id": 228, 
     "expansion": "Launch Abort System", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "LASF", 
+    "source_id": 8, 
+    "acronym_id": 2533, 
+    "expansion": "Launch Abort Systems Facility (KSC)", 
     "source": "MAF-SMA"
   }, 
   {
@@ -9527,6 +9653,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "MMH", 
+    "source_id": 8, 
+    "acronym_id": 2526, 
+    "expansion": "Monomethly Hydrazine - N2H2", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "MMHL", 
     "source_id": 8, 
     "acronym_id": 1100, 
@@ -9587,6 +9720,13 @@
     "source_id": 8, 
     "acronym_id": 2110, 
     "expansion": "Memorandum of Agreement", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "MOC", 
+    "source_id": 8, 
+    "acronym_id": 2538, 
+    "expansion": "Management of Change", 
     "source": "MAF-SMA"
   }, 
   {
@@ -9706,6 +9846,20 @@
     "source_id": 8, 
     "acronym_id": 1110, 
     "expansion": "Document Identifier \u2013 Material/Property Management", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "MPPF", 
+    "source_id": 8, 
+    "acronym_id": 2532, 
+    "expansion": "Multi-Payload Processing Facility (KSC)", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "MPPU", 
+    "source_id": 8, 
+    "acronym_id": 2524, 
+    "expansion": "Mini Portable Purge Units", 
     "source": "MAF-SMA"
   }, 
   {
@@ -10994,6 +11148,13 @@
     "source_id": 8, 
     "acronym_id": 1684, 
     "expansion": "Other Direct Charges", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "ODMS", 
+    "source_id": 8, 
+    "acronym_id": 2520, 
+    "expansion": "Oxygen Defeciency Monitoring Systems", 
     "source": "MAF-SMA"
   }, 
   {
@@ -12446,6 +12607,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "PPU", 
+    "source_id": 8, 
+    "acronym_id": 2523, 
+    "expansion": "Portable Purge Units", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "PQ", 
     "source_id": 8, 
     "acronym_id": 1248, 
@@ -12670,6 +12838,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "PSI", 
+    "source_id": 8, 
+    "acronym_id": 2534, 
+    "expansion": "Process Safety Information (KSC)", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "PSIA", 
     "source_id": 8, 
     "acronym_id": 1260, 
@@ -12705,6 +12880,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "PSM", 
+    "source_id": 8, 
+    "acronym_id": 2519, 
+    "expansion": "Process Safety Management (KSC)", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "PSN", 
     "source_id": 8, 
     "acronym_id": 2432, 
@@ -12716,6 +12898,13 @@
     "source_id": 8, 
     "acronym_id": 382, 
     "expansion": "", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PSSR", 
+    "source_id": 8, 
+    "acronym_id": 2537, 
+    "expansion": "Pre-Startup Safety Review (KSC)", 
     "source": "MAF-SMA"
   }, 
   {
@@ -13531,6 +13720,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "RIP", 
+    "source_id": 8, 
+    "acronym_id": 2511, 
+    "expansion": "Receiving Inspection Plan", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "RISC", 
     "source_id": 8, 
     "acronym_id": 403, 
@@ -14196,6 +14392,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "SCA", 
+    "source_id": 8, 
+    "acronym_id": 2513, 
+    "expansion": "Sudden Cardiac Arrest", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "SCAPE", 
     "source_id": 8, 
     "acronym_id": 2257, 
@@ -14434,6 +14637,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "SDS", 
+    "source_id": 8, 
+    "acronym_id": 2518, 
+    "expansion": "Safety Data Sheets", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "SDT", 
     "source_id": 8, 
     "acronym_id": 1354, 
@@ -14529,6 +14739,13 @@
     "source_id": 8, 
     "acronym_id": 437, 
     "expansion": "Supplier Evaluation Report (Like a NC/finding From an Audit)", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SETS", 
+    "source_id": 8, 
+    "acronym_id": 2539, 
+    "expansion": "Safety & Environmental Tracking System", 
     "source": "MAF-SMA"
   }, 
   {
@@ -15295,6 +15512,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "SS", 
+    "source_id": 8, 
+    "acronym_id": 2510, 
+    "expansion": "Standard Statement", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "SSA", 
     "source_id": 8, 
     "acronym_id": 2287, 
@@ -15778,6 +16002,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "TDC", 
+    "source_id": 8, 
+    "acronym_id": 2536, 
+    "expansion": "Technical Data Center (KSC)", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "TDD", 
     "source_id": 8, 
     "acronym_id": 1438, 
@@ -15904,6 +16135,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "THSS", 
+    "source_id": 8, 
+    "acronym_id": 2544, 
+    "expansion": "Thrust Vector Control Hydraulic Servicing Subsystem", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "THZ", 
     "source_id": 8, 
     "acronym_id": 2298, 
@@ -15936,6 +16174,13 @@
     "source_id": 8, 
     "acronym_id": 1448, 
     "expansion": "Technical Interchange Meeting", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "TIPQA", 
+    "source_id": 8, 
+    "acronym_id": 2512, 
+    "expansion": "Technical Information Processing Quality Assurance", 
     "source": "MAF-SMA"
   }, 
   {
@@ -16153,6 +16398,13 @@
     "source_id": 8, 
     "acronym_id": 1459, 
     "expansion": "Thermal Protection System", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "TPSF", 
+    "source_id": 8, 
+    "acronym_id": 2542, 
+    "expansion": "Thermal Protection System Facility", 
     "source": "MAF-SMA"
   }, 
   {
