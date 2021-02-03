@@ -546,6 +546,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "PMA", 
+    "source_id": 0, 
+    "acronym_id": 104, 
+    "expansion": "Precision Measurement and Alignment Laboratory", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "PSAT", 
     "source_id": 0, 
     "acronym_id": 78, 
