@@ -91,6 +91,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "CSESU", 
+    "source_id": 0, 
+    "acronym_id": 106, 
+    "expansion": "Core Stage Engine Section Umbilical", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "DAX", 
     "source_id": 0, 
     "acronym_id": 89, 
