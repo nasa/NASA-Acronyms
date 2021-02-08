@@ -728,6 +728,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "VOGAA", 
+    "source_id": 0, 
+    "acronym_id": 105, 
+    "expansion": "Voice-Operated Gain-Adjusting Amplifier", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "WBS", 
     "source_id": 0, 
     "acronym_id": 48, 
