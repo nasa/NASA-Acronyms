@@ -812,6 +812,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "ASEU", 
+    "source_id": 8, 
+    "acronym_id": 2552, 
+    "expansion": "Aft Skirt Electrical Umbilical", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "ASHRAE", 
     "source_id": 8, 
     "acronym_id": 1890, 
@@ -879,6 +886,13 @@
     "source_id": 8, 
     "acronym_id": 1572, 
     "expansion": "Aquisition Strategy Planning", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "ASPU", 
+    "source_id": 8, 
+    "acronym_id": 2551, 
+    "expansion": "Aft Skirt Purge Umbilical", 
     "source": "MAF-SMA"
   }, 
   {
@@ -1425,6 +1439,13 @@
     "source_id": 8, 
     "acronym_id": 2437, 
     "expansion": "Collet Assembly", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "CAA", 
+    "source_id": 8, 
+    "acronym_id": 2548, 
+    "expansion": "Crew Access Arm", 
     "source": "MAF-SMA"
   }, 
   {
@@ -2499,10 +2520,24 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "CSFSU", 
+    "source_id": 8, 
+    "acronym_id": 2545, 
+    "expansion": "Core Stage Foward Skirt Umbilical", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "CSIRO", 
     "source_id": 8, 
     "acronym_id": 1558, 
     "expansion": "Commonwealth Scientific Industrial Research Organization", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "CSITU", 
+    "source_id": 8, 
+    "acronym_id": 2546, 
+    "expansion": "Core Stage Inter Tank Umbilical", 
     "source": "MAF-SMA"
   }, 
   {
@@ -4186,6 +4221,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "EPD", 
+    "source_id": 8, 
+    "acronym_id": 2556, 
+    "expansion": "Emergency Procedure Documents", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "EPIC", 
     "source_id": 8, 
     "acronym_id": 773, 
@@ -5030,6 +5072,13 @@
     "source_id": 8, 
     "acronym_id": 826, 
     "expansion": "Flag Note", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "FLDS", 
+    "source_id": 8, 
+    "acronym_id": 2568, 
+    "expansion": "Fire and Leak Detection System", 
     "source": "MAF-SMA"
   }, 
   {
@@ -5971,6 +6020,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "GSP", 
+    "source_id": 8, 
+    "acronym_id": 2565, 
+    "expansion": "Ground Special Power", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "GSS", 
     "source_id": 8, 
     "acronym_id": 169, 
@@ -6031,6 +6087,13 @@
     "source_id": 8, 
     "acronym_id": 1999, 
     "expansion": "Graphite Epoxy", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "H&A", 
+    "source_id": 8, 
+    "acronym_id": 2554, 
+    "expansion": "Handling and Access", 
     "source": "MAF-SMA"
   }, 
   {
@@ -6409,6 +6472,13 @@
     "source_id": 8, 
     "acronym_id": 913, 
     "expansion": "Hazardous Gas Detection System", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "HGLDS", 
+    "source_id": 8, 
+    "acronym_id": 2567, 
+    "expansion": "Hazardous GAs LEak Detection System", 
     "source": "MAF-SMA"
   }, 
   {
@@ -7042,6 +7112,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "ICPSU", 
+    "source_id": 8, 
+    "acronym_id": 2550, 
+    "expansion": "Interim Cryogenic Propulsion Stage Umbilical", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "ICV", 
     "source_id": 8, 
     "acronym_id": 952, 
@@ -7305,6 +7382,13 @@
     "source_id": 8, 
     "acronym_id": 969, 
     "expansion": "Interim", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "IOP/SS", 
+    "source_id": 8, 
+    "acronym_id": 2564, 
+    "expansion": "Ignition Over Pressure Sound Suppression", 
     "source": "MAF-SMA"
   }, 
   {
@@ -7900,6 +7984,20 @@
     "source_id": 8, 
     "acronym_id": 1002, 
     "expansion": "Kneel-Down Transporter", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "KEMCON", 
+    "source_id": 8, 
+    "acronym_id": 2559, 
+    "expansion": "KSC Environmental and Medical Contractor", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "KGCS", 
+    "source_id": 8, 
+    "acronym_id": 2571, 
+    "expansion": "Kennedy Ground Control System", 
     "source": "MAF-SMA"
   }, 
   {
@@ -12467,6 +12565,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "POL", 
+    "source_id": 8, 
+    "acronym_id": 2555, 
+    "expansion": "Petroleum, Oil and Lubricant", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "POST", 
     "source_id": 8, 
     "acronym_id": 1239, 
@@ -12926,6 +13031,20 @@
     "source_id": 8, 
     "acronym_id": 2416, 
     "expansion": "Privacy Threshold Analysis", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PTCR", 
+    "source_id": 8, 
+    "acronym_id": 2561, 
+    "expansion": "Pad Terminal Connection Room", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PTCR", 
+    "source_id": 8, 
+    "acronym_id": 2566, 
+    "expansion": "Pad Terminal Control Room", 
     "source": "MAF-SMA"
   }, 
   {
@@ -13626,6 +13745,13 @@
     "source_id": 8, 
     "acronym_id": 398, 
     "expansion": "Rate Gyro Assembly", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "RGLDS", 
+    "source_id": 8, 
+    "acronym_id": 2569, 
+    "expansion": "Remote Gas Leak Detection System", 
     "source": "MAF-SMA"
   }, 
   {
@@ -14945,6 +15071,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "SLAP", 
+    "source_id": 8, 
+    "acronym_id": 2557, 
+    "expansion": "Suspended Load Abatement Platform", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "SLC", 
     "source_id": 8, 
     "acronym_id": 2271, 
@@ -15862,6 +15995,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "TAA", 
+    "source_id": 8, 
+    "acronym_id": 2563, 
+    "expansion": "Temporary Area Access", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "TAC", 
     "source_id": 8, 
     "acronym_id": 1428, 
@@ -15922,6 +16062,13 @@
     "source_id": 8, 
     "acronym_id": 476, 
     "expansion": "To Be Determined", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "TBE", 
+    "source_id": 8, 
+    "acronym_id": 2562, 
+    "expansion": "To Be Escorted", 
     "source": "MAF-SMA"
   }, 
   {
@@ -16534,6 +16681,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "TSMU", 
+    "source_id": 8, 
+    "acronym_id": 2547, 
+    "expansion": "Tail Service Mast Umbilical", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "TSP", 
     "source_id": 8, 
     "acronym_id": 490, 
@@ -16639,6 +16793,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "TVDS", 
+    "source_id": 8, 
+    "acronym_id": 2560, 
+    "expansion": "Toxic Vapor Detection System", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "TWA", 
     "source_id": 8, 
     "acronym_id": 2307, 
@@ -16706,6 +16867,13 @@
     "source_id": 8, 
     "acronym_id": 496, 
     "expansion": "Undefinitized Contract Authorization", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "UCTS", 
+    "source_id": 8, 
+    "acronym_id": 2558, 
+    "expansion": "Universal Collant Transporter System (KSC)", 
     "source": "MAF-SMA"
   }, 
   {
@@ -17434,6 +17602,13 @@
     "source_id": 8, 
     "acronym_id": 1524, 
     "expansion": "Value Stream Management", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "VSP", 
+    "source_id": 8, 
+    "acronym_id": 2553, 
+    "expansion": "Vertical Support Post", 
     "source": "MAF-SMA"
   }, 
   {
