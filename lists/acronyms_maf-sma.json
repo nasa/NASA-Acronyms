@@ -10367,6 +10367,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "NACI", 
+    "source_id": 8, 
+    "acronym_id": 2573, 
+    "expansion": "National Agency Check With Inquiries", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "NADCAP", 
     "source_id": 8, 
     "acronym_id": 1132, 
@@ -10511,6 +10518,13 @@
     "source_id": 8, 
     "acronym_id": 1661, 
     "expansion": "North Carolina Foam Institute", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "NCI", 
+    "source_id": 8, 
+    "acronym_id": 2574, 
+    "expansion": "NASA Critical Infrastructure", 
     "source": "MAF-SMA"
   }, 
   {
@@ -10665,6 +10679,13 @@
     "source_id": 8, 
     "acronym_id": 2142, 
     "expansion": "National Fire Code", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "NFC", 
+    "source_id": 8, 
+    "acronym_id": 2576, 
+    "expansion": "(Requirement) Not Flowed (To) Component", 
     "source": "MAF-SMA"
   }, 
   {
@@ -11050,6 +11071,13 @@
     "source_id": 8, 
     "acronym_id": 318, 
     "expansion": "Non-Volatile Residue", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "NVR", 
+    "source_id": 8, 
+    "acronym_id": 2575, 
+    "expansion": "No Verification Required", 
     "source": "MAF-SMA"
   }, 
   {
