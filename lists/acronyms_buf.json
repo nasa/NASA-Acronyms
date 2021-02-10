@@ -483,6 +483,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "NOD", 
+    "source_id": 0, 
+    "acronym_id": 107, 
+    "expansion": "Nominal Operation Demonstration", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "OITM", 
     "source_id": 0, 
     "acronym_id": 97, 
