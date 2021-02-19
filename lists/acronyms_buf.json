@@ -1,5 +1,12 @@
 [
   {
+    "abbreviation": "AFOM", 
+    "source_id": 0, 
+    "acronym_id": 109, 
+    "expansion": "Assistant Facility Operations Manager", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "AI&T", 
     "source_id": 0, 
     "acronym_id": 5, 
@@ -256,6 +263,13 @@
     "source_id": 0, 
     "acronym_id": 100, 
     "expansion": "Flight Evaluation Task Team", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "FOM", 
+    "source_id": 0, 
+    "acronym_id": 108, 
+    "expansion": "Facility Operations Manager", 
     "source": "buffer"
   }, 
   {
