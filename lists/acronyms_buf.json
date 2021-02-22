@@ -651,6 +651,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "SBN", 
+    "source_id": 0, 
+    "acronym_id": 110, 
+    "expansion": "Software Bus Network", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "SIRF", 
     "source_id": 0, 
     "acronym_id": 63, 
