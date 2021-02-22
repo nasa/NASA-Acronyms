@@ -16359,6 +16359,20 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "TIR", 
+    "source_id": 8, 
+    "acronym_id": 2577, 
+    "expansion": "Temporary Installation and Removal (Planning Code)", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "TIR", 
+    "source_id": 8, 
+    "acronym_id": 2578, 
+    "expansion": "Total Indicator Reading (Metrology)", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "TIROS", 
     "source_id": 8, 
     "acronym_id": 1646, 
@@ -17686,6 +17700,13 @@
     "source_id": 8, 
     "acronym_id": 523, 
     "expansion": "Verification Working Group", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "VWI", 
+    "source_id": 8, 
+    "acronym_id": 2579, 
+    "expansion": "Visual Work Instructions (VACCO)", 
     "source": "MAF-SMA"
   }, 
   {
