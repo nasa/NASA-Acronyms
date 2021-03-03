@@ -175,6 +175,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "EOR", 
+    "source_id": 0, 
+    "acronym_id": 113, 
+    "expansion": "Escape Only Respirator", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "EPPL", 
     "source_id": 0, 
     "acronym_id": 81, 
