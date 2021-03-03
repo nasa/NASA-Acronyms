@@ -6433,6 +6433,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "HFE", 
+    "source_id": 8, 
+    "acronym_id": 2580, 
+    "expansion": "Hydrofluoroethers (Solvent)", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "HFF ", 
     "source_id": 8, 
     "acronym_id": 1744, 
@@ -7494,6 +7501,13 @@
     "source_id": 8, 
     "acronym_id": 207, 
     "expansion": "(From LCC Presentation, This Is Not a Constraint)", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "IPRACA", 
+    "source_id": 8, 
+    "acronym_id": 2584, 
+    "expansion": "Integrated Problem Resolution and Corrective Action System", 
     "source": "MAF-SMA"
   }, 
   {
@@ -12005,6 +12019,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "PCCB", 
+    "source_id": 8, 
+    "acronym_id": 2582, 
+    "expansion": "Program Configuration Control Board", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "PCD", 
     "source_id": 8, 
     "acronym_id": 347, 
@@ -12569,6 +12590,13 @@
     "source_id": 8, 
     "acronym_id": 1238, 
     "expansion": "Panel Operator 2", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "POADC", 
+    "source_id": 8, 
+    "acronym_id": 2581, 
+    "expansion": "<unknown> Ref: Installation Planning of Tanks", 
     "source": "MAF-SMA"
   }, 
   {
