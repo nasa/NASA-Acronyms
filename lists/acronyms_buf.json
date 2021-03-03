@@ -483,6 +483,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "MSEO", 
+    "source_id": 0, 
+    "acronym_id": 111, 
+    "expansion": "Mission Support Enterprise Organization", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "MSolo", 
     "source_id": 0, 
     "acronym_id": 76, 
