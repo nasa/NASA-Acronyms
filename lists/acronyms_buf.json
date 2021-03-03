@@ -462,6 +462,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "MIPs", 
+    "source_id": 0, 
+    "acronym_id": 112, 
+    "expansion": "Mandatory Inspection Points", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "MLI", 
     "source_id": 0, 
     "acronym_id": 34, 
