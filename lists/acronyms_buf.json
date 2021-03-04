@@ -588,6 +588,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "PDAC", 
+    "source_id": 0, 
+    "acronym_id": 115, 
+    "expansion": "Meaning: Propulsion Data Assessment Center", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "PDL", 
     "source_id": 0, 
     "acronym_id": 38, 
