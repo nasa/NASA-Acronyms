@@ -224,6 +224,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "EWR", 
+    "source_id": 0, 
+    "acronym_id": 118, 
+    "expansion": "Electronic Work Request", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "FC", 
     "source_id": 0, 
     "acronym_id": 98, 
