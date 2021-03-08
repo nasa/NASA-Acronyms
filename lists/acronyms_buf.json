@@ -364,6 +364,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "JASD", 
+    "source_id": 0, 
+    "acronym_id": 117, 
+    "expansion": "Joint Agency Satellite Division", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "LLS", 
     "source_id": 0, 
     "acronym_id": 80, 
