@@ -77,6 +77,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "CELA", 
+    "source_id": 0, 
+    "acronym_id": 120, 
+    "expansion": "Correlated Electromagnetic Levitation Actuator", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "COMET", 
     "source_id": 0, 
     "acronym_id": 114, 
@@ -228,6 +235,13 @@
     "source_id": 0, 
     "acronym_id": 118, 
     "expansion": "Electronic Work Request", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "EWRS", 
+    "source_id": 0, 
+    "acronym_id": 119, 
+    "expansion": "Electronic Work Request System", 
     "source": "buffer"
   }, 
   {
