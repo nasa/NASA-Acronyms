@@ -98,6 +98,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "CRMS", 
+    "source_id": 0, 
+    "acronym_id": 121, 
+    "expansion": "Central Radio Monitoring System", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "CS", 
     "source_id": 0, 
     "acronym_id": 74, 
