@@ -9534,9 +9534,16 @@
     "source": "Earthdata"
   }, 
   {
-    "abbreviation": "S-PDS", 
+    "abbreviation": "S-MODE", 
     "source_id": 6, 
     "acronym_id": 1373, 
+    "expansion": "Sub-Mesoscale Ocean Dynamics Experiment", 
+    "source": "Earthdata"
+  }, 
+  {
+    "abbreviation": "S-PDS", 
+    "source_id": 6, 
+    "acronym_id": 1374, 
     "expansion": "Session-Based Production Data Sets", 
     "source": "Earthdata"
   }, 
@@ -9550,2394 +9557,2394 @@
   {
     "abbreviation": "SABGOM", 
     "source_id": 6, 
-    "acronym_id": 1374, 
+    "acronym_id": 1375, 
     "expansion": "South Atlantic Bight and Gulf of Mexico", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SAC-D", 
     "source_id": 6, 
-    "acronym_id": 1375, 
+    "acronym_id": 1376, 
     "expansion": "Sat\u00e9lite De Aplicaciones Cient\u00edficas-D", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SAFARI", 
     "source_id": 6, 
-    "acronym_id": 1376, 
+    "acronym_id": 1377, 
     "expansion": "Southern African Regional Science Initiative", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SAFIRE", 
     "source_id": 6, 
-    "acronym_id": 1377, 
+    "acronym_id": 1378, 
     "expansion": "Spectroscopy of the Atmosphere Using Far Infrared Emission", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SAGE", 
     "source_id": 6, 
-    "acronym_id": 1378, 
+    "acronym_id": 1379, 
     "expansion": "Stratospheric Aerosol and Gas Experiment", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SAM", 
     "source_id": 6, 
-    "acronym_id": 1379, 
+    "acronym_id": 1380, 
     "expansion": "Stratospheric Aerosol Measurement", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SAMS", 
     "source_id": 6, 
-    "acronym_id": 1380, 
+    "acronym_id": 1381, 
     "expansion": "Stratospheric and Mesospheric Sounder", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SAP", 
     "source_id": 6, 
-    "acronym_id": 1381, 
+    "acronym_id": 1382, 
     "expansion": "Service Access Point", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SAPHIR", 
     "source_id": 6, 
-    "acronym_id": 1382, 
+    "acronym_id": 1383, 
     "expansion": "Sounder for Probing Vertical Profiles of Humidity", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SAR", 
     "source_id": 6, 
-    "acronym_id": 1383, 
+    "acronym_id": 1384, 
     "expansion": "Synthetic Aperture Radar", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SARSAT", 
     "source_id": 6, 
-    "acronym_id": 1384, 
+    "acronym_id": 1385, 
     "expansion": "SAR Satellite", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SAS-C", 
     "source_id": 6, 
-    "acronym_id": 1385, 
+    "acronym_id": 1386, 
     "expansion": "Scientific Applications Satellite - C", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SASS", 
     "source_id": 6, 
-    "acronym_id": 1386, 
+    "acronym_id": 1387, 
     "expansion": "Seasat-a Satellite Scatterometer System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SATC", 
     "source_id": 6, 
-    "acronym_id": 1387, 
+    "acronym_id": 1388, 
     "expansion": "Software Assurance Technology Center", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SAVE", 
     "source_id": 6, 
-    "acronym_id": 1388, 
+    "acronym_id": 1389, 
     "expansion": "Southern African Validation of EOS", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SAVI", 
     "source_id": 6, 
-    "acronym_id": 1389, 
+    "acronym_id": 1390, 
     "expansion": "Soil-Adjusted Vegetation Index", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SB-PDS", 
     "source_id": 6, 
-    "acronym_id": 1390, 
+    "acronym_id": 1391, 
     "expansion": "Session-Based Production Data Sets", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SBES", 
     "source_id": 6, 
-    "acronym_id": 1391, 
+    "acronym_id": 1392, 
     "expansion": "Singlebeam Echo Sounding", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SBUV", 
     "source_id": 6, 
-    "acronym_id": 1392, 
+    "acronym_id": 1393, 
     "expansion": "Solar Backscatter Ultraviolet", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SCA", 
     "source_id": 6, 
-    "acronym_id": 1393, 
+    "acronym_id": 1394, 
     "expansion": "Star Camera Assembly", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SCAN", 
     "source_id": 6, 
-    "acronym_id": 1396, 
+    "acronym_id": 1397, 
     "expansion": "Snow Climate Analysis Network", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SCANSAR", 
     "source_id": 6, 
-    "acronym_id": 1397, 
+    "acronym_id": 1398, 
     "expansion": "Scanning Synthetic Aperture Radar", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SCANSCAT", 
     "source_id": 6, 
-    "acronym_id": 1398, 
+    "acronym_id": 1399, 
     "expansion": "Scatterometer (Dual Pencil-Beam), Advanced Scatterometer for Studies in Meteorology and Oceanography", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SCAR-A", 
     "source_id": 6, 
-    "acronym_id": 1399, 
+    "acronym_id": 1400, 
     "expansion": "Smoke/Sulfates, Clouds and Radiation - America", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SCAR-B", 
     "source_id": 6, 
-    "acronym_id": 1400, 
+    "acronym_id": 1401, 
     "expansion": "Smoke/Sulfates, Clouds and Radiation - Brazil", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SCARAB", 
     "source_id": 6, 
-    "acronym_id": 1401, 
+    "acronym_id": 1402, 
     "expansion": "Scanner for the Radiation Budget", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SCF", 
     "source_id": 6, 
-    "acronym_id": 1402, 
+    "acronym_id": 1403, 
     "expansion": "Science Computing Facility", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SCIAMACHY", 
     "source_id": 6, 
-    "acronym_id": 1403, 
+    "acronym_id": 1404, 
     "expansion": "Scanning Imaging Absorption Spectrometer for Atmospheric Cartography", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SCP", 
     "source_id": 6, 
-    "acronym_id": 1404, 
+    "acronym_id": 1405, 
     "expansion": "Secure Copy", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SCUBA", 
     "source_id": 6, 
-    "acronym_id": 1405, 
+    "acronym_id": 1406, 
     "expansion": "Self Contained Underwater Breathing Apparatus", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SCaMPR", 
     "source_id": 6, 
-    "acronym_id": 1395, 
+    "acronym_id": 1396, 
     "expansion": "Self-Calibrating Multivariate Precipitation Retrieval", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SDAC", 
     "source_id": 6, 
-    "acronym_id": 1406, 
+    "acronym_id": 1407, 
     "expansion": "Satellite Data Analysis Center", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SDAT", 
     "source_id": 6, 
-    "acronym_id": 1407, 
+    "acronym_id": 1408, 
     "expansion": "Spatial Data Access Tool", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SDCS", 
     "source_id": 6, 
-    "acronym_id": 1408, 
+    "acronym_id": 1409, 
     "expansion": "SAR Data Catalog System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SDMP", 
     "source_id": 6, 
-    "acronym_id": 1409, 
+    "acronym_id": 1410, 
     "expansion": "Science Data Management Plan", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SDOC", 
     "source_id": 6, 
-    "acronym_id": 1410, 
+    "acronym_id": 1411, 
     "expansion": "Science Data Operations Center", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SDPF", 
     "source_id": 6, 
-    "acronym_id": 1411, 
+    "acronym_id": 1412, 
     "expansion": "Science Data Processing Facility", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SDPS", 
     "source_id": 6, 
-    "acronym_id": 1412, 
+    "acronym_id": 1413, 
     "expansion": "Science Data Processing Segment (ECS)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SDPS", 
     "source_id": 6, 
-    "acronym_id": 1413, 
+    "acronym_id": 1414, 
     "expansion": "Science Data Processing System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SDR", 
     "source_id": 6, 
-    "acronym_id": 1414, 
+    "acronym_id": 1415, 
     "expansion": "System Definition Review", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SDS", 
     "source_id": 6, 
-    "acronym_id": 1415, 
+    "acronym_id": 1416, 
     "expansion": "Science Data System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SDSC", 
     "source_id": 6, 
-    "acronym_id": 1416, 
+    "acronym_id": 1417, 
     "expansion": "San Diego Supercomputer Center", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SDSD", 
     "source_id": 6, 
-    "acronym_id": 1417, 
+    "acronym_id": 1418, 
     "expansion": "Satellite Data Services Division", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SE&I", 
     "source_id": 6, 
-    "acronym_id": 1418, 
+    "acronym_id": 1419, 
     "expansion": "System Engineering and Integration", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SE/RC", 
     "source_id": 6, 
-    "acronym_id": 1419, 
+    "acronym_id": 1420, 
     "expansion": "System Evolution/Release C (ECS)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SEASAR", 
     "source_id": 6, 
-    "acronym_id": 1422, 
+    "acronym_id": 1423, 
     "expansion": "Sea Synthetic Aperture Radar", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SEASAT", 
     "source_id": 6, 
-    "acronym_id": 1423, 
+    "acronym_id": 1424, 
     "expansion": "Sea Satellite", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SEASTAR", 
     "source_id": 6, 
-    "acronym_id": 1424, 
+    "acronym_id": 1425, 
     "expansion": "Spacecraft Flying SeaWiFS", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SEDAC", 
     "source_id": 6, 
-    "acronym_id": 1427, 
+    "acronym_id": 1428, 
     "expansion": "Socioeconomic Data and Applications Center", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SEE", 
     "source_id": 6, 
-    "acronym_id": 1428, 
+    "acronym_id": 1429, 
     "expansion": "Sustaining Engineering Facility (EDOS Component)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SEEDS", 
     "source_id": 6, 
-    "acronym_id": 1429, 
+    "acronym_id": 1430, 
     "expansion": "Strategic Evolution of ESE Data Systems (Formerly NewDISS)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SEF", 
     "source_id": 6, 
-    "acronym_id": 1430, 
+    "acronym_id": 1431, 
     "expansion": "Sustaining Engineering Facility (EDOS)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SELV", 
     "source_id": 6, 
-    "acronym_id": 1431, 
+    "acronym_id": 1432, 
     "expansion": "Small Expendable Launch Vehicle", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SEM", 
     "source_id": 6, 
-    "acronym_id": 1432, 
+    "acronym_id": 1433, 
     "expansion": "Space Environment Monitor", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SERF", 
     "source_id": 6, 
-    "acronym_id": 1433, 
+    "acronym_id": 1434, 
     "expansion": "Service Entry Resource Format", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SESDI", 
     "source_id": 6, 
-    "acronym_id": 1434, 
+    "acronym_id": 1435, 
     "expansion": "Semantically-Enabled Scientific Data Integration", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SESPD", 
     "source_id": 6, 
-    "acronym_id": 1435, 
+    "acronym_id": 1436, 
     "expansion": "Space and Earth Science Programs Directorate", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SEVIRI", 
     "source_id": 6, 
-    "acronym_id": 1436, 
+    "acronym_id": 1437, 
     "expansion": "Spinning Enhanced Visible and Infrared Imager (ESA)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SFE", 
     "source_id": 6, 
-    "acronym_id": 1437, 
+    "acronym_id": 1438, 
     "expansion": "Science Formatting Equipment (Terra AM-1)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SFSI", 
     "source_id": 6, 
-    "acronym_id": 1438, 
+    "acronym_id": 1439, 
     "expansion": "Shortwave-Infrared Full Spectrum Imager (Canada)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SFTP", 
     "source_id": 6, 
-    "acronym_id": 1439, 
+    "acronym_id": 1440, 
     "expansion": "Secure Shell File Transfer Protocol", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SGI", 
     "source_id": 6, 
-    "acronym_id": 1440, 
+    "acronym_id": 1441, 
     "expansion": "Silicon Graphics - Iris", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SGML", 
     "source_id": 6, 
-    "acronym_id": 1441, 
+    "acronym_id": 1442, 
     "expansion": "Standard Generalized Markup Language", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SGS", 
     "source_id": 6, 
-    "acronym_id": 1442, 
+    "acronym_id": 1443, 
     "expansion": "Svalbard Ground Station (Norway)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SHIPS", 
     "source_id": 6, 
-    "acronym_id": 1443, 
+    "acronym_id": 1444, 
     "expansion": "Statistical Hurricane Intensity Prediction Scheme", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SI", 
     "source_id": 6, 
-    "acronym_id": 1444, 
+    "acronym_id": 1445, 
     "expansion": "Spatial Information", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIASGE", 
     "source_id": 6, 
-    "acronym_id": 1445, 
+    "acronym_id": 1446, 
     "expansion": "Sistema Italo-Argentino De Sat\u00e9lites Protects Gesti\u00f3n De Emergencias", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIF", 
     "source_id": 6, 
-    "acronym_id": 1446, 
+    "acronym_id": 1447, 
     "expansion": "Solar-Induced Fluorescence", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIG", 
     "source_id": 6, 
-    "acronym_id": 1447, 
+    "acronym_id": 1448, 
     "expansion": "Special Interest Group", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIM", 
     "source_id": 6, 
-    "acronym_id": 1448, 
+    "acronym_id": 1449, 
     "expansion": "Spectral Irradiance Monitor", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIMBIOS", 
     "source_id": 6, 
-    "acronym_id": 1449, 
+    "acronym_id": 1450, 
     "expansion": "Sensor Intercomparison and Merger for Biological and Interdisciplinary Oceanic Studies", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIMIP", 
     "source_id": 6, 
-    "acronym_id": 1450, 
+    "acronym_id": 1451, 
     "expansion": "Sea Ice Model Intercomparison Project", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIMMS", 
     "source_id": 6, 
-    "acronym_id": 1451, 
+    "acronym_id": 1452, 
     "expansion": "Scalable Integrated Multi-Mission Simulator", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIN", 
     "source_id": 6, 
-    "acronym_id": 1452, 
+    "acronym_id": 1453, 
     "expansion": "Sinusoidal", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIP", 
     "source_id": 6, 
-    "acronym_id": 1453, 
+    "acronym_id": 1454, 
     "expansion": "Standard Internet Protocol", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIPS", 
     "source_id": 6, 
-    "acronym_id": 1454, 
+    "acronym_id": 1455, 
     "expansion": "Science Investigator-Led Processing System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIR", 
     "source_id": 6, 
-    "acronym_id": 1455, 
+    "acronym_id": 1456, 
     "expansion": "System Integration Review", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIR-C", 
     "source_id": 6, 
-    "acronym_id": 1456, 
+    "acronym_id": 1457, 
     "expansion": "Shuttle Imaging Radar-C", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIR-C/X-SAR", 
     "source_id": 6, 
-    "acronym_id": 1457, 
+    "acronym_id": 1458, 
     "expansion": "Spaceborne Imaging Radar-C/X-Band SAR", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIRS", 
     "source_id": 6, 
-    "acronym_id": 1458, 
+    "acronym_id": 1459, 
     "expansion": "Satellite Infrared Spectrometer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIS", 
     "source_id": 6, 
-    "acronym_id": 1459, 
+    "acronym_id": 1460, 
     "expansion": "Spatial Information System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SISS", 
     "source_id": 6, 
-    "acronym_id": 1460, 
+    "acronym_id": 1461, 
     "expansion": "Software Implementation Support System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIT", 
     "source_id": 6, 
-    "acronym_id": 1461, 
+    "acronym_id": 1462, 
     "expansion": "System Integration Test", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SIVY", 
     "source_id": 6, 
-    "acronym_id": 1462, 
+    "acronym_id": 1463, 
     "expansion": "Systems Integration and Visualization of Yellowstone", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SKS", 
     "source_id": 6, 
-    "acronym_id": 1463, 
+    "acronym_id": 1464, 
     "expansion": "Svalbard Kongsberg Ground Station", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SLA", 
     "source_id": 6, 
-    "acronym_id": 1464, 
+    "acronym_id": 1465, 
     "expansion": "Service Level Agreement", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SLAI", 
     "source_id": 6, 
-    "acronym_id": 1465, 
+    "acronym_id": 1466, 
     "expansion": "Sunlit Leaf Area Index", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SLAR", 
     "source_id": 6, 
-    "acronym_id": 1466, 
+    "acronym_id": 1467, 
     "expansion": "Side-Looking Airborne Radar", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SLC", 
     "source_id": 6, 
-    "acronym_id": 1468, 
+    "acronym_id": 1469, 
     "expansion": "Single Look Complex", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SLR", 
     "source_id": 6, 
-    "acronym_id": 1467, 
+    "acronym_id": 1468, 
     "expansion": "Satellite Laser Ranging", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SMAP", 
     "source_id": 6, 
-    "acronym_id": 1469, 
+    "acronym_id": 1470, 
     "expansion": "Soil Moisture Active Passive", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SMAPVEX", 
     "source_id": 6, 
-    "acronym_id": 1470, 
+    "acronym_id": 1471, 
     "expansion": "SMAP Validation Experiment", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SMC", 
     "source_id": 6, 
-    "acronym_id": 1471, 
+    "acronym_id": 1472, 
     "expansion": "System Management Center", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SMD", 
     "source_id": 6, 
-    "acronym_id": 1472, 
+    "acronym_id": 1473, 
     "expansion": "Science Mission Directorate", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SMIL", 
     "source_id": 6, 
-    "acronym_id": 1473, 
+    "acronym_id": 1474, 
     "expansion": "Synchronized Multimedia Integration Language", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SMM", 
     "source_id": 6, 
-    "acronym_id": 1474, 
+    "acronym_id": 1475, 
     "expansion": "Solar Maximum Mission", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SMMR", 
     "source_id": 6, 
-    "acronym_id": 1475, 
+    "acronym_id": 1476, 
     "expansion": "Scanning Multispectral Microwave Radiometer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SMOS", 
     "source_id": 6, 
-    "acronym_id": 1476, 
+    "acronym_id": 1477, 
     "expansion": "Soil Moisture and Ocean Salinity", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SMP", 
     "source_id": 6, 
-    "acronym_id": 1477, 
+    "acronym_id": 1478, 
     "expansion": "SnowMicroPen", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SMS", 
     "source_id": 6, 
-    "acronym_id": 1478, 
+    "acronym_id": 1479, 
     "expansion": "Synchronous Meteorological Satellite", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SMSR", 
     "source_id": 6, 
-    "acronym_id": 1479, 
+    "acronym_id": 1480, 
     "expansion": "Safety and Mission Success Review", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SMTP", 
     "source_id": 6, 
-    "acronym_id": 1480, 
+    "acronym_id": 1481, 
     "expansion": "Simple Mail Transport Protocol", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SN", 
     "source_id": 6, 
-    "acronym_id": 1481, 
+    "acronym_id": 1482, 
     "expansion": "Space Network", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SNMP", 
     "source_id": 6, 
-    "acronym_id": 1482, 
+    "acronym_id": 1483, 
     "expansion": "Simple Network Management Protocol", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SNOTEL", 
     "source_id": 6, 
-    "acronym_id": 1483, 
+    "acronym_id": 1484, 
     "expansion": "Snow Telemetry", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SNOW-I", 
     "source_id": 6, 
-    "acronym_id": 1484, 
+    "acronym_id": 1485, 
     "expansion": "Search 'N Order Web Interface", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SNR", 
     "source_id": 6, 
-    "acronym_id": 1487, 
+    "acronym_id": 1488, 
     "expansion": "Signal-to-Noise Ratio", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SNSB", 
     "source_id": 6, 
-    "acronym_id": 1488, 
+    "acronym_id": 1489, 
     "expansion": "Swedish National Space Board", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SNWG", 
     "source_id": 6, 
-    "acronym_id": 1486, 
+    "acronym_id": 1487, 
     "expansion": "Satellite Needs Working Group", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SOAR", 
     "source_id": 6, 
-    "acronym_id": 1489, 
+    "acronym_id": 1490, 
     "expansion": "Satellite Ocean Aerosol Retrieval", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SOCC", 
     "source_id": 6, 
-    "acronym_id": 1491, 
+    "acronym_id": 1492, 
     "expansion": "Science Operations Control Center", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SOLSPEC", 
     "source_id": 6, 
-    "acronym_id": 1492, 
+    "acronym_id": 1493, 
     "expansion": "Solar Spectrum (Space Shuttle Instrument From Europe)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SOLSTICE", 
     "source_id": 6, 
-    "acronym_id": 1493, 
+    "acronym_id": 1494, 
     "expansion": "Solar Stellar Irradiance Comparison Experiment", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SOM", 
     "source_id": 6, 
-    "acronym_id": 1494, 
+    "acronym_id": 1495, 
     "expansion": "Space Oblique Mercator (Projection); Spatial Object Manager", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SONAR", 
     "source_id": 6, 
-    "acronym_id": 1495, 
+    "acronym_id": 1496, 
     "expansion": "Sound Navigation and Ranging", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SONET", 
     "source_id": 6, 
-    "acronym_id": 1496, 
+    "acronym_id": 1497, 
     "expansion": "Synchronous Optical Network", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SOP", 
     "source_id": 6, 
-    "acronym_id": 1497, 
+    "acronym_id": 1498, 
     "expansion": "Standard Operating Procedure", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SORCE", 
     "source_id": 6, 
-    "acronym_id": 1498, 
+    "acronym_id": 1499, 
     "expansion": "Solar Radiation and Climate Experiment", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SOW", 
     "source_id": 6, 
-    "acronym_id": 1500, 
+    "acronym_id": 1501, 
     "expansion": "Statement of Work", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SOX", 
     "source_id": 6, 
-    "acronym_id": 1499, 
+    "acronym_id": 1500, 
     "expansion": "Southern Crossroads", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SPANS", 
     "source_id": 6, 
-    "acronym_id": 1501, 
+    "acronym_id": 1502, 
     "expansion": "Simple Protocol for Asynchronous Transfer Mode Network Signaling", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SPDB", 
     "source_id": 6, 
-    "acronym_id": 1502, 
+    "acronym_id": 1503, 
     "expansion": "Science Processing Database", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SPEX", 
     "source_id": 6, 
-    "acronym_id": 1503, 
+    "acronym_id": 1504, 
     "expansion": "Spectral Polarimeter for Planetary Explorations", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SPIE", 
     "source_id": 6, 
-    "acronym_id": 1504, 
+    "acronym_id": 1505, 
     "expansion": "Society of Photo-Optical Instrumentation Engineers", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SPIN-2", 
     "source_id": 6, 
-    "acronym_id": 1505, 
+    "acronym_id": 1506, 
     "expansion": "Space Information-2 Meter Data (Russian Space Agency)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SPOT", 
     "source_id": 6, 
-    "acronym_id": 1506, 
+    "acronym_id": 1507, 
     "expansion": "Systeme Pour l'Observation De La Terre", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SPS", 
     "source_id": 6, 
-    "acronym_id": 1508, 
+    "acronym_id": 1509, 
     "expansion": "Science Processing System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SPURS", 
     "source_id": 6, 
-    "acronym_id": 1509, 
+    "acronym_id": 1510, 
     "expansion": "Salinity Processes in the Upper Ocean Regional Study", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SPoRT", 
     "source_id": 6, 
-    "acronym_id": 1507, 
+    "acronym_id": 1508, 
     "expansion": "Short-Term Prediction Research and Transition Center", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SRB", 
     "source_id": 6, 
-    "acronym_id": 1510, 
+    "acronym_id": 1511, 
     "expansion": "Surface Radiation Budget", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SRL", 
     "source_id": 6, 
-    "acronym_id": 1511, 
+    "acronym_id": 1512, 
     "expansion": "Shuttle Research Laboratory", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SROM", 
     "source_id": 6, 
-    "acronym_id": 1512, 
+    "acronym_id": 1513, 
     "expansion": "Spectro-Radiometer for Ocean Monitoring", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SRR", 
     "source_id": 6, 
-    "acronym_id": 1513, 
+    "acronym_id": 1514, 
     "expansion": "System Requirements Review", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SRS/GPS", 
     "source_id": 6, 
-    "acronym_id": 1514, 
+    "acronym_id": 1515, 
     "expansion": "Stellar Reference System/Global Positioning System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SRTM", 
     "source_id": 6, 
-    "acronym_id": 1515, 
+    "acronym_id": 1516, 
     "expansion": "Shuttle Radar Topology Mission", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSA", 
     "source_id": 6, 
-    "acronym_id": 1516, 
+    "acronym_id": 1517, 
     "expansion": "Southern Study Area", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSALT", 
     "source_id": 6, 
-    "acronym_id": 1517, 
+    "acronym_id": 1518, 
     "expansion": "Solid-State Altimeter", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSB", 
     "source_id": 6, 
-    "acronym_id": 1518, 
+    "acronym_id": 1519, 
     "expansion": "Space Studies Board", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSBUV", 
     "source_id": 6, 
-    "acronym_id": 1519, 
+    "acronym_id": 1520, 
     "expansion": "Shuttle Solar Backscatter Ultraviolet", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSC", 
     "source_id": 6, 
-    "acronym_id": 1520, 
+    "acronym_id": 1521, 
     "expansion": "Stennis Space Center", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSE", 
     "source_id": 6, 
-    "acronym_id": 1521, 
+    "acronym_id": 1522, 
     "expansion": "Surface Solar Energy", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSEC", 
     "source_id": 6, 
-    "acronym_id": 1522, 
+    "acronym_id": 1523, 
     "expansion": "Space Science and Engineering Center (University of Wisconsin)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSH", 
     "source_id": 6, 
-    "acronym_id": 1523, 
+    "acronym_id": 1524, 
     "expansion": "Sea Surface Height", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSHA", 
     "source_id": 6, 
-    "acronym_id": 1524, 
+    "acronym_id": 1525, 
     "expansion": "Sea Surface Height Anomalies", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSI&T", 
     "source_id": 6, 
-    "acronym_id": 1525, 
+    "acronym_id": 1526, 
     "expansion": "Science Software Integration and Test", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSL", 
     "source_id": 6, 
-    "acronym_id": 1526, 
+    "acronym_id": 1527, 
     "expansion": "Secure Sockets Layer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSM/I", 
     "source_id": 6, 
-    "acronym_id": 1527, 
+    "acronym_id": 1528, 
     "expansion": "Special Sensor Microwave/Imager", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSM/T", 
     "source_id": 6, 
-    "acronym_id": 1528, 
+    "acronym_id": 1529, 
     "expansion": "Special Sensor Microwave/Temperature Sounder", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSMIS", 
     "source_id": 6, 
-    "acronym_id": 1529, 
+    "acronym_id": 1530, 
     "expansion": "Special Sensor Microwave Imager Sounder", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSO", 
     "source_id": 6, 
-    "acronym_id": 1530, 
+    "acronym_id": 1531, 
     "expansion": "Single Sign-On", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSP", 
     "source_id": 6, 
-    "acronym_id": 1531, 
+    "acronym_id": 1532, 
     "expansion": "Shared Socioeconomic Pathways", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSS", 
     "source_id": 6, 
-    "acronym_id": 1532, 
+    "acronym_id": 1533, 
     "expansion": "Sea Surface Salinity", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SST", 
     "source_id": 6, 
-    "acronym_id": 1533, 
+    "acronym_id": 1534, 
     "expansion": "Sea Surface Temperature", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SSU", 
     "source_id": 6, 
-    "acronym_id": 1534, 
+    "acronym_id": 1535, 
     "expansion": "Stratospheric Sounding Unit", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "STA", 
     "source_id": 6, 
-    "acronym_id": 1535, 
+    "acronym_id": 1536, 
     "expansion": "Science and Technology Agency", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "STA3CD", 
     "source_id": 6, 
-    "acronym_id": 1536, 
+    "acronym_id": 1537, 
     "expansion": "Subsetting Tools for Advanced Analysis of Airborne Chemistry Data", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "STARE", 
     "source_id": 6, 
-    "acronym_id": 1537, 
+    "acronym_id": 1538, 
     "expansion": "SpatioTemporal Adaptive-Resolution Encoding to Unify Diverse Earth Science Data for Integrative Analysis", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "STDM", 
     "source_id": 6, 
-    "acronym_id": 1538, 
+    "acronym_id": 1539, 
     "expansion": "Spacecraft Tracking and Data Network", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "STGT", 
     "source_id": 6, 
-    "acronym_id": 1539, 
+    "acronym_id": 1540, 
     "expansion": "Second TDRSS Ground Terminal", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "STIKSCAT", 
     "source_id": 6, 
-    "acronym_id": 1540, 
+    "acronym_id": 1541, 
     "expansion": "Stick Scatterometer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "STILT", 
     "source_id": 6, 
-    "acronym_id": 1541, 
+    "acronym_id": 1542, 
     "expansion": "Stochastic Time-Inverted Lagrangian Transport", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "STS", 
     "source_id": 6, 
-    "acronym_id": 1542, 
+    "acronym_id": 1543, 
     "expansion": "Space Transport System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SUCCESS", 
     "source_id": 6, 
-    "acronym_id": 1543, 
+    "acronym_id": 1544, 
     "expansion": "SUbsonic Aircraft Contrail and Clouds Effects Special Study", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SUDS", 
     "source_id": 6, 
-    "acronym_id": 1544, 
+    "acronym_id": 1545, 
     "expansion": "Science, User and Data Services", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SW", 
     "source_id": 6, 
-    "acronym_id": 1546, 
+    "acronym_id": 1547, 
     "expansion": "Shortwave Radiation", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SWBD", 
     "source_id": 6, 
-    "acronym_id": 1547, 
+    "acronym_id": 1548, 
     "expansion": "Shuttle Radar Topography Mission (SRTM) Water Body Dataset", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SWE", 
     "source_id": 6, 
-    "acronym_id": 1548, 
+    "acronym_id": 1549, 
     "expansion": "Snow Water Equivalent", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SWG", 
     "source_id": 6, 
-    "acronym_id": 1549, 
+    "acronym_id": 1550, 
     "expansion": "Science Working Group", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SWIR", 
     "source_id": 6, 
-    "acronym_id": 1550, 
+    "acronym_id": 1551, 
     "expansion": "Shortwave Infrared (TM5 and TM7 Spectral Region)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SWIRLS", 
     "source_id": 6, 
-    "acronym_id": 1551, 
+    "acronym_id": 1552, 
     "expansion": "Stratospheric Wind Infrared Limb Sounder", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SWOT", 
     "source_id": 6, 
-    "acronym_id": 1552, 
+    "acronym_id": 1553, 
     "expansion": "Surface Water Ocean Topography", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "ScaLARS", 
     "source_id": 6, 
-    "acronym_id": 1394, 
+    "acronym_id": 1395, 
     "expansion": "Scanning Laser Altitude and Reflectance Sensor (Germany)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SeaDAS", 
     "source_id": 6, 
-    "acronym_id": 1420, 
+    "acronym_id": 1421, 
     "expansion": "SeaWiFS Data Analysis System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SeaPAC", 
     "source_id": 6, 
-    "acronym_id": 1421, 
+    "acronym_id": 1422, 
     "expansion": "SeaWinds Project (JPL)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SeaWiFS", 
     "source_id": 6, 
-    "acronym_id": 1425, 
+    "acronym_id": 1426, 
     "expansion": "Sea-Viewing Wide-Field Sensor", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SeaWinds", 
     "source_id": 6, 
-    "acronym_id": 1426, 
+    "acronym_id": 1427, 
     "expansion": "Seawinds Scatterometer (For Flight on ADEOS II)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SnowEx", 
     "source_id": 6, 
-    "acronym_id": 1485, 
+    "acronym_id": 1486, 
     "expansion": "Snow Experiment", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "SoCAB", 
     "source_id": 6, 
-    "acronym_id": 1490, 
+    "acronym_id": 1491, 
     "expansion": "South Coast Air Basin", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "Suomi NPP", 
     "source_id": 6, 
-    "acronym_id": 1545, 
+    "acronym_id": 1546, 
     "expansion": "Suomi National Polar-Orbiting Partnership", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "T&C", 
     "source_id": 6, 
-    "acronym_id": 1553, 
+    "acronym_id": 1554, 
     "expansion": "Telemetry and Command", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TARFOX", 
     "source_id": 6, 
-    "acronym_id": 1555, 
+    "acronym_id": 1556, 
     "expansion": "Tropospheric Aerosol Radiative Forcing Observational Experiment", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TB", 
     "source_id": 6, 
-    "acronym_id": 1556, 
+    "acronym_id": 1557, 
     "expansion": "Terabyte (1012)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TBD", 
     "source_id": 6, 
-    "acronym_id": 1557, 
+    "acronym_id": 1558, 
     "expansion": "To Be Determined", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TBM", 
     "source_id": 6, 
-    "acronym_id": 1558, 
+    "acronym_id": 1559, 
     "expansion": "Terrestrial Biosphere Model", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TCI", 
     "source_id": 6, 
-    "acronym_id": 1559, 
+    "acronym_id": 1560, 
     "expansion": "Tropical Cyclone Intensity", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TCP/IP", 
     "source_id": 6, 
-    "acronym_id": 1560, 
+    "acronym_id": 1561, 
     "expansion": "Transmission Control Protocol/Internet Protocol", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TCSP", 
     "source_id": 6, 
-    "acronym_id": 1561, 
+    "acronym_id": 1562, 
     "expansion": "Tropical Cloud Systems and Processes", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TDOPF", 
     "source_id": 6, 
-    "acronym_id": 1562, 
+    "acronym_id": 1563, 
     "expansion": "Time Dependent Operational Parameter Fire", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TDRS", 
     "source_id": 6, 
-    "acronym_id": 1563, 
+    "acronym_id": 1564, 
     "expansion": "Tracking and Data Relay Satellite", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TDRSS", 
     "source_id": 6, 
-    "acronym_id": 1564, 
+    "acronym_id": 1565, 
     "expansion": "Tracking and Data Relay Satellite System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TDX", 
     "source_id": 6, 
-    "acronym_id": 1565, 
+    "acronym_id": 1566, 
     "expansion": "TanDEM-X", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TEDA", 
     "source_id": 6, 
-    "acronym_id": 1566, 
+    "acronym_id": 1567, 
     "expansion": "Technical Data Acquisition Equipment (ADEOS)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TERS", 
     "source_id": 6, 
-    "acronym_id": 1567, 
+    "acronym_id": 1568, 
     "expansion": "Tropical Earth Resources Satellite", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TES", 
     "source_id": 6, 
-    "acronym_id": 1568, 
+    "acronym_id": 1569, 
     "expansion": "Tropospheric Emission Spectrometer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TGD", 
     "source_id": 6, 
-    "acronym_id": 1569, 
+    "acronym_id": 1570, 
     "expansion": "Thermal Infrared", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TGDDIS", 
     "source_id": 6, 
-    "acronym_id": 1570, 
+    "acronym_id": 1571, 
     "expansion": "Trace Gas Dynamics Data Information System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "THIR", 
     "source_id": 6, 
-    "acronym_id": 1571, 
+    "acronym_id": 1572, 
     "expansion": "Temperature-Humidity Infrared Radiometer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "THORpex", 
     "source_id": 6, 
-    "acronym_id": 1572, 
+    "acronym_id": 1573, 
     "expansion": "The Observing-System Research and Predictability Experiment", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "THREDDS", 
     "source_id": 6, 
-    "acronym_id": 1573, 
+    "acronym_id": 1574, 
     "expansion": "THematic Realtime Environmental Distributed Data Services", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TIGER", 
     "source_id": 6, 
-    "acronym_id": 1574, 
+    "acronym_id": 1575, 
     "expansion": "Thermal Infrared Ground Emission Radiometer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TIM", 
     "source_id": 6, 
-    "acronym_id": 1575, 
+    "acronym_id": 1576, 
     "expansion": "TRMM Microwave Imager", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TIMS", 
     "source_id": 6, 
-    "acronym_id": 1576, 
+    "acronym_id": 1577, 
     "expansion": "Therms Infrared Multispectral Scanner", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TIN", 
     "source_id": 6, 
-    "acronym_id": 1577, 
+    "acronym_id": 1578, 
     "expansion": "Triangular Irregular Network", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TIR", 
     "source_id": 6, 
-    "acronym_id": 1578, 
+    "acronym_id": 1579, 
     "expansion": "Thermal Infrared", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TIROS", 
     "source_id": 6, 
-    "acronym_id": 1579, 
+    "acronym_id": 1580, 
     "expansion": "Television and Infrared Operational Satellite", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TIRS", 
     "source_id": 6, 
-    "acronym_id": 1580, 
+    "acronym_id": 1581, 
     "expansion": "Thermal Infrared Sensor", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TIS", 
     "source_id": 6, 
-    "acronym_id": 1581, 
+    "acronym_id": 1582, 
     "expansion": "Topographic Information Systems", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TISF", 
     "source_id": 6, 
-    "acronym_id": 1582, 
+    "acronym_id": 1583, 
     "expansion": "Tape Inventory Sequential Files", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TLS", 
     "source_id": 6, 
-    "acronym_id": 1583, 
+    "acronym_id": 1584, 
     "expansion": "Terrestrial Laser Scanning", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TLSCF", 
     "source_id": 6, 
-    "acronym_id": 1584, 
+    "acronym_id": 1585, 
     "expansion": "Team Led Science Computing Facility", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TM", 
     "source_id": 6, 
-    "acronym_id": 1585, 
+    "acronym_id": 1586, 
     "expansion": "Thematic Mapper (Landsat 5)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TMI", 
     "source_id": 6, 
-    "acronym_id": 1586, 
+    "acronym_id": 1587, 
     "expansion": "TRMM Microwave Instrument (Japan)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TMPA", 
     "source_id": 6, 
-    "acronym_id": 1587, 
+    "acronym_id": 1588, 
     "expansion": "TRMM Multi-Satellite Precipitation Analysis", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TMR", 
     "source_id": 6, 
-    "acronym_id": 1588, 
+    "acronym_id": 1589, 
     "expansion": "TOPEX Microwave Radiometer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TOA", 
     "source_id": 6, 
-    "acronym_id": 1589, 
+    "acronym_id": 1590, 
     "expansion": "Top-of-Atmosphere", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TOAST", 
     "source_id": 6, 
-    "acronym_id": 1590, 
+    "acronym_id": 1591, 
     "expansion": "Total Ozone Analysis Using SBUV/2 and TOVS", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TOGA", 
     "source_id": 6, 
-    "acronym_id": 1592, 
+    "acronym_id": 1593, 
     "expansion": "Tropical Ocean Global Atmosphere", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TOMS", 
     "source_id": 6, 
-    "acronym_id": 1594, 
+    "acronym_id": 1595, 
     "expansion": "Total Ozone Mapping Spectrometer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TOPEX", 
     "source_id": 6, 
-    "acronym_id": 1595, 
+    "acronym_id": 1596, 
     "expansion": "Ocean Topography Experiment", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TOPSAR", 
     "source_id": 6, 
-    "acronym_id": 1596, 
+    "acronym_id": 1597, 
     "expansion": "Topographic Synthetic Aperture Radar", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TOVS", 
     "source_id": 6, 
-    "acronym_id": 1597, 
+    "acronym_id": 1598, 
     "expansion": "TIROS Operational Vertical Sounder", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TRACER", 
     "source_id": 6, 
-    "acronym_id": 1598, 
+    "acronym_id": 1599, 
     "expansion": "Tropospheric Radiometer for Atmospheric Chemistry and Environmental Research", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TRMM", 
     "source_id": 6, 
-    "acronym_id": 1599, 
+    "acronym_id": 1600, 
     "expansion": "Tropical Rainfall Measuring Mission", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TROPICS", 
     "source_id": 6, 
-    "acronym_id": 1600, 
+    "acronym_id": 1601, 
     "expansion": "Time-Resolved Observations of Precipitation Structure and Storm Intensity With a Constellation of Smallsats", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TROPOMI", 
     "source_id": 6, 
-    "acronym_id": 1601, 
+    "acronym_id": 1602, 
     "expansion": "TROPOspheric Monitoring Instrument", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TRUST", 
     "source_id": 6, 
-    "acronym_id": 1602, 
+    "acronym_id": 1603, 
     "expansion": "TDRSS Resource User Support Terminal", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TSAVI", 
     "source_id": 6, 
-    "acronym_id": 1603, 
+    "acronym_id": 1604, 
     "expansion": "Transformed Soil Adjusted Vegetation Index", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TSDIS", 
     "source_id": 6, 
-    "acronym_id": 1604, 
+    "acronym_id": 1605, 
     "expansion": "TRMM Science Data and Information System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TSIS", 
     "source_id": 6, 
-    "acronym_id": 1605, 
+    "acronym_id": 1606, 
     "expansion": "Total and Spectral Solar Irradiance Sensor", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TSS", 
     "source_id": 6, 
-    "acronym_id": 1606, 
+    "acronym_id": 1607, 
     "expansion": "TRMM Support System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TSTOL", 
     "source_id": 6, 
-    "acronym_id": 1607, 
+    "acronym_id": 1608, 
     "expansion": "TRMM System Test and Operations Language", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TSU", 
     "source_id": 6, 
-    "acronym_id": 1608, 
+    "acronym_id": 1609, 
     "expansion": "TRMM Science User", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TSX", 
     "source_id": 6, 
-    "acronym_id": 1609, 
+    "acronym_id": 1610, 
     "expansion": "TerraSAR-X", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TT&C", 
     "source_id": 6, 
-    "acronym_id": 1554, 
+    "acronym_id": 1555, 
     "expansion": "Tracking, Telemetry and Command", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TURFTS", 
     "source_id": 6, 
-    "acronym_id": 1610, 
+    "acronym_id": 1611, 
     "expansion": "TDRSS User Radio Frequency Test Set", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TWMS", 
     "source_id": 6, 
-    "acronym_id": 1611, 
+    "acronym_id": 1612, 
     "expansion": "Tiled Web Map Service", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "ToF", 
     "source_id": 6, 
-    "acronym_id": 1591, 
+    "acronym_id": 1592, 
     "expansion": "Time of Flight", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "TomoSAR", 
     "source_id": 6, 
-    "acronym_id": 1593, 
+    "acronym_id": 1594, 
     "expansion": "Tomography SAR", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UAF", 
     "source_id": 6, 
-    "acronym_id": 1612, 
+    "acronym_id": 1613, 
     "expansion": "University of Alaska-Fairbanks", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UARP", 
     "source_id": 6, 
-    "acronym_id": 1613, 
+    "acronym_id": 1614, 
     "expansion": "Upper Atmosphere Research Program", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UARS", 
     "source_id": 6, 
-    "acronym_id": 1614, 
+    "acronym_id": 1615, 
     "expansion": "Upper Atmosphere Research Satellite", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UAT", 
     "source_id": 6, 
-    "acronym_id": 1615, 
+    "acronym_id": 1616, 
     "expansion": "User Acceptance Testing", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UAV", 
     "source_id": 6, 
-    "acronym_id": 1616, 
+    "acronym_id": 1617, 
     "expansion": "Uninhabited Aerial Vehicle", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UCAR", 
     "source_id": 6, 
-    "acronym_id": 1617, 
+    "acronym_id": 1618, 
     "expansion": "University Corporation for Atmospheric Research", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UCL", 
     "source_id": 6, 
-    "acronym_id": 1618, 
+    "acronym_id": 1619, 
     "expansion": "University College, London", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UDP/IP", 
     "source_id": 6, 
-    "acronym_id": 1619, 
+    "acronym_id": 1620, 
     "expansion": "User Datagram Protocol/Internet Protocol", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UHF", 
     "source_id": 6, 
-    "acronym_id": 1620, 
+    "acronym_id": 1621, 
     "expansion": "Ultra High Frequency", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UIUC", 
     "source_id": 6, 
-    "acronym_id": 1621, 
+    "acronym_id": 1622, 
     "expansion": "University of Illinois at Urbana-Champaign", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UMBC", 
     "source_id": 6, 
-    "acronym_id": 1623, 
+    "acronym_id": 1624, 
     "expansion": "University of Maryland, Baltimore County", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UMM", 
     "source_id": 6, 
-    "acronym_id": 1624, 
+    "acronym_id": 1625, 
     "expansion": "Unified Metadata Model", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UNOOSA", 
     "source_id": 6, 
-    "acronym_id": 1625, 
+    "acronym_id": 1626, 
     "expansion": "United Nations Office of Outer Space Affairs", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "URI", 
     "source_id": 6, 
-    "acronym_id": 1626, 
+    "acronym_id": 1627, 
     "expansion": "Uniform Resource Identifier", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "URL", 
     "source_id": 6, 
-    "acronym_id": 1627, 
+    "acronym_id": 1628, 
     "expansion": "Uniform Resource Locator", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "URS", 
     "source_id": 6, 
-    "acronym_id": 1628, 
+    "acronym_id": 1629, 
     "expansion": "User Registration System (EOSDIS)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "USGCRP", 
     "source_id": 6, 
-    "acronym_id": 1630, 
+    "acronym_id": 1631, 
     "expansion": "United States Global Change Research Program", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "USNO", 
     "source_id": 6, 
-    "acronym_id": 1631, 
+    "acronym_id": 1632, 
     "expansion": "United States Naval Observatory", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "USNVC", 
     "source_id": 6, 
-    "acronym_id": 1632, 
+    "acronym_id": 1633, 
     "expansion": "United States National Vegetation Classification", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "USO", 
     "source_id": 6, 
-    "acronym_id": 1633, 
+    "acronym_id": 1634, 
     "expansion": "Ultra-Stable Oscillator", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "USV", 
     "source_id": 6, 
-    "acronym_id": 1634, 
+    "acronym_id": 1635, 
     "expansion": "Uninhabited Surface Vehicle", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UTC", 
     "source_id": 6, 
-    "acronym_id": 1635, 
+    "acronym_id": 1636, 
     "expansion": "Universal Time, Coordinated", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UTCF", 
     "source_id": 6, 
-    "acronym_id": 1636, 
+    "acronym_id": 1637, 
     "expansion": "Universal Time Correlation Factor", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UTDF", 
     "source_id": 6, 
-    "acronym_id": 1637, 
+    "acronym_id": 1638, 
     "expansion": "Universal Tracking Data Format", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UTM", 
     "source_id": 6, 
-    "acronym_id": 1638, 
+    "acronym_id": 1639, 
     "expansion": "Universal Transverse Mercator", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UV", 
     "source_id": 6, 
-    "acronym_id": 1639, 
+    "acronym_id": 1640, 
     "expansion": "Ultraviolet", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UWG", 
     "source_id": 6, 
-    "acronym_id": 1640, 
+    "acronym_id": 1641, 
     "expansion": "User Working Group", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UWIREMIS", 
     "source_id": 6, 
-    "acronym_id": 1641, 
+    "acronym_id": 1642, 
     "expansion": "University of Wisconsin-Madison MODIS Infrared Emissivity", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "UserDIS", 
     "source_id": 6, 
-    "acronym_id": 1629, 
+    "acronym_id": 1630, 
     "expansion": "User Data Information System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "V0", 
     "source_id": 6, 
-    "acronym_id": 1642, 
+    "acronym_id": 1643, 
     "expansion": "Version 0", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VAS", 
     "source_id": 6, 
-    "acronym_id": 1643, 
+    "acronym_id": 1644, 
     "expansion": "VISSR Atmospheric Sounder", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VATC", 
     "source_id": 6, 
-    "acronym_id": 1644, 
+    "acronym_id": 1645, 
     "expansion": "Verification and Acceptance Testing Center", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VCF", 
     "source_id": 6, 
-    "acronym_id": 1645, 
+    "acronym_id": 1646, 
     "expansion": "Vegetation Continuous Fields", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VCL", 
     "source_id": 6, 
-    "acronym_id": 1646, 
+    "acronym_id": 1647, 
     "expansion": "Vegetation Canopy LIDAR", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VD", 
     "source_id": 6, 
-    "acronym_id": 1647, 
+    "acronym_id": 1648, 
     "expansion": "Village Directory", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VESDR", 
     "source_id": 6, 
-    "acronym_id": 1648, 
+    "acronym_id": 1649, 
     "expansion": "Vegetation Earth System Data Record", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VGT", 
     "source_id": 6, 
-    "acronym_id": 1649, 
+    "acronym_id": 1650, 
     "expansion": "SPOT-4 VEGETATION Instrument (France)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VHRPC", 
     "source_id": 6, 
-    "acronym_id": 1650, 
+    "acronym_id": 1651, 
     "expansion": "Very High Resolution Panchromatic Camera", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VHRR", 
     "source_id": 6, 
-    "acronym_id": 1651, 
+    "acronym_id": 1652, 
     "expansion": "Very High Resolution Radiometer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VI", 
     "source_id": 6, 
-    "acronym_id": 1652, 
+    "acronym_id": 1653, 
     "expansion": "Vegetation Index", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VID", 
     "source_id": 6, 
-    "acronym_id": 1653, 
+    "acronym_id": 1654, 
     "expansion": "Vegetation Index Differencing", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VIIRS", 
     "source_id": 6, 
-    "acronym_id": 1654, 
+    "acronym_id": 1655, 
     "expansion": "Visible Infrared Imaging Radiometer Suite", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VIP", 
     "source_id": 6, 
-    "acronym_id": 1655, 
+    "acronym_id": 1656, 
     "expansion": "Vegetation Index and Phenology", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VIRGO", 
     "source_id": 6, 
-    "acronym_id": 1656, 
+    "acronym_id": 1657, 
     "expansion": "Variability of Solar Irradiance and Gravity Oscillations", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VIRR", 
     "source_id": 6, 
-    "acronym_id": 1657, 
+    "acronym_id": 1658, 
     "expansion": "Visible and Infrared Radiometer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VIRS", 
     "source_id": 6, 
-    "acronym_id": 1658, 
+    "acronym_id": 1659, 
     "expansion": "Visible Infrared Scanner", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VIRSR", 
     "source_id": 6, 
-    "acronym_id": 1659, 
+    "acronym_id": 1660, 
     "expansion": "Visible Infrared Scanning Radiometer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VIS", 
     "source_id": 6, 
-    "acronym_id": 1660, 
+    "acronym_id": 1661, 
     "expansion": "Visible (Spectral Region)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VIS-UV", 
     "source_id": 6, 
-    "acronym_id": 1661, 
+    "acronym_id": 1662, 
     "expansion": "Visible/Ultraviolet Spectrometer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VIS/IR", 
     "source_id": 6, 
-    "acronym_id": 1662, 
+    "acronym_id": 1663, 
     "expansion": "Visible/Infrared", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VISSR", 
     "source_id": 6, 
-    "acronym_id": 1663, 
+    "acronym_id": 1664, 
     "expansion": "Visible/Infrared Spin-Scan Radiometer (GOES)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VML", 
     "source_id": 6, 
-    "acronym_id": 1664, 
+    "acronym_id": 1665, 
     "expansion": "Vector Markup Language", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VMM", 
     "source_id": 6, 
-    "acronym_id": 1665, 
+    "acronym_id": 1666, 
     "expansion": "VISSR Multiplexor/Modulator", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VNIR", 
     "source_id": 6, 
-    "acronym_id": 1666, 
+    "acronym_id": 1667, 
     "expansion": "Visible and Near-Infrared (Spectral Region)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VOCs", 
     "source_id": 6, 
-    "acronym_id": 1667, 
+    "acronym_id": 1668, 
     "expansion": "Volatile Organic Compounds", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VOLCAM", 
     "source_id": 6, 
-    "acronym_id": 1668, 
+    "acronym_id": 1669, 
     "expansion": "Volcanic Ash Mission", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VPN", 
     "source_id": 6, 
-    "acronym_id": 1669, 
+    "acronym_id": 1670, 
     "expansion": "Virtual Private Network", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VRM", 
     "source_id": 6, 
-    "acronym_id": 1670, 
+    "acronym_id": 1671, 
     "expansion": "Vector Ruggedness Measure", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VRML", 
     "source_id": 6, 
-    "acronym_id": 1671, 
+    "acronym_id": 1672, 
     "expansion": "Virtual Reality Modeling Language", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VSAR", 
     "source_id": 6, 
-    "acronym_id": 1672, 
+    "acronym_id": 1673, 
     "expansion": "Variable Synthetic Aperture Radar", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "VTIR", 
     "source_id": 6, 
-    "acronym_id": 1673, 
+    "acronym_id": 1674, 
     "expansion": "Visible and Thermal Infrared Radiometer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "W/A", 
     "source_id": 6, 
-    "acronym_id": 1674, 
+    "acronym_id": 1675, 
     "expansion": "Working Agreement", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WAN", 
     "source_id": 6, 
-    "acronym_id": 1675, 
+    "acronym_id": 1676, 
     "expansion": "Wide Area Network", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WCRP", 
     "source_id": 6, 
-    "acronym_id": 1676, 
+    "acronym_id": 1677, 
     "expansion": "World Climate Research Program", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WCS", 
     "source_id": 6, 
-    "acronym_id": 1677, 
+    "acronym_id": 1678, 
     "expansion": "Web Coverage Service", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WDVI", 
     "source_id": 6, 
-    "acronym_id": 1678, 
+    "acronym_id": 1679, 
     "expansion": "Weighted Difference Vegetation Index", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WELD", 
     "source_id": 6, 
-    "acronym_id": 1679, 
+    "acronym_id": 1680, 
     "expansion": "Web Enabled Landsat Data", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WFF", 
     "source_id": 6, 
-    "acronym_id": 1682, 
+    "acronym_id": 1683, 
     "expansion": "Wallops Flight Facility", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WFOV", 
     "source_id": 6, 
-    "acronym_id": 1683, 
+    "acronym_id": 1684, 
     "expansion": "Wide Field of View", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WG", 
     "source_id": 6, 
-    "acronym_id": 1684, 
+    "acronym_id": 1685, 
     "expansion": "Working Group", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WGCV", 
     "source_id": 6, 
-    "acronym_id": 1685, 
+    "acronym_id": 1686, 
     "expansion": "Working Group on Calibration and Validation (CEOS)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WGD", 
     "source_id": 6, 
-    "acronym_id": 1686, 
+    "acronym_id": 1687, 
     "expansion": "Working Group on Data (CEOS)", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WGISS", 
     "source_id": 6, 
-    "acronym_id": 1687, 
+    "acronym_id": 1688, 
     "expansion": "Working Group on Information Systems and Services", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WGS", 
     "source_id": 6, 
-    "acronym_id": 1688, 
+    "acronym_id": 1689, 
     "expansion": "Wallops Ground System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WGS 84", 
     "source_id": 6, 
-    "acronym_id": 1689, 
+    "acronym_id": 1690, 
     "expansion": "World Geodetic System 1984", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WHOI", 
     "source_id": 6, 
-    "acronym_id": 1690, 
+    "acronym_id": 1691, 
     "expansion": "Woods Hole Oceanographic Institution", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WIST", 
     "source_id": 6, 
-    "acronym_id": 1693, 
+    "acronym_id": 1694, 
     "expansion": "Warehouse Inventory Search Tool", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WMO", 
     "source_id": 6, 
-    "acronym_id": 1694, 
+    "acronym_id": 1695, 
     "expansion": "World Meteorological Organization", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WMS", 
     "source_id": 6, 
-    "acronym_id": 1695, 
+    "acronym_id": 1696, 
     "expansion": "Web Map Service", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WMTS", 
     "source_id": 6, 
-    "acronym_id": 1696, 
+    "acronym_id": 1697, 
     "expansion": "Web Map Tile Service", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WOCE", 
     "source_id": 6, 
-    "acronym_id": 1697, 
+    "acronym_id": 1698, 
     "expansion": "World Ocean Circulation Experiment", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WOTIS", 
     "source_id": 6, 
-    "acronym_id": 1698, 
+    "acronym_id": 1699, 
     "expansion": "Wallops Orbital Tracking Information System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WRAP", 
     "source_id": 6, 
-    "acronym_id": 1699, 
+    "acronym_id": 1700, 
     "expansion": "Wildfire Research and Application Partnership", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WSC", 
     "source_id": 6, 
-    "acronym_id": 1700, 
+    "acronym_id": 1701, 
     "expansion": "White Sands Complex", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WSGT", 
     "source_id": 6, 
-    "acronym_id": 1701, 
+    "acronym_id": 1702, 
     "expansion": "White Sands Ground Terminal", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WSMC", 
     "source_id": 6, 
-    "acronym_id": 1702, 
+    "acronym_id": 1703, 
     "expansion": "Western Space and Missile Center", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WSTF", 
     "source_id": 6, 
-    "acronym_id": 1703, 
+    "acronym_id": 1704, 
     "expansion": "White Sands Test Facility", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WTS", 
     "source_id": 6, 
-    "acronym_id": 1704, 
+    "acronym_id": 1705, 
     "expansion": "Wallops Tracking Station", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WWW", 
     "source_id": 6, 
-    "acronym_id": 1705, 
+    "acronym_id": 1706, 
     "expansion": "World Wide Web", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WYSIWYG", 
     "source_id": 6, 
-    "acronym_id": 1706, 
+    "acronym_id": 1707, 
     "expansion": "What You See Is What You Get", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WetCHARTs", 
     "source_id": 6, 
-    "acronym_id": 1680, 
+    "acronym_id": 1681, 
     "expansion": "Wetland Methane Emissions and Uncertainty", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "Wetnet", 
     "source_id": 6, 
-    "acronym_id": 1681, 
+    "acronym_id": 1682, 
     "expansion": "Network for Distribution and Joint Analysis of SSM/I", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WiFS", 
     "source_id": 6, 
-    "acronym_id": 1691, 
+    "acronym_id": 1692, 
     "expansion": "Wide Field-of-View-Sensor", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "WiMAX", 
     "source_id": 6, 
-    "acronym_id": 1692, 
+    "acronym_id": 1693, 
     "expansion": "Worldwide Interoperability for Microwave Access", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "X-SAR", 
     "source_id": 6, 
-    "acronym_id": 1707, 
+    "acronym_id": 1708, 
     "expansion": "X-Band Synthetic Aperture Radar", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "XBT", 
     "source_id": 6, 
-    "acronym_id": 1708, 
+    "acronym_id": 1709, 
     "expansion": "Expendable Bathythermograph", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "XHTML", 
     "source_id": 6, 
-    "acronym_id": 1710, 
+    "acronym_id": 1711, 
     "expansion": "eXtensible Hyper Text Markup Language", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "XML", 
     "source_id": 6, 
-    "acronym_id": 1711, 
+    "acronym_id": 1712, 
     "expansion": "eXtensible Markup Language", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "XP", 
     "source_id": 6, 
-    "acronym_id": 1712, 
+    "acronym_id": 1713, 
     "expansion": "Exchange Point", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "XPS", 
     "source_id": 6, 
-    "acronym_id": 1713, 
+    "acronym_id": 1714, 
     "expansion": "XUV Photometer System", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "XSL", 
     "source_id": 6, 
-    "acronym_id": 1714, 
+    "acronym_id": 1715, 
     "expansion": "eXtensible Stylesheet Language", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "XSLT", 
     "source_id": 6, 
-    "acronym_id": 1715, 
+    "acronym_id": 1716, 
     "expansion": "eXtensible Stylesheet Language Transformation", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "YIBS-CEO", 
     "source_id": 6, 
-    "acronym_id": 1716, 
+    "acronym_id": 1717, 
     "expansion": "Yale Institute of Biospheric Studies - Center of Earth Observation", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "YTD", 
     "source_id": 6, 
-    "acronym_id": 1717, 
+    "acronym_id": 1718, 
     "expansion": "Year to Date", 
     "source": "Earthdata"
   }, 
@@ -12007,14 +12014,14 @@
   {
     "abbreviation": "um", 
     "source_id": 6, 
-    "acronym_id": 1622, 
+    "acronym_id": 1623, 
     "expansion": "Micrometer", 
     "source": "Earthdata"
   }, 
   {
     "abbreviation": "xDLS", 
     "source_id": 6, 
-    "acronym_id": 1709, 
+    "acronym_id": 1710, 
     "expansion": "eXtensible Distance Learning System", 
     "source": "Earthdata"
   }
