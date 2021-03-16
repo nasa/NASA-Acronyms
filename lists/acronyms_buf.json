@@ -35,6 +35,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "BMS", 
+    "source_id": 0, 
+    "acronym_id": 122, 
+    "expansion": "Battery Management System", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "BOC", 
     "source_id": 0, 
     "acronym_id": 77, 
