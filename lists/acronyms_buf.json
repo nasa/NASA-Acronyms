@@ -406,6 +406,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "JEDI", 
+    "source_id": 0, 
+    "acronym_id": 123, 
+    "expansion": "(See JETI: Joint Engineering Team for Imagery)", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "LLS", 
     "source_id": 0, 
     "acronym_id": 80, 
@@ -518,6 +525,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "MINDS", 
+    "source_id": 0, 
+    "acronym_id": 124, 
+    "expansion": "Minority University Research and Education Project (MUREP) Innovative New Designs for Space ", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "MIPs", 
     "source_id": 0, 
     "acronym_id": 112, 
@@ -536,6 +550,20 @@
     "source_id": 0, 
     "acronym_id": 85, 
     "expansion": "Micro-Miniature Coaxial Connector", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MOSI", 
+    "source_id": 0, 
+    "acronym_id": 126, 
+    "expansion": "Management Operations Services and Information", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MOSM", 
+    "source_id": 0, 
+    "acronym_id": 125, 
+    "expansion": "MAC Operating System Management", 
     "source": "buffer"
   }, 
   {
