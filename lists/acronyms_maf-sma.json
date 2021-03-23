@@ -1057,6 +1057,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "BCN", 
+    "source_id": 8, 
+    "acronym_id": 2585, 
+    "expansion": "Baseline Change Notice", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "BDA", 
     "source_id": 8, 
     "acronym_id": 1895, 
@@ -4378,7 +4385,7 @@
     "abbreviation": "ESD", 
     "source_id": 8, 
     "acronym_id": 124, 
-    "expansion": "Exploration Systems Directorate or Electrostatic Discharge", 
+    "expansion": "Exploration Systems Development", 
     "source": "MAF-SMA"
   }, 
   {
@@ -17833,6 +17840,13 @@
     "source_id": 8, 
     "acronym_id": 1531, 
     "expansion": "Woman Owned Small Business", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "WPE", 
+    "source_id": 8, 
+    "acronym_id": 2587, 
+    "expansion": "Wide Panel Equivalency (TPS Testing)", 
     "source": "MAF-SMA"
   }, 
   {
