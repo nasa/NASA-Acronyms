@@ -147,6 +147,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "DEx", 
+    "source_id": 0, 
+    "acronym_id": 127, 
+    "expansion": "Data Exchange", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "DROID", 
     "source_id": 0, 
     "acronym_id": 103, 
