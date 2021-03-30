@@ -12873,6 +12873,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "PRB", 
+    "source_id": 8, 
+    "acronym_id": 2590, 
+    "expansion": "Propulsion Review Board", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "PRD", 
     "source_id": 8, 
     "acronym_id": 2216, 
@@ -15418,6 +15425,20 @@
     "source_id": 8, 
     "acronym_id": 1389, 
     "expansion": "Specification", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SPECO", 
+    "source_id": 8, 
+    "acronym_id": 2589, 
+    "expansion": "SPECification Outside Processing (Boeing - External)", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SPECP", 
+    "source_id": 8, 
+    "acronym_id": 2588, 
+    "expansion": "SPECification Processing (Boeing - Internal)", 
     "source": "MAF-SMA"
   }, 
   {
