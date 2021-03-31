@@ -420,6 +420,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "LIMO", 
+    "source_id": 0, 
+    "acronym_id": 128, 
+    "expansion": "Launch Integration & Mission Operations", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "LLS", 
     "source_id": 0, 
     "acronym_id": 80, 
