@@ -70,6 +70,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "CCE", 
+    "source_id": 0, 
+    "acronym_id": 130, 
+    "expansion": "Construction Cost Estimate", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "CCSDS", 
     "source_id": 0, 
     "acronym_id": 8, 
@@ -158,6 +165,13 @@
     "source_id": 0, 
     "acronym_id": 103, 
     "expansion": "Disposition and Review of Organizational Issuance Data", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "ECCP", 
+    "source_id": 0, 
+    "acronym_id": 129, 
+    "expansion": "Estimated Construction Contract Price", 
     "source": "buffer"
   }, 
   {
