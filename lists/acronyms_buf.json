@@ -819,6 +819,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "SSOE", 
+    "source_id": 0, 
+    "acronym_id": 132, 
+    "expansion": "Second Set of Eyes", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "SSWP", 
     "source_id": 0, 
     "acronym_id": 96, 
@@ -844,6 +851,13 @@
     "source_id": 0, 
     "acronym_id": 94, 
     "expansion": "Structures and Thermal Environments", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "TEER", 
+    "source_id": 0, 
+    "acronym_id": 131, 
+    "expansion": "TOSC Engineering Evaluation Request", 
     "source": "buffer"
   }, 
   {
