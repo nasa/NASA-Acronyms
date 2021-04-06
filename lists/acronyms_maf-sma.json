@@ -994,6 +994,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "AVT", 
+    "source_id": 8, 
+    "acronym_id": 2591, 
+    "expansion": "Acceptance Vibration Test", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "AWG", 
     "source_id": 8, 
     "acronym_id": 1894, 
@@ -4186,6 +4193,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "EOR", 
+    "source_id": 8, 
+    "acronym_id": 2592, 
+    "expansion": "Escape Only Resipators", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "EPA", 
     "source_id": 8, 
     "acronym_id": 117, 
@@ -5562,6 +5576,13 @@
     "source_id": 8, 
     "acronym_id": 854, 
     "expansion": "Flight Termination System Battery", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "FTT", 
+    "source_id": 8, 
+    "acronym_id": 2593, 
+    "expansion": "Fracture Toughness Test", 
     "source": "MAF-SMA"
   }, 
   {
