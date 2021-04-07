@@ -630,6 +630,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "NTSS", 
+    "source_id": 0, 
+    "acronym_id": 133, 
+    "expansion": "NASA Technical Standards System", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "OITM", 
     "source_id": 0, 
     "acronym_id": 97, 
