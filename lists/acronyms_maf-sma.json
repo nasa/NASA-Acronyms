@@ -13762,6 +13762,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "RFEC", 
+    "source_id": 8, 
+    "acronym_id": 2594, 
+    "expansion": "Request for Engineering Change", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "RFI", 
     "source_id": 8, 
     "acronym_id": 1297, 
