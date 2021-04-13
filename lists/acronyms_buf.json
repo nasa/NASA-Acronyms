@@ -931,6 +931,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "VSI", 
+    "source_id": 0, 
+    "acronym_id": 134, 
+    "expansion": "Vehicle Systems Integration", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "WBS", 
     "source_id": 0, 
     "acronym_id": 48, 
