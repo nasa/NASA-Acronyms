@@ -9002,6 +9002,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "LTAC", 
+    "source_id": 8, 
+    "acronym_id": 2595, 
+    "expansion": "LOX Tank Assembly Center", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "LTAE", 
     "source_id": 8, 
     "acronym_id": 1055, 
@@ -13352,7 +13359,7 @@
     "abbreviation": "QAAR", 
     "source_id": 8, 
     "acronym_id": 384, 
-    "expansion": "Quality\u2026Audit\u2026Agency\u2026", 
+    "expansion": "Quality Audit, Assessment, and Review", 
     "source": "MAF-SMA"
   }, 
   {
