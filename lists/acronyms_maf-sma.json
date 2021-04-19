@@ -8092,6 +8092,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "KMR", 
+    "source_id": 8, 
+    "acronym_id": 2596, 
+    "expansion": "Key Milestone Review (Boeing)", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "KN", 
     "source_id": 8, 
     "acronym_id": 1004, 
