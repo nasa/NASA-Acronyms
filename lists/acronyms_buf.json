@@ -469,6 +469,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "LVPC", 
+    "source_id": 0, 
+    "acronym_id": 136, 
+    "expansion": "Low Voltage Power Converter", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "LiDAR", 
     "source_id": 0, 
     "acronym_id": 25, 
@@ -802,6 +809,13 @@
     "source_id": 0, 
     "acronym_id": 110, 
     "expansion": "Software Bus Network", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "SFP", 
+    "source_id": 0, 
+    "acronym_id": 135, 
+    "expansion": "Small Form-factor Pluggable", 
     "source": "buffer"
   }, 
   {
