@@ -924,6 +924,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "VDSL", 
+    "source_id": 0, 
+    "acronym_id": 137, 
+    "expansion": "Very high bit rate Digital Subscriber Line", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "VDSU", 
     "source_id": 0, 
     "acronym_id": 52, 
