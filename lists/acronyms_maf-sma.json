@@ -4200,6 +4200,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "EP", 
+    "source_id": 8, 
+    "acronym_id": 2597, 
+    "expansion": "Elevated Privilege", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "EPA", 
     "source_id": 8, 
     "acronym_id": 117, 
