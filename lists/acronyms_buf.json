@@ -539,6 +539,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "MGCP", 
+    "source_id": 0, 
+    "acronym_id": 139, 
+    "expansion": "Media Gateway Control Protocol", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "MGSE", 
     "source_id": 0, 
     "acronym_id": 31, 
@@ -816,6 +823,13 @@
     "source_id": 0, 
     "acronym_id": 135, 
     "expansion": "Small Form-factor Pluggable", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "SIP", 
+    "source_id": 0, 
+    "acronym_id": 138, 
+    "expansion": " Session Initiation Protocol", 
     "source": "buffer"
   }, 
   {
