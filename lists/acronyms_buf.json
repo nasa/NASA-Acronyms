@@ -1,5 +1,12 @@
 [
   {
+    "abbreviation": "AFF", 
+    "source_id": 0, 
+    "acronym_id": 143, 
+    "expansion": "Above Finished Floor", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "AFOM", 
     "source_id": 0, 
     "acronym_id": 109, 
@@ -14,10 +21,24 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "AI/ML", 
+    "source_id": 0, 
+    "acronym_id": 141, 
+    "expansion": "Artificial Intelligence/Machine Learning", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "AIAL", 
     "source_id": 0, 
     "acronym_id": 91, 
     "expansion": "Advanced Imaging and Analysis Laboratory", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "AIML", 
+    "source_id": 0, 
+    "acronym_id": 140, 
+    "expansion": "Artificial Intelligence/Machine Learning", 
     "source": "buffer"
   }, 
   {
@@ -550,6 +571,13 @@
     "source_id": 0, 
     "acronym_id": 31, 
     "expansion": "Mechanical Ground Support Equipment", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MGSS", 
+    "source_id": 0, 
+    "acronym_id": 142, 
+    "expansion": "MSFC Ground Systems and Services", 
     "source": "buffer"
   }, 
   {
