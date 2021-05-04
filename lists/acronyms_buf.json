@@ -56,6 +56,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "ASDS", 
+    "source_id": 0, 
+    "acronym_id": 148, 
+    "expansion": "Autonomous Spaceport Drone Ship", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "BMS", 
     "source_id": 0, 
     "acronym_id": 122, 
@@ -81,6 +88,13 @@
     "source_id": 0, 
     "acronym_id": 69, 
     "expansion": "Concurrent Artificially intelligent Spectrometry and Adaptive Lidar System", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "CBC", 
+    "source_id": 0, 
+    "acronym_id": 145, 
+    "expansion": "Common Booster Core", 
     "source": "buffer"
   }, 
   {
@@ -123,6 +137,13 @@
     "source_id": 0, 
     "acronym_id": 114, 
     "expansion": "Creating, Organizing, Motivating, Educating, Team building (KSC)", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "COSMIC", 
+    "source_id": 0, 
+    "acronym_id": 147, 
+    "expansion": "Container Operated Systems Managed In the Cloud", 
     "source": "buffer"
   }, 
   {
@@ -672,6 +693,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "NSF", 
+    "source_id": 0, 
+    "acronym_id": 144, 
+    "expansion": "NASASpaceflight.com", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "NTSS", 
     "source_id": 0, 
     "acronym_id": 133, 
@@ -760,6 +788,13 @@
     "source_id": 0, 
     "acronym_id": 39, 
     "expansion": "Preliminary Design Review", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PDT", 
+    "source_id": 0, 
+    "acronym_id": 146, 
+    "expansion": "Pacific Daylight Time", 
     "source": "buffer"
   }, 
   {
