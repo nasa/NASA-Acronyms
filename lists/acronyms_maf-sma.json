@@ -812,6 +812,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "ASD", 
+    "source_id": 8, 
+    "acronym_id": 2598, 
+    "expansion": "Acceleration Spectral Distribution", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "ASEU", 
     "source_id": 8, 
     "acronym_id": 2552, 
