@@ -819,6 +819,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "PT", 
+    "source_id": 0, 
+    "acronym_id": 149, 
+    "expansion": "Principal Technologist", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "PWB", 
     "source_id": 0, 
     "acronym_id": 41, 
