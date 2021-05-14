@@ -2023,6 +2023,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "CLA", 
+    "source_id": 8, 
+    "acronym_id": 2602, 
+    "expansion": "Coupled Loads Analyses", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "CLI", 
     "source_id": 8, 
     "acronym_id": 1772, 
@@ -2741,6 +2748,13 @@
     "source_id": 8, 
     "acronym_id": 1927, 
     "expansion": "Chemical Vapor Deposition", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "CVI", 
+    "source_id": 8, 
+    "acronym_id": 2599, 
+    "expansion": "Construction Verification Inspection", 
     "source": "MAF-SMA"
   }, 
   {
@@ -5302,7 +5316,7 @@
     "abbreviation": "FQT", 
     "source_id": 8, 
     "acronym_id": 835, 
-    "expansion": "Formal Qualification Test", 
+    "expansion": "Functional Qualification Test", 
     "source": "MAF-SMA"
   }, 
   {
@@ -7504,6 +7518,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "IPCA", 
+    "source_id": 8, 
+    "acronym_id": 2601, 
+    "expansion": "Integrated Physical Configuration Audit", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "IPC\u00ae", 
     "source_id": 8, 
     "acronym_id": 2041, 
@@ -7760,6 +7781,13 @@
     "source_id": 8, 
     "acronym_id": 212, 
     "expansion": "International Traffic in Arms Regulation", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "ITCO", 
+    "source_id": 8, 
+    "acronym_id": 2600, 
+    "expansion": "Integrated Testing and Checkout", 
     "source": "MAF-SMA"
   }, 
   {
@@ -12498,7 +12526,7 @@
     "abbreviation": "PLA", 
     "source_id": 8, 
     "acronym_id": 361, 
-    "expansion": "Payload Assembly or Payload Adapter?", 
+    "expansion": "Payload Adapter", 
     "source": "MAF-SMA"
   }, 
   {
@@ -13727,10 +13755,10 @@
     "source": "MAF-SMA"
   }, 
   {
-    "abbreviation": "REM module", 
+    "abbreviation": "REM", 
     "source_id": 8, 
     "acronym_id": 395, 
-    "expansion": "", 
+    "expansion": "Rocket Engine Module", 
     "source": "MAF-SMA"
   }, 
   {
