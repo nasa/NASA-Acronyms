@@ -210,6 +210,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "DragonSQRL", 
+    "source_id": 0, 
+    "acronym_id": 150, 
+    "expansion": "Dragonfly's Space Qualified Rover Lidar", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "ECCP", 
     "source_id": 0, 
     "acronym_id": 129, 
