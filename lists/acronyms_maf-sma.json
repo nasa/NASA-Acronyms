@@ -1778,6 +1778,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "CDM", 
+    "source_id": 8, 
+    "acronym_id": 2603, 
+    "expansion": "Charged Device Model", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "CDP", 
     "source_id": 8, 
     "acronym_id": 619, 
