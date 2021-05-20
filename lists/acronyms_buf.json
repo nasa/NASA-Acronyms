@@ -133,6 +133,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "CLD", 
+    "source_id": 0, 
+    "acronym_id": 151, 
+    "expansion": "Configurable Logic Device", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "COMET", 
     "source_id": 0, 
     "acronym_id": 114, 
