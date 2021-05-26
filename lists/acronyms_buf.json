@@ -714,6 +714,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "NSTGRO", 
+    "source_id": 0, 
+    "acronym_id": 152, 
+    "expansion": "NASA Space Technology Graduate Research Opportunities", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "NTSS", 
     "source_id": 0, 
     "acronym_id": 133, 
