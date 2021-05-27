@@ -15967,6 +15967,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "SSWP", 
+    "source_id": 8, 
+    "acronym_id": 2604, 
+    "expansion": "Supervisor Safety Web Page", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "STA", 
     "source_id": 8, 
     "acronym_id": 467, 
