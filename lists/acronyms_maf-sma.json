@@ -420,6 +420,20 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "AFSC", 
+    "source_id": 8, 
+    "acronym_id": 2605, 
+    "expansion": "Air Force Specialty Code", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "AFSC", 
+    "source_id": 8, 
+    "acronym_id": 2606, 
+    "expansion": "Air Force Systems Command", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "AFSPC", 
     "source_id": 8, 
     "acronym_id": 1874, 
@@ -4960,6 +4974,13 @@
     "source_id": 8, 
     "acronym_id": 1975, 
     "expansion": "Fluorinated Ethylene Propylene", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "FEP", 
+    "source_id": 8, 
+    "acronym_id": 2607, 
+    "expansion": "Fluorinated Ethylene Propylene (FEP) Is a Copolymer of Hexafluoropropylene and Tetrafluoroethylene. It Differs From the Polytetrafluoroethylene (PTFE) Resins in That It Is Melt-Processable Using Conventional Injection Molding and Screw Extrusion Technique", 
     "source": "MAF-SMA"
   }, 
   {
