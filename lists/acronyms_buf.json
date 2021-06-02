@@ -462,10 +462,31 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "IC & DH", 
+    "source_id": 0, 
+    "acronym_id": 155, 
+    "expansion": "Instrument Command and Data Handling", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "IC&DH", 
+    "source_id": 0, 
+    "acronym_id": 153, 
+    "expansion": "Instrument Command and Data Handling", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "ICD", 
     "source_id": 0, 
     "acronym_id": 24, 
     "expansion": "Interface Control Document", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "ICDH", 
+    "source_id": 0, 
+    "acronym_id": 154, 
+    "expansion": "Instrument Command and Data Handling", 
     "source": "buffer"
   }, 
   {
@@ -858,6 +879,13 @@
     "source_id": 0, 
     "acronym_id": 42, 
     "expansion": "Pulse Width Modulation", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PaaS", 
+    "source_id": 0, 
+    "acronym_id": 156, 
+    "expansion": "Prognostics as a Service", 
     "source": "buffer"
   }, 
   {
