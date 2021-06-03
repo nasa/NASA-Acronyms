@@ -210,6 +210,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "DRF", 
+    "source_id": 0, 
+    "acronym_id": 157, 
+    "expansion": "Data & Reasoning Fabric", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "DROID", 
     "source_id": 0, 
     "acronym_id": 103, 
@@ -417,6 +424,13 @@
     "source_id": 0, 
     "acronym_id": 19, 
     "expansion": "Full Scale Aft Bulked (LandSat-7)", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "GGAO", 
+    "source_id": 0, 
+    "acronym_id": 158, 
+    "expansion": "Goddard Geophysical and Astronomical Observatory", 
     "source": "buffer"
   }, 
   {
