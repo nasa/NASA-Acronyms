@@ -1064,6 +1064,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "TWSC", 
+    "source_id": 0, 
+    "acronym_id": 159, 
+    "expansion": "Topical Workshops, Symposia, and Conferences", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "UART", 
     "source_id": 0, 
     "acronym_id": 50, 
