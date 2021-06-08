@@ -5306,6 +5306,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "FPI", 
+    "source_id": 8, 
+    "acronym_id": 2608, 
+    "expansion": "Flourp Penetrant Inspection (Black Light)", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "FPOV", 
     "source_id": 8, 
     "acronym_id": 149, 
@@ -12296,6 +12303,13 @@
     "source_id": 8, 
     "acronym_id": 355, 
     "expansion": "(Boeing) Audit Finding", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PEI", 
+    "source_id": 8, 
+    "acronym_id": 2609, 
+    "expansion": "Polyetherimide (PEI) Is an Amorphous, Amber-to-Transparent Thermoplastic", 
     "source": "MAF-SMA"
   }, 
   {
