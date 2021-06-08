@@ -742,6 +742,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "NOFO", 
+    "source_id": 0, 
+    "acronym_id": 160, 
+    "expansion": "Notice of Funding Opportunity", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "NSF", 
     "source_id": 0, 
     "acronym_id": 144, 
