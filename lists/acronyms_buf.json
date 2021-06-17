@@ -1,5 +1,12 @@
 [
   {
+    "abbreviation": "ADAPTS", 
+    "source_id": 0, 
+    "acronym_id": 164, 
+    "expansion": "Automated Dynamic Acceptance Procedure Test Stand", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "AFF", 
     "source_id": 0, 
     "acronym_id": 143, 
@@ -427,6 +434,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "FYSA", 
+    "source_id": 0, 
+    "acronym_id": 166, 
+    "expansion": "For Your Situational Awareness", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "GGAO", 
     "source_id": 0, 
     "acronym_id": 158, 
@@ -588,6 +602,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "MCID", 
+    "source_id": 0, 
+    "acronym_id": 162, 
+    "expansion": "Monitored Condition Identifier", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "MCX", 
     "source_id": 0, 
     "acronym_id": 84, 
@@ -728,6 +749,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "MTAG", 
+    "source_id": 0, 
+    "acronym_id": 165, 
+    "expansion": "M&FM Tools and Automation Group", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "NESS", 
     "source_id": 0, 
     "acronym_id": 82, 
@@ -767,6 +795,13 @@
     "source_id": 0, 
     "acronym_id": 133, 
     "expansion": "NASA Technical Standards System", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "OGRE", 
+    "source_id": 0, 
+    "acronym_id": 163, 
+    "expansion": "Off-Plane Grating Rocket Experiment", 
     "source": "buffer"
   }, 
   {
@@ -837,6 +872,13 @@
     "source_id": 0, 
     "acronym_id": 115, 
     "expansion": "Propulsion Data Assessment Center", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PDCO", 
+    "source_id": 0, 
+    "acronym_id": 161, 
+    "expansion": "Planetary Defense Coordination Office", 
     "source": "buffer"
   }, 
   {
