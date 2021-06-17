@@ -6167,6 +6167,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "GUPA", 
+    "source_id": 8, 
+    "acronym_id": 2612, 
+    "expansion": "Ground Umbilical Plate Assembly", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "GWT", 
     "source_id": 8, 
     "acronym_id": 886, 
@@ -17231,6 +17238,13 @@
     "source_id": 8, 
     "acronym_id": 1491, 
     "expansion": "UUT Open Records Review", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "UPA", 
+    "source_id": 8, 
+    "acronym_id": 2611, 
+    "expansion": "Umbilical Plate Assembly", 
     "source": "MAF-SMA"
   }, 
   {
