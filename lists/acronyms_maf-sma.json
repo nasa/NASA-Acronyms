@@ -5222,6 +5222,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "FNs", 
+    "source_id": 8, 
+    "acronym_id": 2614, 
+    "expansion": "Foreign Nationals", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "FOC", 
     "source_id": 8, 
     "acronym_id": 145, 
@@ -8925,6 +8932,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "LRGWP", 
+    "source_id": 8, 
+    "acronym_id": 2613, 
+    "expansion": "Laws, Regulations, and Government-Wide Policies", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "LRR", 
     "source_id": 8, 
     "acronym_id": 1547, 
@@ -10973,6 +10987,13 @@
     "source_id": 8, 
     "acronym_id": 2148, 
     "expansion": "NASA Online Directives Information System", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "NOFORN", 
+    "source_id": 8, 
+    "acronym_id": 2615, 
+    "expansion": "No Foreign", 
     "source": "MAF-SMA"
   }, 
   {
