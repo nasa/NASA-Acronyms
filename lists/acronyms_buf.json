@@ -84,6 +84,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "BSE", 
+    "source_id": 0, 
+    "acronym_id": 170, 
+    "expansion": "Backscattered Electrons", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "BTP", 
     "source_id": 0, 
     "acronym_id": 6, 
@@ -238,6 +245,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "EBSD", 
+    "source_id": 0, 
+    "acronym_id": 169, 
+    "expansion": "Electron Backscatter Diffraction", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "ECCP", 
     "source_id": 0, 
     "acronym_id": 129, 
@@ -319,6 +333,13 @@
     "source_id": 0, 
     "acronym_id": 14, 
     "expansion": "Electrostatic Discharge", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "ETD", 
+    "source_id": 0, 
+    "acronym_id": 173, 
+    "expansion": "Engineering and Technology Directorate", 
     "source": "buffer"
   }, 
   {
@@ -606,6 +627,13 @@
     "source_id": 0, 
     "acronym_id": 162, 
     "expansion": "Monitored Condition Identifier", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MCRU", 
+    "source_id": 0, 
+    "acronym_id": 167, 
+    "expansion": "Multiple Crew Reuse", 
     "source": "buffer"
   }, 
   {
@@ -1001,6 +1029,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "SE", 
+    "source_id": 0, 
+    "acronym_id": 171, 
+    "expansion": "Secondary Electrons", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "SFP", 
     "source_id": 0, 
     "acronym_id": 135, 
@@ -1166,6 +1201,20 @@
     "source_id": 0, 
     "acronym_id": 48, 
     "expansion": "Work Breakdown Structure", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "WDS", 
+    "source_id": 0, 
+    "acronym_id": 168, 
+    "expansion": "Wavelength Dispersive Spectroscopy", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "XRD", 
+    "source_id": 0, 
+    "acronym_id": 172, 
+    "expansion": "X-Ray Diffraction", 
     "source": "buffer"
   }
 ]
