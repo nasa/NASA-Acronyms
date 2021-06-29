@@ -12768,6 +12768,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "POFI", 
+    "source_id": 8, 
+    "acronym_id": 2617, 
+    "expansion": "Pour on Foam Insulation", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "POGO", 
     "source_id": 8, 
     "acronym_id": 364, 
