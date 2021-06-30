@@ -742,6 +742,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "MMPACT", 
+    "source_id": 0, 
+    "acronym_id": 174, 
+    "expansion": "Moon-to-Mars Planetary Autonomous Construction Technology", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "MOSI", 
     "source_id": 0, 
     "acronym_id": 126, 
