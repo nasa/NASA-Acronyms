@@ -238,6 +238,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "DRR", 
+    "source_id": 0, 
+    "acronym_id": 175, 
+    "expansion": "Disaster Risk Reduction", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "DragonSQRL", 
     "source_id": 0, 
     "acronym_id": 150, 
@@ -350,6 +357,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "EULA", 
+    "source_id": 0, 
+    "acronym_id": 176, 
+    "expansion": "End User License Agreement", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "EVOA", 
     "source_id": 0, 
     "acronym_id": 65, 
@@ -424,6 +438,27 @@
     "source_id": 0, 
     "acronym_id": 100, 
     "expansion": "Flight Evaluation Task Team", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "FFOP", 
+    "source_id": 0, 
+    "acronym_id": 177, 
+    "expansion": "Failure-Free Operating Period", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "FFTB", 
+    "source_id": 0, 
+    "acronym_id": 178, 
+    "expansion": "Formation Flying Testbed", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "FIN", 
+    "source_id": 0, 
+    "acronym_id": 180, 
+    "expansion": "Federal Innovators Network", 
     "source": "buffer"
   }, 
   {
@@ -935,6 +970,13 @@
     "source_id": 0, 
     "acronym_id": 146, 
     "expansion": "Pacific Daylight Time", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PFA", 
+    "source_id": 0, 
+    "acronym_id": 179, 
+    "expansion": "Pre-Flight Assessment", 
     "source": "buffer"
   }, 
   {
