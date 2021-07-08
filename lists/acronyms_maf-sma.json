@@ -12418,6 +12418,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "PFA", 
+    "source_id": 8, 
+    "acronym_id": 2620, 
+    "expansion": "Pre-Flight Assessment", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "PFAR", 
     "source_id": 8, 
     "acronym_id": 1551, 
@@ -17378,6 +17385,20 @@
     "source_id": 8, 
     "acronym_id": 1497, 
     "expansion": "Tooling Identifier \u2013 Utility Tool", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "UT", 
+    "source_id": 8, 
+    "acronym_id": 2618, 
+    "expansion": "Ultrasonic Test", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "UT", 
+    "source_id": 8, 
+    "acronym_id": 2619, 
+    "expansion": "Ultrasonic Testing", 
     "source": "MAF-SMA"
   }, 
   {
