@@ -3290,6 +3290,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "DOD", 
+    "source_id": 8, 
+    "acronym_id": 2621, 
+    "expansion": "Domestic Object Debris", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "DOE", 
     "source_id": 8, 
     "acronym_id": 1936, 
