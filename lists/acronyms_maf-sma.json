@@ -13776,10 +13776,24 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "RCC", 
+    "source_id": 8, 
+    "acronym_id": 2623, 
+    "expansion": "Rotatiinal Control Cylinder", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "RCCA", 
     "source_id": 8, 
     "acronym_id": 1674, 
     "expansion": "Root Cause & Rorrective Action", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "RCI", 
+    "source_id": 8, 
+    "acronym_id": 2622, 
+    "expansion": "Rotational Control Insert", 
     "source": "MAF-SMA"
   }, 
   {
@@ -14795,6 +14809,13 @@
     "source_id": 8, 
     "acronym_id": 2440, 
     "expansion": "Stress Corrosion Cracking", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SCC", 
+    "source_id": 8, 
+    "acronym_id": 2624, 
+    "expansion": "Shaft Contorl Cylinder", 
     "source": "MAF-SMA"
   }, 
   {
