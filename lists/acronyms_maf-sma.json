@@ -10073,6 +10073,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "MPCP", 
+    "source_id": 8, 
+    "acronym_id": 2625, 
+    "expansion": "Mishap Preparedness and Contingency Plan", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "MPCV", 
     "source_id": 8, 
     "acronym_id": 290, 
