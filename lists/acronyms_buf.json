@@ -147,6 +147,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "CESO", 
+    "source_id": 0, 
+    "acronym_id": 181, 
+    "expansion": "Center Engineering, Safety, and Operations", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "CLD", 
     "source_id": 0, 
     "acronym_id": 151, 
