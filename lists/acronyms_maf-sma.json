@@ -14448,6 +14448,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "RSW", 
+    "source_id": 8, 
+    "acronym_id": 2630, 
+    "expansion": "Resistance Spot Welding", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "RT", 
     "source_id": 8, 
     "acronym_id": 1322, 
@@ -14522,6 +14529,13 @@
     "source_id": 8, 
     "acronym_id": 1581, 
     "expansion": "Research Transition Teams", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "RTV", 
+    "source_id": 8, 
+    "acronym_id": 2631, 
+    "expansion": "Room Temperature Vulcanizing (Rubber)", 
     "source": "MAF-SMA"
   }, 
   {
@@ -14648,6 +14662,20 @@
     "source_id": 8, 
     "acronym_id": 1333, 
     "expansion": "Society of Automotive Engineers", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SAE", 
+    "source_id": 8, 
+    "acronym_id": 2632, 
+    "expansion": "SAE International (Formerly Society of Automotive Engineers)", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SAGBOE", 
+    "source_id": 8, 
+    "acronym_id": 2633, 
+    "expansion": "Stress Assisted Grain Boundary Oxidation Embrittlement", 
     "source": "MAF-SMA"
   }, 
   {
@@ -15372,6 +15400,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "SLM", 
+    "source_id": 8, 
+    "acronym_id": 2635, 
+    "expansion": "Selective Laser Melting", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "SLOBD", 
     "source_id": 8, 
     "acronym_id": 443, 
@@ -15453,6 +15488,13 @@
     "source_id": 8, 
     "acronym_id": 447, 
     "expansion": "Safety and Mission Assurance  Council", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SMAC", 
+    "source_id": 8, 
+    "acronym_id": 2636, 
+    "expansion": "Spacecraft Maximum Allowable Concentration", 
     "source": "MAF-SMA"
   }, 
   {
@@ -17577,6 +17619,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "VCM", 
+    "source_id": 8, 
+    "acronym_id": 2637, 
+    "expansion": "Volatile Condensable Materials", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "VCN", 
     "source_id": 8, 
     "acronym_id": 507, 
@@ -18099,6 +18148,20 @@
     "source_id": 8, 
     "acronym_id": 2587, 
     "expansion": "Wide Panel Equivalency (TPS Testing)", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "WPS", 
+    "source_id": 8, 
+    "acronym_id": 2639, 
+    "expansion": "Weld Process Specificatio", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "WPS", 
+    "source_id": 8, 
+    "acronym_id": 2640, 
+    "expansion": "Welding Procedure Specification", 
     "source": "MAF-SMA"
   }, 
   {
