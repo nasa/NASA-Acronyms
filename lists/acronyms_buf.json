@@ -98,6 +98,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "CAMP", 
+    "source_id": 0, 
+    "acronym_id": 184, 
+    "expansion": "Collaboratory for quAlity Metadata Preservation", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "CASALS", 
     "source_id": 0, 
     "acronym_id": 69, 
@@ -137,6 +144,13 @@
     "source_id": 0, 
     "acronym_id": 3, 
     "expansion": "Custom Development Languages", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "CEDP", 
+    "source_id": 0, 
+    "acronym_id": 182, 
+    "expansion": "Chief Engineer Development Program", 
     "source": "buffer"
   }, 
   {
@@ -214,6 +228,13 @@
     "source_id": 0, 
     "acronym_id": 89, 
     "expansion": "Data Analysis eXpressions", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "DCD", 
+    "source_id": 0, 
+    "acronym_id": 185, 
+    "expansion": "Data Curation for Discovery", 
     "source": "buffer"
   }, 
   {
@@ -606,6 +627,13 @@
     "source_id": 0, 
     "acronym_id": 128, 
     "expansion": "Launch Integration & Mission Operations", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "LLDP", 
+    "source_id": 0, 
+    "acronym_id": 183, 
+    "expansion": "Launching Leaders Development Program", 
     "source": "buffer"
   }, 
   {
