@@ -11375,6 +11375,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "OCI", 
+    "source_id": 8, 
+    "acronym_id": 2641, 
+    "expansion": "Organizational Conflict of Interest ", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "OCIO", 
     "source_id": 8, 
     "acronym_id": 1686, 
