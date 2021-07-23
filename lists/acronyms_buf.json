@@ -609,6 +609,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "IS", 
+    "source_id": 0, 
+    "acronym_id": 186, 
+    "expansion": "Interstage", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "JASD", 
     "source_id": 0, 
     "acronym_id": 117, 
