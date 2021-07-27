@@ -560,6 +560,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "HDV", 
+    "source_id": 0, 
+    "acronym_id": 187, 
+    "expansion": "High-Density Vertiplex", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "HPH", 
     "source_id": 0, 
     "acronym_id": 75, 
