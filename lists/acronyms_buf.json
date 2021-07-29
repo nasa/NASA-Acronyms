@@ -644,6 +644,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "LISTS", 
+    "source_id": 0, 
+    "acronym_id": 188, 
+    "expansion": "Locator and Information Services Tracking System", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "LLDP", 
     "source_id": 0, 
     "acronym_id": 183, 
