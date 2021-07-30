@@ -245,6 +245,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "DDL", 
+    "source_id": 0, 
+    "acronym_id": 189, 
+    "expansion": "Detector Development Lab", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "DEx", 
     "source_id": 0, 
     "acronym_id": 127, 
