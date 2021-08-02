@@ -1316,6 +1316,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "WDM", 
+    "source_id": 0, 
+    "acronym_id": 190, 
+    "expansion": "Wavelength Division Multiplexer", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "WDS", 
     "source_id": 0, 
     "acronym_id": 168, 
