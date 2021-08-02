@@ -5110,6 +5110,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "FIP", 
+    "source_id": 8, 
+    "acronym_id": 2642, 
+    "expansion": "Female Iron Pipe or Female International Pipe.  Connect NPT Pipe Together With Internal Threads.", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "FIPS", 
     "source_id": 8, 
     "acronym_id": 1736, 
