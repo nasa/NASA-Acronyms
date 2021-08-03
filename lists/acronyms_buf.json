@@ -168,6 +168,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "CICE", 
+    "source_id": 0, 
+    "acronym_id": 191, 
+    "expansion": "Console for Imagery Coordination and Evaluation", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "CLD", 
     "source_id": 0, 
     "acronym_id": 151, 
