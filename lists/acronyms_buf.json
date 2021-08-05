@@ -266,6 +266,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "DPM", 
+    "source_id": 0, 
+    "acronym_id": 193, 
+    "expansion": "Damage Proxy Map", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "DRF", 
     "source_id": 0, 
     "acronym_id": 157, 
@@ -1243,6 +1250,13 @@
     "source_id": 0, 
     "acronym_id": 62, 
     "expansion": "Transimpedance Amplifier", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "TN", 
+    "source_id": 0, 
+    "acronym_id": 192, 
+    "expansion": "Tracking Number", 
     "source": "buffer"
   }, 
   {
