@@ -322,6 +322,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "EDAR", 
+    "source_id": 0, 
+    "acronym_id": 194, 
+    "expansion": "EMU Data Recorder", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "EDU", 
     "source_id": 0, 
     "acronym_id": 9, 
