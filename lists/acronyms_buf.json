@@ -24,7 +24,7 @@
     "abbreviation": "AI&T", 
     "source_id": 0, 
     "acronym_id": 5, 
-    "expansion": "Alignment Integration & Test", 
+    "expansion": "Alignment, Integration, and Testing", 
     "source": "buffer"
   }, 
   {
@@ -109,6 +109,13 @@
     "source_id": 0, 
     "acronym_id": 69, 
     "expansion": "Concurrent Artificially intelligent Spectrometry and Adaptive Lidar System", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "CATSCAN", 
+    "source_id": 0, 
+    "acronym_id": 195, 
+    "expansion": "Covered Article and Technology Supply Chain Assessment Needed", 
     "source": "buffer"
   }, 
   {
