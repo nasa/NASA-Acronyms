@@ -10360,6 +10360,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "MTD", 
+    "source_id": 8, 
+    "acronym_id": 2643, 
+    "expansion": "Manufacturing Tech Demonstration", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "MTE", 
     "source_id": 8, 
     "acronym_id": 2116, 
