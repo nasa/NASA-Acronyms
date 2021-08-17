@@ -4326,6 +4326,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "EPOCAST", 
+    "source_id": 8, 
+    "acronym_id": 2646, 
+    "expansion": "Epocast Is a Two-Part Epoxy Compound  https://itwperformancepolymers.com/products/epocast", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "EPROM", 
     "source_id": 8, 
     "acronym_id": 1956, 
@@ -13388,6 +13395,20 @@
     "source_id": 8, 
     "acronym_id": 1267, 
     "expansion": "Publication", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PUB", 
+    "source_id": 8, 
+    "acronym_id": 2644, 
+    "expansion": "Propellant Utilization Box", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PUMA", 
+    "source_id": 8, 
+    "acronym_id": 2645, 
+    "expansion": "Propellant Utilization Motor Assembly", 
     "source": "MAF-SMA"
   }, 
   {
