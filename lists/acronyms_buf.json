@@ -147,6 +147,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "CDF", 
+    "source_id": 0, 
+    "acronym_id": 198, 
+    "expansion": "Capitalization Determination Form", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "CDL", 
     "source_id": 0, 
     "acronym_id": 3, 
@@ -235,6 +242,13 @@
     "source_id": 0, 
     "acronym_id": 106, 
     "expansion": "Core Stage Engine Section Umbilical", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "CSPD", 
+    "source_id": 0, 
+    "acronym_id": 196, 
+    "expansion": "Cybersecurity & Privacy Division", 
     "source": "buffer"
   }, 
   {
@@ -641,6 +655,13 @@
     "source_id": 0, 
     "acronym_id": 154, 
     "expansion": "Instrument Command and Data Handling", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "IFST", 
+    "source_id": 0, 
+    "acronym_id": 197, 
+    "expansion": "Integrated Fluid System Test", 
     "source": "buffer"
   }, 
   {
