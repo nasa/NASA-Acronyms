@@ -770,6 +770,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "MARV", 
+    "source_id": 0, 
+    "acronym_id": 199, 
+    "expansion": "Mars Aerial Research Vehicle", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "MCID", 
     "source_id": 0, 
     "acronym_id": 162, 
@@ -1036,6 +1043,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "PAT", 
+    "source_id": 0, 
+    "acronym_id": 201, 
+    "expansion": "Procedure Authoring Tool", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "PCB", 
     "source_id": 0, 
     "acronym_id": 36, 
@@ -1047,6 +1061,13 @@
     "source_id": 0, 
     "acronym_id": 37, 
     "expansion": "Processor Control Card", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PCD", 
+    "source_id": 0, 
+    "acronym_id": 202, 
+    "expansion": "Portable Computing Device", 
     "source": "buffer"
   }, 
   {
@@ -1117,6 +1138,13 @@
     "source_id": 0, 
     "acronym_id": 149, 
     "expansion": "Principal Technologist", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PVE", 
+    "source_id": 0, 
+    "acronym_id": 200, 
+    "expansion": "Procedure Viewer/Executor", 
     "source": "buffer"
   }, 
   {
@@ -1215,6 +1243,13 @@
     "source_id": 0, 
     "acronym_id": 63, 
     "expansion": "Single event Immune Reconfigurable FPGA", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "SIRIUS", 
+    "source_id": 0, 
+    "acronym_id": 203, 
+    "expansion": "Scientific International Research In a Unique terrestrial Station", 
     "source": "buffer"
   }, 
   {
