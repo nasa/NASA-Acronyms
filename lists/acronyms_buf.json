@@ -1183,6 +1183,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "RFF", 
+    "source_id": 0, 
+    "acronym_id": 204, 
+    "expansion": "Request for Funding", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "RI2", 
     "source_id": 0, 
     "acronym_id": 70, 
