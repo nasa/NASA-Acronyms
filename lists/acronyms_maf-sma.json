@@ -16422,6 +16422,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "MAPL", 
+    "source_id": 8, 
+    "acronym_id": 4834, 
+    "expansion": "Mission Assurance Program Leader", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "MAPTIS", 
     "source_id": 8, 
     "acronym_id": 1074, 
