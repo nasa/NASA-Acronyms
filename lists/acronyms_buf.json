@@ -203,6 +203,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "COMET", 
+    "source_id": 0, 
+    "acronym_id": 205, 
+    "expansion": "Consolidated Operations, Management, Engineering, and Test contract", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "COSMIC", 
     "source_id": 0, 
     "acronym_id": 147, 
