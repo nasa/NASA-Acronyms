@@ -21,6 +21,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "0FT", 
+    "source_id": 8, 
+    "acronym_id": 4864, 
+    "expansion": "Zero Fault Tolerance", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "1FT", 
     "source_id": 8, 
     "acronym_id": 535, 
@@ -88,6 +95,13 @@
     "source_id": 8, 
     "acronym_id": 4, 
     "expansion": "45th Space Wing - Air Force Range Safety Group at Kennedy/Patrick", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "45WS", 
+    "source_id": 8, 
+    "acronym_id": 4861, 
+    "expansion": "U.S. Air Force 45th Weather Squadron", 
     "source": "MAF-SMA"
   }, 
   {
@@ -511,6 +525,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "ADL", 
+    "source_id": 8, 
+    "acronym_id": 4870, 
+    "expansion": "Abort Decision Logic Flight Software", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "ADMS", 
     "source_id": 8, 
     "acronym_id": 2687, 
@@ -728,6 +749,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "AFSCN", 
+    "source_id": 8, 
+    "acronym_id": 4888, 
+    "expansion": "Air Force Satellite Control Network", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "AFSPC", 
     "source_id": 8, 
     "acronym_id": 1874, 
@@ -812,6 +840,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "AGO", 
+    "source_id": 8, 
+    "acronym_id": 4883, 
+    "expansion": "Santiago, Chile Tracking Site", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "AGS", 
     "source_id": 8, 
     "acronym_id": 1879, 
@@ -844,6 +879,13 @@
     "source_id": 8, 
     "acronym_id": 1880, 
     "expansion": "Authority Having Jurisdiction", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "AHMS", 
+    "source_id": 8, 
+    "acronym_id": 4909, 
+    "expansion": "Advanced Health Management System", 
     "source": "MAF-SMA"
   }, 
   {
@@ -1152,6 +1194,13 @@
     "source_id": 8, 
     "acronym_id": 12, 
     "expansion": "Advanced Purge Pump (Obsolete Name See PPSA)", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "APP", 
+    "source_id": 8, 
+    "acronym_id": 4904, 
+    "expansion": "Attitude Planning and Prediction", 
     "source": "MAF-SMA"
   }, 
   {
@@ -1767,7 +1816,7 @@
     "abbreviation": "AoA", 
     "source_id": 8, 
     "acronym_id": 2728, 
-    "expansion": "Abort Once Around??", 
+    "expansion": "Abort Once Around", 
     "source": "MAF-SMA"
   }, 
   {
@@ -1869,6 +1918,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "BDA", 
+    "source_id": 8, 
+    "acronym_id": 4891, 
+    "expansion": "Bermuda Antenna", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "BDEALS", 
     "source_id": 8, 
     "acronym_id": 22, 
@@ -1960,6 +2016,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "BIH", 
+    "source_id": 8, 
+    "acronym_id": 4923, 
+    "expansion": "Built-in-Holds Planned During Launch Countdown Sequence", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "BIT", 
     "source_id": 8, 
     "acronym_id": 581, 
@@ -2034,6 +2097,13 @@
     "source_id": 8, 
     "acronym_id": 1624, 
     "expansion": "Best Management Practices", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "BMP", 
+    "source_id": 8, 
+    "acronym_id": 4865, 
+    "expansion": "BITE Monitor Partition Mode", 
     "source": "MAF-SMA"
   }, 
   {
@@ -2146,6 +2216,13 @@
     "source_id": 8, 
     "acronym_id": 2483, 
     "expansion": "Blanket Purchase Agreement", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "BPCT", 
+    "source_id": 8, 
+    "acronym_id": 4910, 
+    "expansion": "Branch Priority Configuration Table", 
     "source": "MAF-SMA"
   }, 
   {
@@ -2968,6 +3045,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "CCR", 
+    "source_id": 8, 
+    "acronym_id": 4915, 
+    "expansion": "Cross Channel Restart Software Mode", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "CCRS", 
     "source_id": 8, 
     "acronym_id": 2868, 
@@ -3245,6 +3329,13 @@
     "source_id": 8, 
     "acronym_id": 40, 
     "expansion": "Customer Expectation Agreement (Boeing/Ap Status List)", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "CEASE", 
+    "source_id": 8, 
+    "acronym_id": 4869, 
+    "expansion": "CATASTROPHIC EVENT ABORT SWITCH ELECTRONICS (CEASE) Management", 
     "source": "MAF-SMA"
   }, 
   {
@@ -5341,6 +5432,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "DAR", 
+    "source_id": 8, 
+    "acronym_id": 4920, 
+    "expansion": "Data Archive Report Collected by HOSC", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "DART", 
     "source_id": 8, 
     "acronym_id": 3060, 
@@ -5401,6 +5499,13 @@
     "source_id": 8, 
     "acronym_id": 3063, 
     "expansion": "Data Acquisition and Video Integrated System", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "DAX", 
+    "source_id": 8, 
+    "acronym_id": 4921, 
+    "expansion": "Data Archive eXplorer", 
     "source": "MAF-SMA"
   }, 
   {
@@ -5656,6 +5761,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "DEE", 
+    "source_id": 8, 
+    "acronym_id": 4900, 
+    "expansion": "Downrange Entry Evaluator (DEE) Processing", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "DEM", 
     "source_id": 8, 
     "acronym_id": 696, 
@@ -5740,6 +5852,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "DFTO", 
+    "source_id": 8, 
+    "acronym_id": 4867, 
+    "expansion": "Development Flight Test Objectives", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "DFUM", 
     "source_id": 8, 
     "acronym_id": 3096, 
@@ -5751,6 +5870,13 @@
     "source_id": 8, 
     "acronym_id": 3097, 
     "expansion": "Designated Governing Authority", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "DGS", 
+    "source_id": 8, 
+    "acronym_id": 4894, 
+    "expansion": "Diego Garcia Tracking Station AFSCN", 
     "source": "MAF-SMA"
   }, 
   {
@@ -7147,6 +7273,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "EI", 
+    "source_id": 8, 
+    "acronym_id": 4866, 
+    "expansion": "Entry Interface Target Line", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "EIA", 
     "source_id": 8, 
     "acronym_id": 756, 
@@ -7410,6 +7543,13 @@
     "source_id": 8, 
     "acronym_id": 766, 
     "expansion": "Emergency Management Plan", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "EMP", 
+    "source_id": 8, 
+    "acronym_id": 4903, 
+    "expansion": "Electronic Mass Properties", 
     "source": "MAF-SMA"
   }, 
   {
@@ -7938,6 +8078,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "ESD-MD", 
+    "source_id": 8, 
+    "acronym_id": 4922, 
+    "expansion": "Exploration Systems Development Management Directive ESD-MD-12029", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "ESDIS", 
     "source_id": 8, 
     "acronym_id": 3253, 
@@ -8155,6 +8302,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "ETCDEM", 
+    "source_id": 8, 
+    "acronym_id": 4906, 
+    "expansion": "Event Triggered Command Data Exchange Message", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "ETDP", 
     "source_id": 8, 
     "acronym_id": 3270, 
@@ -8264,6 +8418,13 @@
     "source_id": 8, 
     "acronym_id": 1967, 
     "expansion": "Extravehicular Activity", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "EVCF", 
+    "source_id": 8, 
+    "acronym_id": 4899, 
+    "expansion": "Eastern Vehicle Checkout Facility", 
     "source": "MAF-SMA"
   }, 
   {
@@ -9279,6 +9440,13 @@
     "source_id": 8, 
     "acronym_id": 146, 
     "expansion": "Facility Operating Procedure", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "FORP", 
+    "source_id": 8, 
+    "acronym_id": 4913, 
+    "expansion": "Fuel-Oxidizer Reaction Product Residue", 
     "source": "MAF-SMA"
   }, 
   {
@@ -10927,6 +11095,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "GTS", 
+    "source_id": 8, 
+    "acronym_id": 4897, 
+    "expansion": "Guam Tracking Station AFSCN", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "GUI", 
     "source_id": 8, 
     "acronym_id": 885, 
@@ -11190,6 +11365,13 @@
     "source_id": 8, 
     "acronym_id": 895, 
     "expansion": "Historically Black Colleges / Universities and Minority Institutions", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "HBK", 
+    "source_id": 8, 
+    "acronym_id": 4882, 
+    "expansion": "Hartebeesthoek, South Africa Tracking Site", 
     "source": "MAF-SMA"
   }, 
   {
@@ -12082,6 +12264,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "HTS", 
+    "source_id": 8, 
+    "acronym_id": 4896, 
+    "expansion": "Hawaii Tracking Station AFSCN", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "HTSOS", 
     "source_id": 8, 
     "acronym_id": 1796, 
@@ -12814,6 +13003,13 @@
     "source_id": 8, 
     "acronym_id": 3591, 
     "expansion": "Initiator Firing Circuit (See Also FIC)", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "IFHX", 
+    "source_id": 8, 
+    "acronym_id": 4919, 
+    "expansion": "InterFace Heat eXchanger Is Part of the Orion Radiator Loop", 
     "source": "MAF-SMA"
   }, 
   {
@@ -17038,6 +17234,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "METAR", 
+    "source_id": 8, 
+    "acronym_id": 4879, 
+    "expansion": "Surface Meteorological Airways", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "MEVV", 
     "source_id": 8, 
     "acronym_id": 3912, 
@@ -18606,6 +18809,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "NASCOM", 
+    "source_id": 8, 
+    "acronym_id": 4889, 
+    "expansion": "NASA Communications Mission Netwrok", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "NASM", 
     "source_id": 8, 
     "acronym_id": 2131, 
@@ -18777,7 +18987,7 @@
     "abbreviation": "NE", 
     "source_id": 8, 
     "acronym_id": 4020, 
-    "expansion": "KSC Engineering Directorate", 
+    "expansion": "Natural Environments", 
     "source": "MAF-SMA"
   }, 
   {
@@ -18806,6 +19016,13 @@
     "source_id": 8, 
     "acronym_id": 2137, 
     "expansion": "Non-Explosive Initiator", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "NEMA", 
+    "source_id": 8, 
+    "acronym_id": 4852, 
+    "expansion": "Natural Environment Mission Analysis", 
     "source": "MAF-SMA"
   }, 
   {
@@ -18995,6 +19212,13 @@
     "source_id": 8, 
     "acronym_id": 2144, 
     "expansion": "NASA Handbook", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "NHS", 
+    "source_id": 8, 
+    "acronym_id": 4893, 
+    "expansion": "New Hampshire Tracking Station AFSCN", 
     "source": "MAF-SMA"
   }, 
   {
@@ -19247,6 +19471,13 @@
     "source_id": 8, 
     "acronym_id": 4053, 
     "expansion": "Network Program Requirements Document", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "NPRV", 
+    "source_id": 8, 
+    "acronym_id": 4917, 
+    "expansion": "Negative Pressure Relief Valve", 
     "source": "MAF-SMA"
   }, 
   {
@@ -19845,6 +20076,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "ODL", 
+    "source_id": 8, 
+    "acronym_id": 4916, 
+    "expansion": "Onboard Data Loader", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "ODMS", 
     "source_id": 8, 
     "acronym_id": 2520, 
@@ -20216,10 +20454,24 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "OMSe", 
+    "source_id": 8, 
+    "acronym_id": 4876, 
+    "expansion": "Orbital Maneuvering System Engine", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "OMb", 
     "source_id": 8, 
     "acronym_id": 1697, 
     "expansion": "Office of Management and Budget", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "OOR", 
+    "source_id": 8, 
+    "acronym_id": 4918, 
+    "expansion": "Out of Range", 
     "source": "MAF-SMA"
   }, 
   {
@@ -21238,6 +21490,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "PCAs", 
+    "source_id": 8, 
+    "acronym_id": 4912, 
+    "expansion": "Pressure Control Assemblies", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "PCB", 
     "source_id": 8, 
     "acronym_id": 346, 
@@ -21249,6 +21508,13 @@
     "source_id": 8, 
     "acronym_id": 4203, 
     "expansion": "Project Control Board", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PCC", 
+    "source_id": 8, 
+    "acronym_id": 4853, 
+    "expansion": "Processing Control Center", 
     "source": "MAF-SMA"
   }, 
   {
@@ -21291,6 +21557,13 @@
     "source_id": 8, 
     "acronym_id": 1207, 
     "expansion": "Peripheral Component Interconnect", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PCL", 
+    "source_id": 8, 
+    "acronym_id": 4868, 
+    "expansion": "Permanent Communication Loss", 
     "source": "MAF-SMA"
   }, 
   {
@@ -21441,6 +21714,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "PDL", 
+    "source_id": 8, 
+    "acronym_id": 4890, 
+    "expansion": "Ponce De Leon RF Antenna Located 35 Miles North of KSC", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "PDLM", 
     "source_id": 8, 
     "acronym_id": 4215, 
@@ -21564,6 +21844,13 @@
     "source_id": 8, 
     "acronym_id": 4227, 
     "expansion": "Preliminary Element Design Review", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PEG", 
+    "source_id": 8, 
+    "acronym_id": 4907, 
+    "expansion": "Powered Explicit Guidance", 
     "source": "MAF-SMA"
   }, 
   {
@@ -22564,6 +22851,13 @@
     "abbreviation": "PRACA", 
     "source_id": 8, 
     "acronym_id": 375, 
+    "expansion": "Problem Resolution and Corrective Action", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PRACA", 
+    "source_id": 8, 
+    "acronym_id": 4283, 
     "expansion": "Problem Reporting and Corrective Action", 
     "source": "MAF-SMA"
   }, 
@@ -22712,6 +23006,13 @@
     "source_id": 8, 
     "acronym_id": 4295, 
     "expansion": "Problem Resolution Team", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PRU", 
+    "source_id": 8, 
+    "acronym_id": 4911, 
+    "expansion": "Pressure Regulation Unit", 
     "source": "MAF-SMA"
   }, 
   {
@@ -23104,6 +23405,13 @@
     "source_id": 8, 
     "acronym_id": 1266, 
     "expansion": "Power Transfer Switch", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PTT", 
+    "source_id": 8, 
+    "acronym_id": 4872, 
+    "expansion": "Push to Talk", 
     "source": "MAF-SMA"
   }, 
   {
@@ -25004,6 +25312,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "RTVMS", 
+    "source_id": 8, 
+    "acronym_id": 4908, 
+    "expansion": "Real Time Vibration Monitoring System", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "RTW", 
     "source_id": 8, 
     "acronym_id": 1751, 
@@ -25186,6 +25501,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "SAC", 
+    "source_id": 8, 
+    "acronym_id": 4854, 
+    "expansion": "SLS Action Center", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "SACOM", 
     "source_id": 8, 
     "acronym_id": 1753, 
@@ -25291,6 +25613,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "SANSA", 
+    "source_id": 8, 
+    "acronym_id": 4887, 
+    "expansion": "South African National Space Agency", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "SAP", 
     "source_id": 8, 
     "acronym_id": 1334, 
@@ -25372,6 +25701,13 @@
     "source_id": 8, 
     "acronym_id": 4469, 
     "expansion": "Software Avionics Test Orchestration and Command and Messaging", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SAWs", 
+    "source_id": 8, 
+    "acronym_id": 4875, 
+    "expansion": "Solar Array Wings", 
     "source": "MAF-SMA"
   }, 
   {
@@ -25767,6 +26103,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "SDO", 
+    "source_id": 8, 
+    "acronym_id": 4914, 
+    "expansion": "Solenoid Drive Output", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "SDP", 
     "source_id": 8, 
     "acronym_id": 429, 
@@ -25777,7 +26120,7 @@
     "abbreviation": "SDQC", 
     "source_id": 8, 
     "acronym_id": 2422, 
-    "expansion": "Sensor Data Qualification  and Consolidation (Reasonablenes Check)", 
+    "expansion": "Sensor Data Qualification and Consolidation Logic Performs Qualification Checks on the Sensors", 
     "source": "MAF-SMA"
   }, 
   {
@@ -26495,6 +26838,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "SLT", 
+    "source_id": 8, 
+    "acronym_id": 4855, 
+    "expansion": "Support Launch Team", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "SM", 
     "source_id": 8, 
     "acronym_id": 1380, 
@@ -26506,6 +26856,13 @@
     "source_id": 8, 
     "acronym_id": 4538, 
     "expansion": "Service Module", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SM RCS", 
+    "source_id": 8, 
+    "acronym_id": 4877, 
+    "expansion": "Sevice Module (SM) Reaction Control System (RCS)", 
     "source": "MAF-SMA"
   }, 
   {
@@ -26646,6 +27003,13 @@
     "source_id": 8, 
     "acronym_id": 2274, 
     "expansion": "Small Explorer", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SMG", 
+    "source_id": 8, 
+    "acronym_id": 4862, 
+    "expansion": "Spaceflight Meteorology Group", 
     "source": "MAF-SMA"
   }, 
   {
@@ -26856,6 +27220,13 @@
     "source_id": 8, 
     "acronym_id": 452, 
     "expansion": "Separator Plumbing Assembly (ECLSS)", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SPAN", 
+    "source_id": 8, 
+    "acronym_id": 4856, 
+    "expansion": "Spacecraft Analysis", 
     "source": "MAF-SMA"
   }, 
   {
@@ -27108,6 +27479,13 @@
     "source_id": 8, 
     "acronym_id": 4577, 
     "expansion": "Schedule Risk Analysis", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SRAG", 
+    "source_id": 8, 
+    "acronym_id": 4863, 
+    "expansion": "Space Radiation Analysis Group", 
     "source": "MAF-SMA"
   }, 
   {
@@ -27374,6 +27752,13 @@
     "source_id": 8, 
     "acronym_id": 463, 
     "expansion": "Stennis Space Center", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SSC", 
+    "source_id": 8, 
+    "acronym_id": 4886, 
+    "expansion": "Swedish Space Corporation", 
     "source": "MAF-SMA"
   }, 
   {
@@ -27811,6 +28196,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "StE", 
+    "source_id": 8, 
+    "acronym_id": 4857, 
+    "expansion": "Structures and Environments", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "T&CD", 
     "source_id": 8, 
     "acronym_id": 4623, 
@@ -27934,6 +28326,13 @@
     "source_id": 8, 
     "acronym_id": 1577, 
     "expansion": "Transformative Aeronautics Concepts Program", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "TACs", 
+    "source_id": 8, 
+    "acronym_id": 4873, 
+    "expansion": "TVC Actuator Controllers", 
     "source": "MAF-SMA"
   }, 
   {
@@ -28189,6 +28588,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "TCS", 
+    "source_id": 8, 
+    "acronym_id": 4895, 
+    "expansion": "Oakhangar Tracking Station AFSCN", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "TD", 
     "source_id": 8, 
     "acronym_id": 1436, 
@@ -28403,6 +28809,13 @@
     "source_id": 8, 
     "acronym_id": 1445, 
     "expansion": "Team Execution Plan", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "TFF", 
+    "source_id": 8, 
+    "acronym_id": 4871, 
+    "expansion": "Time of Free Fall", 
     "source": "MAF-SMA"
   }, 
   {
@@ -28945,6 +29358,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "TRJCOMPS", 
+    "source_id": 8, 
+    "acronym_id": 4901, 
+    "expansion": "Trajectory Computations Processing", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "TRL", 
     "source_id": 8, 
     "acronym_id": 1463, 
@@ -29190,6 +29610,20 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "TTS", 
+    "source_id": 8, 
+    "acronym_id": 4878, 
+    "expansion": "Tail to Sun", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "TTS", 
+    "source_id": 8, 
+    "acronym_id": 4898, 
+    "expansion": "Thule Tracking Station AFSCN", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "TTSS", 
     "source_id": 8, 
     "acronym_id": 4716, 
@@ -29302,6 +29736,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "Traj", 
+    "source_id": 8, 
+    "acronym_id": 4924, 
+    "expansion": "Trajectory", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "U.S.", 
     "source_id": 8, 
     "acronym_id": 1482, 
@@ -29358,6 +29799,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "UAS", 
+    "source_id": 8, 
+    "acronym_id": 4874, 
+    "expansion": "Untargeted Abort Splashdown", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "UAV", 
     "source_id": 8, 
     "acronym_id": 2308, 
@@ -29383,6 +29831,13 @@
     "source_id": 8, 
     "acronym_id": 4726, 
     "expansion": "Use Case Analysis Task", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "UCR", 
+    "source_id": 8, 
+    "acronym_id": 4858, 
+    "expansion": "Unsatisfactory Condition Report", 
     "source": "MAF-SMA"
   }, 
   {
@@ -29432,6 +29887,13 @@
     "source_id": 8, 
     "acronym_id": 2311, 
     "expansion": "Universal Documentation System", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "UDS", 
+    "source_id": 8, 
+    "acronym_id": 4884, 
+    "expansion": " Usuda, Japan Tracking Site", 
     "source": "MAF-SMA"
   }, 
   {
@@ -29694,6 +30156,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "USC", 
+    "source_id": 8, 
+    "acronym_id": 4885, 
+    "expansion": "Uchinoura, Japan Tracking Site", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "USE", 
     "source_id": 8, 
     "acronym_id": 501, 
@@ -29722,9 +30191,23 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "USS", 
+    "source_id": 8, 
+    "acronym_id": 4905, 
+    "expansion": "Upper Stage Separation", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "USSTRATC OM", 
     "source_id": 8, 
     "acronym_id": 2321, 
+    "expansion": "United States Strategic Command", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "USSTRATCOM", 
+    "source_id": 8, 
+    "acronym_id": 4902, 
     "expansion": "United States Strategic Command", 
     "source": "MAF-SMA"
   }, 
@@ -29932,10 +30415,31 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "VAHIRR", 
+    "source_id": 8, 
+    "acronym_id": 4880, 
+    "expansion": "Volume-Averaged, Height-Integrated Radar Reflectivity", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "VALOR", 
+    "source_id": 8, 
+    "acronym_id": 4859, 
+    "expansion": "Vehicle Accent Launch Operations Room", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "VAR", 
     "source_id": 8, 
     "acronym_id": 1675, 
     "expansion": "Variance", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "VARR", 
+    "source_id": 8, 
+    "acronym_id": 4881, 
+    "expansion": "Volume-Averaged Radar Reflectivity", 
     "source": "MAF-SMA"
   }, 
   {
@@ -30275,6 +30779,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "VMSR", 
+    "source_id": 8, 
+    "acronym_id": 4860, 
+    "expansion": "Vehicle Management Support Room", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "VMTI", 
     "source_id": 8, 
     "acronym_id": 514, 
@@ -30552,6 +31063,13 @@
     "source_id": 8, 
     "acronym_id": 4793, 
     "expansion": "Vertical Transportation Fixture", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "VTS", 
+    "source_id": 8, 
+    "acronym_id": 4892, 
+    "expansion": "Vandenberg Tracking Station AFSCN", 
     "source": "MAF-SMA"
   }, 
   {
