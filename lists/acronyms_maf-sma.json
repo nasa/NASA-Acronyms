@@ -11970,6 +11970,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "HOSC", 
+    "source_id": 8, 
+    "acronym_id": 4924, 
+    "expansion": "Higher Order Surge Cavitation Engine Induced Environments", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "HOTH", 
     "source_id": 8, 
     "acronym_id": 3518, 
