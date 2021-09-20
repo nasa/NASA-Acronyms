@@ -2170,6 +2170,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "BOK", 
+    "source_id": 8, 
+    "acronym_id": 4925, 
+    "expansion": "Body of Knowledge", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "BOLE", 
     "source_id": 8, 
     "acronym_id": 1766, 
@@ -21844,6 +21851,13 @@
     "source_id": 8, 
     "acronym_id": 4225, 
     "expansion": "Pyrotechnic Event Controller", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PECE", 
+    "source_id": 8, 
+    "acronym_id": 4928, 
+    "expansion": "Program Engineering Collaborative Enviroment?", 
     "source": "MAF-SMA"
   }, 
   {
