@@ -119,6 +119,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "CAUTION", 
+    "source_id": 0, 
+    "acronym_id": 210, 
+    "expansion": "CoAtings for Ultra High Temperature DetectION", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "CBC", 
     "source_id": 0, 
     "acronym_id": 145, 
@@ -130,6 +137,13 @@
     "source_id": 0, 
     "acronym_id": 7, 
     "expansion": "Current Best Estimate", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "CCC", 
+    "source_id": 0, 
+    "acronym_id": 215, 
+    "expansion": "Communications Coordinating Council", 
     "source": "buffer"
   }, 
   {
@@ -256,6 +270,13 @@
     "source_id": 0, 
     "acronym_id": 196, 
     "expansion": "Cybersecurity & Privacy Division", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "CWP", 
+    "source_id": 0, 
+    "acronym_id": 207, 
+    "expansion": "Collaborative Work Plan", 
     "source": "buffer"
   }, 
   {
@@ -389,6 +410,13 @@
     "source_id": 0, 
     "acronym_id": 11, 
     "expansion": "Electrical Interface Control Document", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "ELA", 
+    "source_id": 0, 
+    "acronym_id": 209, 
+    "expansion": "Enterprise License Agreement", 
     "source": "buffer"
   }, 
   {
@@ -536,6 +564,13 @@
     "source_id": 0, 
     "acronym_id": 178, 
     "expansion": "Formation Flying Testbed", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "FHS", 
+    "source_id": 0, 
+    "acronym_id": 206, 
+    "expansion": "Flight Hardware Supplies", 
     "source": "buffer"
   }, 
   {
@@ -959,6 +994,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "NIRCam", 
+    "source_id": 0, 
+    "acronym_id": 212, 
+    "expansion": "Near InfraRed Camera", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "NOD", 
     "source_id": 0, 
     "acronym_id": 107, 
@@ -1127,6 +1169,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "PRESTO", 
+    "source_id": 0, 
+    "acronym_id": 214, 
+    "expansion": "Profile Envision and Splice Tool", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "PSAT", 
     "source_id": 0, 
     "acronym_id": 78, 
@@ -1138,6 +1187,13 @@
     "source_id": 0, 
     "acronym_id": 40, 
     "expansion": "Position Sensitive Diode (or Detector)", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PSR", 
+    "source_id": 0, 
+    "acronym_id": 208, 
+    "expansion": "Program Support Rate", 
     "source": "buffer"
   }, 
   {
@@ -1365,6 +1421,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "TVS", 
+    "source_id": 0, 
+    "acronym_id": 213, 
+    "expansion": "Thermodynamic Vent System", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "TWSC", 
     "source_id": 0, 
     "acronym_id": 159, 
@@ -1376,6 +1439,13 @@
     "source_id": 0, 
     "acronym_id": 50, 
     "expansion": "Universal Asynchronous Receiver Transmitter", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "USSF", 
+    "source_id": 0, 
+    "acronym_id": 211, 
+    "expansion": "United States Space Force", 
     "source": "buffer"
   }, 
   {
