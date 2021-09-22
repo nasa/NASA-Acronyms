@@ -63,6 +63,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "ASCS", 
+    "source_id": 0, 
+    "acronym_id": 217, 
+    "expansion": "Agency Security Configuration Standards", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "ASDS", 
     "source_id": 0, 
     "acronym_id": 148, 
@@ -81,6 +88,13 @@
     "source_id": 0, 
     "acronym_id": 77, 
     "expansion": "Break of Configuration", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "BPOC", 
+    "source_id": 0, 
+    "acronym_id": 216, 
+    "expansion": "Booster Production and Operations Contract", 
     "source": "buffer"
   }, 
   {
