@@ -861,6 +861,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "MEAC", 
+    "source_id": 0, 
+    "acronym_id": 218, 
+    "expansion": "Manufacturing Engineering Advanced Coordination", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "MEB", 
     "source_id": 0, 
     "acronym_id": 28, 
