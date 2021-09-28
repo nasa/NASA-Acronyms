@@ -812,6 +812,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "MAHLI", 
+    "source_id": 0, 
+    "acronym_id": 221, 
+    "expansion": "Mars Hand Lens Imager", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "MAL", 
     "source_id": 0, 
     "acronym_id": 92, 
@@ -1323,6 +1330,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "SHERLOC", 
+    "source_id": 0, 
+    "acronym_id": 219, 
+    "expansion": "Scanning Habitable Environments with Raman and Luminescence for Organics and Chemicals", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "SIP", 
     "source_id": 0, 
     "acronym_id": 138, 
@@ -1502,6 +1516,13 @@
     "source_id": 0, 
     "acronym_id": 134, 
     "expansion": "Vehicle Systems Integration", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "WATSON", 
+    "source_id": 0, 
+    "acronym_id": 220, 
+    "expansion": "Wide Angle Topographic Sensor for Operations and eNgineering ", 
     "source": "buffer"
   }, 
   {
