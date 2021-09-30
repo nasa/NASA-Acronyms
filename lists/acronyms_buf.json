@@ -364,6 +364,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "EBOT", 
+    "source_id": 0, 
+    "acronym_id": 222, 
+    "expansion": "EVA Battery Operations Terminal", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "EBSD", 
     "source_id": 0, 
     "acronym_id": 169, 
