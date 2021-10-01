@@ -1554,6 +1554,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "WIO", 
+    "source_id": 0, 
+    "acronym_id": 223, 
+    "expansion": "Wind-Induced Oscillation", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "XRD", 
     "source_id": 0, 
     "acronym_id": 172, 
