@@ -16527,6 +16527,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "LVTO", 
+    "source_id": 8, 
+    "acronym_id": 4930, 
+    "expansion": "Launch Vehicle Technical Operations (TOSC)", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "LWD", 
     "source_id": 8, 
     "acronym_id": 2089, 
@@ -20297,6 +20304,13 @@
     "source_id": 8, 
     "acronym_id": 2175, 
     "expansion": "Office of International and Interagency Relations", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "OIR", 
+    "source_id": 8, 
+    "acronym_id": 4931, 
+    "expansion": "Unknown (TOSC Related)", 
     "source": "MAF-SMA"
   }, 
   {
