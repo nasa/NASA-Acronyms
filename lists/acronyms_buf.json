@@ -665,6 +665,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "HAR", 
+    "source_id": 0, 
+    "acronym_id": 224, 
+    "expansion": "Hardware Acceptance Review", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "HARRC", 
     "source_id": 0, 
     "acronym_id": 23, 
