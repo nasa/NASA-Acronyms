@@ -25354,6 +25354,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "RTV", 
+    "source_id": 8, 
+    "acronym_id": 4933, 
+    "expansion": "Return to Vendor", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "RTVMS", 
     "source_id": 8, 
     "acronym_id": 4907, 
@@ -29607,6 +29614,13 @@
     "source_id": 8, 
     "acronym_id": 1473, 
     "expansion": "Test Technician", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "TT&E", 
+    "source_id": 8, 
+    "acronym_id": 4932, 
+    "expansion": "Test, Teardown & Evaluation (TOSC)", 
     "source": "MAF-SMA"
   }, 
   {
