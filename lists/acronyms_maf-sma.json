@@ -19096,6 +19096,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "NEST", 
+    "source_id": 8, 
+    "acronym_id": 4934, 
+    "expansion": "NASA End User SErvices & Technology", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "NEW", 
     "source_id": 8, 
     "acronym_id": 2139, 
