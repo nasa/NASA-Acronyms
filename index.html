@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs5/jq-3.6.0/jszip-2.5.0/dt-1.11.3/af-2.3.7/b-2.0.1/b-colvis-2.0.1/b-html5-2.0.1/b-print-2.0.1/cr-1.5.4/date-1.1.1/fc-4.0.0/fh-3.2.0/kt-2.6.4/r-2.2.9/rg-1.1.3/rr-1.2.8/sc-2.0.5/sb-1.2.2/sp-1.4.0/sl-1.3.3/datatables.min.css" />
+
+    <link href="favicon.ico" rel="icon">
+    <style>
+        body {
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            padding: 50px 0 0 0;
+        }
+
+        .loading {
+            width: 100%;
+            height: 100%;
+            background: #000;
+            position: absolute;
+            z-index: 999;
+            opacity: 0.5;
+        }
+
+        .centered {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .lds-ellipsis {
+            display: inline-block;
+            position: relative;
+            width: 80px;
+            height: 80px;
+        }
+
+        .lds-ellipsis div {
+            position: absolute;
+            top: 33px;
+            width: 13px;
+            height: 13px;
+            border-radius: 50%;
+            background: #dfc;
+            animation-timing-function: cubic-bezier(0, 1, 1, 0);
+        }
+
+        .lds-ellipsis div:nth-child(1) {
+            left: 8px;
+            animation: lds-ellipsis1 0.6s infinite;
+        }
+
+        .lds-ellipsis div:nth-child(2) {
+            left: 8px;
+            animation: lds-ellipsis2 0.6s infinite;
+        }
+
+        .lds-ellipsis div:nth-child(3) {
+            left: 32px;
+            animation: lds-ellipsis2 0.6s infinite;
+        }
+
+        .lds-ellipsis div:nth-child(4) {
+            left: 56px;
+            animation: lds-ellipsis3 0.6s infinite;
+        }
+
+        @keyframes lds-ellipsis1 {
+            0% {
+                transform: scale(0);
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        @keyframes lds-ellipsis3 {
+            0% {
+                transform: scale(1);
+            }
+
+            100% {
+                transform: scale(0);
+            }
+        }
+
+        @keyframes lds-ellipsis2 {
+            0% {
+                transform: translate(0, 0);
+            }
+
+            100% {
+                transform: translate(24px, 0);
+            }
+        }
+
+        .header {
+            margin-bottom: 10px;
+        }
+
+        .dt-buttons {
+            float: left;
+            margin-top: 40px;
+        }
+
+        .logo {
+            float: right;
+        }
+    </style>
+    <title>Nasa Acronyms</title>
+</head>
+
+<body>
+    <div class="loading">
+        <div class="centered">
+            <img src="loading.gif"><br>
+            <div class="lds-ellipsis centered">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="header">
+            <div id="placeButtons" class="dt-buttons"></div>
+            <div id="placeLogo" class="logo">
+                <a href="https://nasa.gov" title="nasa.gov" target="_blank">
+                    <img
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NASA_Worm_logo.svg/320px-NASA_Worm_logo.svg.png">
+                </a>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="row">
+            <div class="table-responsive">
+                <table class="table table-hover table-striped" style="width:100%">
+                    <caption>Nasa Acronyms</caption>
+                    <thead>
+                        <tr>
+                            <th>Abbreviation</th>
+                            <th>SourceId</th>
+                            <th>AcronymId</th>
+                            <th>Expansion</th>
+                            <th>Source</th>
+                        </tr>
+                    </thead>
+                    <tfoot>
+                        <tr>
+                            <th>Abbreviation</th>
+                            <th>SourceId</th>
+                            <th>AcronymId</th>
+                            <th>Expansion</th>
+                            <th>Source</th>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.1/js/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/bs5/jq-3.6.0/jszip-2.5.0/dt-1.11.3/af-2.3.7/b-2.0.1/b-colvis-2.0.1/b-html5-2.0.1/b-print-2.0.1/cr-1.5.4/date-1.1.1/fc-4.0.0/fh-3.2.0/kt-2.6.4/r-2.2.9/rg-1.1.3/rr-1.2.8/sc-2.0.5/sb-1.2.2/sp-1.4.0/sl-1.3.3/datatables.min.js"></script>
+    <script>
+        const table = $("table");
+        const loading = $(".loading")[0];
+        const header = $(".header");
+        const placeButtons = document.getElementById("placeButtons");
+        const placeLogo = document.getElementById("placeLogo");
+        let buttons;
+
+        $(document).ready(function () {
+            $.getJSON('https://raw.githubusercontent.com/nasa/NASA-Acronyms/master/lists/acronyms.json', function (data) {
+                table.DataTable({
+                    data: data,
+                    columns: [
+                        { data: 'abbreviation' },
+                        { data: 'source_id' },
+                        { data: 'acronym_id' },
+                        { data: 'expansion' },
+                        { data: 'source' }
+                    ],
+                    dom: 'Blfrtip',
+                    buttons: [
+                        'copy',
+                        'excel',
+                        'print',
+                        'pdf'
+                    ],
+                    "lengthMenu": [
+                        [100, 250, 500, 1000, -1],
+                        [100, 250, 500, 1000, "All"]
+                    ],
+                    "initComplete": function () {
+                        //debugger;
+                        const buttons = document.getElementsByClassName("dt-buttons btn-group flex-wrap")[0];
+                        placeButtons.innerHTML = buttons.innerHTML;
+                        buttons.style.display = "none";
+
+                        $("body").css("overflow", "auto");
+                        console.log(data);
+                        loading.style.display = "none";
+                    }
+                });
+            });
+        })
+    </script>
+</body>
+</html>
