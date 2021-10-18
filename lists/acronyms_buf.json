@@ -1120,6 +1120,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "OWI", 
+    "source_id": 0, 
+    "acronym_id": 225, 
+    "expansion": "Organizational Work Instruction", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "PAA", 
     "source_id": 0, 
     "acronym_id": 116, 
