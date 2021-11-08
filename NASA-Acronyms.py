@@ -25,7 +25,7 @@ if "acronyms.json" not in os.listdir(os.getcwd()):
         fd.write(json_data)
 
 
-with open("acronyms.json") as fd: 
+with open("acronyms.json") as fd:
     json_data = fd.read()
 
 
@@ -53,7 +53,7 @@ def deAcronym(string:str) -> str:
       ...
     AttributeError: 'list' object has no attribute 'split'
     >>> deAcronym('ASF')
-    'Alaska SAR Facility'
+    'Application Services Framework'
     >>> deAcronym('DSFW$')
     'DSFW$'
     '''
@@ -73,7 +73,7 @@ if __name__ == "__main__":
     # Let's run some tests
     import doctest
     doctest.testmod()
-    
+
     text ="""
     NASA was established in 1958, succeeding the National Advisory
     Committee for Aeronautics (NACA). The new agency was to have a distinctly
@@ -87,4 +87,3 @@ if __name__ == "__main__":
     unmanned NASA launches.
     """
     print(deAcronym(text))
-
