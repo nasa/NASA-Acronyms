@@ -1001,6 +1001,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "MPL", 
+    "source_id": 0, 
+    "acronym_id": 227, 
+    "expansion": "Mission Planning Lab", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "MRR", 
     "source_id": 0, 
     "acronym_id": 35, 
@@ -1502,6 +1509,13 @@
     "source_id": 0, 
     "acronym_id": 211, 
     "expansion": "United States Space Force", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "VDS", 
+    "source_id": 0, 
+    "acronym_id": 226, 
+    "expansion": "Vehicle Damper Subsystem", 
     "source": "buffer"
   }, 
   {
