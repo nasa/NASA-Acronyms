@@ -1,89 +1,99 @@
+#!/usr/bin/env python3
+
 """
-Python implementation of NASA-Acronyms for usage
-in Natural Language Processing.
+A Python3 tool that uses the NASA-Acronym data. Type in acronyms to resolve.
 
-@author Syed Haseeb Shah
-
-python/black: passed
-mypy : passed
+Usage: python3 NASA-Acronyms.py ABC
 
 """
 
-import urllib.request
+import argparse
 import json
-import os
-from typing import List, IO
-
-# If the  .JSON doesn't exist download it from repository
-if "acronyms.json" not in os.listdir(os.getcwd()):
-    print("[!] Downloading Acronym.json database.")
-    req = urllib.request.urlopen(
-        "https://raw.githubusercontent.com/nasa/NASA-Acronyms/master/acronyms.json"
-    )
-    json_data = req.read()
-    with open("acronyms.json", "wb") as fd: #type: IO
-        fd.write(json_data)
+import string
+import sys
+import traceback
 
 
-with open("acronyms.json") as fd:
-    json_data = fd.read()
+ACRONYMS = 'acronyms to resolve'
+INPUT = 'Enter an acronym to resolve, use <Ctrl+C> or empty string to exit.\n'
+SUMMARY = 'Expand NASA acronyms to their long values'
+VERBOSITY_LEVEL = 'the level of verbosity of output'
 
+acronym_path = 'lists/acronyms.json'
+verbosity_level = 0
 
+# Read from the acronym data file.
+with open(acronym_path) as reader:
+    json_data = reader.read()
+# Load the JSON data into python object.
 data = json.loads(json_data)
-keys = [entry["abbreviation"] for entry in data]
-values = [entry["expansion"] for entry in data]
 
 
-def deAcronym(string:str) -> str:
-    '''
-    >>> deAcronym('NASA')
-    'National Aeronautics and Space Administration'
-    >>> deAcronym('NAPA')
-    'National Academy of Public Administration'
-    >>> deAcronym(35)
-    Traceback (most recent call last):
-      ...
-    AttributeError: 'int' object has no attribute 'split'
-    >>> deAcronym([1,32,'NASA'])
-    Traceback (most recent call last):
-      ...
-    AttributeError: 'list' object has no attribute 'split'
-    >>> deAcronym(['NASA', 'NAPA'])
-    Traceback (most recent call last):
-      ...
-    AttributeError: 'list' object has no attribute 'split'
-    >>> deAcronym('ASF')
-    'Application Services Framework'
-    >>> deAcronym('DSFW$')
-    'DSFW$'
-    '''
-    lines = string.split("\n")
-    words :List[str]= []
-    for line in lines:
-        words += line.split(" ")
+def command_line():
+    """Parse the arguments from the command line."""
+    global verbosity_level
+    parser = argparse.ArgumentParser(description=SUMMARY)
+    parser.add_argument('-v', '--verbose', action='count',
+                        default=verbosity_level, help=VERBOSITY_LEVEL)
+    parser.add_argument('acronyms', help=ACRONYMS, nargs='+')
+    arguments = parser.parse_args()
+    verbosity_level = arguments.verbose
+    print_results(process(arguments.acronyms))
 
+
+def deacronym(acronym):
+    """Find all the values for this acronym token."""
+    results = []
+    for item in data:
+        # Casefolded strings can be used for caseless matching.
+        if acronym == item['abbreviation'].casefold():
+            result = "{:<60}".format(item['expansion'])
+            if verbosity_level > 0:
+                result += ' {:<9}'.format(item['source'])
+            if verbosity_level > 1:
+                result += ' {:<5}'.format(item['acronym_id'])
+            if verbosity_level > 2:
+                result += ' {:<3}'.format(item['source_id'])
+            results.append(result)
+    return results
+
+
+def interactive():
+    """Interactively prompt the user for acronyms."""
+    try:
+        value = None
+        while value != '':
+            value = input(INPUT)
+            print_results(process([value]))
+    except (KeyboardInterrupt, SystemExit):
+        print('\nUser has quit, exiting program.')
+        exit(2)
+    except Exception:
+        traceback.format_exc()
+        exit(1)
+
+
+def process(words):
+    """Convert the words to normalized tokens to search for acronyms."""
+    results = []
     for word in words:
-        if word in keys:
-            string = string.replace(word, values[keys.index(word)])
+        # Remove punctuation before and after each word
+        token = word.strip(string.punctuation)
+        # Casefolded strings may be used for caseless matching.
+        results += deacronym(token.casefold())
+    return results
 
-    return string
+
+def print_results(results):
+    """ Print the results in a standard format."""
+    for result in results:
+        print(result)
 
 
-if __name__ == "__main__":
-    # Let's run some tests
-    import doctest
-    doctest.testmod()
-
-    text ="""
-    NASA was established in 1958, succeeding the National Advisory
-    Committee for Aeronautics (NACA). The new agency was to have a distinctly
-    civilian orientation, encouraging peaceful applications in space science.[7][8][9]
-    Since its establishment, most US space exploration efforts have been led by NASA,
-    including the Apollo Moon landing missions, the Skylab space station, and later the
-    Space Shuttle. NASA is supporting the International Space Station and is overseeing
-    the development of the Orion Multi-Purpose Crew Vehicle, the Space Launch System
-    and Commercial Crew vehicles. The agency is also responsible for the Launch Services
-    Program which provides oversight of launch operations and countdown management for
-    unmanned NASA launches.
-    """
-    print(deAcronym(text))
+if __name__ == '__main__':
+    if len(sys.argv) > 1:
+        # Process the command line arguments.
+        command_line()
+    else:
+        # There are no arguments run interactive mode.
+        interactive()
