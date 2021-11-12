@@ -14091,6 +14091,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "ITIP", 
+    "source_id": 8, 
+    "acronym_id": 4939, 
+    "expansion": "In-Process Testing by the Supplier", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "ITL", 
     "source_id": 8, 
     "acronym_id": 3674, 
