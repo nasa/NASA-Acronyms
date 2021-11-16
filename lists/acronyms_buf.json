@@ -644,6 +644,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "GLOM", 
+    "source_id": 0, 
+    "acronym_id": 228, 
+    "expansion": "Gross Lift-Off Mass", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "GRLR", 
     "source_id": 0, 
     "acronym_id": 20, 
@@ -851,6 +858,13 @@
     "source_id": 0, 
     "acronym_id": 199, 
     "expansion": "Mars Aerial Research Vehicle", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "MATS", 
+    "source_id": 0, 
+    "acronym_id": 230, 
+    "expansion": "MTAG Automation Tool Suite", 
     "source": "buffer"
   }, 
   {
@@ -1155,6 +1169,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "PAXC", 
+    "source_id": 0, 
+    "acronym_id": 229, 
+    "expansion": "Promoting Agency Cross-Center Connections", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "PCB", 
     "source_id": 0, 
     "acronym_id": 36, 
@@ -1368,7 +1389,7 @@
     "abbreviation": "SIP", 
     "source_id": 0, 
     "acronym_id": 138, 
-    "expansion": " Session Initiation Protocol", 
+    "expansion": "Session Initiation Protocol", 
     "source": "buffer"
   }, 
   {
