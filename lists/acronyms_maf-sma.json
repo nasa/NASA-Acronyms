@@ -2317,6 +2317,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "BRV", 
+    "source_id": 8, 
+    "acronym_id": 4940, 
+    "expansion": "Bypass Relief Valve", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "BSHEALS", 
     "source_id": 8, 
     "acronym_id": 2806, 
@@ -2671,6 +2678,13 @@
     "source_id": 8, 
     "acronym_id": 2831, 
     "expansion": "Center Architectures Forum", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "CAF", 
+    "source_id": 8, 
+    "acronym_id": 4942, 
+    "expansion": "Consolidated Adjudications Facility", 
     "source": "MAF-SMA"
   }, 
   {
@@ -3406,6 +3420,13 @@
     "source_id": 8, 
     "acronym_id": 2886, 
     "expansion": "Carrier Ethernet Network", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "CEP", 
+    "source_id": 8, 
+    "acronym_id": 4943, 
+    "expansion": "Continuous Evaluation Program", 
     "source": "MAF-SMA"
   }, 
   {
@@ -9254,6 +9275,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "FIS", 
+    "source_id": 8, 
+    "acronym_id": 4941, 
+    "expansion": "Federal Investigative Standards", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "FISMA", 
     "source_id": 8, 
     "acronym_id": 1980, 
@@ -9692,6 +9720,13 @@
     "source_id": 8, 
     "acronym_id": 151, 
     "expansion": "Flight Readiness Analysis Cycle", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "FRACA", 
+    "source_id": 8, 
+    "acronym_id": 4945, 
+    "expansion": "Failure Reporting, Analysis and Corretive Action", 
     "source": "MAF-SMA"
   }, 
   {
@@ -22960,6 +22995,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "PRACAS", 
+    "source_id": 8, 
+    "acronym_id": 4946, 
+    "expansion": "Problem Reporting and Corrective Action System", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "PRB", 
     "source_id": 8, 
     "acronym_id": 2586, 
@@ -26341,6 +26383,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "SEAD-3", 
+    "source_id": 8, 
+    "acronym_id": 4944, 
+    "expansion": "Security Exectutive Agent Directive 3", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "SEB", 
     "source_id": 8, 
     "acronym_id": 1634, 
@@ -26611,6 +26660,13 @@
     "source_id": 8, 
     "acronym_id": 4509, 
     "expansion": "Safety, Health, Environmental, and Area Access", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SHELL-D", 
+    "source_id": 8, 
+    "acronym_id": 4947, 
+    "expansion": "Software, Hardware, Environment, Liveware (Team), Liveware (Individual) & Documents", 
     "source": "MAF-SMA"
   }, 
   {
