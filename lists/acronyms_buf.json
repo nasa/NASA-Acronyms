@@ -1,5 +1,12 @@
 [
   {
+    "abbreviation": "ABM", 
+    "source_id": 0, 
+    "acronym_id": 231, 
+    "expansion": "Absolute Boresight Metrology", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "ADAPTS", 
     "source_id": 0, 
     "acronym_id": 164, 
