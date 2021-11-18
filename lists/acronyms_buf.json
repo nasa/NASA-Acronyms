@@ -14,6 +14,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "AEGIS", 
+    "source_id": 0, 
+    "acronym_id": 233, 
+    "expansion": "Advanced Enterprise Global IT Solutions", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "AFF", 
     "source_id": 0, 
     "acronym_id": 143, 
@@ -102,6 +109,13 @@
     "source_id": 0, 
     "acronym_id": 216, 
     "expansion": "Booster Production and Operations Contract", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "BPS", 
+    "source_id": 0, 
+    "acronym_id": 232, 
+    "expansion": "Biological and Physical Sciences", 
     "source": "buffer"
   }, 
   {
