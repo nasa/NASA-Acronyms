@@ -476,6 +476,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "EPACS", 
+    "source_id": 0, 
+    "acronym_id": 234, 
+    "expansion": "Enterprise Physical Access Control System", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "EPPL", 
     "source_id": 0, 
     "acronym_id": 81, 
