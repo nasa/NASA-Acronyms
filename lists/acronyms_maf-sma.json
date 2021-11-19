@@ -2905,6 +2905,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "CB", 
+    "source_id": 8, 
+    "acronym_id": 4952, 
+    "expansion": "Certification Body for AS9100", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "CBA", 
     "source_id": 8, 
     "acronym_id": 2848, 
@@ -7357,6 +7364,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "EIDPs", 
+    "source_id": 8, 
+    "acronym_id": 4954, 
+    "expansion": "End Item Data Packages", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "EIE", 
     "source_id": 8, 
     "acronym_id": 3194, 
@@ -9741,6 +9755,13 @@
     "source_id": 8, 
     "acronym_id": 3344, 
     "expansion": "Failure Reporting, Analysis, and Corrective Action System", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "FRB", 
+    "source_id": 8, 
+    "acronym_id": 4948, 
+    "expansion": "Failure Review Board", 
     "source": "MAF-SMA"
   }, 
   {
@@ -12586,6 +12607,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "IAQG", 
+    "source_id": 8, 
+    "acronym_id": 4951, 
+    "expansion": "International Aerospace Quality Group", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "IAR", 
     "source_id": 8, 
     "acronym_id": 3542, 
@@ -12863,6 +12891,13 @@
     "source_id": 8, 
     "acronym_id": 3565, 
     "expansion": "Information and Configuration Management Working Group", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "ICOP", 
+    "source_id": 8, 
+    "acronym_id": 4953, 
+    "expansion": "Industry Controlled Other Party for AS9018 Process for CAR Oversight by CB", 
     "source": "MAF-SMA"
   }, 
   {
@@ -15865,7 +15900,7 @@
     "abbreviation": "LLIS", 
     "source_id": 8, 
     "acronym_id": 1539, 
-    "expansion": "Lessons Learned Information System", 
+    "expansion": "Lessons Learned Information System (https://llis.nasa.gov/)", 
     "source": "MAF-SMA"
   }, 
   {
@@ -19989,6 +20024,13 @@
     "source_id": 8, 
     "acronym_id": 319, 
     "expansion": "On Assembly Rework or Repair", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "OASIS", 
+    "source_id": 8, 
+    "acronym_id": 4950, 
+    "expansion": "Online Aerospace Supplier Information System to Store and Share Major NCs", 
     "source": "MAF-SMA"
   }, 
   {
@@ -30972,6 +31014,13 @@
     "source_id": 8, 
     "acronym_id": 1513, 
     "expansion": "Velocity of Detonation", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "VOE", 
+    "source_id": 8, 
+    "acronym_id": 4949, 
+    "expansion": "Verification of Effectiveness", 
     "source": "MAF-SMA"
   }, 
   {
