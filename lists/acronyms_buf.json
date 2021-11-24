@@ -560,6 +560,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "FDRA", 
+    "source_id": 0, 
+    "acronym_id": 235, 
+    "expansion": "Flight Dynamics Risk Assessment", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "FEB", 
     "source_id": 0, 
     "acronym_id": 16, 
