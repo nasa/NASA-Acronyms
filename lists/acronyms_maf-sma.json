@@ -6629,6 +6629,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "E-MTTC", 
+    "source_id": 8, 
+    "acronym_id": 4956, 
+    "expansion": "Eastern NASA Manufacturing Technology Transfer Center (Goddard)", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "E-NMTTC", 
     "source_id": 8, 
     "acronym_id": 1949, 
@@ -15869,6 +15876,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "LLCCs", 
+    "source_id": 8, 
+    "acronym_id": 4959, 
+    "expansion": "Lead-Less Chip Carriers - Type of PWA Component With Soldered Connections", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "LLCO", 
     "source_id": 8, 
     "acronym_id": 1036, 
@@ -17297,6 +17311,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "MELFs", 
+    "source_id": 8, 
+    "acronym_id": 4958, 
+    "expansion": "Metal Electrodes Leadless Face - Used as Diodes or Resistors", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "MEM", 
     "source_id": 8, 
     "acronym_id": 2095, 
@@ -18610,6 +18631,13 @@
     "source_id": 8, 
     "acronym_id": 303, 
     "expansion": "(Mission Termination System Maybe?) (From EUS PDR Pre-RID)", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "MTTC", 
+    "source_id": 8, 
+    "acronym_id": 4955, 
+    "expansion": "Eastern or Western Manufacturing Technology Transfer Center", 
     "source": "MAF-SMA"
   }, 
   {
@@ -21826,6 +21854,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "PDCA", 
+    "source_id": 8, 
+    "acronym_id": 4961, 
+    "expansion": "Plan - Do - Check - Act Example of Audit Process Technique", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "PDCN", 
     "source_id": 8, 
     "acronym_id": 2407, 
@@ -22138,6 +22173,13 @@
     "source_id": 8, 
     "acronym_id": 1219, 
     "expansion": "Pressure Gauge", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PGA", 
+    "source_id": 8, 
+    "acronym_id": 4960, 
+    "expansion": "Pin Grid Array or Ball Grid Arrays Are PWA Components With Soldered Connections", 
     "source": "MAF-SMA"
   }, 
   {
@@ -31399,6 +31441,13 @@
     "source_id": 8, 
     "acronym_id": 2327, 
     "expansion": "Volts, Root Mean Square", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "W-MTTC", 
+    "source_id": 8, 
+    "acronym_id": 4957, 
+    "expansion": "Western Manufacturing Technology Transfer Center (JPL)", 
     "source": "MAF-SMA"
   }, 
   {
