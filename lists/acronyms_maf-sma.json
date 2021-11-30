@@ -23429,6 +23429,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "PSO", 
+    "source_id": 8, 
+    "acronym_id": 4962, 
+    "expansion": "Protective Services Officer", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "PSP", 
     "source_id": 8, 
     "acronym_id": 4298, 
