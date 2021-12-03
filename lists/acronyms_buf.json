@@ -805,6 +805,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "LETS", 
+    "source_id": 0, 
+    "acronym_id": 236, 
+    "expansion": "Lunar Exploration Transportation Services", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "LIMO", 
     "source_id": 0, 
     "acronym_id": 128, 
