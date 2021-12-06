@@ -2058,6 +2058,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "BLIS", 
+    "source_id": 8, 
+    "acronym_id": 4963, 
+    "expansion": "Boeing Laboratory Information System (88=MAF) Per MAO-16-041", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "BLOC", 
     "source_id": 8, 
     "acronym_id": 4831, 
@@ -11844,6 +11851,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "HFW", 
+    "source_id": 8, 
+    "acronym_id": 4965, 
+    "expansion": "High Frequency Electrical Weld Pipe", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "HG(L)DS", 
     "source_id": 8, 
     "acronym_id": 1794, 
@@ -15754,6 +15768,13 @@
     "source_id": 8, 
     "acronym_id": 2076, 
     "expansion": "Laser Firing Unit", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "LFW", 
+    "source_id": 8, 
+    "acronym_id": 4964, 
+    "expansion": "Low Frequency Electrical Weld Pipe", 
     "source": "MAF-SMA"
   }, 
   {
