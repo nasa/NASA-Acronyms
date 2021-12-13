@@ -1960,6 +1960,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "BEMS", 
+    "source_id": 8, 
+    "acronym_id": 4966, 
+    "expansion": "Boeing Electronic Messaging System Used at MAF", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "BEO", 
     "source_id": 8, 
     "acronym_id": 580, 
@@ -9901,7 +9908,7 @@
     "abbreviation": "FSCC", 
     "source_id": 8, 
     "acronym_id": 2369, 
-    "expansion": "Factory Side Control Center", 
+    "expansion": "Factory Support Collaboration Center - OEM Term for Team Members Responsible for Containment, Investigation and Corrective Action on Production Floor", 
     "source": "MAF-SMA"
   }, 
   {
@@ -12338,6 +12345,13 @@
     "source_id": 8, 
     "acronym_id": 933, 
     "expansion": "Document Identifier \u2013 Huntsville", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "HSV-CA", 
+    "source_id": 8, 
+    "acronym_id": 4967, 
+    "expansion": "Huntsville Corrective Action", 
     "source": "MAF-SMA"
   }, 
   {
@@ -19099,7 +19113,7 @@
     "abbreviation": "NCR", 
     "source_id": 8, 
     "acronym_id": 1138, 
-    "expansion": "Non-Conformance Report", 
+    "expansion": "Non-Conformance Record", 
     "source": "MAF-SMA"
   }, 
   {
@@ -21693,6 +21707,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "PCAB", 
+    "source_id": 8, 
+    "acronym_id": 4968, 
+    "expansion": "Production Corrective Action Board Meets Weekly to Revew Adverse Trends and High Drivers", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "PCAT", 
     "source_id": 8, 
     "acronym_id": 2418, 
@@ -23898,6 +23919,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "QAMRB", 
+    "source_id": 8, 
+    "acronym_id": 4970, 
+    "expansion": "Quality Assurance Material Review Board (OEM)", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "QAR", 
     "source_id": 8, 
     "acronym_id": 1651, 
@@ -23993,6 +24021,13 @@
     "source_id": 8, 
     "acronym_id": 4327, 
     "expansion": "Quicklook Book", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "QLR", 
+    "source_id": 8, 
+    "acronym_id": 4969, 
+    "expansion": "Quality Leadership Review Conducted by OEM Montly to Track Adverse Trends and High Drivers", 
     "source": "MAF-SMA"
   }, 
   {
