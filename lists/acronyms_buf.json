@@ -749,6 +749,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "HRBP", 
+    "source_id": 0, 
+    "acronym_id": 239, 
+    "expansion": "Human Resources Business Partner", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "IC & DH", 
     "source_id": 0, 
     "acronym_id": 156, 
@@ -1383,6 +1390,13 @@
     "source_id": 0, 
     "acronym_id": 71, 
     "expansion": "Radical Innovation Initiative", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "ROC", 
+    "source_id": 0, 
+    "acronym_id": 238, 
+    "expansion": "Range Operations Commander", 
     "source": "buffer"
   }, 
   {
