@@ -966,6 +966,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "MECA", 
+    "source_id": 0, 
+    "acronym_id": 240, 
+    "expansion": "Mars Environmental Compatibility Assessment", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "MEL", 
     "source_id": 0, 
     "acronym_id": 30, 
