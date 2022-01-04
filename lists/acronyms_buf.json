@@ -322,6 +322,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "DCB", 
+    "source_id": 0, 
+    "acronym_id": 246, 
+    "expansion": "Directives Control Board", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "DCD", 
     "source_id": 0, 
     "acronym_id": 186, 
@@ -494,6 +501,13 @@
     "source_id": 0, 
     "acronym_id": 13, 
     "expansion": "Engineering Peer Review", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "ERIE", 
+    "source_id": 0, 
+    "acronym_id": 242, 
+    "expansion": "Electrostatic Regolith Interaction Experiment", 
     "source": "buffer"
   }, 
   {
@@ -1127,6 +1141,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "NISV", 
+    "source_id": 0, 
+    "acronym_id": 243, 
+    "expansion": "NASA in Silicon Valley", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "NOD", 
     "source_id": 0, 
     "acronym_id": 108, 
@@ -1299,6 +1320,13 @@
     "source_id": 0, 
     "acronym_id": 180, 
     "expansion": "Pre-Flight Assessment", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "PLI", 
+    "source_id": 0, 
+    "acronym_id": 245, 
+    "expansion": "Propellant/Liner/Insulation", 
     "source": "buffer"
   }, 
   {
@@ -1568,6 +1596,13 @@
     "source": "buffer"
   }, 
   {
+    "abbreviation": "TRLA", 
+    "source_id": 0, 
+    "acronym_id": 241, 
+    "expansion": "Technology Readiness Level Assessment", 
+    "source": "buffer"
+  }, 
+  {
     "abbreviation": "TRR", 
     "source_id": 0, 
     "acronym_id": 48, 
@@ -1642,6 +1677,13 @@
     "source_id": 0, 
     "acronym_id": 135, 
     "expansion": "Vehicle Systems Integration", 
+    "source": "buffer"
+  }, 
+  {
+    "abbreviation": "WAG", 
+    "source_id": 0, 
+    "acronym_id": 244, 
+    "expansion": "Widely Attended Gatherings", 
     "source": "buffer"
   }, 
   {
