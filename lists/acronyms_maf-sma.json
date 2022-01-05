@@ -16198,6 +16198,13 @@
     "source": "MAF-SMA"
   }, 
   {
+    "abbreviation": "LP/CE", 
+    "source_id": 8, 
+    "acronym_id": 4984, 
+    "expansion": "Launch Package/Cargo Element", 
+    "source": "MAF-SMA"
+  }, 
+  {
     "abbreviation": "LPAT", 
     "source_id": 8, 
     "acronym_id": 2450, 
@@ -21676,6 +21683,13 @@
     "source_id": 8, 
     "acronym_id": 1195, 
     "expansion": "Polybutadiene Acrylonitride", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "PBC", 
+    "source_id": 8, 
+    "acronym_id": 4985, 
+    "expansion": "Performance-Based Contracting - NASA Procurement", 
     "source": "MAF-SMA"
   }, 
   {
@@ -27738,6 +27752,13 @@
     "source_id": 8, 
     "acronym_id": 4551, 
     "expansion": "Strategy and Programmatic Integration", 
+    "source": "MAF-SMA"
+  }, 
+  {
+    "abbreviation": "SPI", 
+    "source_id": 8, 
+    "acronym_id": 4986, 
+    "expansion": "Single Process Initiative - Processes and Procedures Are Common to All Its Government Customers and Programs", 
     "source": "MAF-SMA"
   }, 
   {
