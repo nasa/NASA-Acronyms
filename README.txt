@@ -7,3 +7,4 @@ Chrome: https://chrome.google.com/webstore/detail/nasa-acronyms/anpbkdhjbebjjkgd
 Firefox: https://addons.mozilla.org/addon/nasa-acronyms
 
 Authors: Joel Malissa & Logan Stafman
+Contact: joel.d.malissa@nasa.gov
