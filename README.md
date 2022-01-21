@@ -1,6 +1,6 @@
 This expands over 25,000 NASA acronyms.
 
-Search engine: https://nasaacronyms.com or [https://nasaacronyms.com?[insert acronym]](https://nasaacronyms.com?[insert acronym])
+Search engine: https://nasaacronyms.com or [https://nasaacronyms.com?[insert acronym]](https://nasaacronyms.com?NASA)
 
 Chrome: https://chrome.google.com/webstore/detail/nasa-acronyms/anpbkdhjbebjjkgdbglbcfaenjldbinf
 
