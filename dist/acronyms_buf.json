@@ -1,0 +1,3173 @@
+[
+  {
+    "acronym_id": 261,
+    "abbreviation": "0G",
+    "expansion": "Zero Gravity",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 313,
+    "abbreviation": "3PPI",
+    "expansion": "Third Party Proprietary Information",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 271,
+    "abbreviation": "AAI",
+    "expansion": "Agency Agreement In-direct",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 398,
+    "abbreviation": "ABA",
+    "expansion": "Architectural Barriers Act",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 232,
+    "abbreviation": "ABM",
+    "expansion": "Absolute Boresight Metrology",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 353,
+    "abbreviation": "ACD",
+    "expansion": "Artemis Campaign Development",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 451,
+    "abbreviation": "ACRR",
+    "expansion": "Agency Cross-Program Risk Review",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 301,
+    "abbreviation": "ADAP",
+    "expansion": "Astrophysics Data Analysis Program",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 165,
+    "abbreviation": "ADAPTS",
+    "expansion": "Automated Dynamic Acceptance Procedure Test Stand",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 290,
+    "abbreviation": "ADEOS",
+    "expansion": "Assembly to holD and Eject the Orbiting Sample",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 234,
+    "abbreviation": "AEGIS",
+    "expansion": "Advanced Enterprise Global IT Solutions",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 144,
+    "abbreviation": "AFF",
+    "expansion": "Above Finished Floor",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 110,
+    "abbreviation": "AFOM",
+    "expansion": "Assistant Facility Operations Manager",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 5,
+    "abbreviation": "AI&T",
+    "expansion": "Alignment, Integration, and Testing",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 142,
+    "abbreviation": "AI/ML",
+    "expansion": "Artificial Intelligence/Machine Learning",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 92,
+    "abbreviation": "AIAL",
+    "expansion": "Advanced Imaging and Analysis Laboratory",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 141,
+    "abbreviation": "AIML",
+    "expansion": "Artificial Intelligence/Machine Learning",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 308,
+    "abbreviation": "AIMS",
+    "expansion": "Academic Investment for Mission Success",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 397,
+    "abbreviation": "AIWG",
+    "expansion": "Artemis Interface Working Group",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 252,
+    "abbreviation": "AMS",
+    "expansion": "Asynchronous Message Service",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 100,
+    "abbreviation": "APC",
+    "expansion": "Angled Physical Contact",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 375,
+    "abbreviation": "APD",
+    "expansion": "Avalanche Photodiode",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 4,
+    "abbreviation": "AR&D",
+    "expansion": "Automated Rendezvous and Docking",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 218,
+    "abbreviation": "ASCS",
+    "expansion": "Agency Security Configuration Standards",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 149,
+    "abbreviation": "ASDS",
+    "expansion": "Autonomous Spaceport Drone Ship",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 123,
+    "abbreviation": "BMS",
+    "expansion": "Battery Management System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 78,
+    "abbreviation": "BOC",
+    "expansion": "Break of Configuration",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 250,
+    "abbreviation": "BP",
+    "expansion": "Bundle Protocol",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 217,
+    "abbreviation": "BPOC",
+    "expansion": "Booster Production and Operations Contract",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 233,
+    "abbreviation": "BPS",
+    "expansion": "Biological and Physical Sciences",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 171,
+    "abbreviation": "BSE",
+    "expansion": "Backscattered Electrons",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 6,
+    "abbreviation": "BTP",
+    "expansion": "Build To Print",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 350,
+    "abbreviation": "CAHRF",
+    "expansion": "Chris A. Hadfield Rocket Factory",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 185,
+    "abbreviation": "CAMP",
+    "expansion": "Collaboratory for quAlity Metadata Preservation",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 70,
+    "abbreviation": "CASALS",
+    "expansion": "Concurrent Artificially intelligent Spectrometry and Adaptive Lidar System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 336,
+    "abbreviation": "CASEI",
+    "expansion": "Catalog of Archived Suborbital Earth Science Investigations",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 196,
+    "abbreviation": "CATSCAN",
+    "expansion": "Covered Article and Technology Supply Chain Assessment Needed",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 211,
+    "abbreviation": "CAUTION",
+    "expansion": "CoAtings for Ultra High Temperature DetectION",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 146,
+    "abbreviation": "CBC",
+    "expansion": "Common Booster Core",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 7,
+    "abbreviation": "CBE",
+    "expansion": "Current Best Estimate",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 320,
+    "abbreviation": "CCALF",
+    "expansion": "Close Call Action Log Form",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 216,
+    "abbreviation": "CCC",
+    "expansion": "Communications Coordinating Council",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 131,
+    "abbreviation": "CCE",
+    "expansion": "Construction Cost Estimate",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 402,
+    "abbreviation": "CCE",
+    "expansion": "Critical Contingency EVA",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 8,
+    "abbreviation": "CCSDS",
+    "expansion": "Consultative Committee for Space Data Systems",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 199,
+    "abbreviation": "CDF",
+    "expansion": "Capitalization Determination Form",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 3,
+    "abbreviation": "CDL",
+    "expansion": "Custom Development Languages",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 183,
+    "abbreviation": "CEDP",
+    "expansion": "Chief Engineer Development Program",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 121,
+    "abbreviation": "CELA",
+    "expansion": "Correlated Electromagnetic Levitation Actuator",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 394,
+    "abbreviation": "CEMB",
+    "expansion": "Center Event Management Board",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 361,
+    "abbreviation": "CEO",
+    "expansion": "Customer Engagement Office",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 391,
+    "abbreviation": "CER",
+    "expansion": "Center Export Representative",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 368,
+    "abbreviation": "CESD",
+    "expansion": "Common Exploration Systems Development",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 182,
+    "abbreviation": "CESO",
+    "expansion": "Center Engineering, Safety, and Operations",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 374,
+    "abbreviation": "CHP IDA",
+    "expansion": "Crew Health and Performance Integrated Data Architecture",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 192,
+    "abbreviation": "CICE",
+    "expansion": "Console for Imagery Coordination and Evaluation",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 363,
+    "abbreviation": "CIPP",
+    "expansion": "Capital Investment Program Plan",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 152,
+    "abbreviation": "CLD",
+    "expansion": "Configurable Logic Device",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 262,
+    "abbreviation": "CNOC",
+    "expansion": "Corporate Network Operations Center",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 115,
+    "abbreviation": "COMET",
+    "expansion": "Creating, Organizing, Motivating, Educating, Team building (KSC)",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 206,
+    "abbreviation": "COMET",
+    "expansion": "Consolidated Operations, Management, Engineering, and Test contract",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 438,
+    "abbreviation": "COOP",
+    "expansion": "Continuity of Operations Plan",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 148,
+    "abbreviation": "COSMIC",
+    "expansion": "Container Operated Systems Managed In the Cloud",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 343,
+    "abbreviation": "COV",
+    "expansion": "Continuous Operating Voltage",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 58,
+    "abbreviation": "CPC",
+    "expansion": "Compound Parabolic Concentrator",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 122,
+    "abbreviation": "CRMS",
+    "expansion": "Central Radio Monitoring System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 75,
+    "abbreviation": "CS",
+    "expansion": "Cell Science",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 88,
+    "abbreviation": "CS2",
+    "expansion": "CubeSat Card Standard",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 335,
+    "abbreviation": "CSCI",
+    "expansion": "Common Sense Climate Index",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 385,
+    "abbreviation": "CSDSG",
+    "expansion": "Center Strategic Development Steering Group",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 107,
+    "abbreviation": "CSESU",
+    "expansion": "Core Stage Engine Section Umbilical",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 197,
+    "abbreviation": "CSPD",
+    "expansion": "Cybersecurity & Privacy Division",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 208,
+    "abbreviation": "CWP",
+    "expansion": "Collaborative Work Plan",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 351,
+    "abbreviation": "CyPrESS",
+    "expansion": "Cybersecurity and Privacy Enterprise Solutions and Services",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 362,
+    "abbreviation": "CyS",
+    "expansion": "Cybersecurity Service Line ",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 403,
+    "abbreviation": "DAPI",
+    "expansion": "Data Analytics Process Integrator",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 430,
+    "abbreviation": "DARP",
+    "expansion": "Document Archival and Retrieval on sharePoint",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 90,
+    "abbreviation": "DAX",
+    "expansion": "Data Analysis eXpressions",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 246,
+    "abbreviation": "DCB",
+    "expansion": "Directives Control Board",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 186,
+    "abbreviation": "DCD",
+    "expansion": "Data Curation for Discovery",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 72,
+    "abbreviation": "DDL",
+    "expansion": "Deorbit, Descent, and Landing",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 190,
+    "abbreviation": "DDL",
+    "expansion": "Detector Development Lab",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 267,
+    "abbreviation": "DED",
+    "expansion": "Directed-Energy Deposition",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 365,
+    "abbreviation": "DEIA",
+    "expansion": "Diversity, Equity, Inclusion, and Accessibility",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 128,
+    "abbreviation": "DEx",
+    "expansion": "Data Exchange",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 287,
+    "abbreviation": "DME",
+    "expansion": "Development, Modernization, and Enhancement",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 381,
+    "abbreviation": "DOE",
+    "expansion": "Design of Experiments",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 194,
+    "abbreviation": "DPM",
+    "expansion": "Damage Proxy Map",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 158,
+    "abbreviation": "DRF",
+    "expansion": "Data & Reasoning Fabric",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 357,
+    "abbreviation": "DRM",
+    "expansion": "Data Recovery Matrices",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 104,
+    "abbreviation": "DROID",
+    "expansion": "Disposition and Review of Organizational Issuance Data",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 176,
+    "abbreviation": "DRR",
+    "expansion": "Disaster Risk Reduction",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 369,
+    "abbreviation": "DraMS",
+    "expansion": "Dragonfly Mass Spectrometer",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 151,
+    "abbreviation": "DragonSQRL",
+    "expansion": "Dragonfly's Space Qualified Rover Lidar",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 392,
+    "abbreviation": "EAIS",
+    "expansion": "Exploration Architecture, Integration, and Science",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 223,
+    "abbreviation": "EBOT",
+    "expansion": "EVA Battery Operations Terminal",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 170,
+    "abbreviation": "EBSD",
+    "expansion": "Electron Backscatter Diffraction",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 334,
+    "abbreviation": "ECAS",
+    "expansion": "Exploration Computer Application Software",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 130,
+    "abbreviation": "ECCP",
+    "expansion": "Estimated Construction Contract Price",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 59,
+    "abbreviation": "ECSRM",
+    "expansion": "Early Calibration System Risk Management",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 195,
+    "abbreviation": "EDAR",
+    "expansion": "EMU Data Recorder",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 9,
+    "abbreviation": "EDU",
+    "expansion": "Engineering Development Unit",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 349,
+    "abbreviation": "EEE",
+    "expansion": "Electronic and Electrical Engineering",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 102,
+    "abbreviation": "EFILMRS",
+    "expansion": "Enhanced Flight Imaging Launch Monitoring Real-time System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 259,
+    "abbreviation": "EGDU",
+    "expansion": "ECCU Ground Decoder Unit",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 10,
+    "abbreviation": "EGSE",
+    "expansion": "Electrical Ground Support Equipment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 409,
+    "abbreviation": "EGSP",
+    "expansion": "Exploration Ground Systems Program",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 73,
+    "abbreviation": "EIB",
+    "expansion": "Engine Instrumentation Box",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 11,
+    "abbreviation": "EICD",
+    "expansion": "Electrical Interface Control Document",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 302,
+    "abbreviation": "EIF",
+    "expansion": "Engine Igniter Filter",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 210,
+    "abbreviation": "ELA",
+    "expansion": "Enterprise License Agreement",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 258,
+    "abbreviation": "ELCA",
+    "expansion": "Enhanced Lighted Camera Assembly",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 337,
+    "abbreviation": "ELISA",
+    "expansion": "\u00c3\u0089cole d'ing\u00c3\u00a9nieurs des sciences a\u00c3\u00a9rospatiales",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 12,
+    "abbreviation": "EM",
+    "expansion": "Engineering Model",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 114,
+    "abbreviation": "EOR",
+    "expansion": "Escape Only Respirator",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 235,
+    "abbreviation": "EPACS",
+    "expansion": "Enterprise Physical Access Control System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 447,
+    "abbreviation": "EPOC",
+    "expansion": "Exploration Production and Operations Contract",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 82,
+    "abbreviation": "EPPL",
+    "expansion": "Electric Power and Propulsion Laboratory",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 13,
+    "abbreviation": "EPR",
+    "expansion": "Engineering Peer Review",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 305,
+    "abbreviation": "EPTL",
+    "expansion": "Electrical Parts Test Lab",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 321,
+    "abbreviation": "ERDB",
+    "expansion": "Export Control Database",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 242,
+    "abbreviation": "ERIE",
+    "expansion": "Electrostatic Regolith Interaction Experiment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 14,
+    "abbreviation": "ESD",
+    "expansion": "Electrostatic Discharge",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 309,
+    "abbreviation": "ESDMD",
+    "expansion": "Exploration Systems Development Mission Directorate",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 416,
+    "abbreviation": "ESLP",
+    "expansion": "Executive Safety Leadership Program",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 253,
+    "abbreviation": "ESLT",
+    "expansion": "Earth-Space Link Terminal",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 440,
+    "abbreviation": "ESS",
+    "expansion": "Enhanced Support Services",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 395,
+    "abbreviation": "ESTAT",
+    "expansion": "Enterprise Security Technical Analysis Team",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 366,
+    "abbreviation": "ETA",
+    "expansion": "Event Tree Analysis",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 174,
+    "abbreviation": "ETD",
+    "expansion": "Engineering and Technology Directorate",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 15,
+    "abbreviation": "ETU",
+    "expansion": "Engineering Test Unit",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 177,
+    "abbreviation": "EULA",
+    "expansion": "End User License Agreement",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 298,
+    "abbreviation": "EURD",
+    "expansion": "End User Reference Data",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 66,
+    "abbreviation": "EVOA",
+    "expansion": "Electronic Variable Optical Attenuator",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 119,
+    "abbreviation": "EWR",
+    "expansion": "Electronic Work Request",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 120,
+    "abbreviation": "EWRS",
+    "expansion": "Electronic Work Request System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 99,
+    "abbreviation": "FC",
+    "expansion": "Ferrule Connector/Fiber Channel",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 418,
+    "abbreviation": "FCS",
+    "expansion": "Funds Control System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 419,
+    "abbreviation": "FCS2",
+    "expansion": "Funds Control System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 352,
+    "abbreviation": "FDA",
+    "expansion": "Flight Data Analysis",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 52,
+    "abbreviation": "FDC",
+    "expansion": "Fault Detection and Classification",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 236,
+    "abbreviation": "FDRA",
+    "expansion": "Flight Dynamics Risk Assessment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 16,
+    "abbreviation": "FEB",
+    "expansion": "Front End Box",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 61,
+    "abbreviation": "FEIC",
+    "expansion": "Front End Interface Card",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 96,
+    "abbreviation": "FEMCI",
+    "expansion": "Finite Element Modeling Continuous Improvement (<a href=\"https://femci.gsfc.nasa.gov\">femci.gsfc.nasa.gov</a>)",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 80,
+    "abbreviation": "FEOCS",
+    "expansion": "Federal Organizational Climate Survey",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 340,
+    "abbreviation": "FERS-FRAE",
+    "expansion": "Federal Employees Retirement System - Further Revised Annuity Employees",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 17,
+    "abbreviation": "FET",
+    "expansion": "Field Effect Transistor",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 101,
+    "abbreviation": "FETT",
+    "expansion": "Flight Evaluation Task Team",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 446,
+    "abbreviation": "FFN",
+    "expansion": "Forcing Function",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 178,
+    "abbreviation": "FFOP",
+    "expansion": "Failure-Free Operating Period",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 179,
+    "abbreviation": "FFTB",
+    "expansion": "Formation Flying Testbed",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 207,
+    "abbreviation": "FHS",
+    "expansion": "Flight Hardware Supplies",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 181,
+    "abbreviation": "FIN",
+    "expansion": "Federal Innovators Network",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 317,
+    "abbreviation": "FIRE",
+    "expansion": "Financial Integration & Reporting Enterprise",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 306,
+    "abbreviation": "FJ",
+    "expansion": "Frangible Joint",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 431,
+    "abbreviation": "FMOD",
+    "expansion": "JSC Facilities Management and Operations Division",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 324,
+    "abbreviation": "FOCuS",
+    "expansion": "CenterOps Facility Operations Construction Status (FOCuS)",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 109,
+    "abbreviation": "FOM",
+    "expansion": "Facility Operations Manager",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 84,
+    "abbreviation": "FORCAST",
+    "expansion": "Faint Object infraRed CAmera for the SOFIA Telescope",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 292,
+    "abbreviation": "FOW",
+    "expansion": "Future of Work",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 18,
+    "abbreviation": "FPGA",
+    "expansion": "Field Programmable Gate Array",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 260,
+    "abbreviation": "FPL",
+    "expansion": "Full Performance Level",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 339,
+    "abbreviation": "FRAE",
+    "expansion": "Further Revised Annuity Employees",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 19,
+    "abbreviation": "FSAB",
+    "expansion": "Full Scale Aft Bulked (LandSat-7)",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 370,
+    "abbreviation": "FSAFEDS",
+    "expansion": "Federal Flexible Spending Account",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 167,
+    "abbreviation": "FYSA",
+    "expansion": "For Your Situational Awareness",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 388,
+    "abbreviation": "GCC",
+    "expansion": "Government Community Cloud",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 372,
+    "abbreviation": "GESTA",
+    "expansion": "Goddard Engineers, Scientists, and Technicians Association",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 159,
+    "abbreviation": "GGAO",
+    "expansion": "Goddard Geophysical and Astronomical Observatory",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 229,
+    "abbreviation": "GLOM",
+    "expansion": "Gross Lift-Off Mass",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 359,
+    "abbreviation": "GRACE-FO",
+    "expansion": "Gravity Recovery and Climate Experiment Follow-on",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 20,
+    "abbreviation": "GRLR",
+    "expansion": "Goddard Reconfigurable Laser Ranger",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 345,
+    "abbreviation": "GROC",
+    "expansion": "Goddard Running and Orienteering Club",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 21,
+    "abbreviation": "GRSSLi",
+    "expansion": "Goddard Reconfigurable Solid-state Scanning LiDAR",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 22,
+    "abbreviation": "GSE",
+    "expansion": "Ground Support Equipment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 225,
+    "abbreviation": "HAR",
+    "expansion": "Hardware Acceptance Review",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 453,
+    "abbreviation": "HARA",
+    "expansion": "Hazard Analysis and Risk Assessment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 23,
+    "abbreviation": "HARC",
+    "expansion": "High Angular Resolution Calibration",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 311,
+    "abbreviation": "HARP",
+    "expansion": "Hyper-Angular Rainbow Polarimeter",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 312,
+    "abbreviation": "HARP2",
+    "expansion": "Hyper-Angular Rainbow Polarimeter 2",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 24,
+    "abbreviation": "HARRC",
+    "expansion": "High Angular Resolution Relative Calibration",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 348,
+    "abbreviation": "HBS",
+    "expansion": "Helicopter Base Station",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 188,
+    "abbreviation": "HDV",
+    "expansion": "High-Density Vertiplex",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 382,
+    "abbreviation": "HEOSOD",
+    "expansion": "Human Exploration and Operations Space Operations Directorate",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 76,
+    "abbreviation": "HPH",
+    "expansion": "High Purity Hydrazine",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 1,
+    "abbreviation": "HPO",
+    "expansion": "Health Physics Office",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 239,
+    "abbreviation": "HRBP",
+    "expansion": "Human Resources Business Partner",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 331,
+    "abbreviation": "HiCAM",
+    "expansion": "Hi-Rate Composite Aircraft Manufacturing",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 332,
+    "abbreviation": "HyTEC",
+    "expansion": "Hybrid Thermally Efficient Core",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 288,
+    "abbreviation": "IAR",
+    "expansion": "Inspection and Acceptance Report",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 417,
+    "abbreviation": "IAS",
+    "expansion": "Integrated Avionics System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 424,
+    "abbreviation": "IBOT",
+    "expansion": "Integrated Budget Office Toolbox",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 156,
+    "abbreviation": "IC & DH",
+    "expansion": "Instrument Command and Data Handling",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 154,
+    "abbreviation": "IC&DH",
+    "expansion": "Instrument Command and Data Handling",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 25,
+    "abbreviation": "ICD",
+    "expansion": "Interface Control Document",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 155,
+    "abbreviation": "ICDH",
+    "expansion": "Instrument Command and Data Handling",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 251,
+    "abbreviation": "ICI",
+    "expansion": "Interplanetary Communications Infrastructure",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 373,
+    "abbreviation": "IDA",
+    "expansion": "Integrated Data Architecture",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 272,
+    "abbreviation": "IDM",
+    "expansion": "Integrated Drawing Management",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 198,
+    "abbreviation": "IFST",
+    "expansion": "Integrated Fluid System Test",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 412,
+    "abbreviation": "ILMOPR",
+    "expansion": "Integrated Lunar Mission Operations Plan Review",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 393,
+    "abbreviation": "ILSS",
+    "expansion": "Integrated Lander System Specification",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 60,
+    "abbreviation": "IMPACT",
+    "expansion": "Interagency Implementation and Advanced Concepts Team",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 249,
+    "abbreviation": "ION",
+    "expansion": "Interplanetary Overlay Network",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 187,
+    "abbreviation": "IS",
+    "expansion": "Interstage",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 279,
+    "abbreviation": "ISF",
+    "expansion": "Investigation Summary Form (ISF)",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 273,
+    "abbreviation": "ISMC",
+    "expansion": "Integrated Systems and Mission Certification",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 400,
+    "abbreviation": "IVO",
+    "expansion": "Incremental Verification Objectives",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 437,
+    "abbreviation": "JAPE",
+    "expansion": "JSC Alternate Processing Environment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 436,
+    "abbreviation": "JAPE-COOP",
+    "expansion": "JSC Alternate Processing Environment Continuity of Operations Plan",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 118,
+    "abbreviation": "JASD",
+    "expansion": "Joint Agency Satellite Division",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 432,
+    "abbreviation": "JEA",
+    "expansion": "JSC Emergency Awareness",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 124,
+    "abbreviation": "JEDI",
+    "expansion": "(See JETI: Joint Engineering Team for Imagery)",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 315,
+    "abbreviation": "JEEPRS",
+    "expansion": "JSC Electronic Estimated Price Report System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 433,
+    "abbreviation": "JENS",
+    "expansion": "JSC Emergency Notification System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 452,
+    "abbreviation": "JET",
+    "expansion": "Joint EVA Testing",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 322,
+    "abbreviation": "JOFLS",
+    "expansion": "JSC Outbound Freight Log System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 434,
+    "abbreviation": "JOFLS",
+    "expansion": "JSC Outbound Freight Log",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 327,
+    "abbreviation": "LASeR",
+    "expansion": "LA System Resources",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 449,
+    "abbreviation": "LCRNS",
+    "expansion": "Lunar Communications Relay and Navigation System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 263,
+    "abbreviation": "LERS",
+    "expansion": "Let's Encrypt Relay Service",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 450,
+    "abbreviation": "LETO",
+    "expansion": "Lunar Extraction and Transportation Operation",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 237,
+    "abbreviation": "LETS",
+    "expansion": "Lunar Exploration Transportation Services",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 389,
+    "abbreviation": "LFO",
+    "expansion": "Lander Flight Operations",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 390,
+    "abbreviation": "LGO",
+    "expansion": "Lander Ground Operations",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 129,
+    "abbreviation": "LIMO",
+    "expansion": "Launch Integration & Mission Operations",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 189,
+    "abbreviation": "LISTS",
+    "expansion": "Locator and Information Services Tracking System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 184,
+    "abbreviation": "LLDP",
+    "expansion": "Launching Leaders Development Program",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 81,
+    "abbreviation": "LLS",
+    "expansion": "Liquid Level Sensor",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 91,
+    "abbreviation": "LPAT",
+    "expansion": "LASSO Project Approval Tool",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 27,
+    "abbreviation": "LRF",
+    "expansion": "Laser Range Finder",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 2,
+    "abbreviation": "LSITP",
+    "expansion": "Lunar Surface Instrument and Technology Payloads",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 325,
+    "abbreviation": "LSNL",
+    "expansion": "Local Stock Number Log",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 248,
+    "abbreviation": "LTP",
+    "expansion": "Licklider Transport Protocol",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 414,
+    "abbreviation": "LTV",
+    "expansion": "Lunar Terrain Vehicle",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 137,
+    "abbreviation": "LVPC",
+    "expansion": "Low Voltage Power Converter",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 26,
+    "abbreviation": "LiDAR",
+    "expansion": "Light Detection and Ranging",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 222,
+    "abbreviation": "MAHLI",
+    "expansion": "Mars Hand Lens Imager",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 93,
+    "abbreviation": "MAL",
+    "expansion": "Materials Analysis Laboratory",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 28,
+    "abbreviation": "MAR",
+    "expansion": "Mission Assurance Requirements",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 200,
+    "abbreviation": "MARV",
+    "expansion": "Mars Aerial Research Vehicle",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 291,
+    "abbreviation": "MAS",
+    "expansion": "Mars Ascent System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 231,
+    "abbreviation": "MATS",
+    "expansion": "MTAG Automation Tool Suite",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 274,
+    "abbreviation": "MAVIS",
+    "expansion": "Mars Ascent Vehicle Integration System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 333,
+    "abbreviation": "MCCX",
+    "expansion": "Mission Control Center X",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 163,
+    "abbreviation": "MCID",
+    "expansion": "Monitored Condition Identifier",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 285,
+    "abbreviation": "MCM",
+    "expansion": "MAESTRO Configuration Manager",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 342,
+    "abbreviation": "MCOV",
+    "expansion": "Maximum Continuous Operating Voltage",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 168,
+    "abbreviation": "MCRU",
+    "expansion": "Multiple Crew Reuse",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 85,
+    "abbreviation": "MCX",
+    "expansion": "Micro Coaxial Connector",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 303,
+    "abbreviation": "MDI",
+    "expansion": "Manual Data Input",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 62,
+    "abbreviation": "MDM",
+    "expansion": "Micro-D Miniature",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 219,
+    "abbreviation": "MEAC",
+    "expansion": "Manufacturing Engineering Advanced Coordination",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 29,
+    "abbreviation": "MEB",
+    "expansion": "Main Electronics Box",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 240,
+    "abbreviation": "MECA",
+    "expansion": "Mars Environmental Compatibility Assessment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 30,
+    "abbreviation": "MEL",
+    "expansion": "Master Equipment List",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 31,
+    "abbreviation": "MEMS",
+    "expansion": "Micro-Electro-Mechanical Systems",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 94,
+    "abbreviation": "METL",
+    "expansion": "Mechanical and Environmental Testing Laboratory",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 330,
+    "abbreviation": "MFID",
+    "expansion": "Maximo Furniture Inventory Database",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 265,
+    "abbreviation": "MFT",
+    "expansion": "Multimedia File Transfer",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 140,
+    "abbreviation": "MGCP",
+    "expansion": "Media Gateway Control Protocol",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 32,
+    "abbreviation": "MGSE",
+    "expansion": "Mechanical Ground Support Equipment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 143,
+    "abbreviation": "MGSS",
+    "expansion": "MSFC Ground Systems and Services",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 33,
+    "abbreviation": "MHz",
+    "expansion": "Megahertz",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 34,
+    "abbreviation": "MICD",
+    "expansion": "Mechanical Interface Control Document",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 125,
+    "abbreviation": "MINDS",
+    "expansion": "Minority University Research and Education Project (MUREP) Innovative New Designs for Space ",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 113,
+    "abbreviation": "MIPs",
+    "expansion": "Mandatory Inspection Points",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 316,
+    "abbreviation": "MIRR",
+    "expansion": "MPCV Integrated Resources Reporting",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 35,
+    "abbreviation": "MLI",
+    "expansion": "Multi-Layer Insulation",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 86,
+    "abbreviation": "MMCX",
+    "expansion": "Micro-Miniature Coaxial Connector",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 175,
+    "abbreviation": "MMPACT",
+    "expansion": "Moon-to-Mars Planetary Autonomous Construction Technology",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 360,
+    "abbreviation": "MMRTG",
+    "expansion": "Multi-Mission Radioisotope Thermoelectric Generator",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 377,
+    "abbreviation": "MOOS",
+    "expansion": "Minimum On-Orbit Spares",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 371,
+    "abbreviation": "MOQ",
+    "expansion": "Minimum Order Quantity",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 127,
+    "abbreviation": "MOSI",
+    "expansion": "Management Operations Services and Information",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 126,
+    "abbreviation": "MOSM",
+    "expansion": "MAC Operating System Management",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 294,
+    "abbreviation": "MPAR",
+    "expansion": "Major Program Annual Report",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 415,
+    "abbreviation": "MPD",
+    "expansion": "Marshall Policy Directive",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 228,
+    "abbreviation": "MPL",
+    "expansion": "Mission Planning Lab",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 286,
+    "abbreviation": "MRPP",
+    "expansion": "Mission Resilience and Protection Program",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 36,
+    "abbreviation": "MRR",
+    "expansion": "Manufacturing Readiness Review",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 112,
+    "abbreviation": "MSEO",
+    "expansion": "Mission Support Enterprise Organization",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 77,
+    "abbreviation": "MSolo",
+    "expansion": "Mass Spectrometer Observing Lunar Operations",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 166,
+    "abbreviation": "MTAG",
+    "expansion": "M&FM Tools and Automation Group",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 380,
+    "abbreviation": "MTHA",
+    "expansion": "Maintainability Task Hour Analysis",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 83,
+    "abbreviation": "NESS",
+    "expansion": "NASA Form 1018 Electronic Submission System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 275,
+    "abbreviation": "NExScI",
+    "expansion": "NASA Exoplanet Science Institute",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 354,
+    "abbreviation": "NICL",
+    "expansion": "NASA Investigative Chemistry Laboratory",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 213,
+    "abbreviation": "NIRCam",
+    "expansion": "Near InfraRed Camera",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 243,
+    "abbreviation": "NISV",
+    "expansion": "NASA in Silicon Valley",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 420,
+    "abbreviation": "NMI",
+    "expansion": "NASA Manual Inventory",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 300,
+    "abbreviation": "NOBM",
+    "expansion": "NASA Ocean Biogeochemical Model",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 108,
+    "abbreviation": "NOD",
+    "expansion": "Nominal Operation Demonstration",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 161,
+    "abbreviation": "NOFO",
+    "expansion": "Notice of Funding Opportunity",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 145,
+    "abbreviation": "NSF",
+    "expansion": "NASASpaceflight.com",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 404,
+    "abbreviation": "NSSTC",
+    "expansion": "National Space Science and Technology Center",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 153,
+    "abbreviation": "NSTGRO",
+    "expansion": "NASA Space Technology Graduate Research Opportunities",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 134,
+    "abbreviation": "NTSS",
+    "expansion": "NASA Technical Standards System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 396,
+    "abbreviation": "NWF",
+    "expansion": "Next Worse Failure",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 281,
+    "abbreviation": "OAIT",
+    "expansion": "Office Automation Information Technology",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 338,
+    "abbreviation": "OASDI",
+    "expansion": "Old-Age, Survivors, and Disability Insurance",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 304,
+    "abbreviation": "OASIM",
+    "expansion": "Ocean-Atmosphere Spectral Irradiance Model",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 280,
+    "abbreviation": "OATS",
+    "expansion": "OCIO Action Tracking Sytem",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 268,
+    "abbreviation": "OAU",
+    "expansion": "Outside Air Unit",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 421,
+    "abbreviation": "OCSS",
+    "expansion": "Office of CyberSecurity Services",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 164,
+    "abbreviation": "OGRE",
+    "expansion": "Off-Plane Grating Rocket Experiment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 98,
+    "abbreviation": "OITM",
+    "expansion": "Organizational Information Technology Manager",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 341,
+    "abbreviation": "OPERA",
+    "expansion": "Observational Products for End-Users from Remote Sensing Analysis",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 423,
+    "abbreviation": "ORBIT",
+    "expansion": "JSC Organizational Resources Budget Integration Tool",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 54,
+    "abbreviation": "OSAM",
+    "expansion": "On-Orbit Servicing, Assembly and Manufacturing",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 56,
+    "abbreviation": "OSAM 1",
+    "expansion": "On-Orbit Servicing, Assembly and Manufacturing 1",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 57,
+    "abbreviation": "OSAM-1",
+    "expansion": "On-Orbit Servicing, Assembly and Manufacturing 1",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 55,
+    "abbreviation": "OSAM1",
+    "expansion": "On-Orbit Servicing, Assembly and Manufacturing 1",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 296,
+    "abbreviation": "OSTEM",
+    "expansion": "Office of STEM Engagement",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 295,
+    "abbreviation": "OUN",
+    "expansion": "Onboard Utility Network",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 226,
+    "abbreviation": "OWI",
+    "expansion": "Organizational Work Instruction",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 117,
+    "abbreviation": "PAA",
+    "expansion": "Product Assurance Action",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 0,
+    "abbreviation": "PACE",
+    "expansion": "Plankton, Aerosol, Cloud and ocean Ecosystem",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 202,
+    "abbreviation": "PAT",
+    "expansion": "Procedure Authoring Tool",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 230,
+    "abbreviation": "PAXC",
+    "expansion": "Promoting Agency Cross-Center Connections",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 37,
+    "abbreviation": "PCB",
+    "expansion": "Parts Control Board",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 38,
+    "abbreviation": "PCC",
+    "expansion": "Processor Control Card",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 203,
+    "abbreviation": "PCD",
+    "expansion": "Portable Computing Device",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 297,
+    "abbreviation": "PCD",
+    "expansion": "Project Content Document",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 116,
+    "abbreviation": "PDAC",
+    "expansion": "Propulsion Data Assessment Center",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 162,
+    "abbreviation": "PDCO",
+    "expansion": "Planetary Defense Coordination Office",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 39,
+    "abbreviation": "PDL",
+    "expansion": "Product Development Lead",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 40,
+    "abbreviation": "PDR",
+    "expansion": "Preliminary Design Review",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 147,
+    "abbreviation": "PDT",
+    "expansion": "Pacific Daylight Time",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 413,
+    "abbreviation": "PEEL",
+    "expansion": "Proprietary Environmental Exoskeleton Liner",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 180,
+    "abbreviation": "PFA",
+    "expansion": "Pre-Flight Assessment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 405,
+    "abbreviation": "PIDO",
+    "expansion": "Pull-In Drop-Out",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 422,
+    "abbreviation": "PIV-M",
+    "expansion": "Personal Identity Verification - Mandatory",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 245,
+    "abbreviation": "PLI",
+    "expansion": "Propellant/Liner/Insulation",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 105,
+    "abbreviation": "PMA",
+    "expansion": "Precision Measurement and Alignment Laboratory",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 386,
+    "abbreviation": "POTATO",
+    "expansion": "Powered On To Accumulate Time On",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 347,
+    "abbreviation": "PPP",
+    "expansion": "Public-Private Partnership",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 269,
+    "abbreviation": "PREP",
+    "expansion": "Product Readiness and Enhancement for Payloads",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 215,
+    "abbreviation": "PRESTO",
+    "expansion": "Profile Envision and Splice Tool",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 79,
+    "abbreviation": "PSAT",
+    "expansion": "Programmatic Systems Assessment Team",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 41,
+    "abbreviation": "PSD",
+    "expansion": "Position Sensitive Diode (or Detector)",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 209,
+    "abbreviation": "PSR",
+    "expansion": "Program Support Rate",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 150,
+    "abbreviation": "PT",
+    "expansion": "Principal Technologist",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 201,
+    "abbreviation": "PVE",
+    "expansion": "Procedure Viewer/Executor",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 42,
+    "abbreviation": "PWB",
+    "expansion": "Printed Wiring Board",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 43,
+    "abbreviation": "PWM",
+    "expansion": "Pulse Width Modulation",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 257,
+    "abbreviation": "PWM",
+    "expansion": "Plant Water Management",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 157,
+    "abbreviation": "PaaS",
+    "expansion": "Prognostics as a Service",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 310,
+    "abbreviation": "QRR",
+    "expansion": "Quarterly Resources Review",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 448,
+    "abbreviation": "RAF",
+    "expansion": "Risk Advisory Forum",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 103,
+    "abbreviation": "RBD",
+    "expansion": "Risk-Based Decision",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 67,
+    "abbreviation": "RDS",
+    "expansion": "Restore Dynamic Simulator",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 278,
+    "abbreviation": "RDSS",
+    "expansion": "Recommendation and Determination To Solicit From One Source",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 299,
+    "abbreviation": "REALM",
+    "expansion": "RFID Enabled Autonomous Logistics Management",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 205,
+    "abbreviation": "RFF",
+    "expansion": "Request for Funding",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 427,
+    "abbreviation": "RHTL",
+    "expansion": "Remote Hypervelocity Test Lab",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 71,
+    "abbreviation": "RI2",
+    "expansion": "Radical Innovation Initiative",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 328,
+    "abbreviation": "RIBIT",
+    "expansion": "Research Integration Budget Integration Tool",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 383,
+    "abbreviation": "RICO",
+    "expansion": "Real-Time Information Control Office",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 439,
+    "abbreviation": "RIO",
+    "expansion": "Resources Integration Office",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 410,
+    "abbreviation": "RIV",
+    "expansion": "Requirements, Interfaces, and Verification",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 238,
+    "abbreviation": "ROC",
+    "expansion": "Range Operations Commander",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 44,
+    "abbreviation": "RPO",
+    "expansion": "Rendezvous and Proximity Operations",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 247,
+    "abbreviation": "RTT",
+    "expansion": "Round Trip Time",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 45,
+    "abbreviation": "RUI",
+    "expansion": "Requirement Unique Identifier",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 89,
+    "abbreviation": "RoHS",
+    "expansion": "Restriction of Hazardous Substances",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 407,
+    "abbreviation": "SADR",
+    "expansion": "System and Algorithms Design Review",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 276,
+    "abbreviation": "SAFE",
+    "expansion": "Station Automated Financial Environment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 426,
+    "abbreviation": "SAFE",
+    "expansion": "Station Automated Financial Environment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 277,
+    "abbreviation": "SAFe",
+    "expansion": "Scaled Agile Framework\u00c2\u00ae (SAFe\u00c2\u00ae) ",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 399,
+    "abbreviation": "SAJ",
+    "expansion": "Spacecraft Adapter Jettison",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 401,
+    "abbreviation": "SAJ",
+    "expansion": "Spacecraft Adapter Jettisoned",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 111,
+    "abbreviation": "SBN",
+    "expansion": "Software Bus Network",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 355,
+    "abbreviation": "SCORES",
+    "expansion": "Signature Controlled Request",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 411,
+    "abbreviation": "SCRAM",
+    "expansion": "SE&I Concerns Review and Assessment Meeting",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 172,
+    "abbreviation": "SE",
+    "expansion": "Secondary Electrons",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 346,
+    "abbreviation": "SERT",
+    "expansion": "System Engineering Review Team",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 136,
+    "abbreviation": "SFP",
+    "expansion": "Small Form-factor Pluggable",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 220,
+    "abbreviation": "SHERLOC",
+    "expansion": "Scanning Habitable Environments with Raman and Luminescence for Organics and Chemicals",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 356,
+    "abbreviation": "SIMS",
+    "expansion": "Spaceport Integrated Master Schedule",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 139,
+    "abbreviation": "SIP",
+    "expansion": "Session Initiation Protocol",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 64,
+    "abbreviation": "SIRF",
+    "expansion": "Single event Immune Reconfigurable FPGA",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 204,
+    "abbreviation": "SIRIUS",
+    "expansion": "Scientific International Research In a Unique terrestrial Station",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 254,
+    "abbreviation": "SISG",
+    "expansion": "Special Internetworking Strategy Group",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 65,
+    "abbreviation": "SMB",
+    "expansion": "Standard Message Bus",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 344,
+    "abbreviation": "SPA",
+    "expansion": "Safety Plan of Action",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 307,
+    "abbreviation": "SPAR",
+    "expansion": "Strategic Planning Analysis Report",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 429,
+    "abbreviation": "SPDB",
+    "expansion": "WSTF Standard Parts Database",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 425,
+    "abbreviation": "SPICE",
+    "expansion": "Space Program Integrated Contract Environment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 428,
+    "abbreviation": "SQAP",
+    "expansion": "WSTF Software Quality Assurance Plan",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 74,
+    "abbreviation": "SQRLi",
+    "expansion": "Space Qualified Rover Lidar",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 376,
+    "abbreviation": "SRS",
+    "expansion": "Stimulated Raman Scattering",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 378,
+    "abbreviation": "SRS",
+    "expansion": "Shock Response Spectrum",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 133,
+    "abbreviation": "SSOE",
+    "expansion": "Second Set of Eyes",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 97,
+    "abbreviation": "SSWP",
+    "expansion": "Supervisor Safety Web Page",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 406,
+    "abbreviation": "STAC",
+    "expansion": "Simulation Test Activity Checks",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 454,
+    "abbreviation": "SUF",
+    "expansion": "Stages Umbilical Forum",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 293,
+    "abbreviation": "SVEB",
+    "expansion": "SLS Vehicle Emulator Booster",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 68,
+    "abbreviation": "SiPM",
+    "expansion": "Silicon Photomultiplier",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 46,
+    "abbreviation": "SpC",
+    "expansion": "SpaceCube",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 95,
+    "abbreviation": "StE",
+    "expansion": "Structures and Thermal Environments",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 255,
+    "abbreviation": "TC",
+    "expansion": "Telecommand",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 384,
+    "abbreviation": "TCO",
+    "expansion": "Timeline Change Officer",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 364,
+    "abbreviation": "TECZ",
+    "expansion": "Temporary Environmental Control Zone",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 132,
+    "abbreviation": "TEER",
+    "expansion": "TOSC Engineering Evaluation Request",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 87,
+    "abbreviation": "TFA",
+    "expansion": "Trajectory Feasibility Analysis",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 63,
+    "abbreviation": "TIA",
+    "expansion": "Transimpedance Amplifier",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 283,
+    "abbreviation": "TIFL",
+    "expansion": "Transportation Inbound Freight Log",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 318,
+    "abbreviation": "TLC",
+    "expansion": "Time and Labor Collection",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 193,
+    "abbreviation": "TN",
+    "expansion": "Tracking Number",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 408,
+    "abbreviation": "TN",
+    "expansion": "Technical Narrative",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 69,
+    "abbreviation": "TO",
+    "expansion": "Transistor Outline",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 358,
+    "abbreviation": "TOM",
+    "expansion": "Task Order Manager",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 47,
+    "abbreviation": "TRL",
+    "expansion": "Test Readiness Level",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 241,
+    "abbreviation": "TRLA",
+    "expansion": "Technology Readiness Level Assessment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 48,
+    "abbreviation": "TRR",
+    "expansion": "Test Readiness Review",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 314,
+    "abbreviation": "TRWG",
+    "expansion": "Technical Review Working Group",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 256,
+    "abbreviation": "TTL",
+    "expansion": "Time to Live",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 214,
+    "abbreviation": "TVS",
+    "expansion": "Thermodynamic Vent System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 160,
+    "abbreviation": "TWSC",
+    "expansion": "Topical Workshops, Symposia, and Conferences",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 51,
+    "abbreviation": "UART",
+    "expansion": "Universal Asynchronous Receiver Transmitter",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 326,
+    "abbreviation": "UC",
+    "expansion": "Unsolicited Contacts",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 212,
+    "abbreviation": "USSF",
+    "expansion": "United States Space Force",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 264,
+    "abbreviation": "UW",
+    "expansion": "University of Washington",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 227,
+    "abbreviation": "VDS",
+    "expansion": "Vehicle Damper Subsystem",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 138,
+    "abbreviation": "VDSL",
+    "expansion": "Very high bit rate Digital Subscriber Line",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 53,
+    "abbreviation": "VDSU",
+    "expansion": "Video Distribution & Storage Unit",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 50,
+    "abbreviation": "VOA",
+    "expansion": "Variable Optical Attenuator",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 106,
+    "abbreviation": "VOGAA",
+    "expansion": "Voice-Operated Gain-Adjusting Amplifier",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 289,
+    "abbreviation": "VRPS",
+    "expansion": "Video Recording and Playback System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 367,
+    "abbreviation": "VSAT",
+    "expansion": "Vertical Solar Array Technology",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 135,
+    "abbreviation": "VSI",
+    "expansion": "Vehicle Systems Integration",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 379,
+    "abbreviation": "WA",
+    "expansion": "Work Assignment",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 323,
+    "abbreviation": "WAD",
+    "expansion": "Work Authorization Database",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 244,
+    "abbreviation": "WAG",
+    "expansion": "Widely Attended Gatherings",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 284,
+    "abbreviation": "WAG",
+    "expansion": "Wild A** Guess",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 329,
+    "abbreviation": "WASAP",
+    "expansion": "WSTF Authorized Supplier Approval Process",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 221,
+    "abbreviation": "WATSON",
+    "expansion": "Wide Angle Topographic Sensor for Operations and eNgineering ",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 49,
+    "abbreviation": "WBS",
+    "expansion": "Work Breakdown Structure",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 191,
+    "abbreviation": "WDM",
+    "expansion": "Wavelength Division Multiplexer",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 169,
+    "abbreviation": "WDS",
+    "expansion": "Wavelength Dispersive Spectroscopy",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 319,
+    "abbreviation": "WIMS",
+    "expansion": "White Sands Test Facility Integrated Management System",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 224,
+    "abbreviation": "WIO",
+    "expansion": "Wind-Induced Oscillation",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 387,
+    "abbreviation": "WRI",
+    "expansion": " Within-Range Increase",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 282,
+    "abbreviation": "WSTF TIFL",
+    "expansion": "WSTF Transportation Inbound Freight Log",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 173,
+    "abbreviation": "XRD",
+    "expansion": "X-Ray Diffraction",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 266,
+    "abbreviation": "XRF",
+    "expansion": "X-Ray Fluorescence",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 441,
+    "abbreviation": "ZZZ",
+    "expansion": "test acronym 1",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 442,
+    "abbreviation": "ZZZ",
+    "expansion": "test acronym 2 <br><img src=\"https://placekitten.com/100/100\">",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 443,
+    "abbreviation": "ZZZ",
+    "expansion": "test acronym 3 <script>alert(\"javascript test\");</script>",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 444,
+    "abbreviation": "ZZZ",
+    "expansion": "test acronym 4 <a href=\"https://example.com\">google.com</a>",
+    "source_id": 0,
+    "source": "buffer"
+  },
+  {
+    "acronym_id": 445,
+    "abbreviation": "ZZZ",
+    "expansion": "test acronym 5 (LW)",
+    "source_id": 0,
+    "source": "buffer"
+  }
+]

@@ -1,0 +1,4643 @@
+[
+  {
+    "acronym_id": 0,
+    "abbreviation": "3PCS",
+    "expansion": "Pointing, Positioning, Phasing and Coordinate Systems",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 1,
+    "abbreviation": "AA",
+    "expansion": "Associate Administrator",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 2,
+    "abbreviation": "ABML",
+    "expansion": "As-Built Materials List",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 3,
+    "abbreviation": "ACFTD",
+    "expansion": "Air Cleaner Fine Test Dust",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 4,
+    "abbreviation": "ACS",
+    "expansion": "Attitude Control System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 5,
+    "abbreviation": "ACSPB",
+    "expansion": "ACS Propellant Budget",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 6,
+    "abbreviation": "ADC",
+    "expansion": "Analog-to-Digital Converter",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 7,
+    "abbreviation": "ADM",
+    "expansion": "Additively Manufactured",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 8,
+    "abbreviation": "AETD",
+    "expansion": "Applied Engineering and Technology Directorate",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 9,
+    "abbreviation": "AFRC",
+    "expansion": "Armstrong Flight Research Center",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 10,
+    "abbreviation": "AFRP",
+    "expansion": "Anomaly Problem/Failure Reporting",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 11,
+    "abbreviation": "AFSPC",
+    "expansion": "Air Force Space Command",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 12,
+    "abbreviation": "AFT",
+    "expansion": "Allowable Flight Temperature",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 13,
+    "abbreviation": "AIAA",
+    "expansion": "American Institute of Aeronautics and Astronautics",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 14,
+    "abbreviation": "ALC",
+    "expansion": "Agency Location Code",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 15,
+    "abbreviation": "ALDS",
+    "expansion": "Agency Labor Distribution System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 16,
+    "abbreviation": "ALI",
+    "expansion": "Accounting Line Item",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 17,
+    "abbreviation": "AM",
+    "expansion": "Avionics Module",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 18,
+    "abbreviation": "AMMS",
+    "expansion": "Advanced Materials Management System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 19,
+    "abbreviation": "AMO",
+    "expansion": "Agency Management and Operations Funding Source",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 20,
+    "abbreviation": "AO",
+    "expansion": "Announcement of Opportunity",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 21,
+    "abbreviation": "AP",
+    "expansion": "Accounts Payable",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 22,
+    "abbreviation": "APC",
+    "expansion": "Active Pressure Control",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 23,
+    "abbreviation": "APL",
+    "expansion": "Applied Physics Laboratory",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 24,
+    "abbreviation": "AR ",
+    "expansion": "Accounts Receivable",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 25,
+    "abbreviation": "ARC",
+    "expansion": "Atlantic Research Corporation",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 26,
+    "abbreviation": "ARC",
+    "expansion": "Ames Research Center",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 27,
+    "abbreviation": "ARO",
+    "expansion": "After Receipt of Order",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 28,
+    "abbreviation": "ASTM",
+    "expansion": "American Society for Testing and Materials",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 29,
+    "abbreviation": "ASTME",
+    "expansion": "American Society of Tool and Manufacturing Engineers",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 30,
+    "abbreviation": "ATK",
+    "expansion": "Alliant Techsystems",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 31,
+    "abbreviation": "ATP",
+    "expansion": "Adenosine Triphosphate",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 32,
+    "abbreviation": "ATP",
+    "expansion": "Acceptance Test Procedure",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 33,
+    "abbreviation": "ATR",
+    "expansion": "Acceptance Test Readiness",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 34,
+    "abbreviation": "AU",
+    "expansion": "Astronomical Unit",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 35,
+    "abbreviation": "AVS",
+    "expansion": "Avionics Subsystem",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 36,
+    "abbreviation": "AWG",
+    "expansion": "American Wire Gage",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 37,
+    "abbreviation": "AWMS",
+    "expansion": "Accounts Payable Work Management System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 38,
+    "abbreviation": "BD",
+    "expansion": "Block Diagram",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 39,
+    "abbreviation": "BEM",
+    "expansion": "Boundary Element Method",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 40,
+    "abbreviation": "BETC",
+    "expansion": "Business Event Type Code",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 41,
+    "abbreviation": "BFSL",
+    "expansion": "Best Fit Straight Line",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 42,
+    "abbreviation": "BI",
+    "expansion": "Business Intelligence",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 43,
+    "abbreviation": "BLV",
+    "expansion": "Biological Limit Value",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 44,
+    "abbreviation": "BM",
+    "expansion": "Business Managers",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 46,
+    "abbreviation": "BOL",
+    "expansion": "Beginning of Life",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 47,
+    "abbreviation": "BPA",
+    "expansion": "Blanket Purchase Agreement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 48,
+    "abbreviation": "BPR",
+    "expansion": "Back Pressure Relief",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 49,
+    "abbreviation": "BRP",
+    "expansion": "Broken Plane Maneuver",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 50,
+    "abbreviation": "BW",
+    "expansion": "Business Warehouse",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 45,
+    "abbreviation": "BoB",
+    "expansion": "Break Out Box",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 51,
+    "abbreviation": "C&DH",
+    "expansion": "Command & Data Handling",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 52,
+    "abbreviation": "CAAS",
+    "expansion": "Contract Administration and Audit Services",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 53,
+    "abbreviation": "CAD",
+    "expansion": "Computer Aided Design",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 54,
+    "abbreviation": "CADRe",
+    "expansion": "Cost Analysis Data Requirement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 55,
+    "abbreviation": "CAN",
+    "expansion": "Cooperative Agreement Notice",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 56,
+    "abbreviation": "CARS",
+    "expansion": "Central Accounting and Reporting System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 57,
+    "abbreviation": "CAS",
+    "expansion": "Cost Accounting Standards",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 58,
+    "abbreviation": "CASB",
+    "expansion": "Cost Accounting Standards Board",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 59,
+    "abbreviation": "CASP",
+    "expansion": "Cross Agency Support Program",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 60,
+    "abbreviation": "CBE",
+    "expansion": "Current Best Estimate",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 61,
+    "abbreviation": "CC",
+    "expansion": "Contamination Control",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 62,
+    "abbreviation": "CCB",
+    "expansion": "Change Control Board",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 63,
+    "abbreviation": "CCP",
+    "expansion": "Contamination Control Plan",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 64,
+    "abbreviation": "CCR",
+    "expansion": "Contractor Cost Reporting Extension to SAP",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 65,
+    "abbreviation": "CDR",
+    "expansion": "Critical Design Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 66,
+    "abbreviation": "CDRIL",
+    "expansion": "Contractual Deliverable",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 67,
+    "abbreviation": "CE",
+    "expansion": "Conducted Emissions",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 68,
+    "abbreviation": "CEEF",
+    "expansion": "Combined Environmental Effects Facility",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 69,
+    "abbreviation": "CEL",
+    "expansion": "Ceiling Exposure Limit",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 70,
+    "abbreviation": "CFD",
+    "expansion": "Computational Fluid Dynamics",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 71,
+    "abbreviation": "CFO",
+    "expansion": "Chief Financial Officer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 72,
+    "abbreviation": "CFU",
+    "expansion": "Colony Forming Units",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 73,
+    "abbreviation": "CGA",
+    "expansion": "Compressed Gas Association",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 74,
+    "abbreviation": "CGE",
+    "expansion": "Concur Government Edition",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 75,
+    "abbreviation": "CIC",
+    "expansion": "Cell Interface Circuit",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 76,
+    "abbreviation": "CIL",
+    "expansion": "Critical Items List",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 77,
+    "abbreviation": "CIO",
+    "expansion": "Chief Information Officer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 78,
+    "abbreviation": "CLA",
+    "expansion": "Coupled Load Analysis",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 79,
+    "abbreviation": "CLA",
+    "expansion": "Combined Loads Analysis",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 80,
+    "abbreviation": "CM",
+    "expansion": "Center of Mass",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 81,
+    "abbreviation": "CM&O",
+    "expansion": "Center Management and Operations",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 82,
+    "abbreviation": "CMD",
+    "expansion": "Command",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 83,
+    "abbreviation": "CMM",
+    "expansion": "Contracts Management Module",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 84,
+    "abbreviation": "CMO",
+    "expansion": "Center Management and Operations Funding Source",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 85,
+    "abbreviation": "CMP",
+    "expansion": "Continuous Monitoring Program",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 86,
+    "abbreviation": "CO",
+    "expansion": "Contracting Officer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 87,
+    "abbreviation": "COC",
+    "expansion": "Certificate of Conformance",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 88,
+    "abbreviation": "COCD",
+    "expansion": "Commitment, Obligation, Cost, and Disbursement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 90,
+    "abbreviation": "CONOPS",
+    "expansion": "Concept of Operations",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 91,
+    "abbreviation": "CONV",
+    "expansion": "Converter",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 92,
+    "abbreviation": "COPV",
+    "expansion": "Composite Overwrapped Pressure Vessel",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 93,
+    "abbreviation": "COR",
+    "expansion": "Contracting Officer's Representative",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 94,
+    "abbreviation": "CORTS",
+    "expansion": "Contractor Resources Tracking System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 95,
+    "abbreviation": "COSPAR",
+    "expansion": "Committee on Space Research",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 96,
+    "abbreviation": "COTS",
+    "expansion": "Commercial Off-the-Shelf",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 97,
+    "abbreviation": "CR",
+    "expansion": "Continuing Resolution",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 98,
+    "abbreviation": "CRES",
+    "expansion": "Corrosion Resistant Steel",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 99,
+    "abbreviation": "CS",
+    "expansion": "Civil Service/Servant",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 100,
+    "abbreviation": "CSLA",
+    "expansion": "Contract Service Level Agreement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 101,
+    "abbreviation": "CSS",
+    "expansion": "Course Sun Sensors",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 102,
+    "abbreviation": "CSV",
+    "expansion": "Comma Separated Values",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 103,
+    "abbreviation": "CT",
+    "expansion": "Computed Tomography",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 104,
+    "abbreviation": "CTR",
+    "expansion": "Compensated Temperature Range",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 105,
+    "abbreviation": "CVCM",
+    "expansion": "Collected Volatile Condensable Materials",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 106,
+    "abbreviation": "CWBS",
+    "expansion": "Contract Work Breakdown Structure",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 107,
+    "abbreviation": "CY",
+    "expansion": "Calendar Year",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 89,
+    "abbreviation": "CoF",
+    "expansion": "Construction of Facilities Funding Source",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 108,
+    "abbreviation": "D/S",
+    "expansion": "Downstream",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 109,
+    "abbreviation": "DB",
+    "expansion": "Diode Box",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 110,
+    "abbreviation": "DC",
+    "expansion": "Duty Cycle",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 111,
+    "abbreviation": "DCAA",
+    "expansion": "Defense Contract Auditing Agency",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 112,
+    "abbreviation": "DCMA",
+    "expansion": "Defense Contract Management Agency",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 113,
+    "abbreviation": "DCR",
+    "expansion": "Design Conformance Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 114,
+    "abbreviation": "DDD",
+    "expansion": "Displacement Damage Dose",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 115,
+    "abbreviation": "DDD",
+    "expansion": "Deep Dialectric Discharge",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 116,
+    "abbreviation": "DES",
+    "expansion": "Digital Electronics Sensor",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 117,
+    "abbreviation": "DFRC",
+    "expansion": "Dryden Flight Research Center",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 118,
+    "abbreviation": "DFSE",
+    "expansion": "Deputy Flight Systems Engineer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 119,
+    "abbreviation": "DHMR",
+    "expansion": "Dry Heat Microbial Reduction",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 120,
+    "abbreviation": "DI",
+    "expansion": "Deionized",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 121,
+    "abbreviation": "DIST",
+    "expansion": "Distribution",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 123,
+    "abbreviation": "DOORs",
+    "expansion": "Dynamic Object-Oriented Requirements System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 124,
+    "abbreviation": "DPLY",
+    "expansion": "Deploy",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 125,
+    "abbreviation": "DPMR",
+    "expansion": "Deputy Project Manager of Resources",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 126,
+    "abbreviation": "DPU",
+    "expansion": "Data Processing Unit",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 127,
+    "abbreviation": "DRD",
+    "expansion": "Data Requirement Description",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 128,
+    "abbreviation": "DRFP",
+    "expansion": "Draft Request for Proposal",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 129,
+    "abbreviation": "DRM",
+    "expansion": "Directorate Resources Manager",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 130,
+    "abbreviation": "DSCM",
+    "expansion": "Deputy Space Craft Manager",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 131,
+    "abbreviation": "DSM",
+    "expansion": "Deep Space Maneuver",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 132,
+    "abbreviation": "DSMC",
+    "expansion": "Direct Simulation Monte Carlo",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 133,
+    "abbreviation": "DSN",
+    "expansion": "Deep Space Network",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 134,
+    "abbreviation": "DSR",
+    "expansion": "Division Status Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 135,
+    "abbreviation": "DST",
+    "expansion": "Dual Split Triplet",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 136,
+    "abbreviation": "DV",
+    "expansion": "Delta Velocity",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 122,
+    "abbreviation": "DoD",
+    "expansion": "Department of Defense",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 145,
+    "abbreviation": "E-GOV",
+    "expansion": "Electronic Government",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 172,
+    "abbreviation": "E-THEMIS",
+    "expansion": "Europa Thermal Emission Imaging System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 137,
+    "abbreviation": "EAC",
+    "expansion": "Estimate at Completion",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 138,
+    "abbreviation": "EB",
+    "expansion": "Electron Beam",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 139,
+    "abbreviation": "EC",
+    "expansion": "Europa Clipper",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 140,
+    "abbreviation": "ECR",
+    "expansion": "Engineering Change Request",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 141,
+    "abbreviation": "ECR",
+    "expansion": "Environmental Compliance and Restoration Funding Source",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 142,
+    "abbreviation": "ED50",
+    "expansion": "Median Effective Does",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 143,
+    "abbreviation": "EEE",
+    "expansion": "Electrical, Electronic, and Electromechanical",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 144,
+    "abbreviation": "EGA",
+    "expansion": "Earth Gravity Assist",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 146,
+    "abbreviation": "EGSE",
+    "expansion": "Electrical Ground Support Equipment",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 147,
+    "abbreviation": "EICD",
+    "expansion": "Electrical Interface Control Document",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 148,
+    "abbreviation": "EIDP",
+    "expansion": "End Item Data Package",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 149,
+    "abbreviation": "EIG",
+    "expansion": "Electrical Interface and Grounding",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 150,
+    "abbreviation": "EIS",
+    "expansion": "Europa Imaging System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 151,
+    "abbreviation": "ELDRS",
+    "expansion": "Enhanced Low Dose Rate Sensitivity",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 152,
+    "abbreviation": "EM",
+    "expansion": "Engineering Model",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 153,
+    "abbreviation": "EMC",
+    "expansion": "Electromagnetic Compatibility",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 154,
+    "abbreviation": "EMCP",
+    "expansion": "Electromagnetic Compatibility Plan",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 155,
+    "abbreviation": "EMF",
+    "expansion": "Electromagnetic Field",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 156,
+    "abbreviation": "EMI",
+    "expansion": "Electromagnetic Interference",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 158,
+    "abbreviation": "EMS",
+    "expansion": "Environmental Management System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 159,
+    "abbreviation": "ENG",
+    "expansion": "Engineer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 160,
+    "abbreviation": "EOL",
+    "expansion": "End of Life",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 161,
+    "abbreviation": "EP",
+    "expansion": "Elevated Privileges",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 162,
+    "abbreviation": "EPC",
+    "expansion": "Electronic Power Conditioner",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 163,
+    "abbreviation": "EPDW",
+    "expansion": "Enhanced Procurement Data Warehouse",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 164,
+    "abbreviation": "EPR",
+    "expansion": "Estimated Price Report",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 165,
+    "abbreviation": "EPSS",
+    "expansion": "Enterprise Performance Support System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 166,
+    "abbreviation": "EPW",
+    "expansion": "Electronic Pulse Width",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 167,
+    "abbreviation": "ERD",
+    "expansion": "Environmental Requirements Document",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 168,
+    "abbreviation": "ESA",
+    "expansion": "European Space Agency",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 169,
+    "abbreviation": "ESD",
+    "expansion": "Electrostatic Discharge",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 170,
+    "abbreviation": "ESEOD",
+    "expansion": "Equivalent Sharp Edge Orifice Diameter",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 171,
+    "abbreviation": "ETFE",
+    "expansion": "Ethylene Tetrafluoroethylene",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 173,
+    "abbreviation": "ETU",
+    "expansion": "Engineering Test Unit",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 174,
+    "abbreviation": "EVA",
+    "expansion": "Extreme Value Analysis",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 175,
+    "abbreviation": "EVEEGA",
+    "expansion": "Earth-Venus-Earth-Earth Gravity Assist",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 176,
+    "abbreviation": "EVM",
+    "expansion": "Earned Value Management",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 177,
+    "abbreviation": "EVMS",
+    "expansion": "Earned Value Management System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 178,
+    "abbreviation": "F&D",
+    "expansion": "Fill and Drain",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 179,
+    "abbreviation": "FA",
+    "expansion": "Flight Acceptance",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 180,
+    "abbreviation": "FAR",
+    "expansion": "Federal Acquisition Regulation",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 181,
+    "abbreviation": "FASAB",
+    "expansion": "Federal Accounting Standards Advisory Board",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 182,
+    "abbreviation": "FBWT",
+    "expansion": "Funds Balance With Treasury",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 183,
+    "abbreviation": "FC",
+    "expansion": "Funded Contract Outline Agreement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 184,
+    "abbreviation": "FCR",
+    "expansion": "Fault Containment Region",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 185,
+    "abbreviation": "FCS",
+    "expansion": "GSFC Funds Control System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 186,
+    "abbreviation": "FCST",
+    "expansion": "Forecast",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 187,
+    "abbreviation": "FDD",
+    "expansion": "Functional Design Description",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 188,
+    "abbreviation": "FDV",
+    "expansion": "Fill and Drain Valve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 189,
+    "abbreviation": "FEM",
+    "expansion": "Finite Element Method",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 190,
+    "abbreviation": "FEP",
+    "expansion": "Fluorinated Ethylene Propylene",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 191,
+    "abbreviation": "FET",
+    "expansion": "Field Effect Transistor",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 192,
+    "abbreviation": "FM",
+    "expansion": "Flight Model",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 193,
+    "abbreviation": "FM",
+    "expansion": "Financial Manager",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 194,
+    "abbreviation": "FMEA",
+    "expansion": "Failure Modes and Effects Analysis",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 195,
+    "abbreviation": "FMECA",
+    "expansion": "Failure Modes Effects and Criticality Analysis",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 196,
+    "abbreviation": "FMS",
+    "expansion": "Financial Management Service",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 197,
+    "abbreviation": "FOIA",
+    "expansion": "Freedom of Information Act",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 198,
+    "abbreviation": "FOS",
+    "expansion": "Factor of Safety",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 199,
+    "abbreviation": "FP",
+    "expansion": "Funded Program",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 200,
+    "abbreviation": "FPGA",
+    "expansion": "Field Programmable Gate Array",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 201,
+    "abbreviation": "FRB",
+    "expansion": "Failure Review Board",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 202,
+    "abbreviation": "FS",
+    "expansion": "Flight System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 203,
+    "abbreviation": "FS",
+    "expansion": "Fund Source",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 204,
+    "abbreviation": "FSE",
+    "expansion": "Flight Systems Engineering",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 205,
+    "abbreviation": "FSO",
+    "expansion": "Full Scale Output",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 206,
+    "abbreviation": "FSO",
+    "expansion": "Financial Systems Office",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 207,
+    "abbreviation": "FSS",
+    "expansion": "Financial Services Section",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 208,
+    "abbreviation": "FSW",
+    "expansion": "Flight Software",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 209,
+    "abbreviation": "FT",
+    "expansion": "Fault Tree",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 210,
+    "abbreviation": "FTE",
+    "expansion": "Full Time Equivalent",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 211,
+    "abbreviation": "FY",
+    "expansion": "Fiscal Year",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 212,
+    "abbreviation": "G&A",
+    "expansion": "General & Administrative",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 213,
+    "abbreviation": "GAAP",
+    "expansion": "Generally Accepted Accounting Principles",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 214,
+    "abbreviation": "GAO",
+    "expansion": "Government Accountability Office",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 215,
+    "abbreviation": "GDS",
+    "expansion": "Ground Data System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 216,
+    "abbreviation": "GEVS",
+    "expansion": "Goddard Environmental Verification Specification",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 217,
+    "abbreviation": "GFE",
+    "expansion": "Government Furnished Equipment",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 218,
+    "abbreviation": "GISS",
+    "expansion": "Goddard Institute for Space Studies",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 219,
+    "abbreviation": "GN2",
+    "expansion": "Gaseous Nitrogen",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 220,
+    "abbreviation": "GNC",
+    "expansion": "Guidance Navigation and Control",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 221,
+    "abbreviation": "GOWG",
+    "expansion": "Ground Operations Working Group",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 222,
+    "abbreviation": "GPG",
+    "expansion": "Goddard Procedures and Guidelines",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 223,
+    "abbreviation": "GPM",
+    "expansion": "Global Precipitation Measurement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 224,
+    "abbreviation": "GPR",
+    "expansion": "Goddard Procedural Requiremet",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 225,
+    "abbreviation": "GPRS",
+    "expansion": "Goddard Problem Reporting System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 226,
+    "abbreviation": "GRAP",
+    "expansion": "Goods Received Accounts Payable",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 227,
+    "abbreviation": "GRC",
+    "expansion": "Glenn Research Center",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 228,
+    "abbreviation": "GRM",
+    "expansion": "Goddard Review Management",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 229,
+    "abbreviation": "GRMS",
+    "expansion": "Root Mean Squared Acceleration",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 230,
+    "abbreviation": "GSA",
+    "expansion": "General Services Administration",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 231,
+    "abbreviation": "GSE",
+    "expansion": "Ground Support Equipment",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 232,
+    "abbreviation": "GSFC",
+    "expansion": "Goddard Space Flight Center",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 233,
+    "abbreviation": "GT&C",
+    "expansion": "General Terms and Conditions",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 234,
+    "abbreviation": "H/W",
+    "expansion": "Hardware",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 235,
+    "abbreviation": "HBM",
+    "expansion": "Human Body Model",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 236,
+    "abbreviation": "HCW",
+    "expansion": "Human Capital Workforce",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 237,
+    "abbreviation": "HD",
+    "expansion": "High Density",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 238,
+    "abbreviation": "HEPA",
+    "expansion": "High Efficiency Particulate Arrestance",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 239,
+    "abbreviation": "HF",
+    "expansion": "High Frequency",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 240,
+    "abbreviation": "HGA",
+    "expansion": "High Gain Antenna",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 242,
+    "abbreviation": "HM",
+    "expansion": "Hazardous Material",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 243,
+    "abbreviation": "HMMS",
+    "expansion": "Hazardous Materials Management System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 244,
+    "abbreviation": "HMR",
+    "expansion": "Heat Microbial Reduction",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 245,
+    "abbreviation": "HOR",
+    "expansion": "Hand Operated Regulator",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 246,
+    "abbreviation": "HOV",
+    "expansion": "Hand Operated Valve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 247,
+    "abbreviation": "HP",
+    "expansion": "High Pressure",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 248,
+    "abbreviation": "HPLV",
+    "expansion": "High Pressure Latch Valve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 249,
+    "abbreviation": "HPSO",
+    "expansion": "High Pressure Systems Operators",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 250,
+    "abbreviation": "HQ",
+    "expansion": "Headquarters",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 251,
+    "abbreviation": "HRCR",
+    "expansion": "Hardware Requirements Certification Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 252,
+    "abbreviation": "HRP",
+    "expansion": "Human Resources Portal",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 253,
+    "abbreviation": "HRS",
+    "expansion": "Heat Redistribution System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 254,
+    "abbreviation": "HWID",
+    "expansion": "Hazardous Waste Identification",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 241,
+    "abbreviation": "Hipot",
+    "expansion": "High Potential",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 255,
+    "abbreviation": "I&T",
+    "expansion": "Integration and Test",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 256,
+    "abbreviation": "I/F",
+    "expansion": "Interface",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 257,
+    "abbreviation": "IAA",
+    "expansion": "Interagency Agreement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 258,
+    "abbreviation": "IAM",
+    "expansion": "Integrated Asset Management",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 259,
+    "abbreviation": "IC",
+    "expansion": "Institutional Committee",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 260,
+    "abbreviation": "ICD",
+    "expansion": "Interface Control Document",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 261,
+    "abbreviation": "ICE",
+    "expansion": "Independent Cost Estimate",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 262,
+    "abbreviation": "ICEMAG",
+    "expansion": "Interior Characterization of Europa Using Magnetometry",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 263,
+    "abbreviation": "ID",
+    "expansion": "Inner Diameter",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 265,
+    "abbreviation": "IDP",
+    "expansion": "Individual Development Plans",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 266,
+    "abbreviation": "IEMP",
+    "expansion": "Integrated Enterprise Management Program",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 268,
+    "abbreviation": "IG",
+    "expansion": "Inspector General",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 269,
+    "abbreviation": "IGT",
+    "expansion": "Interagovernmental Transaction",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 270,
+    "abbreviation": "ILCCA",
+    "expansion": "Independent Life-Cycle Cost Analysis",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 271,
+    "abbreviation": "IMS",
+    "expansion": "Integrated Master Schedule",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 272,
+    "abbreviation": "IMU",
+    "expansion": "Inertial Measurement Unit",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 273,
+    "abbreviation": "INT",
+    "expansion": "Integration",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 274,
+    "abbreviation": "IOC",
+    "expansion": "Institutional Operations Council",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 275,
+    "abbreviation": "IPA",
+    "expansion": "Isopropyl Alcohol",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 276,
+    "abbreviation": "IPAC",
+    "expansion": "Intra-Governmental Payment and Collection",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 277,
+    "abbreviation": "IRAD",
+    "expansion": "In-House Research and Development",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 278,
+    "abbreviation": "IRIS",
+    "expansion": "Invoice Routing and Information System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 279,
+    "abbreviation": "ISO",
+    "expansion": "International Organization for Standardization",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 280,
+    "abbreviation": "ISP",
+    "expansion": "Specific Impulse",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 281,
+    "abbreviation": "ISP",
+    "expansion": "Internet Service Providers",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 282,
+    "abbreviation": "IT",
+    "expansion": "Information Technology",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 283,
+    "abbreviation": "ITA",
+    "expansion": "Independent Technical Authority",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 284,
+    "abbreviation": "ITAR",
+    "expansion": "International Traffic in Arms Regulations",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 285,
+    "abbreviation": "ITD",
+    "expansion": "Inception to Date",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 286,
+    "abbreviation": "ITPR",
+    "expansion": "IT Purchase Requisition Tool",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 287,
+    "abbreviation": "ITRR",
+    "expansion": "Integration and Test Readiness Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 288,
+    "abbreviation": "ITTS",
+    "expansion": "IFMP Ticket Tracking Systems",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 289,
+    "abbreviation": "IV&V",
+    "expansion": "NASA Independent Verification & Validation Facility",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 264,
+    "abbreviation": "IdMAX",
+    "expansion": "Identity Management and Account Exchange System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 291,
+    "abbreviation": "JANS",
+    "expansion": "Joint Army Navy Space",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 292,
+    "abbreviation": "JOI",
+    "expansion": "Jupiter Orbit Insertion",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 293,
+    "abbreviation": "JPL",
+    "expansion": "Jet Propulsion Laboratory",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 294,
+    "abbreviation": "JSC",
+    "expansion": "Johnson Space Center",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 295,
+    "abbreviation": "JT",
+    "expansion": "Joule Thompson",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 296,
+    "abbreviation": "KDP",
+    "expansion": "Key Decision Point",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 297,
+    "abbreviation": "KSC",
+    "expansion": "Kennedy Space Center",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 298,
+    "abbreviation": "L/D",
+    "expansion": "Length to Diameter Ratio",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 300,
+    "abbreviation": "LBB",
+    "expansion": "Leak-Before-Burst",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 301,
+    "abbreviation": "LC50",
+    "expansion": "Median Lethal Concentration",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 302,
+    "abbreviation": "LCC",
+    "expansion": "Life-Cycle Cost",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 303,
+    "abbreviation": "LCCA",
+    "expansion": "Life-Cycle Cost Analysis",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 304,
+    "abbreviation": "LCCE",
+    "expansion": "Life-Cycle Cost Estimate",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 305,
+    "abbreviation": "LD50",
+    "expansion": "Lethal Dose for 50% Population",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 306,
+    "abbreviation": "LED",
+    "expansion": "Light Emitting Diode",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 307,
+    "abbreviation": "LLA",
+    "expansion": "Limited Life Items Analysis",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 308,
+    "abbreviation": "LLIL",
+    "expansion": "Limited Life Items List",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 309,
+    "abbreviation": "LLV",
+    "expansion": "Liquid Latch Valve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 310,
+    "abbreviation": "LN2",
+    "expansion": "Liquid Nitrogen",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 311,
+    "abbreviation": "LOAEL",
+    "expansion": "Lowest Observed Adverse Effect Level",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 312,
+    "abbreviation": "LOD",
+    "expansion": "Letter of Delegation",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 313,
+    "abbreviation": "LP",
+    "expansion": "Low Pressure",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 314,
+    "abbreviation": "LPLV",
+    "expansion": "Low Pressure Latch Valve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 315,
+    "abbreviation": "LRE",
+    "expansion": "Latest Revised Estimate",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 316,
+    "abbreviation": "LRO",
+    "expansion": "Lunar Reconnaissance Orbiter",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 317,
+    "abbreviation": "LSA",
+    "expansion": "Linear Separation Assembly",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 318,
+    "abbreviation": "LT",
+    "expansion": "Load Temperature",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 319,
+    "abbreviation": "LV",
+    "expansion": "Latch Valve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 320,
+    "abbreviation": "LV",
+    "expansion": "Launch Vehicle",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 321,
+    "abbreviation": "LVA",
+    "expansion": "Launch Vehicle Adapter",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 299,
+    "abbreviation": "LaRC",
+    "expansion": "Langley Research Center",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 322,
+    "abbreviation": "M&P",
+    "expansion": "Materials & Processes",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 323,
+    "abbreviation": "MAC",
+    "expansion": "Modal Mass Acceleration Curve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 324,
+    "abbreviation": "MAC",
+    "expansion": "Maximum Acceleration Curve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 325,
+    "abbreviation": "MADE",
+    "expansion": "Minimum Accounting Data Elements",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 326,
+    "abbreviation": "MAE",
+    "expansion": "Materials Assurance Engineering",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 327,
+    "abbreviation": "MAR",
+    "expansion": "Mission Assurance Requirements",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 328,
+    "abbreviation": "MASPEX",
+    "expansion": "Mass Spectrometer for Planetary Exploration",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 329,
+    "abbreviation": "MAWP",
+    "expansion": "Maximum Anticipated Working Pressure",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 330,
+    "abbreviation": "MBSE",
+    "expansion": "Model Based Systems Engineering",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 331,
+    "abbreviation": "MCR",
+    "expansion": "Mission Concept Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 332,
+    "abbreviation": "MDC",
+    "expansion": "Mission Duty Cycle",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 333,
+    "abbreviation": "MDM",
+    "expansion": "Micro D Metal Shell",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 335,
+    "abbreviation": "MDR",
+    "expansion": "Mission Design Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 336,
+    "abbreviation": "MEL",
+    "expansion": "Master Equipment List",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 337,
+    "abbreviation": "MELF",
+    "expansion": "Metal Electrode Leadless Face",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 338,
+    "abbreviation": "MEOP",
+    "expansion": "Maximum Expected Operating Pressure",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 339,
+    "abbreviation": "MEOT",
+    "expansion": "Maxiumum Expected Operating Temperature",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 340,
+    "abbreviation": "MEV",
+    "expansion": "Maximum Expected Value",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 341,
+    "abbreviation": "MGMT",
+    "expansion": "Management",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 342,
+    "abbreviation": "MGSE",
+    "expansion": "Mechanical Ground Support Equipment",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 343,
+    "abbreviation": "MICD",
+    "expansion": "Mechanical Interface Control Document",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 344,
+    "abbreviation": "MIP",
+    "expansion": "Mandatory Inspection Point",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 345,
+    "abbreviation": "MISE",
+    "expansion": "Mapping Imaging Spectrometer for Europa",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 346,
+    "abbreviation": "MIUL",
+    "expansion": "Material Identification and Usage List",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 347,
+    "abbreviation": "MLI",
+    "expansion": "Multilayer Insulation",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 348,
+    "abbreviation": "MMH",
+    "expansion": "Monomethyl Hydrazine",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 349,
+    "abbreviation": "MMOD",
+    "expansion": "Micrometeoroid Orbital Debris",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 350,
+    "abbreviation": "MMR",
+    "expansion": "Monthly Management Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 351,
+    "abbreviation": "MMS",
+    "expansion": "Magnetospheric Multiscale",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 352,
+    "abbreviation": "MOD",
+    "expansion": "Management Operations Directorate",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 353,
+    "abbreviation": "MOMA",
+    "expansion": "Mars Organic Molecule Analyzer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 354,
+    "abbreviation": "MON",
+    "expansion": "Mixed Oxides of Nitrogen",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 355,
+    "abbreviation": "MOS",
+    "expansion": "Mission Operations",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 356,
+    "abbreviation": "MPC",
+    "expansion": "Materials Control Plan",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 357,
+    "abbreviation": "MPE",
+    "expansion": "Materials and Process Engineering",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 358,
+    "abbreviation": "MR",
+    "expansion": "Mixture Ratio",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 359,
+    "abbreviation": "MRB",
+    "expansion": "Materials Review Board",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 360,
+    "abbreviation": "MS ",
+    "expansion": "Margin of Safety",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 361,
+    "abbreviation": "MSES",
+    "expansion": "Mechanical Systems Engineering Services",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 362,
+    "abbreviation": "MSFC",
+    "expansion": "Marshall Space Flight Center",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 363,
+    "abbreviation": "MSR",
+    "expansion": "Monthly Status Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 364,
+    "abbreviation": "MSU",
+    "expansion": "Mobile Service Unit",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 365,
+    "abbreviation": "MTH",
+    "expansion": "Month",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 366,
+    "abbreviation": "MUA",
+    "expansion": "Material Usage Agreement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 367,
+    "abbreviation": "MV",
+    "expansion": "Mixing Valve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 368,
+    "abbreviation": "MV",
+    "expansion": "Manual Valve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 334,
+    "abbreviation": "MdM",
+    "expansion": "Metadata Manager",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 369,
+    "abbreviation": "N2/NBS",
+    "expansion": "NASA Budget System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 370,
+    "abbreviation": "NAAS",
+    "expansion": "NASA Automated Awards System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 371,
+    "abbreviation": "NAC",
+    "expansion": "Narrow Angle Camera",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 372,
+    "abbreviation": "NAIS",
+    "expansion": "NASA Acquisition Internet Service",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 373,
+    "abbreviation": "NAMS",
+    "expansion": "NASA Account Management System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 374,
+    "abbreviation": "NASA",
+    "expansion": "National Aeronautics and Space Administration",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 375,
+    "abbreviation": "NCTS",
+    "expansion": "NASA Conference Tracking System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 376,
+    "abbreviation": "NDA",
+    "expansion": "Non-Disclosure Agreement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 377,
+    "abbreviation": "NDE",
+    "expansion": "Non Destructive Evaluation",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 378,
+    "abbreviation": "NDT",
+    "expansion": "Non Destructive Testing",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 379,
+    "abbreviation": "NEACC",
+    "expansion": "NASA Enterprise Applications Competency Center",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 380,
+    "abbreviation": "NEPA",
+    "expansion": "National Environmental Policy Act",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 381,
+    "abbreviation": "NFS",
+    "expansion": "NASA Federal Acquisition Regulation (FAR) Supplement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 382,
+    "abbreviation": "NGIS",
+    "expansion": "Northrop Grumman Innovation Systems",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 383,
+    "abbreviation": "NID",
+    "expansion": "NASA Interim Directive",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 384,
+    "abbreviation": "NIST",
+    "expansion": "National Institute of Standards and Technology",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 385,
+    "abbreviation": "NOA",
+    "expansion": "New Obligational Authority",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 386,
+    "abbreviation": "NOAEL",
+    "expansion": "No Observed Adverse Effect Level",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 387,
+    "abbreviation": "NODIS",
+    "expansion": "NASA on-Line Directives Information System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 388,
+    "abbreviation": "NOEL",
+    "expansion": "No Observed Effect Level",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 389,
+    "abbreviation": "NPD",
+    "expansion": "NASA Policy Directive",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 390,
+    "abbreviation": "NPR",
+    "expansion": "NASA Procedural Requirements",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 391,
+    "abbreviation": "NPSL",
+    "expansion": "NASA Parts Selection List",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 392,
+    "abbreviation": "NPSM",
+    "expansion": "National Pipe Straight Mechanical",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 393,
+    "abbreviation": "NPT",
+    "expansion": "National Pipe Thread",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 394,
+    "abbreviation": "NPTF",
+    "expansion": "National Pipe Thread Fuel",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 395,
+    "abbreviation": "NRA",
+    "expansion": "NASA Research Announcement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 396,
+    "abbreviation": "NRE",
+    "expansion": "Nonrecurring Engineering",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 397,
+    "abbreviation": "NRL",
+    "expansion": "Naval Research Laboratory",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 398,
+    "abbreviation": "NSM",
+    "expansion": "NASA Structure Management System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 399,
+    "abbreviation": "NSSC",
+    "expansion": "NASA Shared Services Center",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 400,
+    "abbreviation": "NT30",
+    "expansion": "Net Term 30 Days",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 401,
+    "abbreviation": "NTE",
+    "expansion": "Not to Exceed",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 402,
+    "abbreviation": "NTO",
+    "expansion": "Nitrogen Tetroxide",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 403,
+    "abbreviation": "NV",
+    "expansion": "Needle Valve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 404,
+    "abbreviation": "OA",
+    "expansion": "Outline Agreement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 405,
+    "abbreviation": "OATK",
+    "expansion": "Orbital Alliant Thiokol",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 407,
+    "abbreviation": "OCE",
+    "expansion": "Office of the Chief Engineer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 408,
+    "abbreviation": "OCFO",
+    "expansion": "Office of the Chief Financial Officer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 409,
+    "abbreviation": "OCIO",
+    "expansion": "Office of the Chief Information Officer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 410,
+    "abbreviation": "OD",
+    "expansion": "Outer Diameter",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 411,
+    "abbreviation": "ODC",
+    "expansion": "Other Direct Costs",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 412,
+    "abbreviation": "ODH",
+    "expansion": "Oxygen Deficiency Hazard",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 413,
+    "abbreviation": "OH",
+    "expansion": "Optical Head",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 414,
+    "abbreviation": "OHCM",
+    "expansion": "Office of Human Capital Management",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 415,
+    "abbreviation": "OLAP",
+    "expansion": "Online Analytical Processing",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 416,
+    "abbreviation": "OMB",
+    "expansion": "Office of Management and Budget",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 417,
+    "abbreviation": "OR",
+    "expansion": "Orifice",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 418,
+    "abbreviation": "ORR",
+    "expansion": "Operational Readiness Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 419,
+    "abbreviation": "OSC",
+    "expansion": "Orbital Sciences Corporation",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 420,
+    "abbreviation": "OSHA",
+    "expansion": "Occupational Safety and Health Administration",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 421,
+    "abbreviation": "OSMA",
+    "expansion": "Office of Safety and Mission Assurance",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 422,
+    "abbreviation": "OTM",
+    "expansion": "Orbit Trim Maneuver",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 406,
+    "abbreviation": "Obs",
+    "expansion": "Obligations",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 423,
+    "abbreviation": "Ox",
+    "expansion": "Oxidizer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 424,
+    "abbreviation": "P/N",
+    "expansion": "Part Number",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 425,
+    "abbreviation": "P/S",
+    "expansion": "Power Supply",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 426,
+    "abbreviation": "PACT",
+    "expansion": "Performance Award Calculation Tool",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 427,
+    "abbreviation": "PAIP",
+    "expansion": "Product Assurance and Implementation Plan",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 428,
+    "abbreviation": "PAIP",
+    "expansion": "Product Assurance Implementation Plan",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 429,
+    "abbreviation": "PBM",
+    "expansion": "Program Business Manager",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 430,
+    "abbreviation": "PCA",
+    "expansion": "Pressurant Control Assembly",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 431,
+    "abbreviation": "PCB",
+    "expansion": "Parts Control Board",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 432,
+    "abbreviation": "PCDA",
+    "expansion": "Power Conditioning and Distribution Assembly",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 433,
+    "abbreviation": "PCR",
+    "expansion": "Program Concept Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 434,
+    "abbreviation": "PCTFE",
+    "expansion": "Polychlorotrifluoroethylene",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 435,
+    "abbreviation": "PCV",
+    "expansion": "Pressure Control Valve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 436,
+    "abbreviation": "PD",
+    "expansion": "Position Description",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 437,
+    "abbreviation": "PDB",
+    "expansion": "Propulsion Diode Box",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 438,
+    "abbreviation": "PDL",
+    "expansion": "Product Development Lead",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 439,
+    "abbreviation": "PDL",
+    "expansion": "Product Design Lead",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 440,
+    "abbreviation": "PDM",
+    "expansion": "Product Delivery Manager",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 441,
+    "abbreviation": "PDR",
+    "expansion": "Preliminary Design Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 442,
+    "abbreviation": "PDV",
+    "expansion": "Propellant Delta-V",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 443,
+    "abbreviation": "PE",
+    "expansion": "Parts Engineer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 444,
+    "abbreviation": "PEDR",
+    "expansion": "Preliminary Electrical Design Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 445,
+    "abbreviation": "PEL",
+    "expansion": "Power Equipment List",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 446,
+    "abbreviation": "PEL",
+    "expansion": "Permissible Exposure Limit",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 447,
+    "abbreviation": "PF",
+    "expansion": "Protoflight",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 448,
+    "abbreviation": "PFA",
+    "expansion": "Perfluoroalkoxy Alkane (PFA) Teflon",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 449,
+    "abbreviation": "PFR",
+    "expansion": "Problem Failure Report",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 450,
+    "abbreviation": "PG",
+    "expansion": "Pressure Gauge",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 451,
+    "abbreviation": "PG",
+    "expansion": "Procedures and Guidance",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 452,
+    "abbreviation": "PGSE",
+    "expansion": "Payload Ground Support Equipment",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 453,
+    "abbreviation": "PHA",
+    "expansion": "Preliminary Hazard Analysis",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 454,
+    "abbreviation": "PI",
+    "expansion": "Principal Investigator",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 455,
+    "abbreviation": "PIA",
+    "expansion": "Propellant Isolation Assembly",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 456,
+    "abbreviation": "PIMS",
+    "expansion": "Plasma Instrument for Magnetic Sounding",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 457,
+    "abbreviation": "PLA",
+    "expansion": "Propellant Leak Allocation",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 458,
+    "abbreviation": "PLI",
+    "expansion": "Procurement Line Item",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 459,
+    "abbreviation": "PM",
+    "expansion": "Propulsion Module",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 460,
+    "abbreviation": "PMD",
+    "expansion": "Propellant Management Device",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 461,
+    "abbreviation": "PME",
+    "expansion": "Propulsion Module Electronics",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 462,
+    "abbreviation": "PMS",
+    "expansion": "Payment Management System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 463,
+    "abbreviation": "PO",
+    "expansion": "Purchase Order",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 464,
+    "abbreviation": "POP",
+    "expansion": "Program Operating Plan",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 465,
+    "abbreviation": "PP",
+    "expansion": "Planetary Protection",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 466,
+    "abbreviation": "PP&E",
+    "expansion": "Property, Plant and Equipment",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 467,
+    "abbreviation": "PPBE",
+    "expansion": "Planning, Programming, Budgeting, Execution",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 468,
+    "abbreviation": "PPE",
+    "expansion": "Planetary Protection Engineer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 469,
+    "abbreviation": "PPE",
+    "expansion": "Personal Protective Equipment",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 470,
+    "abbreviation": "PPO",
+    "expansion": "Planetary Protection Officer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 471,
+    "abbreviation": "PPR",
+    "expansion": "Planetary Protection Requirements",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 472,
+    "abbreviation": "PPSL",
+    "expansion": "Project Parts Selection List",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 473,
+    "abbreviation": "PR",
+    "expansion": "Problem Report",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 474,
+    "abbreviation": "PR",
+    "expansion": "Purchase Requisition/Purchase Request",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 475,
+    "abbreviation": "PRA",
+    "expansion": "Probabilistic Risk Assessment",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 476,
+    "abbreviation": "PROP",
+    "expansion": "Propulsion System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 477,
+    "abbreviation": "PRT",
+    "expansion": "Platinum Resistance Thermometer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 478,
+    "abbreviation": "PSA",
+    "expansion": "Parts Stress Analysis",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 479,
+    "abbreviation": "PSE",
+    "expansion": "Propulsion System Electronics",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 480,
+    "abbreviation": "PSM",
+    "expansion": "Payload Safety Manager",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 481,
+    "abbreviation": "PSR",
+    "expansion": "Pre-Ship Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 482,
+    "abbreviation": "PSS",
+    "expansion": "Propulsion Subsystem",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 483,
+    "abbreviation": "PSS",
+    "expansion": "Project Support Specialist",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 484,
+    "abbreviation": "PT",
+    "expansion": "Pressure Transducer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 485,
+    "abbreviation": "PTFE",
+    "expansion": "Polytetrafluoroethylene",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 486,
+    "abbreviation": "PV",
+    "expansion": "Photo Voltaic",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 487,
+    "abbreviation": "PVS",
+    "expansion": "Pressure Vessel and Pressurized Systems",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 488,
+    "abbreviation": "PWA",
+    "expansion": "Printed Wiring Assembly",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 489,
+    "abbreviation": "PWB",
+    "expansion": "Printed Wiring Board",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 490,
+    "abbreviation": "PWR",
+    "expansion": "Power",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 491,
+    "abbreviation": "PWY",
+    "expansion": "Productive Work Year",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 492,
+    "abbreviation": "PY",
+    "expansion": "Program Year",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 493,
+    "abbreviation": "QA",
+    "expansion": "Quality Assurance",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 494,
+    "abbreviation": "QBS",
+    "expansion": "Qualification by Similarity",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 495,
+    "abbreviation": "QCM",
+    "expansion": "Quartz Crystal Monitor",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 496,
+    "abbreviation": "QMS",
+    "expansion": "Quality Management System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 497,
+    "abbreviation": "QTP",
+    "expansion": "Qualification Test Program",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 498,
+    "abbreviation": "QTRR",
+    "expansion": "Qualification Test Readiness Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 499,
+    "abbreviation": "R&D",
+    "expansion": "Research and Development",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 500,
+    "abbreviation": "R&R",
+    "expansion": "Remove and Replace",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 504,
+    "abbreviation": "R-BET",
+    "expansion": "Reimbursable Budget Execution Tool",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 501,
+    "abbreviation": "R/I",
+    "expansion": "Receiving/Inspection",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 502,
+    "abbreviation": "RA",
+    "expansion": "Resource Analyst",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 503,
+    "abbreviation": "RAPTOR",
+    "expansion": "Research and Analysis Program Tracking of Resources",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 505,
+    "abbreviation": "RC",
+    "expansion": "Reporting Category",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 506,
+    "abbreviation": "RCRA",
+    "expansion": "Resource Conservation and Recovery Act",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 507,
+    "abbreviation": "RCS",
+    "expansion": "Reaction Control System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 508,
+    "abbreviation": "RDF",
+    "expansion": "Radiation Design Factor",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 509,
+    "abbreviation": "RE",
+    "expansion": "Rocket Engine",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 510,
+    "abbreviation": "REASON",
+    "expansion": "Radar for Europa Assessment and Sounding: Ocean to Near-Surface",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 511,
+    "abbreviation": "RECDEL",
+    "expansion": "Receivables/Deliverables",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 512,
+    "abbreviation": "REM",
+    "expansion": "Rocket Engine Module",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 513,
+    "abbreviation": "REU",
+    "expansion": "Remote Engineering Unit",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 514,
+    "abbreviation": "RF",
+    "expansion": "Radio Frequency",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 515,
+    "abbreviation": "RFA",
+    "expansion": "Request for Action",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 516,
+    "abbreviation": "RFI",
+    "expansion": "Request for Information",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 517,
+    "abbreviation": "RFO",
+    "expansion": "Regional Finance Office",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 518,
+    "abbreviation": "RFP",
+    "expansion": "Request for Proposal",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 519,
+    "abbreviation": "RHB",
+    "expansion": "Replacement Heater Block",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 520,
+    "abbreviation": "RLAT",
+    "expansion": "Radiation Lot Acceptance Test Plan",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 521,
+    "abbreviation": "RLU",
+    "expansion": "Relative Light Unit",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 522,
+    "abbreviation": "RMS",
+    "expansion": "Root Mean Square",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 523,
+    "abbreviation": "ROM",
+    "expansion": "Rough Order of Magnitude",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 524,
+    "abbreviation": "RR",
+    "expansion": "Risk Reduction",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 525,
+    "abbreviation": "RSB",
+    "expansion": "Remote Serial Bus",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 526,
+    "abbreviation": "RTI",
+    "expansion": "Real Time Interval",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 527,
+    "abbreviation": "RTN",
+    "expansion": "Return",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 528,
+    "abbreviation": "RV",
+    "expansion": "Relief Valve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 529,
+    "abbreviation": "RW",
+    "expansion": "Reaction Wheel",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 530,
+    "abbreviation": "RWA",
+    "expansion": "Reaction Wheel Assembly",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 531,
+    "abbreviation": "S/C",
+    "expansion": "Spacecraft",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 532,
+    "abbreviation": "SA",
+    "expansion": "Solar Array",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 533,
+    "abbreviation": "SAAM",
+    "expansion": "Space Act Agreement Maker",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 534,
+    "abbreviation": "SADA",
+    "expansion": "Solar Array Drive Assembly",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 535,
+    "abbreviation": "SAE",
+    "expansion": "Society of Automotive Engineers",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 536,
+    "abbreviation": "SAM",
+    "expansion": "System for Award Management",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 537,
+    "abbreviation": "SAP",
+    "expansion": "Systems, Applications and Products in Data Processing",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 538,
+    "abbreviation": "SAR",
+    "expansion": "Safety Assessment Report",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 539,
+    "abbreviation": "SATERN",
+    "expansion": "System for Administration, Training, and Educational Resources for NASA",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 540,
+    "abbreviation": "SB",
+    "expansion": "Small Business",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 541,
+    "abbreviation": "SB/SDB",
+    "expansion": "Small Business/Small Disadvantage Business",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 542,
+    "abbreviation": "SBAP",
+    "expansion": "Small Business Accelerated Payment",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 543,
+    "abbreviation": "SBIR",
+    "expansion": "Small Business Innovation Research",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 544,
+    "abbreviation": "SBU",
+    "expansion": "Sensitive but Unclassified",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 545,
+    "abbreviation": "SCC",
+    "expansion": "Stress Corrosion Cracking",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 546,
+    "abbreviation": "SCCS",
+    "expansion": "Standard Cubic Centimeters Per Second",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 547,
+    "abbreviation": "SCM",
+    "expansion": "Space Craft Manager",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 550,
+    "abbreviation": "SCRD",
+    "expansion": "Spacecraft Requirements Document",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 548,
+    "abbreviation": "SCoRe",
+    "expansion": "Signature Control Request",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 549,
+    "abbreviation": "SCoRe",
+    "expansion": "Signature Controlled Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 551,
+    "abbreviation": "SD",
+    "expansion": "Space Department",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 552,
+    "abbreviation": "SD",
+    "expansion": "Standard Density",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 553,
+    "abbreviation": "SDB",
+    "expansion": "Small Disadvantaged Business",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 554,
+    "abbreviation": "SDO",
+    "expansion": "Solar Dynamics Observatory",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 555,
+    "abbreviation": "SDP",
+    "expansion": "Safety Data Package",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 556,
+    "abbreviation": "SDRL",
+    "expansion": "Supplier Deliverable Requirements List",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 557,
+    "abbreviation": "SE",
+    "expansion": "Surface Evolver",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 558,
+    "abbreviation": "SEB",
+    "expansion": "Single Event Burnout",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 559,
+    "abbreviation": "SEDR",
+    "expansion": "Single Event Dielectric Rupture",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 560,
+    "abbreviation": "SEE",
+    "expansion": "Single Event Effects",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 561,
+    "abbreviation": "SEEA",
+    "expansion": "Single Event Effects Analysis",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 562,
+    "abbreviation": "SEFI",
+    "expansion": "Single Event Functional Interrupts",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 563,
+    "abbreviation": "SEGR",
+    "expansion": "Single Event Gate Rupture",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 564,
+    "abbreviation": "SEL",
+    "expansion": "Single Event Latchup",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 565,
+    "abbreviation": "SEM",
+    "expansion": "Scanning Electron Microscope",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 566,
+    "abbreviation": "SES",
+    "expansion": "Space Exploration Sector",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 567,
+    "abbreviation": "SES",
+    "expansion": "Space Environment Simulation",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 568,
+    "abbreviation": "SET",
+    "expansion": "Single Event Transient",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 569,
+    "abbreviation": "SEU",
+    "expansion": "Single Event Upsets",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 570,
+    "abbreviation": "SEWP",
+    "expansion": "Solutions for Enterprise-Wide Procurement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 571,
+    "abbreviation": "SGL",
+    "expansion": "Standard General Ledger",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 572,
+    "abbreviation": "SIERA",
+    "expansion": "System for International External Relations Agreements",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 573,
+    "abbreviation": "SIR",
+    "expansion": "Systems Integration Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 574,
+    "abbreviation": "SIT",
+    "expansion": "Systems Integration and Testing",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 661,
+    "abbreviation": "SLA",
+    "expansion": "Service Level Agreement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 575,
+    "abbreviation": "SLI",
+    "expansion": "Service Line Item",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 576,
+    "abbreviation": "SLS",
+    "expansion": "Space Launch System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 577,
+    "abbreviation": "SMA",
+    "expansion": "Safety and Mission Assurance",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 578,
+    "abbreviation": "SMAP",
+    "expansion": "Safety and Mission Assurance Plan",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 579,
+    "abbreviation": "SME",
+    "expansion": "Subject Matter Expert",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 580,
+    "abbreviation": "SOA",
+    "expansion": "Standard Outline Agreement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 581,
+    "abbreviation": "SOV",
+    "expansion": "Solenoid Valve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 582,
+    "abbreviation": "SOW",
+    "expansion": "Statement of Work",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 583,
+    "abbreviation": "SP3T",
+    "expansion": "Single-Pole, Triple-Throw",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 584,
+    "abbreviation": "SPDT",
+    "expansion": "Single-Pole, Double-Throw",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 585,
+    "abbreviation": "SPEC",
+    "expansion": "Specification",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 586,
+    "abbreviation": "SPF",
+    "expansion": "Single Point Failures",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 587,
+    "abbreviation": "SR ",
+    "expansion": "Service Request",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 588,
+    "abbreviation": "SRP",
+    "expansion": "Software Refresh Portal",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 662,
+    "abbreviation": "SRP",
+    "expansion": "Solar Radiation Pressure",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 589,
+    "abbreviation": "SRR",
+    "expansion": "Subsystem Requirements Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 590,
+    "abbreviation": "SRU",
+    "expansion": "Stellar Reference Unit",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 591,
+    "abbreviation": "SS",
+    "expansion": "Stainless Steel",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 592,
+    "abbreviation": "SSC",
+    "expansion": "Stennis Space Center",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 593,
+    "abbreviation": "SSDIF",
+    "expansion": "Spacecraft System Development and Integration Facility",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 594,
+    "abbreviation": "SSE",
+    "expansion": "System Simulation Equipment",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 595,
+    "abbreviation": "SSO",
+    "expansion": "Single Sign-On",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 596,
+    "abbreviation": "SSPP",
+    "expansion": "System Safety Project Plan",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 597,
+    "abbreviation": "SSPP",
+    "expansion": "Sub-System Safety Program Plan",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 598,
+    "abbreviation": "STB",
+    "expansion": "System Test Bed",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 599,
+    "abbreviation": "STEL",
+    "expansion": "Short Term Exposure Limit",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 600,
+    "abbreviation": "STS",
+    "expansion": "Space Transportation System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 601,
+    "abbreviation": "SUDA",
+    "expansion": "Surface Dust Mass Analyzer",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 602,
+    "abbreviation": "SV",
+    "expansion": "Service Valve",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 603,
+    "abbreviation": "SW",
+    "expansion": "Software",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 604,
+    "abbreviation": "SWG",
+    "expansion": "Safety Working Group",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 609,
+    "abbreviation": "T-Code",
+    "expansion": "Transaction Code",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 605,
+    "abbreviation": "TAS",
+    "expansion": "Treasury Account Symbol",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 606,
+    "abbreviation": "TBD",
+    "expansion": "To Be Determined",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 607,
+    "abbreviation": "TBR",
+    "expansion": "To Be Reviewed",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 608,
+    "abbreviation": "TCM",
+    "expansion": "Trajectory Correction Maneuver",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 610,
+    "abbreviation": "TD",
+    "expansion": "Thermal Desktop",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 611,
+    "abbreviation": "TDMS",
+    "expansion": "Technical Data Management System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 612,
+    "abbreviation": "TFM",
+    "expansion": "Treasury Financial Manual",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 613,
+    "abbreviation": "THRM",
+    "expansion": "Thermal",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 614,
+    "abbreviation": "TICD",
+    "expansion": "Thermal Interface Control Document",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 615,
+    "abbreviation": "TID",
+    "expansion": "Total Ionizing Dose",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 616,
+    "abbreviation": "TIMIS",
+    "expansion": "Test and Integration Management Information System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 617,
+    "abbreviation": "TIN",
+    "expansion": "Taxpayer Identification Number",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 618,
+    "abbreviation": "TLM",
+    "expansion": "Telemetry",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 619,
+    "abbreviation": "TML",
+    "expansion": "Total Mass Loss",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 620,
+    "abbreviation": "TOMS",
+    "expansion": "Task Order Management System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 621,
+    "abbreviation": "TPA",
+    "expansion": "Trading Partner Agreement",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 622,
+    "abbreviation": "TRR",
+    "expansion": "Test Readiness Review",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 623,
+    "abbreviation": "TRT",
+    "expansion": "Temperature Requirement Table",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 624,
+    "abbreviation": "TV",
+    "expansion": "Thermal Vacuum",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 625,
+    "abbreviation": "TVAC",
+    "expansion": "Thermal Vacuum",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 626,
+    "abbreviation": "TVS",
+    "expansion": "Transient Voltage Suppressor",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 627,
+    "abbreviation": "TWA",
+    "expansion": "Time Weighted Average",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 628,
+    "abbreviation": "TWT",
+    "expansion": "Traveling Wave Tube",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 629,
+    "abbreviation": "UHF",
+    "expansion": "Ultra High Frequnecy",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 630,
+    "abbreviation": "ULC",
+    "expansion": "Unliquidated Costs",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 631,
+    "abbreviation": "ULO",
+    "expansion": "Unliquidated Obligations",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 632,
+    "abbreviation": "UVS",
+    "expansion": "Ultraviolet Sensor",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 633,
+    "abbreviation": "VDC",
+    "expansion": "Volts DC",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 634,
+    "abbreviation": "VFM",
+    "expansion": "Venturi Flow Meter",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 635,
+    "abbreviation": "VGA",
+    "expansion": "Venus Gravity Assist",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 636,
+    "abbreviation": "VHF",
+    "expansion": "Very High Frequency",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 637,
+    "abbreviation": "VHP",
+    "expansion": "Vapor Hydrogen Peroxide",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 638,
+    "abbreviation": "VPN",
+    "expansion": "Virtual Private Network",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 639,
+    "abbreviation": "VTI",
+    "expansion": "Valve Tech Incorporated",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 640,
+    "abbreviation": "W/C",
+    "expansion": "Worst Case",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 641,
+    "abbreviation": "WA",
+    "expansion": "Work Authorization",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 642,
+    "abbreviation": "WAC",
+    "expansion": "Wide Angle Camera",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 643,
+    "abbreviation": "WAD",
+    "expansion": "Work Authorization Document",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 644,
+    "abbreviation": "WAWF",
+    "expansion": "Wide Area Workflow",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 645,
+    "abbreviation": "WBS",
+    "expansion": "Work Breakdown Structure",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 646,
+    "abbreviation": "WCA",
+    "expansion": "Worst Case Analysis",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 647,
+    "abbreviation": "WCF",
+    "expansion": "Working Capital Fund",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 649,
+    "abbreviation": "WFF",
+    "expansion": "Wallops Flight Facility",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 650,
+    "abbreviation": "WFR",
+    "expansion": "Water Vapor Regained",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 651,
+    "abbreviation": "WIMS",
+    "expansion": "Workforce Integrated Management System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 652,
+    "abbreviation": "WIP",
+    "expansion": "Work in Progress",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 653,
+    "abbreviation": "WOA",
+    "expansion": "Work Order Authorization",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 654,
+    "abbreviation": "WOSB",
+    "expansion": "Woman-Owned Small Business",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 655,
+    "abbreviation": "WSTF",
+    "expansion": "White Sands Test Facility",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 656,
+    "abbreviation": "WTTS",
+    "expansion": "Workforce Transformation Tracking System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 657,
+    "abbreviation": "WU",
+    "expansion": "Wheel Unit",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 658,
+    "abbreviation": "WXS",
+    "expansion": "Wave Guide Transfer Switch",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 659,
+    "abbreviation": "WYE",
+    "expansion": "Work Year Equivalent",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 648,
+    "abbreviation": "WebTADS",
+    "expansion": "Web-Based Time and Attendance Distribution System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 660,
+    "abbreviation": "YTD",
+    "expansion": "Year to Date",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 157,
+    "abbreviation": "eMOD",
+    "expansion": "Electronic Management Operations Directorate System",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 267,
+    "abbreviation": "iESD",
+    "expansion": "Internal Electro-Static Discharge",
+    "source_id": 5,
+    "source": "LSP"
+  },
+  {
+    "acronym_id": 290,
+    "abbreviation": "iWAPP",
+    "expansion": "Integrated Workforce and Personnel Planning",
+    "source_id": 5,
+    "source": "LSP"
+  }
+]

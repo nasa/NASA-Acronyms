@@ -1,0 +1,1010 @@
+[
+  {
+    "acronym_id": 0,
+    "abbreviation": "AA",
+    "expansion": "Associate Administrator",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 1,
+    "abbreviation": "ACDC",
+    "expansion": "Architecture Configuration and Design Constraints",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 2,
+    "abbreviation": "ADD",
+    "expansion": "Architecture Definition Document",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 3,
+    "abbreviation": "AE",
+    "expansion": "Ascent Element",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 4,
+    "abbreviation": "AES",
+    "expansion": "Advanced Exploration Systems",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 5,
+    "abbreviation": "AESB",
+    "expansion": "Aeronautics and Space Engineering Board",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 6,
+    "abbreviation": "APMC",
+    "expansion": "Agency Program Management Council",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 7,
+    "abbreviation": "ASAP",
+    "expansion": "Agency (Aeronautics) Safety Assessment Panel",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 8,
+    "abbreviation": "BAA",
+    "expansion": "Broad Agency Announcement",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 9,
+    "abbreviation": "CAD",
+    "expansion": "Computer-Aided Design",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 10,
+    "abbreviation": "CCB",
+    "expansion": "Configuration Control Board",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 11,
+    "abbreviation": "CCBD",
+    "expansion": "Configuration Control Board Directive",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 12,
+    "abbreviation": "CDM",
+    "expansion": "Configuration and Data Management",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 13,
+    "abbreviation": "CDMP",
+    "expansion": "Configuration and Data Management Plan",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 14,
+    "abbreviation": "CHP",
+    "expansion": "Crew Health and Performance",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 15,
+    "abbreviation": "CI",
+    "expansion": "Configuration Item",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 16,
+    "abbreviation": "CLPS",
+    "expansion": "Commercial Lunar Payload Services",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 17,
+    "abbreviation": "CLV",
+    "expansion": "Commercial Launch Vehicle",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 18,
+    "abbreviation": "CM",
+    "expansion": "Configuration Management",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 19,
+    "abbreviation": "CMRD",
+    "expansion": "Configuration Management Receipt Desk",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 20,
+    "abbreviation": "CMW",
+    "expansion": "Change Management Workflow",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 22,
+    "abbreviation": "CPE",
+    "expansion": "Change Package Engineer",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 23,
+    "abbreviation": "CPM",
+    "expansion": "Change Package Manager",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 24,
+    "abbreviation": "CR",
+    "expansion": "Change Request",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 25,
+    "abbreviation": "CSA",
+    "expansion": "Configuration Status Accounting",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 26,
+    "abbreviation": "CSA",
+    "expansion": "Canadian Space Agency",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 27,
+    "abbreviation": "CSCI",
+    "expansion": "Computer Software Configuration Item",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 28,
+    "abbreviation": "CY",
+    "expansion": "Calendar Year",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 21,
+    "abbreviation": "ConOps",
+    "expansion": "Concept of Operations",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 29,
+    "abbreviation": "DAA",
+    "expansion": "Deputy Associate Administrator",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 30,
+    "abbreviation": "DAC",
+    "expansion": "Design Analysis Cycle",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 31,
+    "abbreviation": "DCR",
+    "expansion": "Design Certification Review",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 32,
+    "abbreviation": "DE",
+    "expansion": "Descent Element",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 33,
+    "abbreviation": "DIMA",
+    "expansion": "Distributed Integrated Modular Avionics",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 34,
+    "abbreviation": "DM",
+    "expansion": "Data Management",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 35,
+    "abbreviation": "DOF",
+    "expansion": "Degree of Freedom",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 36,
+    "abbreviation": "DPMC",
+    "expansion": "Directorate Program Management Council",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 37,
+    "abbreviation": "DQA",
+    "expansion": "Data Quality Assurance",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 38,
+    "abbreviation": "DRD",
+    "expansion": "Data Requirements Description",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 39,
+    "abbreviation": "DSN",
+    "expansion": "Deep Space Network",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 40,
+    "abbreviation": "EAR",
+    "expansion": "Export Administration Requirements",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 41,
+    "abbreviation": "ECLSS",
+    "expansion": "Environmental Control and Life Support System",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 42,
+    "abbreviation": "ECM",
+    "expansion": "Exploration Command Module",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 43,
+    "abbreviation": "ECR",
+    "expansion": "Export Control Representative",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 44,
+    "abbreviation": "EGS",
+    "expansion": "Exploration Ground Systems",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 45,
+    "abbreviation": "ESA",
+    "expansion": "European Space Agency",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 46,
+    "abbreviation": "ESD",
+    "expansion": "Exploration Systems Development",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 47,
+    "abbreviation": "ET",
+    "expansion": "Event Tracker",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 48,
+    "abbreviation": "EUS",
+    "expansion": "Exploration Upper Stage",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 49,
+    "abbreviation": "EVA",
+    "expansion": "Extra-Vehicular Activity",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 50,
+    "abbreviation": "EVR",
+    "expansion": "Extra-Vehicular Robotics",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 51,
+    "abbreviation": "FAQ",
+    "expansion": "Freqently Asked Question",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 52,
+    "abbreviation": "FCA",
+    "expansion": "Functional Configuration Audit",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 53,
+    "abbreviation": "FOD",
+    "expansion": "Flight Operations",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 54,
+    "abbreviation": "FW",
+    "expansion": "Forward Work",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 55,
+    "abbreviation": "GAO",
+    "expansion": "Government Accountability Office",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 56,
+    "abbreviation": "GDSS",
+    "expansion": "Gateway Docking System Specification",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 57,
+    "abbreviation": "GEO",
+    "expansion": "Geostationary Earth Orbit",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 58,
+    "abbreviation": "GN&C",
+    "expansion": "Guidance Navigation and Control",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 59,
+    "abbreviation": "GPCB",
+    "expansion": "Gateway Program Control Board",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 60,
+    "abbreviation": "GSCB",
+    "expansion": "Gateway Systems Engineering and Integration Control Board",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 61,
+    "abbreviation": "GVCB",
+    "expansion": "Gateway Vehicle Integration Control Board",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 62,
+    "abbreviation": "HALO",
+    "expansion": "Habitation and Logistics Outpost",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 63,
+    "abbreviation": "HCB",
+    "expansion": "Human Landing Systems Control Board",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 64,
+    "abbreviation": "HEO",
+    "expansion": "Human Exploration & Operations",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 65,
+    "abbreviation": "HEOMD",
+    "expansion": "Human Exploration & Operations Mission Directorate",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 66,
+    "abbreviation": "HHP",
+    "expansion": "Human Health & Performance",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 67,
+    "abbreviation": "HLS",
+    "expansion": "Human Landing Systems",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 68,
+    "abbreviation": "IAC",
+    "expansion": "Integrated Analysis Cycle",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 69,
+    "abbreviation": "ICD",
+    "expansion": "Interface Control Document",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 70,
+    "abbreviation": "ICE",
+    "expansion": "Integrated Collaborative Environment",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 71,
+    "abbreviation": "ICPS",
+    "expansion": "Interim Cryogenic Propulsion Stage",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 72,
+    "abbreviation": "IDS",
+    "expansion": "Integrated Data System",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 73,
+    "abbreviation": "IDSS",
+    "expansion": "International Docking System Standard",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 74,
+    "abbreviation": "IRD",
+    "expansion": "Interface Requirements Document",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 75,
+    "abbreviation": "ISRU",
+    "expansion": "In-Situ Resource Utilization",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 76,
+    "abbreviation": "ISS",
+    "expansion": "International Space Station",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 77,
+    "abbreviation": "IT",
+    "expansion": "Information Technology",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 78,
+    "abbreviation": "ITAR",
+    "expansion": "International Traffic in Arms Regulations",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 79,
+    "abbreviation": "IVA",
+    "expansion": "Intra-Vehicular Activity",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 80,
+    "abbreviation": "IVR",
+    "expansion": "Intravehicular Robotics",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 81,
+    "abbreviation": "LM",
+    "expansion": "Logistics Module",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 82,
+    "abbreviation": "LPGF",
+    "expansion": "Low Profile Grapple Fixture",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 83,
+    "abbreviation": "LRO",
+    "expansion": "Lunar Reconnaissance Orbiter",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 84,
+    "abbreviation": "LROC",
+    "expansion": "Lunar Reconnaissance Orbiter Camara",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 85,
+    "abbreviation": "LSII",
+    "expansion": "Lunar Surface Innovation Initiative",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 86,
+    "abbreviation": "LSS",
+    "expansion": "Lunar Surface Systems",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 87,
+    "abbreviation": "M2M",
+    "expansion": "Moon to Mars",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 88,
+    "abbreviation": "M2MCB",
+    "expansion": "Moon to Mars Control Board",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 89,
+    "abbreviation": "M2ME",
+    "expansion": "Moon to Mars Enterprise",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 90,
+    "abbreviation": "M2ME ADD",
+    "expansion": "Moon to Mars Enterprise Architecture Definition Document",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 91,
+    "abbreviation": "MMOD",
+    "expansion": "Micro Meteroid and Orbital Debris",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 92,
+    "abbreviation": "MPCV",
+    "expansion": "Multi-Purpose Crew Vehicle",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 93,
+    "abbreviation": "NAMS",
+    "expansion": "NASA Access Management System",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 94,
+    "abbreviation": "NASA",
+    "expansion": "National Aeronautics and Space Administration",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 95,
+    "abbreviation": "NEN",
+    "expansion": "Near Earth Network",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 96,
+    "abbreviation": "NID",
+    "expansion": "NASA Interim Directive",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 97,
+    "abbreviation": "NPD",
+    "expansion": "NASA Policy Directive",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 98,
+    "abbreviation": "NPR",
+    "expansion": "NASA Procedural Requirements",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 99,
+    "abbreviation": "NRHO",
+    "expansion": "Near Rectilinear Halo Orbit",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 100,
+    "abbreviation": "NRRS",
+    "expansion": "NASA Records Retention Schedule",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 101,
+    "abbreviation": "OCI",
+    "expansion": "Operational Configuration Identifier",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 102,
+    "abbreviation": "OPR",
+    "expansion": "Office of Primary Responsibility",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 103,
+    "abbreviation": "ORR",
+    "expansion": "Operational Readiness Review",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 104,
+    "abbreviation": "ORU",
+    "expansion": "Orbital Replaceable Unit",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 105,
+    "abbreviation": "OSB",
+    "expansion": "Outside-of-Board",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 106,
+    "abbreviation": "PCA",
+    "expansion": "Physical Configuration Audit",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 107,
+    "abbreviation": "PCB",
+    "expansion": "Program Control Board",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 108,
+    "abbreviation": "PLM",
+    "expansion": "Product Lifecycle Management",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 109,
+    "abbreviation": "POC",
+    "expansion": "Point of Contact",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 110,
+    "abbreviation": "PP&C",
+    "expansion": "Program Planning & Control",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 111,
+    "abbreviation": "PPE",
+    "expansion": "Power and Propulsion Element",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 112,
+    "abbreviation": "R&RD",
+    "expansion": "Receipt and Release Desk",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 113,
+    "abbreviation": "S2D",
+    "expansion": "Straight-to-Directive",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 114,
+    "abbreviation": "SAR",
+    "expansion": "System Acceptance Review",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 115,
+    "abbreviation": "SBU",
+    "expansion": "Sensitive but Unclassified",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 116,
+    "abbreviation": "SCaN",
+    "expansion": "Space Communications & Navigation",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 117,
+    "abbreviation": "SE&I",
+    "expansion": "Systems Engineering & Integration",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 118,
+    "abbreviation": "SEMP",
+    "expansion": "Systems Engineering Management Plan",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 119,
+    "abbreviation": "SEP",
+    "expansion": "Solar Electric Propulsion",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 120,
+    "abbreviation": "SLS",
+    "expansion": "Space Launch System",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 121,
+    "abbreviation": "SMA",
+    "expansion": "Safety & Mission Assurance",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 122,
+    "abbreviation": "SMD",
+    "expansion": "Science Mission Directorate",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 123,
+    "abbreviation": "SORI",
+    "expansion": "Small ORU Interfaces",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 124,
+    "abbreviation": "SPCE",
+    "expansion": "Servicing, Performance, and Checkout Equipment",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 125,
+    "abbreviation": "SRD",
+    "expansion": "Systems Requirements Document",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 126,
+    "abbreviation": "SSTP",
+    "expansion": "Solar System Treks Project",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 127,
+    "abbreviation": "STMD",
+    "expansion": "Space Technology Mission Directorate",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 128,
+    "abbreviation": "TBD",
+    "expansion": "To Be Determined",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 129,
+    "abbreviation": "TBR",
+    "expansion": "To Be Resolved",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 130,
+    "abbreviation": "TCM",
+    "expansion": "Technical Coordination Meeting",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 131,
+    "abbreviation": "TE",
+    "expansion": "Transfer Element",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 132,
+    "abbreviation": "TIM",
+    "expansion": "Technical Interchange/Integration Meeting",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 133,
+    "abbreviation": "TIO",
+    "expansion": "Technical Integration Office",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 134,
+    "abbreviation": "TLI",
+    "expansion": "Trans Lunar Injection",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 135,
+    "abbreviation": "TRL",
+    "expansion": "Technology Readiness Level",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 136,
+    "abbreviation": "US-Hab",
+    "expansion": "US Habitat",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 137,
+    "abbreviation": "VAB",
+    "expansion": "Vehicle Assembly Building",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 138,
+    "abbreviation": "VIPER",
+    "expansion": "Volatiles Investigating Polar Exploration Rover",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 139,
+    "abbreviation": "WIF",
+    "expansion": "Worksite Interface",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 140,
+    "abbreviation": "xEMU",
+    "expansion": "Exploration Extra-Vehicular Mobility Unit",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 141,
+    "abbreviation": "xEVA",
+    "expansion": "Exploration Extra-Vehicular Activity",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 142,
+    "abbreviation": "xPGS",
+    "expansion": "Exploration Pressure Garment System",
+    "source_id": 4,
+    "source": "AES"
+  },
+  {
+    "acronym_id": 143,
+    "abbreviation": "xPLSS",
+    "expansion": "Exploration Portable Life Support System",
+    "source_id": 4,
+    "source": "AES"
+  }
+]
