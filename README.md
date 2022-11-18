@@ -6,6 +6,6 @@ Chrome: https://chrome.google.com/webstore/detail/nasa-acronyms/anpbkdhjbebjjkgd
 
 Firefox: https://addons.mozilla.org/addon/nasa-acronyms
 
-Authors: Joel Malissa & Logan Stafman
+Authors: Joel Malissa, Logan Stafman, Lauren Woodbridge
 
-Contact: [joel.d.malissa@nasa.gov](mailto:joel.d.malissa@nasa.gov)
+Contact: [lauren.a.woodbridge@nasa.gov](mailto:lauren.a.woodbridge@nasa.gov)
