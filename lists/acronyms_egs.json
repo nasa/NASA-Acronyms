@@ -37,7 +37,7 @@
   {
     "acronym_id": 5,
     "abbreviation": "A&E",
-    "expansion": "Architect and Engineer",
+    "expansion": "Architectural and Engineering",
     "source_id": 1,
     "source": "EGS"
   },
@@ -5805,7 +5805,7 @@
   {
     "acronym_id": 841,
     "abbreviation": "GSI",
-    "expansion": "Ground Systems and Implementation",
+    "expansion": "Ground Systems Implementation",
     "source_id": 1,
     "source": "EGS"
   },
