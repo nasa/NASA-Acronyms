@@ -12089,16 +12089,16 @@
     "source": "Earthdata"
   },
   {
-    "acronym_id": 1748,
-    "abbreviation": "SLC",
-    "expansion": "Single Look Complex",
+    "acronym_id": 1747,
+    "abbreviation": "SLR",
+    "expansion": "Satellite Laser Ranging",
     "source_id": 6,
     "source": "Earthdata"
   },
   {
-    "acronym_id": 1747,
-    "abbreviation": "SLR",
-    "expansion": "Satellite Laser Ranging",
+    "acronym_id": 1748,
+    "abbreviation": "SLRF 2020",
+    "expansion": "Satellite Laser Ranging Format 2020",
     "source_id": 6,
     "source": "Earthdata"
   },
