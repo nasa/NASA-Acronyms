@@ -485,7 +485,7 @@
   {
     "acronym_id": 70,
     "abbreviation": "ALS",
-    "expansion": "Automated Launch Sequencer",
+    "expansion": "Autonomous Launch Sequencer",
     "source_id": 1,
     "source": "EGS"
   },
@@ -12755,3513 +12755,3520 @@
   },
   {
     "acronym_id": 1856,
+    "abbreviation": "RBA",
+    "expansion": "Risk Based Assessment",
+    "source_id": 1,
+    "source": "EGS"
+  },
+  {
+    "acronym_id": 1857,
     "abbreviation": "RBCC",
     "expansion": "Rocket-Based Combined Cycle",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1857,
+    "acronym_id": 1858,
     "abbreviation": "RBD",
     "expansion": "Reliability Block Diagram",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1858,
+    "acronym_id": 1859,
     "abbreviation": "RBS",
     "expansion": "Reusable Booster System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1859,
+    "acronym_id": 1860,
     "abbreviation": "RBS",
     "expansion": "Requirements Breakdown Structure",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1860,
+    "acronym_id": 1861,
     "abbreviation": "RCC",
     "expansion": "Reinforced Carbon Carbon",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1861,
+    "acronym_id": 1862,
     "abbreviation": "RCDP",
     "expansion": "Records Capture and Disposition Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1862,
+    "acronym_id": 1863,
     "abbreviation": "RCN",
     "expansion": "Requirement Change Notice",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1863,
+    "acronym_id": 1864,
     "abbreviation": "RCR",
     "expansion": "Requirements Closure Review",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1864,
+    "acronym_id": 1865,
     "abbreviation": "RCS",
     "expansion": "Reaction Control System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1865,
+    "acronym_id": 1866,
     "abbreviation": "RD",
     "expansion": "Receipt Desk",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1866,
+    "acronym_id": 1867,
     "abbreviation": "RDAU",
     "expansion": "Remote Data Acquisition Unit",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1867,
+    "acronym_id": 1868,
     "abbreviation": "RDC",
     "expansion": "Recover Decision Criteria",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1868,
+    "acronym_id": 1869,
     "abbreviation": "RDF",
     "expansion": "RID Disposition Team",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1869,
+    "acronym_id": 1870,
     "abbreviation": "RDP",
     "expansion": "Remote Desktop Protocol",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1870,
+    "acronym_id": 1871,
     "abbreviation": "RDT",
     "expansion": "RID Disposition Team",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1871,
+    "acronym_id": 1872,
     "abbreviation": "RE",
     "expansion": "Radiated Emission",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1872,
+    "acronym_id": 1873,
     "abbreviation": "REA",
     "expansion": "Request for Equitable Adjustment",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1873,
+    "acronym_id": 1874,
     "abbreviation": "REEB",
     "expansion": "Resource Environment for Enhanced Budgeting",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1875,
+    "acronym_id": 1876,
     "abbreviation": "REMP",
     "expansion": "Requirements Engineering Management Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1876,
+    "acronym_id": 1877,
     "abbreviation": "RES",
     "expansion": "Risk-Based Explosive Safe-Siting Toolset",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1877,
+    "acronym_id": 1878,
     "abbreviation": "RESOLVE",
     "expansion": "Regolith and Environment Science and Oxygen and Lunar Volatile Extraction",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1878,
+    "acronym_id": 1879,
     "abbreviation": "RF",
     "expansion": "Radio Frequency",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1879,
+    "acronym_id": 1880,
     "abbreviation": "RFA",
     "expansion": "Request for Action",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1880,
+    "acronym_id": 1881,
     "abbreviation": "RFAWG",
     "expansion": "Requirements and Functional Analysis Working Group",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1881,
+    "acronym_id": 1882,
     "abbreviation": "RFI",
     "expansion": "Request for Information",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1882,
+    "acronym_id": 1883,
     "abbreviation": "RFI",
     "expansion": "Release for Information",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1883,
+    "acronym_id": 1884,
     "abbreviation": "RFP",
     "expansion": "Request for Proposal/Procurement",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1884,
+    "acronym_id": 1885,
     "abbreviation": "RFQ",
     "expansion": "Request for Quote",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1885,
+    "acronym_id": 1886,
     "abbreviation": "RFR",
     "expansion": "Request for Relief",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1886,
+    "acronym_id": 1887,
     "abbreviation": "RFTS",
     "expansion": "Radio Frequency and Telemetry Station",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1887,
+    "acronym_id": 1888,
     "abbreviation": "RFTU",
     "expansion": "Release for Technical Use",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1888,
+    "acronym_id": 1889,
     "abbreviation": "RGA",
     "expansion": "Rate Gyro Assembly",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1889,
+    "acronym_id": 1890,
     "abbreviation": "RGWG",
     "expansion": "Range Ground Working Group",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1890,
+    "acronym_id": 1891,
     "abbreviation": "RH",
     "expansion": "Right Hand",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1891,
+    "acronym_id": 1892,
     "abbreviation": "RHIB",
     "expansion": "Rigid-Hulled Inflatable Boat",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1892,
+    "acronym_id": 1893,
     "abbreviation": "RI&CS",
     "expansion": "Range Interface and Control Systems (Aka. RICS)",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1893,
+    "acronym_id": 1894,
     "abbreviation": "RIB",
     "expansion": "Rigid-Hulled Inflatable Boat",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1894,
+    "acronym_id": 1895,
     "abbreviation": "RID",
     "expansion": "Review Item Discrepancy",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1896,
+    "acronym_id": 1897,
     "abbreviation": "RIDM",
     "expansion": "Risk Informed Decision Making",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1897,
+    "acronym_id": 1898,
     "abbreviation": "RINU",
     "expansion": "Redundant Inertial Navigation Unit",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1898,
+    "acronym_id": 1899,
     "abbreviation": "RIO",
     "expansion": "Remote Input Output",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1899,
+    "acronym_id": 1900,
     "abbreviation": "RISA",
     "expansion": "Rapid Interactive Structural Analysis",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1901,
+    "acronym_id": 1902,
     "abbreviation": "RM",
     "expansion": "Risk Management",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1902,
+    "acronym_id": 1903,
     "abbreviation": "RMA",
     "expansion": "Reliability, Maintainability, Availability",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1903,
+    "acronym_id": 1904,
     "abbreviation": "RMO",
     "expansion": "Risk Management Officer",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1904,
+    "acronym_id": 1905,
     "abbreviation": "RMP",
     "expansion": "Risk Management Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1905,
+    "acronym_id": 1906,
     "abbreviation": "RMS",
     "expansion": "Requirements Management System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1906,
+    "acronym_id": 1907,
     "abbreviation": "RMS",
     "expansion": "Root Mean Square",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1907,
+    "acronym_id": 1908,
     "abbreviation": "ROA",
     "expansion": "Research Opportunity Announcement",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1908,
+    "acronym_id": 1909,
     "abbreviation": "ROA",
     "expansion": "Responsible Organization Agreement",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1909,
+    "acronym_id": 1910,
     "abbreviation": "ROAM",
     "expansion": "Requirements for Operations and Maintenance",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1910,
+    "acronym_id": 1911,
     "abbreviation": "ROI",
     "expansion": "Return on Investment",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1911,
+    "acronym_id": 1912,
     "abbreviation": "ROI",
     "expansion": "Recovery Operations Integrator",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1912,
+    "acronym_id": 1913,
     "abbreviation": "ROM",
     "expansion": "Rough Order of Magnitude",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1913,
+    "acronym_id": 1914,
     "abbreviation": "ROM",
     "expansion": "Recovery Operations Manager",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1914,
+    "acronym_id": 1915,
     "abbreviation": "ROM",
     "expansion": "Range of Motion",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1915,
+    "acronym_id": 1916,
     "abbreviation": "ROSES",
     "expansion": "Research Opportunities in Space and Earth Sciences",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1916,
+    "acronym_id": 1917,
     "abbreviation": "ROSS",
     "expansion": "Remote Optics System Supervisor",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1917,
+    "acronym_id": 1918,
     "abbreviation": "RP-1",
     "expansion": "Rocket Propellant 1",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1918,
+    "acronym_id": 1919,
     "abbreviation": "RPC",
     "expansion": "Remote Power Controller",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1919,
+    "acronym_id": 1920,
     "abbreviation": "RPS",
     "expansion": "Record and Playback System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1920,
+    "acronym_id": 1921,
     "abbreviation": "RPS",
     "expansion": " Recording and Playback Subsystem",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1921,
+    "acronym_id": 1922,
     "abbreviation": "RPSF",
     "expansion": "Rotation Processing and Surge Facility",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1922,
+    "acronym_id": 1923,
     "abbreviation": "RPU",
     "expansion": "Rollout Purge Unit",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1923,
+    "acronym_id": 1924,
     "abbreviation": "RRAP",
     "expansion": "RMA Requirements Allocation Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1924,
+    "acronym_id": 1925,
     "abbreviation": "RRAT",
     "expansion": "Roles and Responsibilities Action Team",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1925,
+    "acronym_id": 1926,
     "abbreviation": "RRP",
     "expansion": "Risk Review Panel",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1926,
+    "acronym_id": 1927,
     "abbreviation": "RRT",
     "expansion": "Rapid Response Team",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1927,
+    "acronym_id": 1928,
     "abbreviation": "RS",
     "expansion": "Radiated Susceptibility",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1928,
+    "acronym_id": 1929,
     "abbreviation": "RS&H",
     "expansion": "Reynolds, Smith and Hills ",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1929,
+    "acronym_id": 1930,
     "abbreviation": "RSAA",
     "expansion": "Reimbursable Space Act Agreement",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1930,
+    "acronym_id": 1931,
     "abbreviation": "RSAR",
     "expansion": "Reliability and Safety Assessment Report",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1931,
+    "acronym_id": 1932,
     "abbreviation": "RSCS",
     "expansion": "Range Safety Checkout Subsystem",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1932,
+    "acronym_id": 1933,
     "abbreviation": "RSE",
     "expansion": "Range Systems Element (EIT)",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1933,
+    "acronym_id": 1934,
     "abbreviation": "RSLP",
     "expansion": "Rocket Systems Launch Program",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1934,
+    "acronym_id": 1935,
     "abbreviation": "RSLV",
     "expansion": "Radially-Segmented Launch Vehicle",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1935,
+    "acronym_id": 1936,
     "abbreviation": "RSPF",
     "expansion": "Rotational Surge Processing Facility",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1936,
+    "acronym_id": 1937,
     "abbreviation": "RSPL",
     "expansion": "Recommended Spare Parts List",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1937,
+    "acronym_id": 1938,
     "abbreviation": "RSRB",
     "expansion": "Reusable Solid Rocket Booster",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1938,
+    "acronym_id": 1939,
     "abbreviation": "RSRM",
     "expansion": "Reusable Solid Rocket Motor",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1939,
+    "acronym_id": 1940,
     "abbreviation": "RSRMV",
     "expansion": "Reusable Solid Rocket Motor V",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1940,
+    "acronym_id": 1941,
     "abbreviation": "RSS",
     "expansion": "Range Safety System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1941,
+    "acronym_id": 1942,
     "abbreviation": "RT",
     "expansion": "Real-Time",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1942,
+    "acronym_id": 1943,
     "abbreviation": "RT",
     "expansion": "Remote Terminal",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1943,
+    "acronym_id": 1944,
     "abbreviation": "RTA",
     "expansion": "Recharge Tank Assembly",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1944,
+    "acronym_id": 1945,
     "abbreviation": "RTB",
     "expansion": "Removable Terminal Block",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1945,
+    "acronym_id": 1946,
     "abbreviation": "RTF",
     "expansion": "Recovery Transportation Fixture",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1946,
+    "acronym_id": 1947,
     "abbreviation": "RTI",
     "expansion": "Real Time Innovations",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1947,
+    "acronym_id": 1948,
     "abbreviation": "RTM",
     "expansion": "Requirements Traceability Matrix",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1948,
+    "acronym_id": 1949,
     "abbreviation": "RTQ",
     "expansion": "Response to Queries",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1949,
+    "acronym_id": 1950,
     "abbreviation": "RTSR",
     "expansion": "Range Tracking System Report",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1950,
+    "acronym_id": 1951,
     "abbreviation": "RTVM",
     "expansion": "Requirements Traceability and Verification Matrix",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1951,
+    "acronym_id": 1952,
     "abbreviation": "RTW",
     "expansion": "Ready to Work",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1952,
+    "acronym_id": 1953,
     "abbreviation": "RW",
     "expansion": "Rotary Wing",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1874,
+    "acronym_id": 1875,
     "abbreviation": "ReMP",
     "expansion": "Requirements Management Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1953,
+    "acronym_id": 1954,
     "abbreviation": "S&A",
     "expansion": "Safe and Arm",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1954,
+    "acronym_id": 1955,
     "abbreviation": "S&H",
     "expansion": "Safety and Health",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1955,
+    "acronym_id": 1956,
     "abbreviation": "S&MA",
     "expansion": "Safety and Mission Assurance",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1956,
+    "acronym_id": 1957,
     "abbreviation": "S&TE",
     "expansion": "Support and Test Equipment",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1957,
+    "acronym_id": 1958,
     "abbreviation": "S/C",
     "expansion": "Spacecraft",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1958,
+    "acronym_id": 1959,
     "abbreviation": "SA",
     "expansion": "KSC Safety & Mission Assurance Directorate",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1959,
+    "acronym_id": 1960,
     "abbreviation": "SA",
     "expansion": "Spacecraft Adapter",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1960,
+    "acronym_id": 1961,
     "abbreviation": "SA",
     "expansion": "Supportability Analysis",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1961,
+    "acronym_id": 1962,
     "abbreviation": "SAA",
     "expansion": "Space Act Agreement",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1962,
+    "acronym_id": 1963,
     "abbreviation": "SAA",
     "expansion": "Systems Assurance Analysis",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1963,
+    "acronym_id": 1964,
     "abbreviation": "SADE",
     "expansion": "Solar Array Drive Electronics",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1964,
+    "acronym_id": 1965,
     "abbreviation": "SADM",
     "expansion": "Solar Array Drive Mechanisms",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1965,
+    "acronym_id": 1966,
     "abbreviation": "SAEF",
     "expansion": "Spacecraft Assembly and Encapsulation Facility",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1966,
+    "acronym_id": 1967,
     "abbreviation": "SAFAR",
     "expansion": "Safety Assessment Report",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1967,
+    "acronym_id": 1968,
     "abbreviation": "SAGE",
     "expansion": "Senior Advisory Group Exchange",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1968,
+    "acronym_id": 1969,
     "abbreviation": "SAGE",
     "expansion": "Stratospheric Aerosol and Gas Experiment",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1969,
+    "acronym_id": 1970,
     "abbreviation": "SAIC",
     "expansion": "Science Applications International Corporation",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1970,
+    "acronym_id": 1971,
     "abbreviation": "SAIP",
     "expansion": "Spares Acquisition Integrated With Production",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1971,
+    "acronym_id": 1972,
     "abbreviation": "SAMP",
     "expansion": "Site Activation Management Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1972,
+    "acronym_id": 1973,
     "abbreviation": "SAN",
     "expansion": "Storage Area Network",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1973,
+    "acronym_id": 1974,
     "abbreviation": "SAP",
     "expansion": "System Application and Products",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1974,
+    "acronym_id": 1975,
     "abbreviation": "SAP",
     "expansion": "Software Assurance Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1975,
+    "acronym_id": 1976,
     "abbreviation": "SAR",
     "expansion": "System Acceptance Review",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1976,
+    "acronym_id": 1977,
     "abbreviation": "SATERN",
     "expansion": "System for Administration, Training, and Educational Resources for NASA",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1977,
+    "acronym_id": 1978,
     "abbreviation": "SATOCM",
     "expansion": "Software Avionics Test Orchestration and Command and Messaging",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1978,
+    "acronym_id": 1979,
     "abbreviation": "SB",
     "expansion": "Small Business",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1979,
+    "acronym_id": 1980,
     "abbreviation": "SBP",
     "expansion": "Small Business Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1980,
+    "acronym_id": 1981,
     "abbreviation": "SBU",
     "expansion": "Sensitive but Unclassified",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1981,
+    "acronym_id": 1982,
     "abbreviation": "SCA",
     "expansion": "System Component Authorization",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1983,
+    "acronym_id": 1984,
     "abbreviation": "SCAP",
     "expansion": "Strategic Capabilities Assets Program",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1984,
+    "acronym_id": 1985,
     "abbreviation": "SCAPE",
     "expansion": "Self-Contained Atmospheric Protective Ensemble",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1985,
+    "acronym_id": 1986,
     "abbreviation": "SCB",
     "expansion": "Software Control Board",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1986,
+    "acronym_id": 1987,
     "abbreviation": "SCC",
     "expansion": "Safety Console Coordinator",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1987,
+    "acronym_id": 1988,
     "abbreviation": "SCCB",
     "expansion": "Software Configuration Control Board",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1988,
+    "acronym_id": 1989,
     "abbreviation": "SCCS",
     "expansion": "Spaceport Command and Control System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1989,
+    "acronym_id": 1990,
     "abbreviation": "SCFM",
     "expansion": "Standard Cubic Feet Per Minute",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1990,
+    "acronym_id": 1991,
     "abbreviation": "SCI",
     "expansion": "Special Consideration Item",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1991,
+    "acronym_id": 1992,
     "abbreviation": "SCID",
     "expansion": "System Configuration Identifier",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1992,
+    "acronym_id": 1993,
     "abbreviation": "SCIP",
     "expansion": "Space Craft Interface Panel",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1993,
+    "acronym_id": 1994,
     "abbreviation": "SCR",
     "expansion": "System Concept Review",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1994,
+    "acronym_id": 1995,
     "abbreviation": "SCR",
     "expansion": "Schedule Change Request",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1995,
+    "acronym_id": 1996,
     "abbreviation": "SCR",
     "expansion": "System Change Request",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1996,
+    "acronym_id": 1997,
     "abbreviation": "SCRAMNet",
     "expansion": "Shared Common Random Access Memory Network ",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1997,
+    "acronym_id": 1998,
     "abbreviation": "SCV",
     "expansion": "Small Class Vehicle",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1998,
+    "acronym_id": 1999,
     "abbreviation": "SCVE",
     "expansion": "Small Class Vehicle Element",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1982,
+    "acronym_id": 1983,
     "abbreviation": "SCaN",
     "expansion": "Space Communications and Navigation",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 1999,
+    "acronym_id": 2000,
     "abbreviation": "SD",
     "expansion": "System Documentation",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2000,
+    "acronym_id": 2001,
     "abbreviation": "SDAS",
     "expansion": "Sensor Data Acquisition System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2001,
+    "acronym_id": 2002,
     "abbreviation": "SDD",
     "expansion": "System Design Document",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2002,
+    "acronym_id": 2003,
     "abbreviation": "SDF",
     "expansion": "Software Development Folder",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2003,
+    "acronym_id": 2004,
     "abbreviation": "SDP",
     "expansion": "Software Development Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2004,
+    "acronym_id": 2005,
     "abbreviation": "SDR",
     "expansion": "Systems Definition Review",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2005,
+    "acronym_id": 2006,
     "abbreviation": "SDRP",
     "expansion": "Streamline Design Review Process",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2006,
+    "acronym_id": 2007,
     "abbreviation": "SDTS",
     "expansion": "Serial Data Telemetry System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2007,
+    "acronym_id": 2008,
     "abbreviation": "SE",
     "expansion": "Support Equipment",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2008,
+    "acronym_id": 2009,
     "abbreviation": "SE",
     "expansion": "Systems Engineer(ing)",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2009,
+    "acronym_id": 2010,
     "abbreviation": "SE&I",
     "expansion": "Systems Engineering and Integration",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2010,
+    "acronym_id": 2011,
     "abbreviation": "SECB",
     "expansion": "System Engineering Control Board",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2011,
+    "acronym_id": 2012,
     "abbreviation": "SEED",
     "expansion": "Systems Engineering Exchange and Development",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2012,
+    "acronym_id": 2013,
     "abbreviation": "SEI",
     "expansion": "Systems Engineering and Integration",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2013,
+    "acronym_id": 2014,
     "abbreviation": "SEI&O",
     "expansion": "Systems Engineering, Integration, Operations and Maintenance",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2014,
+    "acronym_id": 2015,
     "abbreviation": "SEIS",
     "expansion": "Site Engineering and Inspection Services",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2015,
+    "acronym_id": 2016,
     "abbreviation": "SEMCO",
     "expansion": "Systems Engineering and Management Company",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2016,
+    "acronym_id": 2017,
     "abbreviation": "SEMO",
     "expansion": "Supply & Equipment Management Officer",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2017,
+    "acronym_id": 2018,
     "abbreviation": "SEMP",
     "expansion": "Systems Engineering Management Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2018,
+    "acronym_id": 2019,
     "abbreviation": "SEP",
     "expansion": "Solar Electric Propulsion",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2019,
+    "acronym_id": 2020,
     "abbreviation": "SERB",
     "expansion": "SLS Engineering Review Board ",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2020,
+    "acronym_id": 2021,
     "abbreviation": "SES",
     "expansion": "Senior Executive Service",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2021,
+    "acronym_id": 2022,
     "abbreviation": "SESC",
     "expansion": "SLS Engineering Support Center",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2022,
+    "acronym_id": 2023,
     "abbreviation": "SETI",
     "expansion": "Systems Electronic Tie-In",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2023,
+    "acronym_id": 2024,
     "abbreviation": "SEV",
     "expansion": "Space Exploration Vehicle",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2024,
+    "acronym_id": 2025,
     "abbreviation": "SFD",
     "expansion": "SLS Flame Deflector",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2025,
+    "acronym_id": 2026,
     "abbreviation": "SFD",
     "expansion": "Side Flame Deflector",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2026,
+    "acronym_id": 2027,
     "abbreviation": "SFP",
     "expansion": "Small Form-Factor Pluggable",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2027,
+    "acronym_id": 2028,
     "abbreviation": "SHA2",
     "expansion": "Secure Hash Algorithm",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2028,
+    "acronym_id": 2029,
     "abbreviation": "SHADE",
     "expansion": "SLS High-Fidelity Advanced Digital Emulator (SHADE)",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2029,
+    "acronym_id": 2030,
     "abbreviation": "SHEA",
     "expansion": "Safety, Health, Environmental, and Area Access",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2030,
+    "acronym_id": 2031,
     "abbreviation": "SI",
     "expansion": "Spaceport Integration and Services",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2031,
+    "acronym_id": 2032,
     "abbreviation": "SI&T",
     "expansion": "Systems Integration and Test",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2032,
+    "acronym_id": 2033,
     "abbreviation": "SID",
     "expansion": "Standard Interface Document",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2033,
+    "acronym_id": 2034,
     "abbreviation": "SIG",
     "expansion": "Systems Integration Group",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2034,
+    "acronym_id": 2035,
     "abbreviation": "SIGI",
     "expansion": "Space Integrated GPS/INS",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2035,
+    "acronym_id": 2036,
     "abbreviation": "SII",
     "expansion": "Strategic Institutional Investment",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2036,
+    "acronym_id": 2037,
     "abbreviation": "SIL",
     "expansion": "Systems Integration Lab",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2037,
+    "acronym_id": 2038,
     "abbreviation": "SIM",
     "expansion": "Simulator",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2038,
+    "acronym_id": 2039,
     "abbreviation": "SIMS",
     "expansion": "Spaceport Information Management System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2039,
+    "acronym_id": 2040,
     "abbreviation": "SIP",
     "expansion": "Systems Integration Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2040,
+    "acronym_id": 2041,
     "abbreviation": "SIP",
     "expansion": "Special Inspection Point",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2041,
+    "acronym_id": 2042,
     "abbreviation": "SIP&A",
     "expansion": "System Integration, Planning, and Analysis",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2042,
+    "acronym_id": 2043,
     "abbreviation": "SIPOC",
     "expansion": "Supplier Input Process Output Customer",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2043,
+    "acronym_id": 2044,
     "abbreviation": "SIR",
     "expansion": "System Integration Review",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2044,
+    "acronym_id": 2045,
     "abbreviation": "SIWG",
     "expansion": "Software Integration Working Group",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2045,
+    "acronym_id": 2046,
     "abbreviation": "SL",
     "expansion": "Senior Level - Referring to a Government Rank",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2046,
+    "acronym_id": 2047,
     "abbreviation": "SLDB",
     "expansion": "Separately Loadable Data Base",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2047,
+    "acronym_id": 2048,
     "abbreviation": "SLF",
     "expansion": "Shuttle Landing Facility",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2048,
+    "acronym_id": 2049,
     "abbreviation": "SLIMER",
     "expansion": "Schedule Line Item Macro Extractor From Risk Data",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2049,
+    "acronym_id": 2050,
     "abbreviation": "SLS",
     "expansion": "Space Launch System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2050,
+    "acronym_id": 2051,
     "abbreviation": "SLSL",
     "expansion": "Space Life Science Lab",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2051,
+    "acronym_id": 2052,
     "abbreviation": "SLSP",
     "expansion": "SLS Program",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2052,
+    "acronym_id": 2053,
     "abbreviation": "SM",
     "expansion": "Service Module",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2053,
+    "acronym_id": 2054,
     "abbreviation": "SMA",
     "expansion": "Safety and Mission Assurance",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2054,
+    "acronym_id": 2055,
     "abbreviation": "SMART",
     "expansion": "Specific, Measurable, Achievable, Results-Focused, Time-Bound",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2055,
+    "acronym_id": 2056,
     "abbreviation": "SMART",
     "expansion": "Safety and Mission Assurance Record Tracking",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2056,
+    "acronym_id": 2057,
     "abbreviation": "SMASS",
     "expansion": "Safety and Mission Assurance Support Services",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2057,
+    "acronym_id": 2058,
     "abbreviation": "SMC",
     "expansion": "Strategic Management Council (Agency)",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2058,
+    "acronym_id": 2059,
     "abbreviation": "SMC",
     "expansion": "Space and Missile (Systems) Center",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2059,
+    "acronym_id": 2060,
     "abbreviation": "SMC",
     "expansion": "System Monitoring and Control",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2060,
+    "acronym_id": 2061,
     "abbreviation": "SMD",
     "expansion": "Science Mission Directorate",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2061,
+    "acronym_id": 2062,
     "abbreviation": "SME",
     "expansion": "Subject Matter Expert",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2062,
+    "acronym_id": 2063,
     "abbreviation": "SMRF",
     "expansion": "SOA Model Review Forum",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2063,
+    "acronym_id": 2064,
     "abbreviation": "SMRR",
     "expansion": "System Manager Readiness Review",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2064,
+    "acronym_id": 2065,
     "abbreviation": "SMRT",
     "expansion": "Shuttle Management Resources Transition (Obsolete)",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2065,
+    "acronym_id": 2066,
     "abbreviation": "SMRT",
     "expansion": "Subsystem Management Review Team",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2066,
+    "acronym_id": 2067,
     "abbreviation": "SMS",
     "expansion": "System Mechanical Schematic",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2067,
+    "acronym_id": 2068,
     "abbreviation": "SMSR",
     "expansion": "Safety and Mission Success Review",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2068,
+    "acronym_id": 2069,
     "abbreviation": "SN",
     "expansion": "Space Network",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2069,
+    "acronym_id": 2070,
     "abbreviation": "SNC",
     "expansion": "Sierra Nevada Company",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2070,
+    "acronym_id": 2071,
     "abbreviation": "SOA",
     "expansion": "Supportability, Operability, Affordability",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2071,
+    "acronym_id": 2072,
     "abbreviation": "SOC",
     "expansion": "State of Charge",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2072,
+    "acronym_id": 2073,
     "abbreviation": "SOC",
     "expansion": "Security Operations Center",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2073,
+    "acronym_id": 2074,
     "abbreviation": "SOCRRATES ",
     "expansion": "(SOC) \u0096 Software Only CEV Risk Reduction, Analysis, and Test Engineering Simulator",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2074,
+    "acronym_id": 2075,
     "abbreviation": "SOCS",
     "expansion": "Spaceport Operations and Center Services",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2075,
+    "acronym_id": 2076,
     "abbreviation": "SOMD",
     "expansion": "Space Operations Mission Directorate",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2076,
+    "acronym_id": 2077,
     "abbreviation": "SONIC",
     "expansion": "Super Omniscient Nifty IMS Comparator",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2077,
+    "acronym_id": 2078,
     "abbreviation": "SOO",
     "expansion": "Spacecraft Offline Operations",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2078,
+    "acronym_id": 2079,
     "abbreviation": "SOP",
     "expansion": "Spacecraft Offline Processing",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2079,
+    "acronym_id": 2080,
     "abbreviation": "SOP",
     "expansion": "Standard Operating Procedure",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2080,
+    "acronym_id": 2081,
     "abbreviation": "SOPE",
     "expansion": "Spacecraft Offline Processing Element",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2082,
+    "acronym_id": 2083,
     "abbreviation": "SOW",
     "expansion": "Statement of Work",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2083,
+    "acronym_id": 2084,
     "abbreviation": "SPE",
     "expansion": "Spacecraft Processing Element",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2084,
+    "acronym_id": 2085,
     "abbreviation": "SPI",
     "expansion": "Strategy and Programmatic Integration",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2085,
+    "acronym_id": 2086,
     "abbreviation": "SPIE",
     "expansion": "Spacecraft/Payload Integration and Evolution",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2086,
+    "acronym_id": 2087,
     "abbreviation": "SPIO",
     "expansion": "Spacecraft and Payload Integration Office",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2087,
+    "acronym_id": 2088,
     "abbreviation": "SPL",
     "expansion": "Simulated Propellant Loading",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2088,
+    "acronym_id": 2089,
     "abbreviation": "SPL",
     "expansion": "Secondary Payload",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2089,
+    "acronym_id": 2090,
     "abbreviation": "SPM",
     "expansion": "Senior Project Manager",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2090,
+    "acronym_id": 2091,
     "abbreviation": "SPMT",
     "expansion": "Self Propelled Module Transport",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2091,
+    "acronym_id": 2092,
     "abbreviation": "SPN",
     "expansion": "SCCS Project Notification",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2092,
+    "acronym_id": 2093,
     "abbreviation": "SPOC",
     "expansion": "Space Program Operations Contract",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2093,
+    "acronym_id": 2094,
     "abbreviation": "SR&QA",
     "expansion": "Safety, Reliability, and Quality Assurance",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2094,
+    "acronym_id": 2095,
     "abbreviation": "SRA",
     "expansion": "Schedule Risk Analysis",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2096,
+    "acronym_id": 2097,
     "abbreviation": "SRB",
     "expansion": "Solid Rocket Booster",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2097,
+    "acronym_id": 2098,
     "abbreviation": "SRB",
     "expansion": "Standing Review Board",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2098,
+    "acronym_id": 2099,
     "abbreviation": "SRD",
     "expansion": "Systems Requirements Document",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2099,
+    "acronym_id": 2100,
     "abbreviation": "SRDS",
     "expansion": "Software Requirements and Design Specification",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2100,
+    "acronym_id": 2101,
     "abbreviation": "SRLP",
     "expansion": "Small Rocket Launch Program",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2101,
+    "acronym_id": 2102,
     "abbreviation": "SRM",
     "expansion": "Solid Rocket Motor",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2102,
+    "acronym_id": 2103,
     "abbreviation": "SRMT",
     "expansion": "Solid Rocket Motor Transportation",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2103,
+    "acronym_id": 2104,
     "abbreviation": "SRR",
     "expansion": "System Requirements Review",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2104,
+    "acronym_id": 2105,
     "abbreviation": "SRRE",
     "expansion": "Spacecraft Recovery and Retrieval Element",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2105,
+    "acronym_id": 2106,
     "abbreviation": "SRS",
     "expansion": "Support Requirements System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2106,
+    "acronym_id": 2107,
     "abbreviation": "SRS",
     "expansion": "Software Requirements Specification",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2107,
+    "acronym_id": 2108,
     "abbreviation": "SRT",
     "expansion": "Stationary Recovery Test",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2108,
+    "acronym_id": 2109,
     "abbreviation": "SRT",
     "expansion": "Step Response Test",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2109,
+    "acronym_id": 2110,
     "abbreviation": "SRT",
     "expansion": "System Readiness Test",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2110,
+    "acronym_id": 2111,
     "abbreviation": "SRU",
     "expansion": "Shop Replaceable Unit",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2111,
+    "acronym_id": 2112,
     "abbreviation": "SS",
     "expansion": "Sound Suppression",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2112,
+    "acronym_id": 2113,
     "abbreviation": "SS",
     "expansion": "Subsystem",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2113,
+    "acronym_id": 2114,
     "abbreviation": "SSA",
     "expansion": "Safety System Analysis",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2114,
+    "acronym_id": 2115,
     "abbreviation": "SSAR",
     "expansion": "System Safety Assessment Report",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2115,
+    "acronym_id": 2116,
     "abbreviation": "SSC",
     "expansion": "Stennis Space Center",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2116,
+    "acronym_id": 2117,
     "abbreviation": "SSH",
     "expansion": "Secure Shell",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2117,
+    "acronym_id": 2118,
     "abbreviation": "SSP",
     "expansion": "Space Shuttle Program",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2118,
+    "acronym_id": 2119,
     "abbreviation": "SSP",
     "expansion": "System Security Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2119,
+    "acronym_id": 2120,
     "abbreviation": "SSPF",
     "expansion": "Space Station Processing Facility",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2120,
+    "acronym_id": 2121,
     "abbreviation": "SSRD",
     "expansion": "Subsystem Requirements Document",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2121,
+    "acronym_id": 2122,
     "abbreviation": "SSRS",
     "expansion": "SQL Server Reporting Services",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2122,
+    "acronym_id": 2123,
     "abbreviation": "SSRWG",
     "expansion": "System Safety and Reliability Working Group",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2123,
+    "acronym_id": 2124,
     "abbreviation": "STA",
     "expansion": "Structural Test Article",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2124,
+    "acronym_id": 2125,
     "abbreviation": "STAAD",
     "expansion": "Structural Analysis and Design",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2125,
+    "acronym_id": 2126,
     "abbreviation": "STAX",
     "expansion": "Secure Technology Application Execution",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2126,
+    "acronym_id": 2127,
     "abbreviation": "STD",
     "expansion": "Standard",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2128,
+    "acronym_id": 2129,
     "abbreviation": "STICM",
     "expansion": "System Test Integration and Coordination Meeting",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2129,
+    "acronym_id": 2130,
     "abbreviation": "STIM",
     "expansion": "Step Impulse",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2130,
+    "acronym_id": 2131,
     "abbreviation": "STIMP",
     "expansion": "Strategic Technology Infusion Management Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2131,
+    "acronym_id": 2132,
     "abbreviation": "STMD",
     "expansion": "Space Technology Mission Directorate",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2132,
+    "acronym_id": 2133,
     "abbreviation": "STML",
     "expansion": "Surface to Mobile Launcher",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2133,
+    "acronym_id": 2134,
     "abbreviation": "STQR",
     "expansion": "Stakeholder Request",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2134,
+    "acronym_id": 2135,
     "abbreviation": "STR",
     "expansion": "Structures",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2135,
+    "acronym_id": 2136,
     "abbreviation": "STRR",
     "expansion": "Software Test Readiness Review",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2136,
+    "acronym_id": 2137,
     "abbreviation": "SUPSALV",
     "expansion": "Supervisor of Salvage and Diving",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2137,
+    "acronym_id": 2138,
     "abbreviation": "SVD",
     "expansion": "Software Version Description",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2138,
+    "acronym_id": 2139,
     "abbreviation": "SW",
     "expansion": "Software (a.k.a. S/W)",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2139,
+    "acronym_id": 2140,
     "abbreviation": "SW",
     "expansion": "Space Wing",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2140,
+    "acronym_id": 2141,
     "abbreviation": "SWCI",
     "expansion": "Software Configuration Item",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2141,
+    "acronym_id": 2142,
     "abbreviation": "SWORDS",
     "expansion": "Soldiers-Warfighter Operationally Responsive Deployer for Space",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2142,
+    "acronym_id": 2143,
     "abbreviation": "SWOT",
     "expansion": "Strengths, Weaknesses, Opportunities, and Threats",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2081,
+    "acronym_id": 2082,
     "abbreviation": "SoR",
     "expansion": "Statement of Readiness",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2127,
+    "acronym_id": 2128,
     "abbreviation": "StE",
     "expansion": "Stakeholder Expectation",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2143,
+    "acronym_id": 2144,
     "abbreviation": "T&CD",
     "expansion": "Timing and Countdown",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2144,
+    "acronym_id": 2145,
     "abbreviation": "T&O",
     "expansion": "Threats and Opportunities",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2145,
+    "acronym_id": 2146,
     "abbreviation": "T&R",
     "expansion": "Transition and Retirement",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2146,
+    "acronym_id": 2147,
     "abbreviation": "T&V",
     "expansion": "Test and Verification",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2147,
+    "acronym_id": 2148,
     "abbreviation": "T1",
     "expansion": "Test 1",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2148,
+    "acronym_id": 2149,
     "abbreviation": "T2",
     "expansion": "Test 2",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2149,
+    "acronym_id": 2150,
     "abbreviation": "T3",
     "expansion": "Test 3",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2150,
+    "acronym_id": 2151,
     "abbreviation": "TA",
     "expansion": "Technical Assessment",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2151,
+    "acronym_id": 2152,
     "abbreviation": "TAA",
     "expansion": "Traveling Access Arm",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2152,
+    "acronym_id": 2153,
     "abbreviation": "TAA",
     "expansion": "Temporary Area Access",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2153,
+    "acronym_id": 2154,
     "abbreviation": "TAA",
     "expansion": "Technical Assistance Agreement",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2154,
+    "acronym_id": 2155,
     "abbreviation": "TAC",
     "expansion": "TVC Actuator Controller",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2155,
+    "acronym_id": 2156,
     "abbreviation": "TAIR",
     "expansion": "Test Assembly Inspection Record",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2156,
+    "acronym_id": 2157,
     "abbreviation": "TAP",
     "expansion": "Test and Assembly Procedure",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2157,
+    "acronym_id": 2158,
     "abbreviation": "TAR",
     "expansion": "Tape Archive Files",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2158,
+    "acronym_id": 2159,
     "abbreviation": "TARDIS",
     "expansion": "Technical Analysis Risk-Informed Development Integration Schedule",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2159,
+    "acronym_id": 2160,
     "abbreviation": "TAWS",
     "expansion": "Tornado Area Warning System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2160,
+    "acronym_id": 2161,
     "abbreviation": "TB",
     "expansion": "Technical Baseline",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2161,
+    "acronym_id": 2162,
     "abbreviation": "TBA",
     "expansion": "To Be Accomplished",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2162,
+    "acronym_id": 2163,
     "abbreviation": "TBB",
     "expansion": "Tri-Band Beacon",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2163,
+    "acronym_id": 2164,
     "abbreviation": "TBCC",
     "expansion": "Turbine-Based Combined Cycle",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2164,
+    "acronym_id": 2165,
     "abbreviation": "TBD",
     "expansion": "To Be Determined",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2165,
+    "acronym_id": 2166,
     "abbreviation": "TBR",
     "expansion": "To Be Resolved",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2166,
+    "acronym_id": 2167,
     "abbreviation": "TBX",
     "expansion": "To Be Exchanged",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2167,
+    "acronym_id": 2168,
     "abbreviation": "TC",
     "expansion": "Test Conductor",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2168,
+    "acronym_id": 2169,
     "abbreviation": "TCA",
     "expansion": "Technical Change Assessment",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2169,
+    "acronym_id": 2170,
     "abbreviation": "TCATS",
     "expansion": "Transportable Command and Telemetry Systems",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2170,
+    "acronym_id": 2171,
     "abbreviation": "TCDT",
     "expansion": "Terminal Count Down Test",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2171,
+    "acronym_id": 2172,
     "abbreviation": "TCF",
     "expansion": "Transporter-Canister Facility",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2172,
+    "acronym_id": 2173,
     "abbreviation": "TCF",
     "expansion": "Technical Capabilities/Facilities",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2173,
+    "acronym_id": 2174,
     "abbreviation": "TCID",
     "expansion": "Test Case IDentifier",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2174,
+    "acronym_id": 2175,
     "abbreviation": "TCID",
     "expansion": "Test Configuration Identifier",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2175,
+    "acronym_id": 2176,
     "abbreviation": "TCM",
     "expansion": "Technical Coordination Meeting",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2176,
+    "acronym_id": 2177,
     "abbreviation": "TCR",
     "expansion": "TOSC Change Request",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2177,
+    "acronym_id": 2178,
     "abbreviation": "TCRS",
     "expansion": "Training and Certification Record System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2178,
+    "acronym_id": 2179,
     "abbreviation": "TCS",
     "expansion": "Thermal Control Subsystem",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2179,
+    "acronym_id": 2180,
     "abbreviation": "TD",
     "expansion": "Technical Data",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2180,
+    "acronym_id": 2181,
     "abbreviation": "TD",
     "expansion": "Test Director",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2181,
+    "acronym_id": 2182,
     "abbreviation": "TD",
     "expansion": "Task Directive",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2182,
+    "acronym_id": 2183,
     "abbreviation": "TDL",
     "expansion": "Transducer Development Laboratory",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2183,
+    "acronym_id": 2184,
     "abbreviation": "TDMS",
     "expansion": "Technical Data Management System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2184,
+    "acronym_id": 2185,
     "abbreviation": "TDRSS",
     "expansion": "Tracking and Data Relay Satellite System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2185,
+    "acronym_id": 2186,
     "abbreviation": "TDS",
     "expansion": "Task Description Sheet",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2186,
+    "acronym_id": 2187,
     "abbreviation": "TDT",
     "expansion": "Task Development Team",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2187,
+    "acronym_id": 2188,
     "abbreviation": "TDTOSC",
     "expansion": "TechDoc TOSC",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2188,
+    "acronym_id": 2189,
     "abbreviation": "TE",
     "expansion": "Transporter Erector",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2189,
+    "acronym_id": 2190,
     "abbreviation": "TEER",
     "expansion": "TOSC Engineering Evaluation Request",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2190,
+    "acronym_id": 2191,
     "abbreviation": "TEI",
     "expansion": "Trans Earth Injection",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2191,
+    "acronym_id": 2192,
     "abbreviation": "TEL-4",
     "expansion": "TELemetry Processing Facility #4",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2192,
+    "acronym_id": 2193,
     "abbreviation": "TEL-IV",
     "expansion": "TELemetry Processing Facility #4",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2193,
+    "acronym_id": 2194,
     "abbreviation": "THSS",
     "expansion": "TVC Hydraulic Servicing Subsystem",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2194,
+    "acronym_id": 2195,
     "abbreviation": "TI",
     "expansion": "Technical Integrators",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2195,
+    "acronym_id": 2196,
     "abbreviation": "TIG",
     "expansion": "Transition Integration Group",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2196,
+    "acronym_id": 2197,
     "abbreviation": "TIM",
     "expansion": "Technical Interchange/Integration Meeting",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2197,
+    "acronym_id": 2198,
     "abbreviation": "TIM",
     "expansion": "Technical Issue Memorandum",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2198,
+    "acronym_id": 2199,
     "abbreviation": "TIPS",
     "expansion": "TOSC Integrated Processing Solutions",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2199,
+    "acronym_id": 2200,
     "abbreviation": "TIR",
     "expansion": "Temporary Installation/Removal",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2200,
+    "acronym_id": 2201,
     "abbreviation": "TLCC",
     "expansion": "Test and Launch Control Center ",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2201,
+    "acronym_id": 2202,
     "abbreviation": "TM",
     "expansion": "Technical Management",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2202,
+    "acronym_id": 2203,
     "abbreviation": "TMIG",
     "expansion": "Telemetered Metric Inertial Guidance",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2203,
+    "acronym_id": 2204,
     "abbreviation": "TML",
     "expansion": "Telescoping Man Lifts",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2204,
+    "acronym_id": 2205,
     "abbreviation": "TMP",
     "expansion": "Transition Management Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2205,
+    "acronym_id": 2206,
     "abbreviation": "TMRD",
     "expansion": "Training Model Requirements Documents",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2206,
+    "acronym_id": 2207,
     "abbreviation": "TNL",
     "expansion": "Transition Notification Letter",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2207,
+    "acronym_id": 2208,
     "abbreviation": "TO",
     "expansion": "Take Off",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2208,
+    "acronym_id": 2209,
     "abbreviation": "TO",
     "expansion": "Task Order",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2209,
+    "acronym_id": 2210,
     "abbreviation": "TOC",
     "expansion": "Transmission Operations Center",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2211,
+    "acronym_id": 2212,
     "abbreviation": "TOR",
     "expansion": "Test Objective Report",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2212,
+    "acronym_id": 2213,
     "abbreviation": "TOSC",
     "expansion": "Test and Operations Support Contract",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2213,
+    "acronym_id": 2214,
     "abbreviation": "TOSS",
     "expansion": "Test Objective Summary Sheet",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2214,
+    "acronym_id": 2215,
     "abbreviation": "TPE",
     "expansion": "Test Project Engineering",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2215,
+    "acronym_id": 2216,
     "abbreviation": "TPF",
     "expansion": "Tile Production Facility",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2216,
+    "acronym_id": 2217,
     "abbreviation": "TPLP",
     "expansion": "Tri-Program Logistics Panel",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2217,
+    "acronym_id": 2218,
     "abbreviation": "TPM",
     "expansion": "Technical Performance Measure",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2218,
+    "acronym_id": 2219,
     "abbreviation": "TPM",
     "expansion": "Technical Performance Metric",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2219,
+    "acronym_id": 2220,
     "abbreviation": "TPR",
     "expansion": "Top Program Risks",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2221,
+    "acronym_id": 2222,
     "abbreviation": "TPS",
     "expansion": "Thermal Protection System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2222,
+    "acronym_id": 2223,
     "abbreviation": "TPSF",
     "expansion": "Thermal Protection Systems Facility",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2220,
+    "acronym_id": 2221,
     "abbreviation": "TProjR",
     "expansion": "Top Project Risks",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2223,
+    "acronym_id": 2224,
     "abbreviation": "TRA",
     "expansion": "Traction Roller Assembly",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2224,
+    "acronym_id": 2225,
     "abbreviation": "TRD",
     "expansion": "Test Readiness Document",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2225,
+    "acronym_id": 2226,
     "abbreviation": "TRL",
     "expansion": "Technical Readiness Level",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2226,
+    "acronym_id": 2227,
     "abbreviation": "TRL",
     "expansion": "Technology Readiness Level",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2227,
+    "acronym_id": 2228,
     "abbreviation": "TRM",
     "expansion": "Technical Resource Manager",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2228,
+    "acronym_id": 2229,
     "abbreviation": "TRR",
     "expansion": "Test Readiness Review",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2229,
+    "acronym_id": 2230,
     "abbreviation": "TRS",
     "expansion": "Thrust Reaction Structure",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2230,
+    "acronym_id": 2231,
     "abbreviation": "TRS",
     "expansion": "Trunking Radio System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2231,
+    "acronym_id": 2232,
     "abbreviation": "TSDF",
     "expansion": "Treatment, Storage, and Disposal Facility",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2232,
+    "acronym_id": 2233,
     "abbreviation": "TSI",
     "expansion": "Total System Integrator",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2233,
+    "acronym_id": 2234,
     "abbreviation": "TSM",
     "expansion": "Tail Service Mast",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2234,
+    "acronym_id": 2235,
     "abbreviation": "TSMU",
     "expansion": "Tail Service Mast Umbilical",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2235,
+    "acronym_id": 2236,
     "abbreviation": "TSPI",
     "expansion": "Time Space Positional Information",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2236,
+    "acronym_id": 2237,
     "abbreviation": "TSR",
     "expansion": "Top Sub-Organizational Risk",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2237,
+    "acronym_id": 2238,
     "abbreviation": "TSUAL",
     "expansion": "Test Support Utility Accreditation Letter",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2238,
+    "acronym_id": 2239,
     "abbreviation": "TSURDS",
     "expansion": "Test Support Utility Requirements and Design Specification",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2239,
+    "acronym_id": 2240,
     "abbreviation": "TTA",
     "expansion": "Technical Task Agreement",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2240,
+    "acronym_id": 2241,
     "abbreviation": "TTL",
     "expansion": "Task Team Lead",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2241,
+    "acronym_id": 2242,
     "abbreviation": "TTSS",
     "expansion": "Technical Training Scheduling System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2242,
+    "acronym_id": 2243,
     "abbreviation": "TVC",
     "expansion": "Thrust Vector Control",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2243,
+    "acronym_id": 2244,
     "abbreviation": "TVPM",
     "expansion": "Transport Vehicle Purge Monitoring",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2244,
+    "acronym_id": 2245,
     "abbreviation": "TWG",
     "expansion": "Transition Working Group",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2245,
+    "acronym_id": 2246,
     "abbreviation": "TX",
     "expansion": "Transmitter/Transmission",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2210,
+    "acronym_id": 2211,
     "abbreviation": "ToR",
     "expansion": "Terms of Reference",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2246,
+    "acronym_id": 2247,
     "abbreviation": "U/R",
     "expansion": "Under Review",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2247,
+    "acronym_id": 2248,
     "abbreviation": "UA",
     "expansion": "Unexplained Anomaly",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2248,
+    "acronym_id": 2249,
     "abbreviation": "UA",
     "expansion": "Utility Annex",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2249,
+    "acronym_id": 2250,
     "abbreviation": "UAS",
     "expansion": "Unmanned Aircraft System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2250,
+    "acronym_id": 2251,
     "abbreviation": "UAV",
     "expansion": "Unmanned Aerial Vehicle",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2251,
+    "acronym_id": 2252,
     "abbreviation": "UCAT",
     "expansion": "Use Case Analysis Task",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2252,
+    "acronym_id": 2253,
     "abbreviation": "UCS",
     "expansion": "Universal Camera Site",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2253,
+    "acronym_id": 2254,
     "abbreviation": "UCTS",
     "expansion": "Universal Coolant Transporter System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2254,
+    "acronym_id": 2255,
     "abbreviation": "UDS",
     "expansion": "Universal Documentation System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2255,
+    "acronym_id": 2256,
     "abbreviation": "UFE",
     "expansion": "Unallocated Future Expense",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2256,
+    "acronym_id": 2257,
     "abbreviation": "UHF",
     "expansion": "Ultra-High Frequency",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2257,
+    "acronym_id": 2258,
     "abbreviation": "UI",
     "expansion": "User Interface",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2258,
+    "acronym_id": 2259,
     "abbreviation": "UIC",
     "expansion": "Umbilical Interface Connector",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2259,
+    "acronym_id": 2260,
     "abbreviation": "ULA",
     "expansion": "United Launch Alliance",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2260,
+    "acronym_id": 2261,
     "abbreviation": "ULF",
     "expansion": "Utilization Logistics Flight",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2261,
+    "acronym_id": 2262,
     "abbreviation": "ULF",
     "expansion": "Uncrewed Lunar Flyby",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2262,
+    "acronym_id": 2263,
     "abbreviation": "UM",
     "expansion": "Utilization Module",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2263,
+    "acronym_id": 2264,
     "abbreviation": "UP",
     "expansion": "Unified Power",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2264,
+    "acronym_id": 2265,
     "abbreviation": "UPS",
     "expansion": "Uninterruptible Power Supply",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2265,
+    "acronym_id": 2266,
     "abbreviation": "UPSS",
     "expansion": "Universal Propellant Servicing System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2266,
+    "acronym_id": 2267,
     "abbreviation": "URRT",
     "expansion": "Umbilical Release and Retract Test",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2267,
+    "acronym_id": 2268,
     "abbreviation": "URT",
     "expansion": "Underway Recovery Test",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2268,
+    "acronym_id": 2269,
     "abbreviation": "US",
     "expansion": "United States",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2269,
+    "acronym_id": 2270,
     "abbreviation": "USA",
     "expansion": "United Space Alliance",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2270,
+    "acronym_id": 2271,
     "abbreviation": "USA",
     "expansion": "Universal Stage Adapter",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2271,
+    "acronym_id": 2272,
     "abbreviation": "USAF",
     "expansion": "United States Air Force",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2272,
+    "acronym_id": 2273,
     "abbreviation": "USB",
     "expansion": "Universal Serial Bus",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2273,
+    "acronym_id": 2274,
     "abbreviation": "USCG",
     "expansion": "US Coast Guard",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2274,
+    "acronym_id": 2275,
     "abbreviation": "USN",
     "expansion": "United States Navy",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2275,
+    "acronym_id": 2276,
     "abbreviation": "USSF",
     "expansion": "US Space Force",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2276,
+    "acronym_id": 2277,
     "abbreviation": "USTDC",
     "expansion": "University-Affiliate SpacePort Technology Development Contract",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2277,
+    "acronym_id": 2278,
     "abbreviation": "UWG",
     "expansion": "Umbilicals Working Group",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2278,
+    "acronym_id": 2279,
     "abbreviation": "V&SI",
     "expansion": "Vehicle and Spacecraft Integration",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2279,
+    "acronym_id": 2280,
     "abbreviation": "V&V",
     "expansion": "Verification and Validation",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2280,
+    "acronym_id": 2281,
     "abbreviation": "V/m",
     "expansion": "Volts Per Meter",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2281,
+    "acronym_id": 2282,
     "abbreviation": "VAA",
     "expansion": "Vehicle Access Arm",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2282,
+    "acronym_id": 2283,
     "abbreviation": "VAB",
     "expansion": "Vehicle Assembly Building",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2283,
+    "acronym_id": 2284,
     "abbreviation": "VABE",
     "expansion": "Vehicle Assembly Building Element (EIT)",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2284,
+    "acronym_id": 2285,
     "abbreviation": "VABR",
     "expansion": "Vehicle Assembly Building Repeater",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2285,
+    "acronym_id": 2286,
     "abbreviation": "VAC",
     "expansion": "Volts Alternating Current",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2286,
+    "acronym_id": 2287,
     "abbreviation": "VAC",
     "expansion": "Verification Analysis Cycle",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2289,
+    "acronym_id": 2290,
     "abbreviation": "VAFB",
     "expansion": "Vandenberg Air Force Base",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2290,
+    "acronym_id": 2291,
     "abbreviation": "VAHIR",
     "expansion": "Volume Averaged Height Integrated Radar",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2291,
+    "acronym_id": 2292,
     "abbreviation": "VBA",
     "expansion": "Visual Basic for Application",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2292,
+    "acronym_id": 2293,
     "abbreviation": "VCF",
     "expansion": "Vapor Containment Facility",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2293,
+    "acronym_id": 2294,
     "abbreviation": "VCI",
     "expansion": "Violation Consequence Index",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2294,
+    "acronym_id": 2295,
     "abbreviation": "VCN",
     "expansion": "Verification Closure Notice",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2295,
+    "acronym_id": 2296,
     "abbreviation": "VDC",
     "expansion": "Volts Direct Current",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2296,
+    "acronym_id": 2297,
     "abbreviation": "VDD",
     "expansion": "Version Description Document",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2297,
+    "acronym_id": 2298,
     "abbreviation": "VDS",
     "expansion": "Vehicle Damper System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2298,
+    "acronym_id": 2299,
     "abbreviation": "VEE",
     "expansion": "Verification External Enclave Set",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2301,
+    "acronym_id": 2302,
     "abbreviation": "VESDA",
     "expansion": "Very Early Smoke Detection Apparatus",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2302,
+    "acronym_id": 2303,
     "abbreviation": "VFD",
     "expansion": "Variable Frequency Drives",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2303,
+    "acronym_id": 2304,
     "abbreviation": "VHF",
     "expansion": "Very High Frequency",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2304,
+    "acronym_id": 2305,
     "abbreviation": "VIC",
     "expansion": "Video Interchange Conference",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2305,
+    "acronym_id": 2306,
     "abbreviation": "VICB",
     "expansion": "Vehicle Integration Control Board",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2306,
+    "acronym_id": 2307,
     "abbreviation": "VIE",
     "expansion": "Vertical Integration Element",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2307,
+    "acronym_id": 2308,
     "abbreviation": "VIE",
     "expansion": "Vehicle Interface Element",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2308,
+    "acronym_id": 2309,
     "abbreviation": "VIL",
     "expansion": "Vehicle Integration and Launch",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2309,
+    "acronym_id": 2310,
     "abbreviation": "VITO",
     "expansion": "Vehicle Integration Test Office",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2310,
+    "acronym_id": 2311,
     "abbreviation": "VITT",
     "expansion": "Vehicle Integrated Test Team",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2311,
+    "acronym_id": 2312,
     "abbreviation": "VLD",
     "expansion": "Vertical Lift Doors",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2312,
+    "acronym_id": 2313,
     "abbreviation": "VLN",
     "expansion": "Verification Logic Network",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2313,
+    "acronym_id": 2314,
     "abbreviation": "VMC",
     "expansion": "Vehicle Management Computer",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2314,
+    "acronym_id": 2315,
     "abbreviation": "VMS",
     "expansion": "Vehicle Motion Simulator",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2315,
+    "acronym_id": 2316,
     "abbreviation": "VOIP",
     "expansion": "Voice Over Internet Protocol",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2316,
+    "acronym_id": 2317,
     "abbreviation": "VPN",
     "expansion": "Virtual Private Network",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2317,
+    "acronym_id": 2318,
     "abbreviation": "VPU",
     "expansion": "Vision Processing Unit",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2318,
+    "acronym_id": 2319,
     "abbreviation": "VS",
     "expansion": "Vehicle Stabilizer",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2319,
+    "acronym_id": 2320,
     "abbreviation": "VSDS",
     "expansion": "Vehicle Stabilization and Damping Subsystem",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2320,
+    "acronym_id": 2321,
     "abbreviation": "VSM",
     "expansion": "Value Stream Mapping",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2321,
+    "acronym_id": 2322,
     "abbreviation": "VSP",
     "expansion": "Vehicle Support Post",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2322,
+    "acronym_id": 2323,
     "abbreviation": "VSR",
     "expansion": "Verification and Validation Status Review",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2323,
+    "acronym_id": 2324,
     "abbreviation": "VSS",
     "expansion": "Vehicle Stabilizer Subsystem",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2324,
+    "acronym_id": 2325,
     "abbreviation": "VTF",
     "expansion": "Vertical Transportation Fixture",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2325,
+    "acronym_id": 2326,
     "abbreviation": "VTM",
     "expansion": "Vertical Transportation Fixture",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2326,
+    "acronym_id": 2327,
     "abbreviation": "VTVL",
     "expansion": "Vertical Takeoff/ Vertical Landing",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2327,
+    "acronym_id": 2328,
     "abbreviation": "VV&A",
     "expansion": "Verification, Validation, and Accreditation",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2328,
+    "acronym_id": 2329,
     "abbreviation": "VVPT",
     "expansion": "Verification and Validation Planning Tool",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2329,
+    "acronym_id": 2330,
     "abbreviation": "VVST",
     "expansion": "Verification and Validation Steering Team",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2287,
+    "acronym_id": 2288,
     "abbreviation": "VaCR",
     "expansion": "Validation Completion Report",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2288,
+    "acronym_id": 2289,
     "abbreviation": "VaCRM",
     "expansion": "Validation Cross-Reference Matrix",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2299,
+    "acronym_id": 2300,
     "abbreviation": "VeL",
     "expansion": "Verification Lead",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2300,
+    "acronym_id": 2301,
     "abbreviation": "VeP",
     "expansion": "Verification Plan",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2330,
+    "acronym_id": 2331,
     "abbreviation": "WAC",
     "expansion": "Work Authorization Control ",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2331,
+    "acronym_id": 2332,
     "abbreviation": "WAD",
     "expansion": "Work Authorization Document",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2332,
+    "acronym_id": 2333,
     "abbreviation": "WAR",
     "expansion": "Weekly Activity Report",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2333,
+    "acronym_id": 2334,
     "abbreviation": "WBS",
     "expansion": "Work Breakdown Structure",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2334,
+    "acronym_id": 2335,
     "abbreviation": "WCS",
     "expansion": "Work Control System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2335,
+    "acronym_id": 2336,
     "abbreviation": "WDR",
     "expansion": "Wet Dress Rehearsal",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2336,
+    "acronym_id": 2337,
     "abbreviation": "WG",
     "expansion": "Working Group",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2338,
+    "acronym_id": 2339,
     "abbreviation": "WINDS",
     "expansion": "Weather Information Network Display System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2340,
+    "acronym_id": 2341,
     "abbreviation": "WMS",
     "expansion": "Wave Monitoring System",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2341,
+    "acronym_id": 2342,
     "abbreviation": "WRKS",
     "expansion": "Work Station",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2342,
+    "acronym_id": 2343,
     "abbreviation": "WRT",
     "expansion": "With Regards To",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2343,
+    "acronym_id": 2344,
     "abbreviation": "WS",
     "expansion": "White Sands",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2344,
+    "acronym_id": 2345,
     "abbreviation": "WSC",
     "expansion": "White Sands Complex",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2345,
+    "acronym_id": 2346,
     "abbreviation": "WSERSRB",
     "expansion": "Weapon System Explosives Safety Review Board",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2346,
+    "acronym_id": 2347,
     "abbreviation": "WUC",
     "expansion": "Work Unit Code",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2347,
+    "acronym_id": 2348,
     "abbreviation": "WWW",
     "expansion": "World Wide Web",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2349,
+    "acronym_id": 2350,
     "abbreviation": "WYE",
     "expansion": "Work Year Estimate",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2350,
+    "acronym_id": 2351,
     "abbreviation": "WYE",
     "expansion": "Work Year Equivalent",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2337,
+    "acronym_id": 2338,
     "abbreviation": "Wilco",
     "expansion": "Will Comply",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2348,
+    "acronym_id": 2349,
     "abbreviation": "Wx",
     "expansion": "Weather",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2351,
+    "acronym_id": 2352,
     "abbreviation": "XCS",
     "expansion": "Extensible Columns Subsystem",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2353,
+    "acronym_id": 2354,
     "abbreviation": "XFCA",
     "expansion": "Cross Functional Closure Assessment",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2354,
+    "acronym_id": 2355,
     "abbreviation": "XML",
     "expansion": "Extensible Markup Language",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2355,
+    "acronym_id": 2356,
     "abbreviation": "XPRAT",
     "expansion": "Cross Program Probabilistic Risk Assessment Team",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2356,
+    "acronym_id": 2357,
     "abbreviation": "XSD",
     "expansion": "XML Schema Definition",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2357,
+    "acronym_id": 2358,
     "abbreviation": "XTCE",
     "expansion": "XML Telemetric Command Exchange",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2358,
+    "acronym_id": 2359,
     "abbreviation": "XTCE",
     "expansion": "XML Telemetry and Command Exchange",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2352,
+    "acronym_id": 2353,
     "abbreviation": "Xe",
     "expansion": "Xenon",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2359,
+    "acronym_id": 2360,
     "abbreviation": "YODA",
     "expansion": "Your Organizational Dashboard Application",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2360,
+    "acronym_id": 2361,
     "abbreviation": "ZFT",
     "expansion": "Zero Fault Tolerant",
     "source_id": 1,
     "source": "EGS"
   },
   {
-    "acronym_id": 2361,
+    "acronym_id": 2362,
     "abbreviation": "ZGI",
     "expansion": "ZeroG Indicator",
     "source_id": 1,
@@ -16380,7 +16387,7 @@
     "source": "EGS"
   },
   {
-    "acronym_id": 2339,
+    "acronym_id": 2340,
     "abbreviation": "wip",
     "expansion": "Work in Place",
     "source_id": 1,
