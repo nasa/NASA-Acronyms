@@ -67,11 +67,9 @@ $(function renderTooltip() {
                     return (document.body.innerText.match(regB) || []).length - (document.body.innerText.match(regA) || []).length;
                 })
 
-                if (meanings.length == 1) { // 1 result
-                  var out = meanings.length + ' acronym found for ' + selection + ':<br>';
-                } else { // >1 result
-                  var out = meanings.length + ' acronyms found for ' + selection + ':<br>';
-                }
+                // acronyms should be singular when only 1 found
+                var out = meanings.length + (meanings.length == 1 ? ' acronym found for ' : ' acronyms found for ') + selection + ':<br>';
+
                 for(var i = 0; i < meanings.length; i++) out += '\u2022  ' + meanings[i] + '<br>';
                 out = out.trim();
 
